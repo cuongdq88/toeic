@@ -1,0 +1,36 @@
+{
+  "id": "sample-vocab-00",
+  "kind": "vocab",
+  "title": "Mẫu bộ từ vựng",
+  "version": 1,
+  "meta": {"author": "claude", "reviewer": null, "status": "draft", "license": "original", "notes": "Ví dụ định dạng. Không phát hành."},
+  "words": [
+    {
+      "id": "w0001", "word": "agreement", "pos": "n", "ipa": "/əˈɡriːmənt/",
+      "meaning_vi": "sự thỏa thuận, bản thỏa thuận",
+      "definition_en": "an arrangement accepted by all the people or companies involved",
+      "examples": [{"en": "Both companies signed the agreement on Monday.", "vi": "Hai công ty đã ký thỏa thuận vào thứ Hai."}],
+      "collocations": ["reach an agreement", "sign an agreement", "in agreement with"],
+      "family": ["agree (v)", "agreeable (adj)", "disagreement (n)"],
+      "topic": "v01_contracts", "level": 1
+    },
+    {
+      "id": "w0002", "word": "negotiate", "pos": "v", "ipa": "/nɪˈɡoʊʃieɪt/",
+      "meaning_vi": "đàm phán, thương lượng",
+      "definition_en": "to discuss something in order to reach an agreement",
+      "examples": [{"en": "We negotiated a lower price with the supplier.", "vi": "Chúng tôi đã đàm phán được giá thấp hơn với nhà cung cấp."}],
+      "collocations": ["negotiate a contract", "negotiate with someone"],
+      "family": ["negotiation (n)", "negotiator (n)", "negotiable (adj)"],
+      "topic": "v01_contracts", "level": 2
+    },
+    {
+      "id": "w0003", "word": "deadline", "pos": "n", "ipa": "/ˈdedlaɪn/",
+      "meaning_vi": "hạn chót",
+      "definition_en": "a time or date by which something must be done",
+      "examples": [{"en": "The deadline for applications is March 31.", "vi": "Hạn chót nộp hồ sơ là ngày 31 tháng 3."}],
+      "collocations": ["meet a deadline", "miss a deadline", "extend a deadline"],
+      "family": [],
+      "topic": "v03_office", "level": 1
+    }
+  ]
+}

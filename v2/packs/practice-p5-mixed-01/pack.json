@@ -1,0 +1,887 @@
+{
+  "id": "practice-p5-mixed-01",
+  "kind": "practice",
+  "title": "Luyện Part 5 tổng hợp 01",
+  "level": "medium",
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "30 câu Part 5 tự soạn, phủ 12 dạng p5_*, độ khó 1-4; 12 câu từ vựng có đáp án cùng từ loại, cùng lĩnh vực, nghĩa gần nhau; 7 câu mức 4.",
+    "ai_check": {"date": "2026-11-12", "fixed": 12}
+  },
+  "groups": [
+    {
+      "id": "g01",
+      "part": 5,
+      "questions": [
+        {
+          "no": 1,
+          "type": "p5_word_form",
+          "difficulty": 1,
+          "stem": "The company will announce the ____ of the new branch office at Friday's meeting.",
+          "options": [
+            {"key": "A", "text": "open"},
+            {"key": "B", "text": "opening"},
+            {"key": "C", "text": "openly"},
+            {"key": "D", "text": "opened"}
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Sau mạo từ 'the' cần danh từ; 'opening' (việc khai trương) là danh từ hóa từ động từ open, hợp nghĩa 'lễ khai trương chi nhánh mới'.",
+            "why_wrong": {
+              "A": "'open' là động từ/tính từ, không đứng sau 'the' ở vị trí danh từ.",
+              "C": "'openly' là trạng từ, không làm bổ ngữ cho 'the'.",
+              "D": "'opened' là động từ chia quá khứ, không phải danh từ."
+            },
+            "translation_vi": "Công ty sẽ công bố việc khai trương chi nhánh mới tại cuộc họp thứ Sáu."
+          },
+          "tags": ["g01_word_form", "v03_office"]
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "part": 5,
+      "questions": [
+        {
+          "no": 2,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 2,
+          "stem": "All expense reports must be ____ to the accounting department by the end of the month.",
+          "options": [
+            {"key": "A", "text": "submitted"},
+            {"key": "B", "text": "submit"},
+            {"key": "C", "text": "submitting"},
+            {"key": "D", "text": "submission"}
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Cấu trúc 'must be + V-ed' tạo dạng bị động; báo cáo được nộp nên dùng 'submitted'.",
+            "why_wrong": {
+              "B": "'submit' là V nguyên mẫu, thiếu dạng bị động sau 'be'.",
+              "C": "'submitting' không dùng sau 'must be' ở nghĩa bị động.",
+              "D": "'submission' là danh từ, không đứng sau 'be' trong cấu trúc này."
+            },
+            "translation_vi": "Mọi báo cáo chi phí phải được nộp cho phòng kế toán trước cuối tháng."
+          },
+          "tags": ["g05_passive_voice", "v07_finance"]
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "part": 5,
+      "questions": [
+        {
+          "no": 3,
+          "type": "p5_subject_verb_agreement",
+          "difficulty": 3,
+          "stem": "Neither the manager nor the assistants ____ available to attend the conference next week.",
+          "options": [
+            {"key": "A", "text": "is"},
+            {"key": "B", "text": "was"},
+            {"key": "C", "text": "are"},
+            {"key": "D", "text": "has been"}
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Cấu trúc 'neither ... nor ...' chia động từ theo chủ ngữ gần nhất; 'assistants' số nhiều nên dùng 'are'.",
+            "why_wrong": {
+              "A": "'is' chia số ít, sai vì chủ ngữ gần nhất là 'assistants'.",
+              "B": "'was' vừa sai số vừa sai thì với 'next week'.",
+              "D": "'has been' chia số ít, không hợp chủ ngữ số nhiều."
+            },
+            "translation_vi": "Cả quản lý lẫn các trợ lý đều không thể tham dự hội nghị tuần sau."
+          },
+          "tags": ["g06_subject_verb_agreement", "v06_meetings"]
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "part": 5,
+      "questions": [
+        {
+          "no": 4,
+          "type": "p5_pronoun",
+          "difficulty": 2,
+          "stem": "Employees who complete the training course will receive a certificate with ____ name printed on it.",
+          "options": [
+            {"key": "A", "text": "they"},
+            {"key": "B", "text": "them"},
+            {"key": "C", "text": "theirs"},
+            {"key": "D", "text": "their"}
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Trước danh từ 'name' cần tính từ sở hữu; 'their' chỉ sở hữu của 'employees'.",
+            "why_wrong": {
+              "A": "'they' là đại từ chủ ngữ, không đứng trước danh từ.",
+              "B": "'them' là tân ngữ, không bổ nghĩa danh từ.",
+              "C": "'theirs' là đại từ sở hữu, không dùng trước danh từ."
+            },
+            "translation_vi": "Nhân viên hoàn thành khóa đào tạo sẽ nhận chứng chỉ có in tên của họ."
+          },
+          "tags": ["g07_pronouns", "v04_hiring"]
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "part": 5,
+      "questions": [
+        {
+          "no": 5,
+          "type": "p5_preposition",
+          "difficulty": 2,
+          "stem": "The new software is compatible ____ most of the operating systems used in our office.",
+          "options": [
+            {"key": "A", "text": "with"},
+            {"key": "B", "text": "to"},
+            {"key": "C", "text": "for"},
+            {"key": "D", "text": "on"}
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Cụm cố định 'be compatible with' nghĩa là tương thích với.",
+            "why_wrong": {
+              "B": "'compatible to' không phải cụm chuẩn.",
+              "C": "'compatible for' sai giới từ.",
+              "D": "'compatible on' sai giới từ."
+            },
+            "translation_vi": "Phần mềm mới tương thích với hầu hết hệ điều hành dùng trong văn phòng."
+          },
+          "tags": ["g09_prepositions_phrases", "v16_technology"]
+        }
+      ]
+    },
+    {
+      "id": "g06",
+      "part": 5,
+      "questions": [
+        {
+          "no": 6,
+          "type": "p5_conjunction",
+          "difficulty": 2,
+          "stem": "____ the weather was unusually cold, the outdoor product launch attracted a large crowd.",
+          "options": [
+            {"key": "A", "text": "Because"},
+            {"key": "B", "text": "Although"},
+            {"key": "C", "text": "Unless"},
+            {"key": "D", "text": "So"}
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Hai vế đối lập (trời lạnh nhưng vẫn đông người) nên dùng liên từ nhượng bộ 'Although'.",
+            "why_wrong": {
+              "A": "'Because' chỉ nguyên nhân, không hợp nghĩa đối lập.",
+              "C": "'Unless' nghĩa 'trừ khi', không hợp ngữ cảnh.",
+              "D": "'So' chỉ kết quả, đảo ngược logic câu."
+            },
+            "translation_vi": "Dù thời tiết lạnh bất thường, buổi ra mắt sản phẩm ngoài trời vẫn thu hút đông người."
+          },
+          "tags": ["g11_subordinating_conjunctions", "v21_events"]
+        }
+      ]
+    },
+    {
+      "id": "g07",
+      "part": 5,
+      "questions": [
+        {
+          "no": 7,
+          "type": "p5_relative_clause",
+          "difficulty": 2,
+          "stem": "The new recycling program, ____ was introduced in March, has reduced office waste by 20 percent.",
+          "options": [
+            {"key": "A", "text": "who"},
+            {"key": "B", "text": "whose"},
+            {"key": "C", "text": "what"},
+            {"key": "D", "text": "which"}
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Mệnh đề quan hệ không xác định bổ nghĩa cho vật 'program' nên dùng 'which'.",
+            "why_wrong": {
+              "A": "'who' chỉ dùng cho người.",
+              "B": "'whose' chỉ sở hữu, không hợp vị trí chủ ngữ.",
+              "C": "'what' không làm đại từ quan hệ."
+            },
+            "translation_vi": "Chương trình tái chế mới, được triển khai từ tháng Ba, đã giảm 20% rác thải văn phòng."
+          },
+          "tags": ["g13_relative_clauses", "v03_office"]
+        }
+      ]
+    },
+    {
+      "id": "g08",
+      "part": 5,
+      "questions": [
+        {
+          "no": 8,
+          "type": "p5_comparison",
+          "difficulty": 2,
+          "stem": "This year's sales figures are significantly ____ than those of the previous year.",
+          "options": [
+            {"key": "A", "text": "high"},
+            {"key": "B", "text": "highest"},
+            {"key": "C", "text": "higher"},
+            {"key": "D", "text": "more high"}
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Có 'than' nên cần so sánh hơn; 'significantly' bổ nghĩa cho 'higher'.",
+            "why_wrong": {
+              "A": "'high' là tính từ gốc, thiếu dạng so sánh.",
+              "B": "'highest' là so sánh nhất, không đi với 'than'.",
+              "D": "'more high' sai, tính từ ngắn thêm -er."
+            },
+            "translation_vi": "Doanh số năm nay cao hơn đáng kể so với năm trước."
+          },
+          "tags": ["g14_comparison", "v07_finance"]
+        }
+      ]
+    },
+    {
+      "id": "g09",
+      "part": 5,
+      "questions": [
+        {
+          "no": 9,
+          "type": "p5_participle",
+          "difficulty": 3,
+          "stem": "____ by the positive feedback from customers, the design team decided to expand the product line.",
+          "options": [
+            {"key": "A", "text": "Encouraging"},
+            {"key": "B", "text": "Encouraged"},
+            {"key": "C", "text": "Encourage"},
+            {"key": "D", "text": "Encouragement"}
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Đội thiết kế được khích lệ (bị động) nên dùng phân từ quá khứ 'Encouraged'.",
+            "why_wrong": {
+              "A": "'Encouraging' mang nghĩa chủ động, sai vì đội được khích lệ.",
+              "C": "Động từ nguyên mẫu không đứng đầu câu rút gọn.",
+              "D": "Danh từ không phù hợp ở vị trí rút gọn mệnh đề."
+            },
+            "translation_vi": "Được khích lệ bởi phản hồi tích cực từ khách hàng, đội thiết kế quyết định mở rộng dòng sản phẩm."
+          },
+          "tags": ["g15_participles", "v15_product_development"]
+        }
+      ]
+    },
+    {
+      "id": "g10",
+      "part": 5,
+      "questions": [
+        {
+          "no": 10,
+          "type": "p5_gerund_infinitive",
+          "difficulty": 2,
+          "stem": "The HR department is responsible for ____ that all new hires complete the safety training.",
+          "options": [
+            {"key": "A", "text": "ensuring"},
+            {"key": "B", "text": "ensure"},
+            {"key": "C", "text": "ensured"},
+            {"key": "D", "text": "to ensure"}
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Sau giới từ 'for' phải dùng danh động từ nên chọn 'ensuring'.",
+            "why_wrong": {
+              "B": "'ensure' là V nguyên mẫu, không đứng sau giới từ.",
+              "C": "'ensured' là V-ed, không đứng sau 'for'.",
+              "D": "'to ensure' không dùng sau giới từ."
+            },
+            "translation_vi": "Phòng nhân sự chịu trách nhiệm đảm bảo mọi nhân viên mới hoàn thành khóa huấn luyện an toàn."
+          },
+          "tags": ["g16_gerund_infinitive", "v04_hiring"]
+        }
+      ]
+    },
+    {
+      "id": "g11",
+      "part": 5,
+      "questions": [
+        {
+          "no": 11,
+          "type": "p5_quantifier_determiner",
+          "difficulty": 3,
+          "stem": "____ of the applicants had any previous experience, so the training took longer than expected.",
+          "options": [
+            {"key": "A", "text": "Much"},
+            {"key": "B", "text": "Every"},
+            {"key": "C", "text": "Each"},
+            {"key": "D", "text": "Few"}
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "'Few of + danh từ số nhiều' nghĩa là rất ít; hợp với 'had any experience' và việc huấn luyện kéo dài.",
+            "why_wrong": {
+              "A": "'Much' dùng cho danh từ không đếm được.",
+              "B": "'Every' không đi với 'of' theo cách này.",
+              "C": "'Each ... had any' sai ngữ pháp."
+            },
+            "translation_vi": "Rất ít ứng viên có kinh nghiệm trước đó, nên buổi đào tạo mất nhiều thời gian hơn dự kiến."
+          },
+          "tags": ["g17_quantifiers", "v04_hiring"]
+        }
+      ]
+    },
+    {
+      "id": "g12",
+      "part": 5,
+      "questions": [
+        {
+          "no": 12,
+          "type": "p5_vocabulary",
+          "difficulty": 4,
+          "stem": "Because demand was unexpectedly high, the store decided to ____ its order with the supplier.",
+          "options": [
+            {"key": "A", "text": "prolong"},
+            {"key": "B", "text": "increase"},
+            {"key": "C", "text": "enlarge"},
+            {"key": "D", "text": "extend"}
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'increase an order' là cụm đúng để nói tăng số lượng đặt hàng.",
+            "why_wrong": {
+              "A": "'prolong' dùng cho thời gian, không đi với 'order'.",
+              "C": "'enlarge' dùng cho kích thước vật thể, không hợp 'order'.",
+              "D": "'extend' dùng cho thời hạn, không phải số lượng đặt hàng."
+            },
+            "translation_vi": "Vì nhu cầu cao bất ngờ, cửa hàng quyết định tăng số lượng đặt hàng với nhà cung cấp."
+          },
+          "tags": ["v11_ordering_shipping"]
+        }
+      ]
+    },
+    {
+      "id": "g13",
+      "part": 5,
+      "questions": [
+        {
+          "no": 13,
+          "type": "p5_word_form",
+          "difficulty": 2,
+          "stem": "Clients were impressed by the ____ of the consultant's presentation.",
+          "options": [
+            {"key": "A", "text": "profession"},
+            {"key": "B", "text": "professionally"},
+            {"key": "C", "text": "professionalism"},
+            {"key": "D", "text": "professions"}
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Sau 'the' và trước 'of' cần danh từ; 'professionalism' (tính chuyên nghiệp) hợp nghĩa khen ngợi.",
+            "why_wrong": {
+              "A": "'profession' nghĩa nghề nghiệp, không hợp ngữ cảnh.",
+              "B": "'professionally' là trạng từ, không đứng sau 'the'.",
+              "D": "'professions' số nhiều, sai nghĩa ở đây."
+            },
+            "translation_vi": "Khách hàng rất ấn tượng với tính chuyên nghiệp trong bài thuyết trình của chuyên viên tư vấn."
+          },
+          "tags": ["g01_word_form", "v05_personnel"]
+        }
+      ]
+    },
+    {
+      "id": "g14",
+      "part": 5,
+      "questions": [
+        {
+          "no": 14,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 4,
+          "stem": "By the time the auditors arrived, the finance team ____ all of the records.",
+          "options": [
+            {"key": "A", "text": "had prepared"},
+            {"key": "B", "text": "has prepared"},
+            {"key": "C", "text": "prepares"},
+            {"key": "D", "text": "will prepare"}
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Hành động chuẩn bị xong trước khi kiểm toán viên đến nên dùng quá khứ hoàn thành 'had prepared'.",
+            "why_wrong": {
+              "B": "'has prepared' là hiện tại hoàn thành, sai mốc thời gian quá khứ.",
+              "C": "'prepares' hiện tại đơn, không hợp ngữ cảnh.",
+              "D": "'will prepare' tương lai, không hợp."
+            },
+            "translation_vi": "Vào lúc kiểm toán viên đến, nhóm tài chính đã chuẩn bị xong toàn bộ hồ sơ."
+          },
+          "tags": ["g03_past_tenses", "v08_accounting"]
+        }
+      ]
+    },
+    {
+      "id": "g15",
+      "part": 5,
+      "questions": [
+        {
+          "no": 15,
+          "type": "p5_subject_verb_agreement",
+          "difficulty": 2,
+          "stem": "A list of the approved vendors ____ posted on the company's internal website.",
+          "options": [
+            {"key": "A", "text": "are"},
+            {"key": "B", "text": "is"},
+            {"key": "C", "text": "were"},
+            {"key": "D", "text": "have been"}
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Chủ ngữ chính là 'A list' (số ít); 'of the approved vendors' chỉ bổ nghĩa nên dùng 'is'.",
+            "why_wrong": {
+              "A": "'are' sai vì chủ ngữ là 'a list'.",
+              "C": "'were' sai số và sai thì.",
+              "D": "'have been' chia số nhiều, không hợp."
+            },
+            "translation_vi": "Danh sách các nhà cung cấp được duyệt được đăng trên trang nội bộ của công ty."
+          },
+          "tags": ["g06_subject_verb_agreement", "v11_ordering_shipping"]
+        }
+      ]
+    },
+    {
+      "id": "g16",
+      "part": 5,
+      "questions": [
+        {
+          "no": 16,
+          "type": "p5_pronoun",
+          "difficulty": 3,
+          "stem": "The two departments agreed to share ____ resources during the busy season.",
+          "options": [
+            {"key": "A", "text": "theirs"},
+            {"key": "B", "text": "themselves"},
+            {"key": "C", "text": "each other"},
+            {"key": "D", "text": "their"}
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Cần tính từ sở hữu bổ nghĩa cho 'resources', chỉ hai phòng ban nên dùng 'their'.",
+            "why_wrong": {
+              "A": "'theirs' là đại từ sở hữu, không đứng trước danh từ.",
+              "B": "'themselves' là đại từ phản thân, sai vị trí.",
+              "C": "'each other' không bổ nghĩa cho danh từ."
+            },
+            "translation_vi": "Hai phòng ban đồng ý chia sẻ nguồn lực của họ trong mùa cao điểm."
+          },
+          "tags": ["g07_pronouns", "v03_office"]
+        }
+      ]
+    },
+    {
+      "id": "g17",
+      "part": 5,
+      "questions": [
+        {
+          "no": 17,
+          "type": "p5_preposition",
+          "difficulty": 2,
+          "stem": "Please reply ____ this e-mail no later than Thursday to confirm your attendance.",
+          "options": [
+            {"key": "A", "text": "to"},
+            {"key": "B", "text": "for"},
+            {"key": "C", "text": "at"},
+            {"key": "D", "text": "with"}
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Cụm cố định 'reply to an e-mail' nghĩa là trả lời email.",
+            "why_wrong": {
+              "B": "'reply for' sai giới từ.",
+              "C": "'reply at' sai giới từ.",
+              "D": "'reply with' chỉ đúng khi nói trả lời bằng công cụ, không hợp ở đây."
+            },
+            "translation_vi": "Vui lòng trả lời email này trước thứ Năm để xác nhận việc tham dự của bạn."
+          },
+          "tags": ["g09_prepositions_phrases", "v03_office"]
+        }
+      ]
+    },
+    {
+      "id": "g18",
+      "part": 5,
+      "questions": [
+        {
+          "no": 18,
+          "type": "p5_conjunction",
+          "difficulty": 3,
+          "stem": "The shipment was delayed because of heavy snow; ____, the store managed to open on time.",
+          "options": [
+            {"key": "A", "text": "Therefore"},
+            {"key": "B", "text": "Otherwise"},
+            {"key": "C", "text": "Nevertheless"},
+            {"key": "D", "text": "Moreover"}
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Hai vế đối lập (giao hàng trễ nhưng cửa hàng vẫn mở đúng giờ) nên dùng 'Nevertheless'.",
+            "why_wrong": {
+              "A": "'Therefore' chỉ kết quả, sai logic.",
+              "B": "'Otherwise' nghĩa 'nếu không thì', không hợp.",
+              "D": "'Moreover' thêm ý cùng chiều, không hợp."
+            },
+            "translation_vi": "Lô hàng bị trễ vì tuyết dày; tuy vậy, cửa hàng vẫn mở cửa đúng giờ."
+          },
+          "tags": ["g19_transition_adverbs", "v11_ordering_shipping"]
+        }
+      ]
+    },
+    {
+      "id": "g19",
+      "part": 5,
+      "questions": [
+        {
+          "no": 19,
+          "type": "p5_vocabulary",
+          "difficulty": 4,
+          "stem": "The review found several ____ in the report, including a missing page of sales figures.",
+          "options": [
+            {"key": "A", "text": "exclusions"},
+            {"key": "B", "text": "omissions"},
+            {"key": "C", "text": "exceptions"},
+            {"key": "D", "text": "exemptions"}
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'omissions' nghĩa là phần bị bỏ sót; hợp với chi tiết thiếu một trang số liệu.",
+            "why_wrong": {
+              "A": "'exclusions' nghĩa loại trừ có chủ ý, không phải thiếu sót.",
+              "C": "'exceptions' nghĩa ngoại lệ, không hợp ngữ cảnh báo cáo.",
+              "D": "'exemptions' nghĩa miễn trừ, sai nghĩa hoàn toàn."
+            },
+            "translation_vi": "Bản rà soát phát hiện một số chỗ thiếu sót trong báo cáo, trong đó có một trang số liệu bán hàng bị mất."
+          },
+          "tags": ["v08_accounting"]
+        }
+      ]
+    },
+    {
+      "id": "g20",
+      "part": 5,
+      "questions": [
+        {
+          "no": 20,
+          "type": "p5_vocabulary",
+          "difficulty": 4,
+          "stem": "The developer submitted a proposal to ____ the site's zoning from commercial to residential.",
+          "options": [
+            {"key": "A", "text": "reassign"},
+            {"key": "B", "text": "redistribute"},
+            {"key": "C", "text": "reorganize"},
+            {"key": "D", "text": "reclassify"}
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "'reclassify the zoning' nghĩa là phân loại lại quy hoạch, đúng nghiệp vụ chuyển mục đích sử dụng đất.",
+            "why_wrong": {
+              "A": "'reassign' nghĩa giao lại cho người khác, không hợp 'zoning'.",
+              "B": "'redistribute' nghĩa phân phối lại, không hợp.",
+              "C": "'reorganize' nghĩa tổ chức lại, không đúng nghiệp vụ quy hoạch."
+            },
+            "translation_vi": "Chủ đầu tư nộp đề xuất phân loại lại quy hoạch khu đất từ thương mại sang nhà ở."
+          },
+          "tags": ["v23_real_estate"]
+        }
+      ]
+    },
+    {
+      "id": "g21",
+      "part": 5,
+      "questions": [
+        {
+          "no": 21,
+          "type": "p5_vocabulary",
+          "difficulty": 2,
+          "stem": "Visitors must show a photo ____ at the front desk before entering the building.",
+          "options": [
+            {"key": "A", "text": "identification"},
+            {"key": "B", "text": "registration"},
+            {"key": "C", "text": "certification"},
+            {"key": "D", "text": "documentation"}
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'photo identification' là cụm cố định chỉ giấy tờ tùy thân có ảnh.",
+            "why_wrong": {
+              "B": "'photo registration' không phải cụm chuẩn.",
+              "C": "'photo certification' không diễn đạt giấy tờ tùy thân.",
+              "D": "'photo documentation' không phải cách nói chuẩn."
+            },
+            "translation_vi": "Khách phải xuất trình giấy tờ tùy thân có ảnh tại quầy lễ tân trước khi vào tòa nhà."
+          },
+          "tags": ["v03_office"]
+        }
+      ]
+    },
+    {
+      "id": "g22",
+      "part": 5,
+      "questions": [
+        {
+          "no": 22,
+          "type": "p5_gerund_infinitive",
+          "difficulty": 2,
+          "stem": "The manager suggested ____ the weekly team meeting to Monday mornings.",
+          "options": [
+            {"key": "A", "text": "to move"},
+            {"key": "B", "text": "moving"},
+            {"key": "C", "text": "move"},
+            {"key": "D", "text": "moved"}
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Động từ 'suggest' đi với danh động từ (V-ing) nên chọn 'moving'.",
+            "why_wrong": {
+              "A": "'suggest to move' sai cấu trúc.",
+              "C": "'move' nguyên mẫu không đứng sau 'suggested'.",
+              "D": "'moved' là V-ed, không hợp."
+            },
+            "translation_vi": "Người quản lý đề nghị chuyển cuộc họp nhóm hàng tuần sang sáng thứ Hai."
+          },
+          "tags": ["g16_gerund_infinitive", "v06_meetings"]
+        }
+      ]
+    },
+    {
+      "id": "g23",
+      "part": 5,
+      "questions": [
+        {
+          "no": 23,
+          "type": "p5_vocabulary",
+          "difficulty": 3,
+          "stem": "The store will issue a full ____ for any item returned within thirty days.",
+          "options": [
+            {"key": "A", "text": "receipt"},
+            {"key": "B", "text": "invoice"},
+            {"key": "C", "text": "refund"},
+            {"key": "D", "text": "voucher"}
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'issue a full refund' là cụm cố định nghĩa hoàn lại toàn bộ tiền.",
+            "why_wrong": {
+              "A": "'full receipt' không phải cụm chuẩn; receipt là biên lai, không phải tiền hoàn.",
+              "B": "'full invoice' sai nghĩa; invoice là hóa đơn.",
+              "D": "'full voucher' không diễn đạt việc hoàn tiền."
+            },
+            "translation_vi": "Cửa hàng sẽ hoàn lại toàn bộ tiền cho bất kỳ mặt hàng nào bị trả trong vòng ba mươi ngày."
+          },
+          "tags": ["v10_shopping"]
+        }
+      ]
+    },
+    {
+      "id": "g24",
+      "part": 5,
+      "questions": [
+        {
+          "no": 24,
+          "type": "p5_vocabulary",
+          "difficulty": 3,
+          "stem": "The ____ of the new smartphone attracted widespread media coverage.",
+          "options": [
+            {"key": "A", "text": "beginning"},
+            {"key": "B", "text": "opening"},
+            {"key": "C", "text": "start"},
+            {"key": "D", "text": "launch"}
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "'the launch of a product' là cụm cố định chỉ việc ra mắt sản phẩm.",
+            "why_wrong": {
+              "A": "'beginning of the smartphone' sai nghĩa, không nói về ra mắt.",
+              "B": "'opening of the smartphone' không hợp, 'opening' dùng cho sự kiện hoặc cửa hàng.",
+              "C": "'start of the smartphone' không phải cách nói về ra mắt sản phẩm."
+            },
+            "translation_vi": "Việc ra mắt chiếc điện thoại thông minh mới thu hút sự đưa tin rộng rãi của truyền thông."
+          },
+          "tags": ["v02_marketing"]
+        }
+      ]
+    },
+    {
+      "id": "g25",
+      "part": 5,
+      "questions": [
+        {
+          "no": 25,
+          "type": "p5_vocabulary",
+          "difficulty": 4,
+          "stem": "The two firms signed a legally ____ agreement to share research data.",
+          "options": [
+            {"key": "A", "text": "binding"},
+            {"key": "B", "text": "obligatory"},
+            {"key": "C", "text": "compulsory"},
+            {"key": "D", "text": "mandatory"}
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'legally binding' là cụm cố định nghĩa có hiệu lực pháp lý ràng buộc.",
+            "why_wrong": {
+              "B": "'obligatory' nghĩa bắt buộc theo lệ thường, không đi với 'legally'.",
+              "C": "'compulsory' thường dùng cho môn học, nghĩa vụ bắt buộc.",
+              "D": "'mandatory' nghĩa bắt buộc theo luật, không diễn đạt hiệu lực ràng buộc của hợp đồng."
+            },
+            "translation_vi": "Hai công ty đã ký một thỏa thuận có hiệu lực pháp lý ràng buộc về việc chia sẻ dữ liệu nghiên cứu."
+          },
+          "tags": ["v01_contracts"]
+        }
+      ]
+    },
+    {
+      "id": "g26",
+      "part": 5,
+      "questions": [
+        {
+          "no": 26,
+          "type": "p5_vocabulary",
+          "difficulty": 3,
+          "stem": "The waitstaff will ____ the dishes from the table once the guests have left.",
+          "options": [
+            {"key": "A", "text": "clean"},
+            {"key": "B", "text": "wipe"},
+            {"key": "C", "text": "clear"},
+            {"key": "D", "text": "wash"}
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'clear the dishes from the table' là cụm cố định nghĩa dọn bát đĩa khỏi bàn.",
+            "why_wrong": {
+              "A": "'clean the dishes from the table' sai nghĩa, 'clean' là làm sạch.",
+              "B": "'wipe the dishes' nghĩa lau chùi, không phải dọn đi.",
+              "D": "'wash the dishes from the table' không phải cách nói dọn bàn."
+            },
+            "translation_vi": "Nhân viên phục vụ sẽ dọn bát đĩa khỏi bàn khi khách đã rời đi."
+          },
+          "tags": ["v20_restaurants"]
+        }
+      ]
+    },
+    {
+      "id": "g27",
+      "part": 5,
+      "questions": [
+        {
+          "no": 27,
+          "type": "p5_vocabulary",
+          "difficulty": 2,
+          "stem": "Please ____ the attached form and return it to the HR office by Friday.",
+          "options": [
+            {"key": "A", "text": "fulfill"},
+            {"key": "B", "text": "complete"},
+            {"key": "C", "text": "accomplish"},
+            {"key": "D", "text": "achieve"}
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'complete a form' là cụm cố định nghĩa điền đầy đủ vào mẫu đơn.",
+            "why_wrong": {
+              "A": "'fulfill a form' sai, 'fulfill' đi với 'requirement' hoặc 'order'.",
+              "C": "'accomplish a form' sai, 'accomplish' đi với 'task' hoặc 'goal'.",
+              "D": "'achieve a form' sai nghĩa, 'achieve' đi với 'goal' hoặc 'result'."
+            },
+            "translation_vi": "Vui lòng điền đầy đủ mẫu đính kèm và nộp cho phòng nhân sự trước thứ Sáu."
+          },
+          "tags": ["v04_hiring"]
+        }
+      ]
+    },
+    {
+      "id": "g28",
+      "part": 5,
+      "questions": [
+        {
+          "no": 28,
+          "type": "p5_vocabulary",
+          "difficulty": 4,
+          "stem": "The hotel staff did their best to ____ the special requests of every guest.",
+          "options": [
+            {"key": "A", "text": "adapt"},
+            {"key": "B", "text": "adjust"},
+            {"key": "C", "text": "modify"},
+            {"key": "D", "text": "accommodate"}
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "'accommodate a request' là cụm cố định nghĩa đáp ứng yêu cầu.",
+            "why_wrong": {
+              "A": "'adapt a request' sai, 'adapt' nghĩa thích nghi.",
+              "B": "'adjust a request' không phải cụm chuẩn.",
+              "C": "'modify a request' nghĩa sửa đổi yêu cầu, sai nghĩa."
+            },
+            "translation_vi": "Nhân viên khách sạn đã cố gắng hết sức để đáp ứng các yêu cầu đặc biệt của từng vị khách."
+          },
+          "tags": ["v24_customer_service"]
+        }
+      ]
+    },
+    {
+      "id": "g29",
+      "part": 5,
+      "questions": [
+        {
+          "no": 29,
+          "type": "p5_vocabulary",
+          "difficulty": 3,
+          "stem": "Due to the storm, the airline was forced to ____ all flights to the coast.",
+          "options": [
+            {"key": "A", "text": "cancel"},
+            {"key": "B", "text": "abolish"},
+            {"key": "C", "text": "revoke"},
+            {"key": "D", "text": "repeal"}
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'cancel a flight' là cụm cố định nghĩa hủy chuyến bay.",
+            "why_wrong": {
+              "B": "'abolish' dùng cho luật, chế độ, không dùng cho chuyến bay.",
+              "C": "'revoke' dùng cho giấy phép, quyết định, không hợp 'flights'.",
+              "D": "'repeal' dùng cho luật, không hợp ngữ cảnh hàng không."
+            },
+            "translation_vi": "Do bão, hãng hàng không buộc phải hủy tất cả chuyến bay tới vùng ven biển."
+          },
+          "tags": ["v18_airlines"]
+        }
+      ]
+    },
+    {
+      "id": "g30",
+      "part": 5,
+      "questions": [
+        {
+          "no": 30,
+          "type": "p5_vocabulary",
+          "difficulty": 4,
+          "stem": "The hotel provides a ____ shuttle service between the terminal and the main lobby.",
+          "options": [
+            {"key": "A", "text": "polite"},
+            {"key": "B", "text": "gracious"},
+            {"key": "C", "text": "courtesy"},
+            {"key": "D", "text": "civil"}
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'courtesy shuttle' là cụm cố định chỉ xe đưa đón miễn phí, lịch sự của khách sạn.",
+            "why_wrong": {
+              "A": "'polite shuttle' không phải cụm chuẩn trong dịch vụ khách sạn.",
+              "B": "'gracious shuttle' không phải cách gọi dịch vụ đưa đón.",
+              "D": "'civil shuttle' sai nghĩa, 'civil' nghĩa thuộc công dân."
+            },
+            "translation_vi": "Khách sạn cung cấp dịch vụ xe đưa đón miễn phí giữa nhà ga và sảnh chính."
+          },
+          "tags": ["v19_hotels"]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,977 @@
+{
+  "id": "practice-p4-request-suggestion-01",
+  "kind": "practice",
+  "title": "Luyện Part 4 – Yêu cầu, đề nghị 01",
+  "level": "medium",
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "7 bài nói viết tay, mỗi bài 3 câu; đủ 4 giọng; không trùng tình huống/tên với gói khác.",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 0
+    }
+  },
+  "groups": [
+    {
+      "id": "g01",
+      "part": 4,
+      "audio": "audio/g01.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 1 through 3 refer to the following announcement.",
+          "vi": "Câu 1 đến 3 dựa vào thông báo sau."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Attention, everyone. The IT team will push a mandatory security update to all company laptops this Friday evening. The update will install automatically at six o'clock, and each computer will restart once. Please save all your work and close your applications before leaving for the day, because any unsaved changes may be lost. The update should take about twenty minutes, and you can use your laptop again after it finishes. If you normally work from home on Fridays, please connect your laptop to the network during the update window. Contact the help desk if you see any error messages. Thank you.",
+          "vi": "Xin mọi người chú ý. Nhóm IT sẽ triển khai bản cập nhật bảo mật bắt buộc cho mọi máy tính xách tay công ty vào tối thứ Sáu. Bản cập nhật tự cài lúc sáu giờ và mỗi máy sẽ khởi động lại một lần. Hãy lưu mọi công việc và đóng ứng dụng trước khi ra về, vì thay đổi chưa lưu có thể bị mất. Bản cập nhật mất khoảng hai mươi phút, và bạn dùng lại máy sau khi xong. Nếu thường làm việc tại nhà thứ Sáu, hãy kết nối máy với mạng trong thời gian cập nhật. Liên hệ bàn hỗ trợ nếu thấy thông báo lỗi. Cảm ơn."
+        }
+      ],
+      "questions": [
+        {
+          "no": 1,
+          "type": "p4_purpose_topic",
+          "difficulty": 2,
+          "stem": "What is the purpose of the announcement?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To explain a mandatory software update"
+            },
+            {
+              "key": "B",
+              "text": "To sell new laptops"
+            },
+            {
+              "key": "C",
+              "text": "To hire IT staff"
+            },
+            {
+              "key": "D",
+              "text": "To close the office Friday"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Người nói thông báo bản cập nhật bảo mật bắt buộc cho laptop.",
+            "why_wrong": {
+              "B": "Không bán máy.",
+              "C": "Không tuyển nhân viên IT.",
+              "D": "Không đóng văn phòng."
+            },
+            "translation_vi": "Mục đích là giải thích bản cập nhật phần mềm bắt buộc."
+          }
+        },
+        {
+          "no": 2,
+          "type": "p4_speaker_audience",
+          "difficulty": 2,
+          "stem": "Who most likely is the audience?",
+          "options": [
+            {
+              "key": "A",
+              "text": "IT suppliers"
+            },
+            {
+              "key": "B",
+              "text": "Visitors"
+            },
+            {
+              "key": "C",
+              "text": "Customers"
+            },
+            {
+              "key": "D",
+              "text": "Employees"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Người nói hướng dẫn nhân viên lưu công việc trước khi cập nhật.",
+            "why_wrong": {
+              "A": "Không phải nhà cung cấp IT.",
+              "B": "Không phải khách.",
+              "C": "Không phải khách hàng."
+            },
+            "translation_vi": "Người nghe là nhân viên."
+          }
+        },
+        {
+          "no": 3,
+          "type": "p4_detail",
+          "difficulty": 3,
+          "stem": "What should employees do before leaving on Friday?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Turn off the network"
+            },
+            {
+              "key": "B",
+              "text": "Uninstall the update"
+            },
+            {
+              "key": "C",
+              "text": "Save their work and close applications"
+            },
+            {
+              "key": "D",
+              "text": "Change their password"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Nhân viên cần lưu công việc và đóng ứng dụng trước khi về.",
+            "why_wrong": {
+              "A": "Không tắt mạng.",
+              "B": "Không gỡ bản cập nhật.",
+              "D": "Không đổi mật khẩu."
+            },
+            "translation_vi": "Nhân viên nên lưu công việc và đóng ứng dụng."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "part": 4,
+      "audio": "audio/g02.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 4 through 6 refer to the following telephone message.",
+          "vi": "Câu 4 đến 6 dựa vào tin nhắn điện thoại sau."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "Hello, this is Percival from the finance office. We are updating our vendor records, and we notice that your tax form on file has expired. Before we can process your next payment, please send us an updated tax certificate and a copy of your current business licence. You can email the documents to our finance team or upload them through the vendor portal. The deadline for submission is the end of this month. If we do not receive the documents by then, your payment may be delayed. Please let us know if you have any questions. Thank you.",
+          "vi": "Xin chào, tôi là Percival từ phòng tài chính. Chúng tôi đang cập nhật hồ sơ nhà cung cấp và thấy biểu mẫu thuế của bạn đã hết hạn. Trước khi xử lý khoản thanh toán tiếp theo, hãy gửi chứng nhận thuế cập nhật và bản sao giấy phép kinh doanh hiện tại. Bạn có thể gửi tài liệu qua email cho nhóm tài chính hoặc tải lên cổng nhà cung cấp. Hạn nộp là cuối tháng này. Nếu chúng tôi không nhận được tài liệu, khoản thanh toán có thể bị trễ. Hãy liên hệ nếu có câu hỏi. Cảm ơn."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "We appreciate your cooperation.",
+          "vi": "Chúng tôi cảm ơn sự hợp tác của bạn."
+        }
+      ],
+      "questions": [
+        {
+          "no": 4,
+          "type": "p4_request_suggestion",
+          "difficulty": 3,
+          "stem": "What does the speaker ask the listener to send?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A bank statement"
+            },
+            {
+              "key": "B",
+              "text": "An updated tax certificate and business licence"
+            },
+            {
+              "key": "C",
+              "text": "A new invoice"
+            },
+            {
+              "key": "D",
+              "text": "A signed contract"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Người nói yêu cầu gửi chứng nhận thuế cập nhật và giấy phép kinh doanh.",
+            "why_wrong": {
+              "A": "Không nhắc sao kê ngân hàng.",
+              "C": "Không nhắc hóa đơn mới.",
+              "D": "Không nhắc hợp đồng ký."
+            },
+            "translation_vi": "Người nói yêu cầu gửi chứng nhận thuế và giấy phép kinh doanh."
+          }
+        },
+        {
+          "no": 5,
+          "type": "p4_next_action",
+          "difficulty": 3,
+          "stem": "What will happen if the documents are not received by the deadline?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The contract will be canceled"
+            },
+            {
+              "key": "B",
+              "text": "The payment may be delayed"
+            },
+            {
+              "key": "C",
+              "text": "The vendor will be fined"
+            },
+            {
+              "key": "D",
+              "text": "The portal will close"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Nếu không nhận được tài liệu, khoản thanh toán có thể bị trễ.",
+            "why_wrong": {
+              "A": "Không hủy hợp đồng.",
+              "C": "Không phạt.",
+              "D": "Cổng không đóng."
+            },
+            "translation_vi": "Khoản thanh toán có thể bị trễ."
+          }
+        },
+        {
+          "no": 6,
+          "type": "p4_inference",
+          "difficulty": 4,
+          "stem": "Why is the finance office contacting the vendor?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The tax form on file has expired"
+            },
+            {
+              "key": "B",
+              "text": "The invoice is lost"
+            },
+            {
+              "key": "C",
+              "text": "The payment is too large"
+            },
+            {
+              "key": "D",
+              "text": "The vendor is new"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Biểu mẫu thuế trong hồ sơ đã hết hạn nên cần cập nhật.",
+            "why_wrong": {
+              "B": "Không nói mất hóa đơn.",
+              "C": "Không nói thanh toán lớn.",
+              "D": "Không nói nhà cung cấp mới."
+            },
+            "translation_vi": "Vì biểu mẫu thuế đã hết hạn."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "part": 4,
+      "audio": "audio/g03.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 7 through 9 refer to the following announcement and graphic.",
+          "vi": "Câu 7 đến 9 dựa vào thông báo và bảng sau."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "Good afternoon, everyone. The company has launched a staff referral program to help us fill several open positions. If you refer a candidate who is hired, you can earn a bonus. The role with the highest bonus does not pay out until the new hire has proven themselves for ninety days. Other roles have smaller bonuses and shorter waiting periods. To participate, submit the candidate's details through the referral portal before the deadline, and make sure they mention your name during the application. The human resources team will confirm eligibility within one week. Thank you for helping us grow the team.",
+          "vi": "Chào buổi chiều. Công ty đã triển khai chương trình giới thiệu nhân sự để tuyển các vị trí đang trống. Nếu giới thiệu ứng viên được tuyển, bạn có thể nhận thưởng. Vị trí có mức thưởng cao nhất chỉ được trả sau khi người mới hoàn thành chín mươi ngày, nên hãy kiên nhẫn. Các vị trí khác có thưởng thấp hơn và thời gian chờ ngắn hơn. Để tham gia, hãy gửi thông tin ứng viên qua cổng giới thiệu trước hạn, và đảm bảo họ nêu tên bạn khi nộp đơn. Nhóm nhân sự sẽ xác nhận điều kiện trong vòng một tuần. Cảm ơn đã giúp phát triển đội ngũ."
+        }
+      ],
+      "questions": [
+        {
+          "no": 7,
+          "type": "p4_implied_meaning",
+          "difficulty": 4,
+          "stem": "What does the speaker mean when she says, \"The role with the highest bonus does not pay out until the new hire has proven themselves for ninety days.\"?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The bonus is paid immediately"
+            },
+            {
+              "key": "B",
+              "text": "The program is canceled"
+            },
+            {
+              "key": "C",
+              "text": "The highest bonus takes longer to be paid"
+            },
+            {
+              "key": "D",
+              "text": "Candidates are not needed"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Cụm 'proven themselves' ngụ ý phải chờ chín mươi ngày mới được trả thưởng.",
+            "why_wrong": {
+              "A": "Không trả ngay.",
+              "B": "Chương trình vẫn hoạt động.",
+              "D": "Vẫn cần ứng viên."
+            },
+            "translation_vi": "Cô ấy ngụ ý khoản thưởng cao nhất cần chờ lâu hơn."
+          }
+        },
+        {
+          "no": 8,
+          "type": "p4_graphic",
+          "difficulty": 4,
+          "stem": "Look at the graphic. What is the bonus for the role the speaker mentions?",
+          "options": [
+            {
+              "key": "A",
+              "text": "$500"
+            },
+            {
+              "key": "B",
+              "text": "$800"
+            },
+            {
+              "key": "C",
+              "text": "$1,000"
+            },
+            {
+              "key": "D",
+              "text": "$1,500"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Vị trí có mức thưởng cao nhất là Engineer, $1,500.",
+            "why_wrong": {
+              "A": "$500 là Assistant.",
+              "B": "$800 là Analyst.",
+              "C": "$1,000 là Designer."
+            },
+            "translation_vi": "Mức thưởng của vị trí được nhắc đến là 1.500 đô."
+          }
+        },
+        {
+          "no": 9,
+          "type": "p4_purpose_topic",
+          "difficulty": 2,
+          "stem": "What is the purpose of the talk?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To advertise job openings"
+            },
+            {
+              "key": "B",
+              "text": "To hire recruiters"
+            },
+            {
+              "key": "C",
+              "text": "To explain the staff referral program"
+            },
+            {
+              "key": "D",
+              "text": "To cancel a bonus"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Người nói giới thiệu chương trình giới thiệu nhân sự và cách nhận thưởng.",
+            "why_wrong": {
+              "A": "Quảng cáo vị trí chỉ là một phần.",
+              "B": "Không tuyển nhà tuyển dụng.",
+              "D": "Không hủy thưởng."
+            },
+            "translation_vi": "Mục đích là giải thích chương trình giới thiệu nhân sự."
+          }
+        }
+      ],
+      "graphic": {
+        "kind": "table",
+        "title": "Referral bonuses",
+        "columns": [
+          "Role",
+          "Bonus",
+          "Payment",
+          "Deadline"
+        ],
+        "rows": [
+          [
+            "Assistant",
+            "$500",
+            "After 30 days",
+            "31 May"
+          ],
+          [
+            "Analyst",
+            "$800",
+            "After 60 days",
+            "30 June"
+          ],
+          [
+            "Designer",
+            "$1,000",
+            "After 60 days",
+            "31 July"
+          ],
+          [
+            "Engineer",
+            "$1,500",
+            "After 90 days",
+            "31 August"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "g04",
+      "part": 4,
+      "audio": "audio/g04.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 10 through 12 refer to the following announcement.",
+          "vi": "Câu 10 đến 12 dựa vào thông báo sau."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "Good morning. This is a reminder about the meeting room policy. After each meeting, please erase the whiteboard, remove any papers, and return the chairs to their original position. If you used the video equipment, please turn it off and put the remote back in the drawer. Food and drinks are no longer allowed in the meeting rooms because of recent spills. The rooms are checked twice a day, and repeat issues will be reported to the office manager. By keeping the rooms tidy, you help the next team start on time. Thank you.",
+          "vi": "Chào buổi sáng. Xin nhắc về quy định phòng họp. Sau mỗi cuộc họp, hãy xóa bảng trắng, dọn giấy tờ và xếp ghế về vị trí cũ. Nếu dùng thiết bị video, hãy tắt và đặt điều khiển vào ngăn kéo. Đồ ăn thức uống không còn được phép trong phòng họp do các vết đổ gần đây. Phòng được kiểm tra hai lần mỗi ngày, và vấn đề lặp lại sẽ báo cho quản lý văn phòng. Giữ phòng gọn gàng giúp nhóm kế tiếp bắt đầu đúng giờ. Cảm ơn."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "Thank you for keeping the space ready for everyone.",
+          "vi": "Cảm ơn đã giữ không gian sẵn sàng cho mọi người."
+        }
+      ],
+      "questions": [
+        {
+          "no": 10,
+          "type": "p4_speaker_audience",
+          "difficulty": 2,
+          "stem": "Who most likely is the audience?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Employees"
+            },
+            {
+              "key": "B",
+              "text": "Cleaners"
+            },
+            {
+              "key": "C",
+              "text": "Office managers"
+            },
+            {
+              "key": "D",
+              "text": "Visitors"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Người nói nhắc nhân viên giữ phòng họp gọn gàng.",
+            "why_wrong": {
+              "B": "Không phải nhân viên dọn.",
+              "C": "Quản lý văn phòng chỉ nhận báo cáo.",
+              "D": "Không phải khách."
+            },
+            "translation_vi": "Người nghe là nhân viên."
+          }
+        },
+        {
+          "no": 11,
+          "type": "p4_detail",
+          "difficulty": 3,
+          "stem": "What should employees do with the video remote?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Take it to reception"
+            },
+            {
+              "key": "B",
+              "text": "Put it back in the drawer"
+            },
+            {
+              "key": "C",
+              "text": "Leave it on the table"
+            },
+            {
+              "key": "D",
+              "text": "Return it to IT"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Nhân viên nên đặt điều khiển vào ngăn kéo.",
+            "why_wrong": {
+              "A": "Không mang đến lễ tân.",
+              "C": "Không để trên bàn.",
+              "D": "Không trả cho IT."
+            },
+            "translation_vi": "Nhân viên nên đặt điều khiển vào ngăn kéo."
+          }
+        },
+        {
+          "no": 12,
+          "type": "p4_request_suggestion",
+          "difficulty": 3,
+          "stem": "What is no longer allowed in the meeting rooms?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Video equipment"
+            },
+            {
+              "key": "B",
+              "text": "Whiteboards"
+            },
+            {
+              "key": "C",
+              "text": "Extra chairs"
+            },
+            {
+              "key": "D",
+              "text": "Food and drinks"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Đồ ăn thức uống không còn được phép trong phòng họp.",
+            "why_wrong": {
+              "A": "Thiết bị video vẫn dùng được.",
+              "B": "Bảng trắng vẫn dùng.",
+              "C": "Ghế vẫn dùng."
+            },
+            "translation_vi": "Đồ ăn thức uống không còn được phép."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "part": 4,
+      "audio": "audio/g05.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 13 through 15 refer to the following announcement.",
+          "vi": "Câu 13 đến 15 dựa vào thông báo sau."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Attention, team. The building management will shut off the water supply this Saturday from nine in the morning until one in the afternoon for pipe repairs. During this time, the restrooms and the kitchen taps will not work, and the water fountains will be unavailable. Please use the restrooms in the building next door if necessary, and bring your own water bottle filled in advance. The café on the ground floor will also be closed during the repair. We expect the water to be back by one, but don't hold your breath. We apologise for the inconvenience and thank you for your patience.",
+          "vi": "Xin nhóm chú ý. Ban quản lý tòa nhà sẽ ngắt nước thứ Bảy này từ chín giờ sáng đến một giờ chiều để sửa ống. Trong thời gian đó, nhà vệ sinh và vòi bếp không hoạt động, và vòi nước uống không dùng được. Hãy dùng nhà vệ sinh ở tòa nhà kế bên nếu cần, và mang theo bình nước đã đổ sẵn. Quán cà phê tầng trệt cũng đóng trong lúc sửa. Chúng tôi kỳ vọng nước trở lại lúc một giờ, nhưng hãy nghe cập nhật. Xin lỗi vì sự bất tiện và cảm ơn sự kiên nhẫn."
+        }
+      ],
+      "questions": [
+        {
+          "no": 13,
+          "type": "p4_next_action",
+          "difficulty": 3,
+          "stem": "What will happen this Saturday morning?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The water supply will be shut off"
+            },
+            {
+              "key": "B",
+              "text": "The building will close"
+            },
+            {
+              "key": "C",
+              "text": "The café will open early"
+            },
+            {
+              "key": "D",
+              "text": "The restrooms will be cleaned"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Nước sẽ bị ngắt từ chín giờ sáng đến một giờ chiều.",
+            "why_wrong": {
+              "B": "Tòa nhà vẫn mở.",
+              "C": "Quán cà phê đóng.",
+              "D": "Không nói dọn nhà vệ sinh."
+            },
+            "translation_vi": "Nước sẽ bị ngắt vào sáng thứ Bảy."
+          }
+        },
+        {
+          "no": 14,
+          "type": "p4_inference",
+          "difficulty": 4,
+          "stem": "Why should employees bring a filled water bottle?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The bottles are free"
+            },
+            {
+              "key": "B",
+              "text": "The taps will be hot"
+            },
+            {
+              "key": "C",
+              "text": "The water fountains will be unavailable"
+            },
+            {
+              "key": "D",
+              "text": "The café is open"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Vòi nước uống không dùng được nên cần mang nước.",
+            "why_wrong": {
+              "A": "Không nói bình miễn phí.",
+              "B": "Không nói vòi nóng.",
+              "D": "Quán cà phê đóng."
+            },
+            "translation_vi": "Vì vòi nước uống không dùng được."
+          }
+        },
+        {
+          "no": 15,
+          "type": "p4_implied_meaning",
+          "difficulty": 4,
+          "stem": "What does the speaker mean when she says, \"We expect the water to be back by one, but don't hold your breath.\"?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The building is closed"
+            },
+            {
+              "key": "B",
+              "text": "The repair time may change"
+            },
+            {
+              "key": "C",
+              "text": "The water is safe to drink"
+            },
+            {
+              "key": "D",
+              "text": "The café will reopen soon"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Thành ngữ 'don't hold your breath' ngụ ý thời gian có nước trở lại có thể trễ hơn dự kiến.",
+            "why_wrong": {
+              "A": "Tòa nhà vẫn mở.",
+              "C": "Không nói nước uống được.",
+              "D": "Không nói quán mở lại."
+            },
+            "translation_vi": "Cô ấy ngụ ý thời gian sửa có thể thay đổi."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g06",
+      "part": 4,
+      "audio": "audio/g06.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 16 through 18 refer to the following announcement and graphic.",
+          "vi": "Câu 16 đến 18 dựa vào thông báo và bảng sau."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "Attention, staff. We have several lockers available for personal storage on the ground floor. The larger locker that is available now is the best choice if you need to store a coat and a gym bag. The other sizes may be reserved, so please check the current list before applying. Lockers are assigned monthly, and the fee is deducted from your payroll. To request a locker, complete the online form and choose your preferred size. Keys must be returned if you leave the company. Contact the facilities team if you have questions. Thank you.",
+          "vi": "Xin nhân viên chú ý. Chúng tôi có vài tủ cá nhân còn trống ở tầng trệt. Tủ lớn hơn hiện còn trống là lựa chọn tốt nhất nếu bạn cần để áo khoác và túi tập. Các cỡ khác có thể đã được đặt, nên hãy kiểm tra danh sách hiện tại trước khi đăng ký. Tủ được giao theo tháng và phí trừ vào lương. Để xin tủ, hãy điền biểu mẫu trực tuyến và chọn cỡ mong muốn. Phải trả chìa khóa nếu nghỉ việc. Liên hệ nhóm cơ sở vật chất nếu có câu hỏi. Cảm ơn."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "Keys are available at the front desk.",
+          "vi": "Chìa khóa có tại lễ tân."
+        }
+      ],
+      "questions": [
+        {
+          "no": 16,
+          "type": "p4_graphic",
+          "difficulty": 4,
+          "stem": "Look at the graphic. What is the monthly fee of the locker the speaker mentions?",
+          "options": [
+            {
+              "key": "A",
+              "text": "$5"
+            },
+            {
+              "key": "B",
+              "text": "$8"
+            },
+            {
+              "key": "C",
+              "text": "$15"
+            },
+            {
+              "key": "D",
+              "text": "$12"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Tủ lớn hơn hiện còn trống là Large, giá $12/tháng.",
+            "why_wrong": {
+              "A": "$5 là Small.",
+              "B": "$8 là Medium.",
+              "C": "$15 là Extra large."
+            },
+            "translation_vi": "Phí hằng tháng của tủ được nhắc đến là 12 đô."
+          }
+        },
+        {
+          "no": 17,
+          "type": "p4_purpose_topic",
+          "difficulty": 2,
+          "stem": "What is the purpose of the talk?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To sell gym bags"
+            },
+            {
+              "key": "B",
+              "text": "To hire facilities staff"
+            },
+            {
+              "key": "C",
+              "text": "To close the ground floor"
+            },
+            {
+              "key": "D",
+              "text": "To explain the available lockers"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Người nói giới thiệu các tủ cá nhân còn trống và cách đăng ký.",
+            "why_wrong": {
+              "A": "Không bán túi tập.",
+              "B": "Không tuyển nhân viên cơ sở vật chất.",
+              "C": "Không đóng tầng trệt."
+            },
+            "translation_vi": "Mục đích là giải thích các tủ cá nhân còn trống."
+          }
+        },
+        {
+          "no": 18,
+          "type": "p4_speaker_audience",
+          "difficulty": 2,
+          "stem": "Who most likely is the audience?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Visitors"
+            },
+            {
+              "key": "B",
+              "text": "Gym members"
+            },
+            {
+              "key": "C",
+              "text": "Employees"
+            },
+            {
+              "key": "D",
+              "text": "Facilities staff only"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Người nói hướng dẫn nhân viên đăng ký tủ cá nhân.",
+            "why_wrong": {
+              "A": "Không phải khách.",
+              "B": "Không phải hội viên gym.",
+              "D": "Không chỉ riêng nhân viên cơ sở vật chất."
+            },
+            "translation_vi": "Người nghe là nhân viên."
+          }
+        }
+      ],
+      "graphic": {
+        "kind": "table",
+        "title": "Available lockers",
+        "columns": [
+          "Locker size",
+          "Monthly fee",
+          "Location",
+          "Available"
+        ],
+        "rows": [
+          [
+            "Small",
+            "$5",
+            "Ground floor",
+            "Yes"
+          ],
+          [
+            "Medium",
+            "$8",
+            "Ground floor",
+            "No"
+          ],
+          [
+            "Large",
+            "$12",
+            "Ground floor",
+            "Yes"
+          ],
+          [
+            "Extra large",
+            "$15",
+            "First floor",
+            "No"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "g07",
+      "part": 4,
+      "audio": "audio/g07.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 19 through 21 refer to the following announcement.",
+          "vi": "Câu 19 đến 21 dựa vào thông báo sau."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "Hello, everyone. The team retreat will take place next weekend at the lakeside lodge, and a shuttle will leave the office at eight on Saturday morning. Please pack comfortable clothes, a rain jacket, and sturdy walking shoes, as we will spend time outdoors. The lodge provides towels and bedding, so you do not need to bring them. Bring your own water bottle and any personal medication you may need. Lunch and dinner are provided, but snacks are not, so bring a few if you like. If you have dietary restrictions, please inform the organiser by Wednesday. Thank you.",
+          "vi": "Xin chào mọi người. Buổi nghỉ dưỡng nhóm diễn ra cuối tuần sau tại nhà nghỉ ven hồ, và xe đưa đón rời văn phòng lúc tám giờ sáng thứ Bảy. Hãy mang quần áo thoải mái, áo mưa và giày đi bộ chắc chắn, vì ta sẽ ở ngoài trời. Nhà nghỉ cung cấp khăn và chăn nên bạn không cần mang. Mang theo bình nước và thuốc cá nhân cần dùng. Bữa trưa và bữa tối được cung cấp, nhưng đồ ăn vặt thì không, nên hãy mang một ít nếu thích. Nếu có hạn chế ăn uống, hãy báo ban tổ chức trước thứ Tư. Cảm ơn."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "We hope you have a relaxing weekend.",
+          "vi": "Chúc bạn có cuối tuần thư giãn."
+        }
+      ],
+      "questions": [
+        {
+          "no": 19,
+          "type": "p4_detail",
+          "difficulty": 3,
+          "stem": "When does the shuttle leave?",
+          "options": [
+            {
+              "key": "A",
+              "text": "At eight on Saturday morning"
+            },
+            {
+              "key": "B",
+              "text": "At noon on Sunday"
+            },
+            {
+              "key": "C",
+              "text": "On Friday evening"
+            },
+            {
+              "key": "D",
+              "text": "On Wednesday morning"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Xe đưa đón rời văn phòng lúc tám giờ sáng thứ Bảy.",
+            "why_wrong": {
+              "B": "Không nhắc trưa Chủ nhật.",
+              "C": "Không nhắc tối thứ Sáu.",
+              "D": "Thứ Tư là hạn báo ăn kiêng."
+            },
+            "translation_vi": "Xe rời lúc tám giờ sáng thứ Bảy."
+          }
+        },
+        {
+          "no": 20,
+          "type": "p4_request_suggestion",
+          "difficulty": 3,
+          "stem": "What should employees bring?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Towels and bedding"
+            },
+            {
+              "key": "B",
+              "text": "A rain jacket and walking shoes"
+            },
+            {
+              "key": "C",
+              "text": "Lunch and dinner"
+            },
+            {
+              "key": "D",
+              "text": "A tent"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Nhân viên nên mang áo mưa và giày đi bộ.",
+            "why_wrong": {
+              "A": "Nhà nghỉ cung cấp khăn chăn.",
+              "C": "Bữa ăn được cung cấp.",
+              "D": "Không cần lều."
+            },
+            "translation_vi": "Nhân viên nên mang áo mưa và giày đi bộ."
+          }
+        },
+        {
+          "no": 21,
+          "type": "p4_inference",
+          "difficulty": 4,
+          "stem": "Why should employees inform the organiser of dietary restrictions?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To book a shuttle seat"
+            },
+            {
+              "key": "B",
+              "text": "To get a discount"
+            },
+            {
+              "key": "C",
+              "text": "To choose a room"
+            },
+            {
+              "key": "D",
+              "text": "So suitable meals can be arranged"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Báo hạn chế ăn uống để ban tổ chức sắp xếp bữa ăn phù hợp.",
+            "why_wrong": {
+              "A": "Không liên quan chỗ xe.",
+              "B": "Không nói giảm giá.",
+              "C": "Không liên quan chọn phòng."
+            },
+            "translation_vi": "Vì để sắp xếp bữa ăn phù hợp."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1521 @@
+{
+  "id": "practice-p1-scene-objects-01",
+  "kind": "practice",
+  "title": "Luyện Part 1 – Cảnh vật, đồ vật",
+  "level": "medium",
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "",
+    "p1type": "scene_objects",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 20
+    }
+  },
+  "groups": [
+    {
+      "id": "g01",
+      "part": 1,
+      "image": "img/g01.webp",
+      "image_brief": "Ảnh chụp ngoài trời: khoảng mười chiếc xe đạp dựng nghiêng, sát bức tường gạch đỏ. Không có người; mặt đất lát đá, một vài bóng cây đổ lên tường.",
+      "audio": "audio/g01.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 1. Look at the picture marked number 1 in your test book.",
+          "vi": "Câu 1. Hãy nhìn bức ảnh số 1 trong đề."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(A) People are riding bicycles.",
+          "vi": "(A) People are riding bicycles."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(B) Bicycles are being repaired.",
+          "vi": "(B) Bicycles are being repaired."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(C) Bicycles are parked by the wall.",
+          "vi": "(C) Bicycles are parked by the wall."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(D) The wall is being painted.",
+          "vi": "(D) The wall is being painted."
+        }
+      ],
+      "questions": [
+        {
+          "no": 1,
+          "type": "p1_scene_objects",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "People are riding bicycles."
+            },
+            {
+              "key": "B",
+              "text": "Bicycles are being repaired."
+            },
+            {
+              "key": "C",
+              "text": "Bicycles are parked by the wall."
+            },
+            {
+              "key": "D",
+              "text": "The wall is being painted."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Các xe đạp dựng sát tường nên 'parked by the wall' đúng.",
+            "why_wrong": {
+              "A": "Không có người cưỡi.",
+              "B": "Không có dụng cụ sửa.",
+              "D": "Không ai sơn tường."
+            },
+            "translation_vi": "Xe đạp được dựng cạnh tường."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "part": 1,
+      "image": "img/g02.webp",
+      "image_brief": "Ảnh chụp trên quầy gỗ: tám chiếc cốc thủy tinh trống xếp thành hàng thẳng. Phía sau là kệ chai và máy pha cà phê; ánh sáng từ cửa sổ bên trái.",
+      "audio": "audio/g02.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 2. Look at the picture marked number 2 in your test book.",
+          "vi": "Câu 2. Hãy nhìn bức ảnh số 2 trong đề."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "(A) Cups are being washed.",
+          "vi": "(A) Cups are being washed."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "(B) Cups are falling off the counter.",
+          "vi": "(B) Cups are falling off the counter."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "(C) Cups are filled with coffee.",
+          "vi": "(C) Cups are filled with coffee."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "(D) Cups are lined up on the counter.",
+          "vi": "(D) Cups are lined up on the counter."
+        }
+      ],
+      "questions": [
+        {
+          "no": 2,
+          "type": "p1_scene_objects",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Cups are being washed."
+            },
+            {
+              "key": "B",
+              "text": "Cups are falling off the counter."
+            },
+            {
+              "key": "C",
+              "text": "Cups are filled with coffee."
+            },
+            {
+              "key": "D",
+              "text": "Cups are lined up on the counter."
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Các cốc xếp hàng trên quầy nên 'lined up on the counter' đúng.",
+            "why_wrong": {
+              "A": "Không có nước rửa.",
+              "B": "Cốc đứng yên, không rơi.",
+              "C": "Không thấy cà phê trong cốc."
+            },
+            "translation_vi": "Những chiếc cốc xếp hàng trên quầy."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "part": 1,
+      "image": "img/g03.webp",
+      "image_brief": "Ảnh chụp trong văn phòng: bốn chiếc laptop mở nắp trên các bàn làm việc, màn hình sáng. Ghế xoay đẩy vào gầm bàn; không có người trong phòng.",
+      "audio": "audio/g03.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 3. Look at the picture marked number 3 in your test book.",
+          "vi": "Câu 3. Hãy nhìn bức ảnh số 3 trong đề."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "(A) Laptops are open on the desks.",
+          "vi": "(A) Laptops are open on the desks."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "(B) Laptops are closed on the desks.",
+          "vi": "(B) Laptops are closed on the desks."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "(C) Laptops are being carried away.",
+          "vi": "(C) Laptops are being carried away."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "(D) Laptops are stacked in a box.",
+          "vi": "(D) Laptops are stacked in a box."
+        }
+      ],
+      "questions": [
+        {
+          "no": 3,
+          "type": "p1_scene_objects",
+          "difficulty": 4,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Laptops are open on the desks."
+            },
+            {
+              "key": "B",
+              "text": "Laptops are closed on the desks."
+            },
+            {
+              "key": "C",
+              "text": "Laptops are being carried away."
+            },
+            {
+              "key": "D",
+              "text": "Laptops are stacked in a box."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Các laptop đang mở nắp trên bàn nên 'open on the desks' đúng.",
+            "why_wrong": {
+              "B": "Nắp đang mở, không đóng.",
+              "C": "Không ai bê đi.",
+              "D": "Không nằm trong thùng."
+            },
+            "translation_vi": "Các laptop đang mở trên bàn."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "part": 1,
+      "image": "img/g04.webp",
+      "image_brief": "Ảnh chụp trong cửa hàng quần áo: nhiều áo và quần treo trên giá inox dài. Không có người; phía sau là gương lớn và bục thử đồ.",
+      "audio": "audio/g04.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 4. Look at the picture marked number 4 in your test book.",
+          "vi": "Câu 4. Hãy nhìn bức ảnh số 4 trong đề."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(A) Clothes are folded in a drawer.",
+          "vi": "(A) Clothes are folded in a drawer."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(B) Clothes are hanging on a rack.",
+          "vi": "(B) Clothes are hanging on a rack."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(C) Clothes are being ironed.",
+          "vi": "(C) Clothes are being ironed."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(D) Clothes are piled on the floor.",
+          "vi": "(D) Clothes are piled on the floor."
+        }
+      ],
+      "questions": [
+        {
+          "no": 4,
+          "type": "p1_scene_objects",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Clothes are folded in a drawer."
+            },
+            {
+              "key": "B",
+              "text": "Clothes are hanging on a rack."
+            },
+            {
+              "key": "C",
+              "text": "Clothes are being ironed."
+            },
+            {
+              "key": "D",
+              "text": "Clothes are piled on the floor."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Quần áo treo trên giá nên 'hanging on a rack' đúng.",
+            "why_wrong": {
+              "A": "Không nằm trong ngăn kéo.",
+              "C": "Không có bàn ủi.",
+              "D": "Không đống dưới sàn."
+            },
+            "translation_vi": "Quần áo đang treo trên giá."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "part": 1,
+      "image": "img/g05.webp",
+      "image_brief": "Ảnh chụp trong kho: các thùng các-tông nâu xếp chồng ngay ngắn trên một pallet gỗ. Không có người; phía sau là kệ kho cao và xe nâng đỗ xa.",
+      "audio": "audio/g05.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 5. Look at the picture marked number 5 in your test book.",
+          "vi": "Câu 5. Hãy nhìn bức ảnh số 5 trong đề."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(A) Boxes are being opened.",
+          "vi": "(A) Boxes are being opened."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(B) Boxes are scattered on the floor.",
+          "vi": "(B) Boxes are scattered on the floor."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(C) Boxes are stacked on a pallet.",
+          "vi": "(C) Boxes are stacked on a pallet."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(D) Boxes are being loaded onto a truck.",
+          "vi": "(D) Boxes are being loaded onto a truck."
+        }
+      ],
+      "questions": [
+        {
+          "no": 5,
+          "type": "p1_scene_objects",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Boxes are being opened."
+            },
+            {
+              "key": "B",
+              "text": "Boxes are scattered on the floor."
+            },
+            {
+              "key": "C",
+              "text": "Boxes are stacked on a pallet."
+            },
+            {
+              "key": "D",
+              "text": "Boxes are being loaded onto a truck."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Các thùng xếp chồng trên pallet nên 'stacked on a pallet' đúng.",
+            "why_wrong": {
+              "A": "Không có thùng nào mở.",
+              "B": "Thùng xếp gọn, không rải rác.",
+              "D": "Không có xe tải trong ảnh."
+            },
+            "translation_vi": "Các thùng được xếp chồng trên pallet."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g06",
+      "part": 1,
+      "image": "img/g06.webp",
+      "image_brief": "Ảnh chụp trên bàn ăn: một bình gốm trắng cắm hoa tươi nhiều màu. Không có người; phía sau là tường sáng và hai khung tranh trống.",
+      "audio": "audio/g06.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 6. Look at the picture marked number 6 in your test book.",
+          "vi": "Câu 6. Hãy nhìn bức ảnh số 6 trong đề."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "(A) Flowers are being planted.",
+          "vi": "(A) Flowers are being planted."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "(B) Flowers are in a box.",
+          "vi": "(B) Flowers are in a box."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "(C) Flowers are on the floor.",
+          "vi": "(C) Flowers are on the floor."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "(D) Flowers are in a vase.",
+          "vi": "(D) Flowers are in a vase."
+        }
+      ],
+      "questions": [
+        {
+          "no": 6,
+          "type": "p1_scene_objects",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Flowers are being planted."
+            },
+            {
+              "key": "B",
+              "text": "Flowers are in a box."
+            },
+            {
+              "key": "C",
+              "text": "Flowers are on the floor."
+            },
+            {
+              "key": "D",
+              "text": "Flowers are in a vase."
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Hoa đang ở trong bình nên 'in a vase' đúng.",
+            "why_wrong": {
+              "A": "Không có trồng cây.",
+              "B": "Không nằm trong hộp.",
+              "C": "Bình hoa đặt trên bàn, không dưới sàn."
+            },
+            "translation_vi": "Hoa được cắm trong bình."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g07",
+      "part": 1,
+      "image": "img/g07.webp",
+      "image_brief": "Ảnh chụp trong phòng họp: tám chiếc ghế gỗ xếp quanh một bàn dài. Không có người; trên bàn có bình nước và các cốc úp.",
+      "audio": "audio/g07.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 7. Look at the picture marked number 7 in your test book.",
+          "vi": "Câu 7. Hãy nhìn bức ảnh số 7 trong đề."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "(A) Chairs are arranged around a table.",
+          "vi": "(A) Chairs are arranged around a table."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "(B) Chairs are stacked in a corner.",
+          "vi": "(B) Chairs are stacked in a corner."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "(C) Chairs are being repaired.",
+          "vi": "(C) Chairs are being repaired."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "(D) Chairs are on the table.",
+          "vi": "(D) Chairs are on the table."
+        }
+      ],
+      "questions": [
+        {
+          "no": 7,
+          "type": "p1_scene_objects",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Chairs are arranged around a table."
+            },
+            {
+              "key": "B",
+              "text": "Chairs are stacked in a corner."
+            },
+            {
+              "key": "C",
+              "text": "Chairs are being repaired."
+            },
+            {
+              "key": "D",
+              "text": "Chairs are on the table."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Ghế được xếp quanh bàn nên 'arranged around a table' đúng.",
+            "why_wrong": {
+              "B": "Ghế không bị chồng góc.",
+              "C": "Không có sửa chữa.",
+              "D": "Ghế đứng dưới sàn, không trên bàn."
+            },
+            "translation_vi": "Ghế được xếp quanh bàn."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g08",
+      "part": 1,
+      "image": "img/g08.webp",
+      "image_brief": "Ảnh chụp cạnh cửa ra vào: nhiều chiếc ô đóng, cán hướng lên, đứng trong giá kim loại. Không có người; nền gạch và tường sơn nhạt.",
+      "audio": "audio/g08.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 8. Look at the picture marked number 8 in your test book.",
+          "vi": "Câu 8. Hãy nhìn bức ảnh số 8 trong đề."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(A) Umbrellas are open on the floor.",
+          "vi": "(A) Umbrellas are open on the floor."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(B) Umbrellas are in a stand.",
+          "vi": "(B) Umbrellas are in a stand."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(C) Umbrellas are being sold.",
+          "vi": "(C) Umbrellas are being sold."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(D) Umbrellas are hanging on the wall.",
+          "vi": "(D) Umbrellas are hanging on the wall."
+        }
+      ],
+      "questions": [
+        {
+          "no": 8,
+          "type": "p1_scene_objects",
+          "difficulty": 4,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Umbrellas are open on the floor."
+            },
+            {
+              "key": "B",
+              "text": "Umbrellas are in a stand."
+            },
+            {
+              "key": "C",
+              "text": "Umbrellas are being sold."
+            },
+            {
+              "key": "D",
+              "text": "Umbrellas are hanging on the wall."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Ô đang đứng trong giá nên 'in a stand' đúng.",
+            "why_wrong": {
+              "A": "Ô đóng, không mở.",
+              "C": "Không có người bán.",
+              "D": "Ô ở trong giá, không treo tường."
+            },
+            "translation_vi": "Những chiếc ô đứng trong giá."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g09",
+      "part": 1,
+      "image": "img/g09.webp",
+      "image_brief": "Ảnh chụp trong thư viện: sách xếp kín các ngăn trên kệ gỗ cao. Không có người; phía trước có bàn đọc trống và đèn bàn.",
+      "audio": "audio/g09.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 9. Look at the picture marked number 9 in your test book.",
+          "vi": "Câu 9. Hãy nhìn bức ảnh số 9 trong đề."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(A) Books are in a bag.",
+          "vi": "(A) Books are in a bag."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(B) Books are being read.",
+          "vi": "(B) Books are being read."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(C) Books are on the shelves.",
+          "vi": "(C) Books are on the shelves."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(D) Books are on the floor.",
+          "vi": "(D) Books are on the floor."
+        }
+      ],
+      "questions": [
+        {
+          "no": 9,
+          "type": "p1_scene_objects",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Books are in a bag."
+            },
+            {
+              "key": "B",
+              "text": "Books are being read."
+            },
+            {
+              "key": "C",
+              "text": "Books are on the shelves."
+            },
+            {
+              "key": "D",
+              "text": "Books are on the floor."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Sách nằm trên kệ nên 'on the shelves' đúng.",
+            "why_wrong": {
+              "A": "Không có túi.",
+              "B": "Không ai đọc.",
+              "D": "Sách trên kệ, không dưới sàn."
+            },
+            "translation_vi": "Sách được xếp trên kệ."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g10",
+      "part": 1,
+      "image": "img/g10.webp",
+      "image_brief": "Ảnh chụp trên bàn thợ: búa, tua vít, cờ lê và thước cuộn đặt rải trên mặt bàn gỗ. Không có người; phía sau là bảng treo dụng cụ.",
+      "audio": "audio/g10.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 10. Look at the picture marked number 10 in your test book.",
+          "vi": "Câu 10. Hãy nhìn bức ảnh số 10 trong đề."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "(A) Tools are in a toolbox.",
+          "vi": "(A) Tools are in a toolbox."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "(B) Tools are being used.",
+          "vi": "(B) Tools are being used."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "(C) Tools are hanging outside.",
+          "vi": "(C) Tools are hanging outside."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "(D) Tools are on a workbench.",
+          "vi": "(D) Tools are on a workbench."
+        }
+      ],
+      "questions": [
+        {
+          "no": 10,
+          "type": "p1_scene_objects",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Tools are in a toolbox."
+            },
+            {
+              "key": "B",
+              "text": "Tools are being used."
+            },
+            {
+              "key": "C",
+              "text": "Tools are hanging outside."
+            },
+            {
+              "key": "D",
+              "text": "Tools are on a workbench."
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Dụng cụ nằm trên bàn thợ nên 'on a workbench' đúng.",
+            "why_wrong": {
+              "A": "Không nằm trong hộp.",
+              "B": "Không có người dùng.",
+              "C": "Không treo bên ngoài."
+            },
+            "translation_vi": "Dụng cụ đặt trên bàn làm việc."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g11",
+      "part": 1,
+      "image": "img/g11.webp",
+      "image_brief": "Ảnh chụp trong bếp: bát đĩa bẩn xếp trong bồn rửa inox, vòi nước đang chảy. Không có người; bên cạnh có chai nước rửa bát.",
+      "audio": "audio/g11.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 11. Look at the picture marked number 11 in your test book.",
+          "vi": "Câu 11. Hãy nhìn bức ảnh số 11 trong đề."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "(A) Dishes are in the sink.",
+          "vi": "(A) Dishes are in the sink."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "(B) Dishes are on the table.",
+          "vi": "(B) Dishes are on the table."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "(C) Dishes are in a cupboard.",
+          "vi": "(C) Dishes are in a cupboard."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "(D) Dishes are being served.",
+          "vi": "(D) Dishes are being served."
+        }
+      ],
+      "questions": [
+        {
+          "no": 11,
+          "type": "p1_scene_objects",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Dishes are in the sink."
+            },
+            {
+              "key": "B",
+              "text": "Dishes are on the table."
+            },
+            {
+              "key": "C",
+              "text": "Dishes are in a cupboard."
+            },
+            {
+              "key": "D",
+              "text": "Dishes are being served."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Bát đĩa nằm trong bồn rửa nên 'in the sink' đúng.",
+            "why_wrong": {
+              "B": "Không ở trên bàn.",
+              "C": "Không trong tủ.",
+              "D": "Không có người phục vụ."
+            },
+            "translation_vi": "Bát đĩa đang ở trong bồn rửa."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g12",
+      "part": 1,
+      "image": "img/g12.webp",
+      "image_brief": "Ảnh chụp ngoài ban công: năm chậu cây xanh đặt thành hàng trên sàn gạch. Không có người; phía sau là lan can sắt và tòa nhà đối diện.",
+      "audio": "audio/g12.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 12. Look at the picture marked number 12 in your test book.",
+          "vi": "Câu 12. Hãy nhìn bức ảnh số 12 trong đề."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(A) Plants are inside a car.",
+          "vi": "(A) Plants are inside a car."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(B) Plants are on the balcony.",
+          "vi": "(B) Plants are on the balcony."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(C) Plants are being watered.",
+          "vi": "(C) Plants are being watered."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(D) Plants are in a shop window.",
+          "vi": "(D) Plants are in a shop window."
+        }
+      ],
+      "questions": [
+        {
+          "no": 12,
+          "type": "p1_scene_objects",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Plants are inside a car."
+            },
+            {
+              "key": "B",
+              "text": "Plants are on the balcony."
+            },
+            {
+              "key": "C",
+              "text": "Plants are being watered."
+            },
+            {
+              "key": "D",
+              "text": "Plants are in a shop window."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Các chậu cây đặt trên ban công nên 'on the balcony' đúng.",
+            "why_wrong": {
+              "A": "Không có xe hơi.",
+              "C": "Không ai tưới.",
+              "D": "Không phải cửa hàng."
+            },
+            "translation_vi": "Cây được đặt trên ban công."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g13",
+      "part": 1,
+      "image": "img/g13.webp",
+      "image_brief": "Ảnh chụp từ trên cao: nhiều xe hơi đỗ thành hàng trong bãi có vạch kẻ trắng. Không có người; phía sau là hàng rào và tòa nhà văn phòng.",
+      "audio": "audio/g13.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 13. Look at the picture marked number 13 in your test book.",
+          "vi": "Câu 13. Hãy nhìn bức ảnh số 13 trong đề."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(A) Cars are moving on a road.",
+          "vi": "(A) Cars are moving on a road."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(B) Cars are being washed.",
+          "vi": "(B) Cars are being washed."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(C) Cars are parked in a lot.",
+          "vi": "(C) Cars are parked in a lot."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(D) Cars are in a showroom.",
+          "vi": "(D) Cars are in a showroom."
+        }
+      ],
+      "questions": [
+        {
+          "no": 13,
+          "type": "p1_scene_objects",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Cars are moving on a road."
+            },
+            {
+              "key": "B",
+              "text": "Cars are being washed."
+            },
+            {
+              "key": "C",
+              "text": "Cars are parked in a lot."
+            },
+            {
+              "key": "D",
+              "text": "Cars are in a showroom."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Xe đỗ trong bãi nên 'parked in a lot' đúng.",
+            "why_wrong": {
+              "A": "Không có xe đang chạy.",
+              "B": "Không có rửa xe.",
+              "D": "Không phải phòng trưng bày."
+            },
+            "translation_vi": "Xe hơi đỗ trong bãi."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g14",
+      "part": 1,
+      "image": "img/g14.webp",
+      "image_brief": "Ảnh chụp trong hành lang: hai tấm biển trống gắn phẳng trên tường, không có chữ đọc được. Không có người; bên dưới có ghế băng và cây cảnh.",
+      "audio": "audio/g14.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 14. Look at the picture marked number 14 in your test book.",
+          "vi": "Câu 14. Hãy nhìn bức ảnh số 14 trong đề."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "(A) Signs are lying on the floor.",
+          "vi": "(A) Signs are lying on the floor."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "(B) Signs are being printed.",
+          "vi": "(B) Signs are being printed."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "(C) Signs are leaning against a door.",
+          "vi": "(C) Signs are leaning against a door."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "(D) Signs are mounted on the wall.",
+          "vi": "(D) Signs are mounted on the wall."
+        }
+      ],
+      "questions": [
+        {
+          "no": 14,
+          "type": "p1_scene_objects",
+          "difficulty": 4,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Signs are lying on the floor."
+            },
+            {
+              "key": "B",
+              "text": "Signs are being printed."
+            },
+            {
+              "key": "C",
+              "text": "Signs are leaning against a door."
+            },
+            {
+              "key": "D",
+              "text": "Signs are mounted on the wall."
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Biển được gắn trên tường nên 'mounted on the wall' đúng.",
+            "why_wrong": {
+              "A": "Biển không nằm dưới sàn.",
+              "B": "Không có máy in.",
+              "C": "Không dựa vào cửa."
+            },
+            "translation_vi": "Các tấm biển được gắn trên tường."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g15",
+      "part": 1,
+      "image": "img/g15.webp",
+      "image_brief": "Ảnh chụp gần vỉ nướng: thức ăn đang nướng trên vỉ sắt, khói nhẹ bốc lên. Không có người; bên cạnh có kẹp gắp và khay nhôm.",
+      "audio": "audio/g15.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 15. Look at the picture marked number 15 in your test book.",
+          "vi": "Câu 15. Hãy nhìn bức ảnh số 15 trong đề."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "(A) Food is cooking on a grill.",
+          "vi": "(A) Food is cooking on a grill."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "(B) Food is in a refrigerator.",
+          "vi": "(B) Food is in a refrigerator."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "(C) Food is being packed.",
+          "vi": "(C) Food is being packed."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "(D) Food is on a plate.",
+          "vi": "(D) Food is on a plate."
+        }
+      ],
+      "questions": [
+        {
+          "no": 15,
+          "type": "p1_scene_objects",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Food is cooking on a grill."
+            },
+            {
+              "key": "B",
+              "text": "Food is in a refrigerator."
+            },
+            {
+              "key": "C",
+              "text": "Food is being packed."
+            },
+            {
+              "key": "D",
+              "text": "Food is on a plate."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Thức ăn đang nướng trên vỉ nên 'cooking on a grill' đúng.",
+            "why_wrong": {
+              "B": "Không ở trong tủ lạnh.",
+              "C": "Không có đóng gói.",
+              "D": "Thức ăn trên vỉ, không trên đĩa."
+            },
+            "translation_vi": "Thức ăn đang được nướng."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g16",
+      "part": 1,
+      "image": "img/g16.webp",
+      "image_brief": "Ảnh chụp trong nhà: bốn đôi giày đặt sát nhau cạnh cửa ra vào. Không có người; phía trên có móc treo áo khoác và gương nhỏ.",
+      "audio": "audio/g16.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 16. Look at the picture marked number 16 in your test book.",
+          "vi": "Câu 16. Hãy nhìn bức ảnh số 16 trong đề."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(A) Shoes are being cleaned.",
+          "vi": "(A) Shoes are being cleaned."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(B) Shoes are by the door.",
+          "vi": "(B) Shoes are by the door."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(C) Shoes are on a shelf.",
+          "vi": "(C) Shoes are on a shelf."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(D) Shoes are in a box.",
+          "vi": "(D) Shoes are in a box."
+        }
+      ],
+      "questions": [
+        {
+          "no": 16,
+          "type": "p1_scene_objects",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Shoes are being cleaned."
+            },
+            {
+              "key": "B",
+              "text": "Shoes are by the door."
+            },
+            {
+              "key": "C",
+              "text": "Shoes are on a shelf."
+            },
+            {
+              "key": "D",
+              "text": "Shoes are in a box."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Giày đặt cạnh cửa nên 'by the door' đúng.",
+            "why_wrong": {
+              "A": "Không ai lau giày.",
+              "C": "Không ở trên kệ.",
+              "D": "Không trong hộp."
+            },
+            "translation_vi": "Giày đặt cạnh cửa."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g17",
+      "part": 1,
+      "image": "img/g17.webp",
+      "image_brief": "Ảnh chụp hướng lên trần: sáu bóng đèn tròn gắn thành hai hàng trên trần trắng. Không có người; phía dưới là mép quạt trần.",
+      "audio": "audio/g17.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 17. Look at the picture marked number 17 in your test book.",
+          "vi": "Câu 17. Hãy nhìn bức ảnh số 17 trong đề."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(A) Lights are on the floor.",
+          "vi": "(A) Lights are on the floor."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(B) Lights are being changed.",
+          "vi": "(B) Lights are being changed."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(C) Lights are on the ceiling.",
+          "vi": "(C) Lights are on the ceiling."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(D) Lights are in a window.",
+          "vi": "(D) Lights are in a window."
+        }
+      ],
+      "questions": [
+        {
+          "no": 17,
+          "type": "p1_scene_objects",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Lights are on the floor."
+            },
+            {
+              "key": "B",
+              "text": "Lights are being changed."
+            },
+            {
+              "key": "C",
+              "text": "Lights are on the ceiling."
+            },
+            {
+              "key": "D",
+              "text": "Lights are in a window."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Đèn gắn trên trần nên 'on the ceiling' đúng.",
+            "why_wrong": {
+              "A": "Không dưới sàn.",
+              "B": "Không ai thay bóng.",
+              "D": "Không ở cửa sổ."
+            },
+            "translation_vi": "Đèn được gắn trên trần."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g18",
+      "part": 1,
+      "image": "img/g18.webp",
+      "image_brief": "Ảnh chụp trong kho: các thùng nhựa xanh xếp chồng trên pallet gỗ. Không có người; phía sau là cửa cuốn và kệ hàng.",
+      "audio": "audio/g18.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 18. Look at the picture marked number 18 in your test book.",
+          "vi": "Câu 18. Hãy nhìn bức ảnh số 18 trong đề."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "(A) Crates are being opened.",
+          "vi": "(A) Crates are being opened."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "(B) Crates are on a truck.",
+          "vi": "(B) Crates are on a truck."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "(C) Crates are scattered outside.",
+          "vi": "(C) Crates are scattered outside."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "(D) Crates are stacked on a pallet.",
+          "vi": "(D) Crates are stacked on a pallet."
+        }
+      ],
+      "questions": [
+        {
+          "no": 18,
+          "type": "p1_scene_objects",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Crates are being opened."
+            },
+            {
+              "key": "B",
+              "text": "Crates are on a truck."
+            },
+            {
+              "key": "C",
+              "text": "Crates are scattered outside."
+            },
+            {
+              "key": "D",
+              "text": "Crates are stacked on a pallet."
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Thùng xếp chồng trên pallet nên 'stacked on a pallet' đúng.",
+            "why_wrong": {
+              "A": "Không có thùng mở.",
+              "B": "Không có xe tải.",
+              "C": "Thùng trong kho, không ngoài trời."
+            },
+            "translation_vi": "Các thùng được xếp trên pallet."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g19",
+      "part": 1,
+      "image": "img/g19.webp",
+      "image_brief": "Ảnh chụp trong phòng tắm: khăn tắm trắng gấp gọn đặt trên giá inox ba tầng. Không có người; bên cạnh là bồn rửa và gương.",
+      "audio": "audio/g19.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 19. Look at the picture marked number 19 in your test book.",
+          "vi": "Câu 19. Hãy nhìn bức ảnh số 19 trong đề."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "(A) Towels are folded on a rack.",
+          "vi": "(A) Towels are folded on a rack."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "(B) Towels are hanging outside.",
+          "vi": "(B) Towels are hanging outside."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "(C) Towels are in a washing machine.",
+          "vi": "(C) Towels are in a washing machine."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "(D) Towels are on the floor.",
+          "vi": "(D) Towels are on the floor."
+        }
+      ],
+      "questions": [
+        {
+          "no": 19,
+          "type": "p1_scene_objects",
+          "difficulty": 4,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Towels are folded on a rack."
+            },
+            {
+              "key": "B",
+              "text": "Towels are hanging outside."
+            },
+            {
+              "key": "C",
+              "text": "Towels are in a washing machine."
+            },
+            {
+              "key": "D",
+              "text": "Towels are on the floor."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Khăn gấp gọn trên giá nên 'folded on a rack' đúng.",
+            "why_wrong": {
+              "B": "Không treo ngoài trời.",
+              "C": "Không trong máy giặt.",
+              "D": "Không dưới sàn."
+            },
+            "translation_vi": "Khăn được gấp trên giá."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g20",
+      "part": 1,
+      "image": "img/g20.webp",
+      "image_brief": "Ảnh chụp trên bàn làm việc: nhiều tờ giấy trắng xếp chồng, không có chữ đọc được. Không có người; bên cạnh có bút và cốc đựng bút.",
+      "audio": "audio/g20.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 20. Look at the picture marked number 20 in your test book.",
+          "vi": "Câu 20. Hãy nhìn bức ảnh số 20 trong đề."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(A) Papers are in a drawer.",
+          "vi": "(A) Papers are in a drawer."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(B) Papers are spread on a desk.",
+          "vi": "(B) Papers are spread on a desk."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(C) Papers are being printed.",
+          "vi": "(C) Papers are being printed."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(D) Papers are on a chair.",
+          "vi": "(D) Papers are on a chair."
+        }
+      ],
+      "questions": [
+        {
+          "no": 20,
+          "type": "p1_scene_objects",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Papers are in a drawer."
+            },
+            {
+              "key": "B",
+              "text": "Papers are spread on a desk."
+            },
+            {
+              "key": "C",
+              "text": "Papers are being printed."
+            },
+            {
+              "key": "D",
+              "text": "Papers are on a chair."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Giấy trải trên bàn nên 'spread on a desk' đúng.",
+            "why_wrong": {
+              "A": "Không trong ngăn kéo.",
+              "C": "Không có máy in.",
+              "D": "Không trên ghế."
+            },
+            "translation_vi": "Giấy được trải trên bàn."
+          }
+        }
+      ]
+    }
+  ]
+}

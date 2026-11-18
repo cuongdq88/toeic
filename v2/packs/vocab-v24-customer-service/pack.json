@@ -1,0 +1,555 @@
+{
+  "id": "vocab-v24-customer-service",
+  "kind": "vocab",
+  "title": "Từ vựng V24 – Chăm sóc khách hàng",
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "24 từ chủ đề chăm sóc khách hàng, tự chọn theo tần suất công sở, tự soạn ví dụ.",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 0
+    }
+  },
+  "words": [
+    {
+      "id": "w0001",
+      "word": "customer",
+      "pos": "n",
+      "ipa": "/ˈkʌstəmər/",
+      "meaning_vi": "khách hàng",
+      "definition_en": "a person who buys goods or services",
+      "examples": [
+        {
+          "en": "The customer asked for a replacement.",
+          "vi": "Khách hàng yêu cầu đổi sản phẩm."
+        }
+      ],
+      "collocations": [
+        "loyal customer",
+        "customer service"
+      ],
+      "family": [],
+      "topic": "v24_customer_service",
+      "level": 1
+    },
+    {
+      "id": "w0002",
+      "word": "satisfaction",
+      "pos": "n",
+      "ipa": "/ˌsætɪsˈfækʃn/",
+      "meaning_vi": "sự hài lòng",
+      "definition_en": "the feeling of being pleased with a service",
+      "examples": [
+        {
+          "en": "We measure customer satisfaction every quarter.",
+          "vi": "Chúng tôi đo mức hài lòng khách hàng mỗi quý."
+        }
+      ],
+      "collocations": [
+        "customer satisfaction",
+        "high satisfaction"
+      ],
+      "family": [
+        "satisfy (v)"
+      ],
+      "topic": "v24_customer_service",
+      "level": 3
+    },
+    {
+      "id": "w0003",
+      "word": "complaint",
+      "pos": "n",
+      "ipa": "/kəmˈpleɪnt/",
+      "meaning_vi": "lời phàn nàn",
+      "definition_en": "a statement that something is wrong",
+      "examples": [
+        {
+          "en": "The complaint was resolved within a day.",
+          "vi": "Lời phàn nàn được giải quyết trong một ngày."
+        }
+      ],
+      "collocations": [
+        "file a complaint",
+        "handle a complaint"
+      ],
+      "family": [
+        "complain (v)"
+      ],
+      "topic": "v24_customer_service",
+      "level": 2
+    },
+    {
+      "id": "w0004",
+      "word": "support",
+      "pos": "n",
+      "ipa": "/səˈpɔːrt/",
+      "meaning_vi": "hỗ trợ",
+      "definition_en": "help given to customers",
+      "examples": [
+        {
+          "en": "Technical support is available twenty-four hours a day.",
+          "vi": "Hỗ trợ kỹ thuật có sẵn hai mươi bốn giờ mỗi ngày."
+        }
+      ],
+      "collocations": [
+        "customer support",
+        "technical support"
+      ],
+      "family": [
+        "support (v)"
+      ],
+      "topic": "v24_customer_service",
+      "level": 2
+    },
+    {
+      "id": "w0005",
+      "word": "helpline",
+      "pos": "n",
+      "ipa": "/ˈhelplaɪn/",
+      "meaning_vi": "đường dây trợ giúp",
+      "definition_en": "a phone service that gives advice or support",
+      "examples": [
+        {
+          "en": "Call the helpline if you cannot log in.",
+          "vi": "Gọi đường dây trợ giúp nếu bạn không đăng nhập được."
+        }
+      ],
+      "collocations": [
+        "customer helpline",
+        "call the helpline"
+      ],
+      "family": [],
+      "topic": "v24_customer_service",
+      "level": 4
+    },
+    {
+      "id": "w0006",
+      "word": "courtesy",
+      "pos": "n",
+      "ipa": "/ˈkɜːrtəsi/",
+      "meaning_vi": "phép lịch sự",
+      "definition_en": "polite behavior toward other people",
+      "examples": [
+        {
+          "en": "Staff are trained to treat every caller with courtesy.",
+          "vi": "Nhân viên được đào tạo đối xử lịch sự với mọi người gọi."
+        }
+      ],
+      "collocations": [
+        "common courtesy",
+        "professional courtesy"
+      ],
+      "family": [
+        "courteous (adj)"
+      ],
+      "topic": "v24_customer_service",
+      "level": 4
+    },
+    {
+      "id": "w0007",
+      "word": "apology",
+      "pos": "n",
+      "ipa": "/əˈpɑːlədʒi/",
+      "meaning_vi": "lời xin lỗi",
+      "definition_en": "a statement saying sorry for a mistake",
+      "examples": [
+        {
+          "en": "The manager offered a sincere apology.",
+          "vi": "Quản lý đưa ra lời xin lỗi chân thành."
+        }
+      ],
+      "collocations": [
+        "accept an apology",
+        "letter of apology"
+      ],
+      "family": [
+        "apologize (v)"
+      ],
+      "topic": "v24_customer_service",
+      "level": 3
+    },
+    {
+      "id": "w0008",
+      "word": "resolution",
+      "pos": "n",
+      "ipa": "/ˌrezəˈluːʃn/",
+      "meaning_vi": "cách giải quyết",
+      "definition_en": "the act of solving a problem",
+      "examples": [
+        {
+          "en": "The resolution satisfied both sides.",
+          "vi": "Cách giải quyết làm hài lòng cả hai bên."
+        }
+      ],
+      "collocations": [
+        "quick resolution",
+        "dispute resolution"
+      ],
+      "family": [
+        "resolve (v)"
+      ],
+      "topic": "v24_customer_service",
+      "level": 4
+    },
+    {
+      "id": "w0009",
+      "word": "escalate",
+      "pos": "v",
+      "ipa": "/ˈeskəleɪt/",
+      "meaning_vi": "chuyển cấp xử lý",
+      "definition_en": "to pass a problem to a higher level of authority",
+      "examples": [
+        {
+          "en": "Escalate the case if the client remains unhappy.",
+          "vi": "Chuyển cấp vụ việc nếu khách vẫn không hài lòng."
+        }
+      ],
+      "collocations": [
+        "escalate an issue",
+        "escalate a complaint"
+      ],
+      "family": [
+        "escalation (n)"
+      ],
+      "topic": "v24_customer_service",
+      "level": 5
+    },
+    {
+      "id": "w0010",
+      "word": "assist",
+      "pos": "v",
+      "ipa": "/əˈsɪst/",
+      "meaning_vi": "hỗ trợ",
+      "definition_en": "to help someone",
+      "examples": [
+        {
+          "en": "A colleague will assist you with the form.",
+          "vi": "Một đồng nghiệp sẽ hỗ trợ bạn điền mẫu."
+        }
+      ],
+      "collocations": [
+        "assist a customer",
+        "assist with"
+      ],
+      "family": [
+        "assistance (n)"
+      ],
+      "topic": "v24_customer_service",
+      "level": 2
+    },
+    {
+      "id": "w0011",
+      "word": "greet",
+      "pos": "v",
+      "ipa": "/ɡriːt/",
+      "meaning_vi": "chào đón",
+      "definition_en": "to welcome someone politely",
+      "examples": [
+        {
+          "en": "Staff greet every guest at the entrance.",
+          "vi": "Nhân viên chào đón mọi khách ở lối vào."
+        }
+      ],
+      "collocations": [
+        "greet a guest",
+        "greet warmly"
+      ],
+      "family": [
+        "greeting (n)"
+      ],
+      "topic": "v24_customer_service",
+      "level": 2
+    },
+    {
+      "id": "w0012",
+      "word": "queue",
+      "pos": "n",
+      "ipa": "/kjuː/",
+      "meaning_vi": "hàng chờ",
+      "definition_en": "a line of people waiting for service",
+      "examples": [
+        {
+          "en": "The queue moved quickly after noon.",
+          "vi": "Hàng chờ di chuyển nhanh sau buổi trưa."
+        }
+      ],
+      "collocations": [
+        "join the queue",
+        "long queue"
+      ],
+      "family": [],
+      "topic": "v24_customer_service",
+      "level": 3
+    },
+    {
+      "id": "w0013",
+      "word": "wait time",
+      "pos": "n",
+      "ipa": "/weɪt taɪm/",
+      "meaning_vi": "thời gian chờ",
+      "definition_en": "the amount of time a customer waits",
+      "examples": [
+        {
+          "en": "We reduced the average wait time to five minutes.",
+          "vi": "Chúng tôi giảm thời gian chờ trung bình xuống năm phút."
+        }
+      ],
+      "collocations": [
+        "reduce wait time",
+        "average wait time"
+      ],
+      "family": [],
+      "topic": "v24_customer_service",
+      "level": 3
+    },
+    {
+      "id": "w0014",
+      "word": "service desk",
+      "pos": "n",
+      "ipa": "/ˈsɜːrvɪs desk/",
+      "meaning_vi": "quầy phục vụ",
+      "definition_en": "a desk where customers get help",
+      "examples": [
+        {
+          "en": "Please take your ticket to the service desk.",
+          "vi": "Vui lòng mang số đến quầy phục vụ."
+        }
+      ],
+      "collocations": [
+        "visit the service desk",
+        "service desk staff"
+      ],
+      "family": [],
+      "topic": "v24_customer_service",
+      "level": 2
+    },
+    {
+      "id": "w0015",
+      "word": "courteous",
+      "pos": "adj",
+      "ipa": "/ˈkɜːrtiəs/",
+      "meaning_vi": "lịch sự",
+      "definition_en": "polite and respectful",
+      "examples": [
+        {
+          "en": "The driver was courteous and helpful.",
+          "vi": "Tài xế lịch sự và nhiệt tình."
+        }
+      ],
+      "collocations": [
+        "courteous staff",
+        "courteous reply"
+      ],
+      "family": [
+        "courtesy (n)"
+      ],
+      "topic": "v24_customer_service",
+      "level": 4
+    },
+    {
+      "id": "w0016",
+      "word": "responsive",
+      "pos": "adj",
+      "ipa": "/rɪˈspɑːnsɪv/",
+      "meaning_vi": "phản hồi nhanh",
+      "definition_en": "quick to react to a request",
+      "examples": [
+        {
+          "en": "The support team is responsive to urgent tickets.",
+          "vi": "Nhóm hỗ trợ phản hồi nhanh với yêu cầu gấp."
+        }
+      ],
+      "collocations": [
+        "responsive service",
+        "quickly responsive"
+      ],
+      "family": [
+        "respond (v)"
+      ],
+      "topic": "v24_customer_service",
+      "level": 4
+    },
+    {
+      "id": "w0017",
+      "word": "satisfied",
+      "pos": "adj",
+      "ipa": "/ˈsætɪsfaɪd/",
+      "meaning_vi": "hài lòng",
+      "definition_en": "pleased with something",
+      "examples": [
+        {
+          "en": "Most customers were satisfied with the repair.",
+          "vi": "Phần lớn khách hài lòng với việc sửa chữa."
+        }
+      ],
+      "collocations": [
+        "highly satisfied",
+        "satisfied customer"
+      ],
+      "family": [
+        "satisfy (v)"
+      ],
+      "topic": "v24_customer_service",
+      "level": 2
+    },
+    {
+      "id": "w0018",
+      "word": "dissatisfied",
+      "pos": "adj",
+      "ipa": "/ˌdɪsˈsætɪsfaɪd/",
+      "meaning_vi": "không hài lòng",
+      "definition_en": "not pleased with something",
+      "examples": [
+        {
+          "en": "The dissatisfied client asked for a refund.",
+          "vi": "Khách không hài lòng yêu cầu hoàn tiền."
+        }
+      ],
+      "collocations": [
+        "dissatisfied customer",
+        "remain dissatisfied"
+      ],
+      "family": [
+        "satisfy (v)"
+      ],
+      "topic": "v24_customer_service",
+      "level": 3
+    },
+    {
+      "id": "w0019",
+      "word": "replacement",
+      "pos": "n",
+      "ipa": "/rɪˈpleɪsmənt/",
+      "meaning_vi": "sản phẩm thay thế",
+      "definition_en": "a new item given in place of a faulty one",
+      "examples": [
+        {
+          "en": "A replacement was sent at no extra cost.",
+          "vi": "Sản phẩm thay thế được gửi không tính thêm phí."
+        }
+      ],
+      "collocations": [
+        "send a replacement",
+        "free replacement"
+      ],
+      "family": [
+        "replace (v)"
+      ],
+      "topic": "v24_customer_service",
+      "level": 3
+    },
+    {
+      "id": "w0020",
+      "word": "on hold",
+      "pos": "phr",
+      "ipa": "/ɑːn hoʊld/",
+      "meaning_vi": "đang chờ máy",
+      "definition_en": "waiting on the telephone",
+      "examples": [
+        {
+          "en": "I was on hold for fifteen minutes.",
+          "vi": "Tôi chờ máy mười lăm phút."
+        }
+      ],
+      "collocations": [
+        "put on hold",
+        "stay on hold"
+      ],
+      "family": [],
+      "topic": "v24_customer_service",
+      "level": 3
+    },
+    {
+      "id": "w0021",
+      "word": "callback",
+      "pos": "n",
+      "ipa": "/ˈkɔːlbæk/",
+      "meaning_vi": "cuộc gọi lại",
+      "definition_en": "a phone call made to someone who asked for one",
+      "examples": [
+        {
+          "en": "The agent promised a callback before noon.",
+          "vi": "Nhân viên hứa gọi lại trước trưa."
+        }
+      ],
+      "collocations": [
+        "request a callback",
+        "schedule a callback"
+      ],
+      "family": [],
+      "topic": "v24_customer_service",
+      "level": 3
+    },
+    {
+      "id": "w0022",
+      "word": "priority",
+      "pos": "n",
+      "ipa": "/praɪˈɔːrəti/",
+      "meaning_vi": "sự ưu tiên",
+      "definition_en": "something treated as more important than others",
+      "examples": [
+        {
+          "en": "Safety is our highest priority.",
+          "vi": "An toàn là ưu tiên cao nhất của chúng tôi."
+        }
+      ],
+      "collocations": [
+        "top priority",
+        "high priority"
+      ],
+      "family": [
+        "prioritize (v)"
+      ],
+      "topic": "v24_customer_service",
+      "level": 2
+    },
+    {
+      "id": "w0023",
+      "word": "return",
+      "pos": "n",
+      "ipa": "/rɪˈtɜːrn/",
+      "meaning_vi": "việc trả hàng",
+      "definition_en": "the act of sending goods back",
+      "examples": [
+        {
+          "en": "The return must be made within thirty days.",
+          "vi": "Việc trả hàng phải thực hiện trong ba mươi ngày."
+        }
+      ],
+      "collocations": [
+        "return policy",
+        "process a return"
+      ],
+      "family": [
+        "return (v)"
+      ],
+      "topic": "v24_customer_service",
+      "level": 2
+    },
+    {
+      "id": "w0024",
+      "word": "after-sales",
+      "pos": "adj",
+      "ipa": "/ˈæftər seɪlz/",
+      "meaning_vi": "sau bán hàng",
+      "definition_en": "relating to services provided after a purchase",
+      "examples": [
+        {
+          "en": "The company offers excellent after-sales support.",
+          "vi": "Công ty cung cấp hỗ trợ sau bán hàng tốt."
+        }
+      ],
+      "collocations": [
+        "after-sales service",
+        "after-sales support"
+      ],
+      "family": [],
+      "topic": "v24_customer_service",
+      "level": 5
+    }
+  ]
+}

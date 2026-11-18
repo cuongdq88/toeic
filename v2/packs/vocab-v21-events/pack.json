@@ -1,0 +1,541 @@
+{
+  "id": "vocab-v21-events",
+  "kind": "vocab",
+  "title": "Từ vựng V21 – Sự kiện, hội nghị",
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "24 từ chủ đề sự kiện, hội nghị, tự chọn theo tần suất công sở, tự soạn ví dụ.",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 0
+    }
+  },
+  "words": [
+    {
+      "id": "w0001",
+      "word": "venue",
+      "pos": "n",
+      "ipa": "/ˈvenjuː/",
+      "meaning_vi": "địa điểm tổ chức",
+      "definition_en": "the place where an event happens",
+      "examples": [
+        {
+          "en": "The venue can hold five hundred guests.",
+          "vi": "Địa điểm có thể chứa năm trăm khách."
+        }
+      ],
+      "collocations": [
+        "event venue",
+        "change the venue"
+      ],
+      "family": [],
+      "topic": "v21_events",
+      "level": 3
+    },
+    {
+      "id": "w0002",
+      "word": "convention",
+      "pos": "n",
+      "ipa": "/kənˈvenʃn/",
+      "meaning_vi": "hội nghị lớn",
+      "definition_en": "a large meeting for people in the same industry",
+      "examples": [
+        {
+          "en": "The annual convention attracts buyers from Asia.",
+          "vi": "Hội nghị hằng năm thu hút người mua từ châu Á."
+        }
+      ],
+      "collocations": [
+        "annual convention",
+        "convention centre"
+      ],
+      "family": [],
+      "topic": "v21_events",
+      "level": 3
+    },
+    {
+      "id": "w0003",
+      "word": "exhibition",
+      "pos": "n",
+      "ipa": "/ˌeksɪˈbɪʃn/",
+      "meaning_vi": "triển lãm",
+      "definition_en": "a public show of products or art",
+      "examples": [
+        {
+          "en": "Our booth is near the entrance to the exhibition.",
+          "vi": "Quầy của chúng ta gần lối vào triển lãm."
+        }
+      ],
+      "collocations": [
+        "trade exhibition",
+        "hold an exhibition"
+      ],
+      "family": [
+        "exhibit (v)"
+      ],
+      "topic": "v21_events",
+      "level": 3
+    },
+    {
+      "id": "w0004",
+      "word": "booth",
+      "pos": "n",
+      "ipa": "/buːθ/",
+      "meaning_vi": "quầy trưng bày",
+      "definition_en": "a small stand used to display products at an event",
+      "examples": [
+        {
+          "en": "Two staff members stayed at the booth all day.",
+          "vi": "Hai nhân viên ở quầy cả ngày."
+        }
+      ],
+      "collocations": [
+        "exhibition booth",
+        "staff a booth"
+      ],
+      "family": [],
+      "topic": "v21_events",
+      "level": 3
+    },
+    {
+      "id": "w0005",
+      "word": "keynote",
+      "pos": "n",
+      "ipa": "/ˈkiːnoʊt/",
+      "meaning_vi": "bài phát biểu chính",
+      "definition_en": "the most important speech at a conference",
+      "examples": [
+        {
+          "en": "The keynote will be given by the chief executive.",
+          "vi": "Bài phát biểu chính do tổng giám đốc trình bày."
+        }
+      ],
+      "collocations": [
+        "keynote speech",
+        "deliver the keynote"
+      ],
+      "family": [],
+      "topic": "v21_events",
+      "level": 4
+    },
+    {
+      "id": "w0006",
+      "word": "workshop",
+      "pos": "n",
+      "ipa": "/ˈwɜːrkʃɑːp/",
+      "meaning_vi": "buổi hội thảo thực hành",
+      "definition_en": "a practical session where people learn by doing",
+      "examples": [
+        {
+          "en": "The workshop is limited to twenty participants.",
+          "vi": "Buổi hội thảo giới hạn hai mươi người."
+        }
+      ],
+      "collocations": [
+        "training workshop",
+        "run a workshop"
+      ],
+      "family": [],
+      "topic": "v21_events",
+      "level": 2
+    },
+    {
+      "id": "w0007",
+      "word": "seminar",
+      "pos": "n",
+      "ipa": "/ˈsemɪnɑːr/",
+      "meaning_vi": "hội thảo chuyên đề",
+      "definition_en": "a meeting for discussion or training on a subject",
+      "examples": [
+        {
+          "en": "She attended a seminar on export rules.",
+          "vi": "Cô ấy dự hội thảo về quy định xuất khẩu."
+        }
+      ],
+      "collocations": [
+        "attend a seminar",
+        "one-day seminar"
+      ],
+      "family": [],
+      "topic": "v21_events",
+      "level": 3
+    },
+    {
+      "id": "w0008",
+      "word": "registration",
+      "pos": "n",
+      "ipa": "/ˌredʒɪˈstreɪʃn/",
+      "meaning_vi": "việc đăng ký",
+      "definition_en": "the process of signing up for an event",
+      "examples": [
+        {
+          "en": "Registration opens at eight in the main hall.",
+          "vi": "Đăng ký mở lúc tám giờ ở sảnh chính."
+        }
+      ],
+      "collocations": [
+        "online registration",
+        "registration desk"
+      ],
+      "family": [
+        "register (v)"
+      ],
+      "topic": "v21_events",
+      "level": 2
+    },
+    {
+      "id": "w0009",
+      "word": "badge",
+      "pos": "n",
+      "ipa": "/bædʒ/",
+      "meaning_vi": "thẻ tên",
+      "definition_en": "a card worn to show a person's name or role",
+      "examples": [
+        {
+          "en": "Please wear your badge at all times.",
+          "vi": "Vui lòng đeo thẻ tên mọi lúc."
+        }
+      ],
+      "collocations": [
+        "name badge",
+        "conference badge"
+      ],
+      "family": [],
+      "topic": "v21_events",
+      "level": 2
+    },
+    {
+      "id": "w0010",
+      "word": "plenary",
+      "pos": "adj",
+      "ipa": "/ˈpliːnəri/",
+      "meaning_vi": "toàn thể",
+      "definition_en": "describing a session attended by all participants",
+      "examples": [
+        {
+          "en": "The plenary session starts after lunch.",
+          "vi": "Phiên toàn thể bắt đầu sau bữa trưa."
+        }
+      ],
+      "collocations": [
+        "plenary session",
+        "plenary speaker"
+      ],
+      "family": [],
+      "topic": "v21_events",
+      "level": 5
+    },
+    {
+      "id": "w0011",
+      "word": "session",
+      "pos": "n",
+      "ipa": "/ˈseʃn/",
+      "meaning_vi": "phiên họp",
+      "definition_en": "a period of time set aside for one activity at an event",
+      "examples": [
+        {
+          "en": "The morning session covers market trends.",
+          "vi": "Phiên sáng đề cập xu hướng thị trường."
+        }
+      ],
+      "collocations": [
+        "morning session",
+        "breakout session"
+      ],
+      "family": [],
+      "topic": "v21_events",
+      "level": 2
+    },
+    {
+      "id": "w0012",
+      "word": "sponsor",
+      "pos": "n",
+      "ipa": "/ˈspɑːnsər/",
+      "meaning_vi": "nhà tài trợ",
+      "definition_en": "a company that pays to support an event",
+      "examples": [
+        {
+          "en": "The main sponsor has a stand near the stage.",
+          "vi": "Nhà tài trợ chính có quầy gần sân khấu."
+        }
+      ],
+      "collocations": [
+        "event sponsor",
+        "main sponsor"
+      ],
+      "family": [
+        "sponsor (v)"
+      ],
+      "topic": "v21_events",
+      "level": 3
+    },
+    {
+      "id": "w0013",
+      "word": "exhibitor",
+      "pos": "n",
+      "ipa": "/ɪɡˈzɪbɪtər/",
+      "meaning_vi": "đơn vị triển lãm",
+      "definition_en": "a company or person showing products at an exhibition",
+      "examples": [
+        {
+          "en": "Exhibitors must set up before nine.",
+          "vi": "Đơn vị triển lãm phải bày hàng trước chín giờ."
+        }
+      ],
+      "collocations": [
+        "exhibitor list",
+        "exhibitor badge"
+      ],
+      "family": [
+        "exhibit (v)"
+      ],
+      "topic": "v21_events",
+      "level": 4
+    },
+    {
+      "id": "w0014",
+      "word": "organizer",
+      "pos": "n",
+      "ipa": "/ˈɔːrɡənaɪzər/",
+      "meaning_vi": "ban tổ chức",
+      "definition_en": "a person or group that plans an event",
+      "examples": [
+        {
+          "en": "The organizer sent the final schedule by e-mail.",
+          "vi": "Ban tổ chức gửi lịch cuối qua email."
+        }
+      ],
+      "collocations": [
+        "event organizer",
+        "contact the organizer"
+      ],
+      "family": [
+        "organize (v)"
+      ],
+      "topic": "v21_events",
+      "level": 3
+    },
+    {
+      "id": "w0015",
+      "word": "setup",
+      "pos": "n",
+      "ipa": "/ˈsetʌp/",
+      "meaning_vi": "việc bày biện, lắp đặt",
+      "definition_en": "the way equipment or furniture is arranged",
+      "examples": [
+        {
+          "en": "The setup takes about two hours.",
+          "vi": "Việc lắp đặt mất khoảng hai giờ."
+        }
+      ],
+      "collocations": [
+        "room setup",
+        "setup time"
+      ],
+      "family": [
+        "set up (phr v)"
+      ],
+      "topic": "v21_events",
+      "level": 3
+    },
+    {
+      "id": "w0016",
+      "word": "teardown",
+      "pos": "n",
+      "ipa": "/ˈtɪrdaʊn/",
+      "meaning_vi": "việc tháo dỡ",
+      "definition_en": "the process of taking down equipment after an event",
+      "examples": [
+        {
+          "en": "Teardown begins immediately after the closing speech.",
+          "vi": "Việc tháo dỡ bắt đầu ngay sau lời bế mạc."
+        }
+      ],
+      "collocations": [
+        "teardown crew",
+        "after teardown"
+      ],
+      "family": [
+        "tear down (phr v)"
+      ],
+      "topic": "v21_events",
+      "level": 5
+    },
+    {
+      "id": "w0017",
+      "word": "audiovisual",
+      "pos": "adj",
+      "ipa": "/ˌɔːdioʊˈvɪʒuəl/",
+      "meaning_vi": "âm thanh và hình ảnh",
+      "definition_en": "relating to sound and video equipment",
+      "examples": [
+        {
+          "en": "The audiovisual team tested the screens.",
+          "vi": "Nhóm âm thanh hình ảnh kiểm tra màn hình."
+        }
+      ],
+      "collocations": [
+        "audiovisual equipment",
+        "audiovisual team"
+      ],
+      "family": [],
+      "topic": "v21_events",
+      "level": 5
+    },
+    {
+      "id": "w0018",
+      "word": "catering",
+      "pos": "n",
+      "ipa": "/ˈkeɪtərɪŋ/",
+      "meaning_vi": "dịch vụ ăn uống",
+      "definition_en": "the business of providing food for events",
+      "examples": [
+        {
+          "en": "The catering includes two coffee breaks.",
+          "vi": "Dịch vụ ăn uống gồm hai lần nghỉ cà phê."
+        }
+      ],
+      "collocations": [
+        "event catering",
+        "catering company"
+      ],
+      "family": [
+        "cater (v)"
+      ],
+      "topic": "v21_events",
+      "level": 3
+    },
+    {
+      "id": "w0019",
+      "word": "guest speaker",
+      "pos": "n",
+      "ipa": "/ɡest ˈspiːkər/",
+      "meaning_vi": "diễn giả khách mời",
+      "definition_en": "a speaker invited from outside an organization",
+      "examples": [
+        {
+          "en": "The guest speaker will join by video link.",
+          "vi": "Diễn giả khách mời sẽ tham gia qua video."
+        }
+      ],
+      "collocations": [
+        "invite a guest speaker",
+        "guest speaker session"
+      ],
+      "family": [],
+      "topic": "v21_events",
+      "level": 3
+    },
+    {
+      "id": "w0020",
+      "word": "networking",
+      "pos": "n",
+      "ipa": "/ˈnetwɜːrkɪŋ/",
+      "meaning_vi": "việc kết nối quan hệ",
+      "definition_en": "meeting people to build professional contacts",
+      "examples": [
+        {
+          "en": "The reception is a good chance for networking.",
+          "vi": "Buổi tiếp đón là cơ hội tốt để kết nối."
+        }
+      ],
+      "collocations": [
+        "networking event",
+        "networking opportunity"
+      ],
+      "family": [
+        "network (v)"
+      ],
+      "topic": "v21_events",
+      "level": 3
+    },
+    {
+      "id": "w0021",
+      "word": "program",
+      "pos": "n",
+      "ipa": "/ˈproʊɡræm/",
+      "meaning_vi": "chương trình",
+      "definition_en": "a schedule of events and activities",
+      "examples": [
+        {
+          "en": "The full program is on the conference website.",
+          "vi": "Chương trình đầy đủ ở trên website hội nghị."
+        }
+      ],
+      "collocations": [
+        "conference program",
+        "printed program"
+      ],
+      "family": [],
+      "topic": "v21_events",
+      "level": 1
+    },
+    {
+      "id": "w0022",
+      "word": "conference",
+      "pos": "n",
+      "ipa": "/ˈkɑːnfərəns/",
+      "meaning_vi": "hội nghị",
+      "definition_en": "a large formal meeting for discussion",
+      "examples": [
+        {
+          "en": "She is attending a conference in Berlin.",
+          "vi": "Cô ấy đang dự hội nghị ở Berlin."
+        }
+      ],
+      "collocations": [
+        "attend a conference",
+        "conference room"
+      ],
+      "family": [],
+      "topic": "v21_events",
+      "level": 2
+    },
+    {
+      "id": "w0023",
+      "word": "roundtable",
+      "pos": "n",
+      "ipa": "/ˈraʊndteɪbl/",
+      "meaning_vi": "bàn tròn thảo luận",
+      "definition_en": "a discussion where everyone sits together as equals",
+      "examples": [
+        {
+          "en": "The roundtable brought together five regulators.",
+          "vi": "Bàn tròn thảo luận quy tụ năm cơ quan quản lý."
+        }
+      ],
+      "collocations": [
+        "roundtable discussion",
+        "host a roundtable"
+      ],
+      "family": [],
+      "topic": "v21_events",
+      "level": 4
+    },
+    {
+      "id": "w0024",
+      "word": "name tag",
+      "pos": "n",
+      "ipa": "/neɪm tæɡ/",
+      "meaning_vi": "thẻ tên",
+      "definition_en": "a small label worn to show your name",
+      "examples": [
+        {
+          "en": "Write your company name on the name tag.",
+          "vi": "Viết tên công ty lên thẻ tên."
+        }
+      ],
+      "collocations": [
+        "wear a name tag",
+        "print name tags"
+      ],
+      "family": [],
+      "topic": "v21_events",
+      "level": 2
+    }
+  ]
+}

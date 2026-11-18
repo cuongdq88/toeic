@@ -1,0 +1,57 @@
+{
+  "id": "lesson-g15-participles",
+  "kind": "lesson",
+  "title": "Phân từ V-ing và V-ed",
+  "topic": "g15_participles",
+  "parts": [
+    5
+  ],
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "Bài ngữ pháp g15 kèm gói luyện practice-p5-participle-01.",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 0
+    }
+  },
+  "sections": [
+    {
+      "heading": "Hai loại phân từ",
+      "body": "**V-ing** mang nghĩa chủ động hoặc đang diễn ra: *the man sitting by the door*. **V-ed/V3** mang nghĩa bị động hoặc đã hoàn thành: *the documents signed yesterday*. Phân từ có thể rút gọn mệnh đề quan hệ hoặc tạo mệnh đề trạng ngữ."
+    },
+    {
+      "heading": "Các mẫu thường gặp",
+      "body": "| Mẫu | Ví dụ |\n|---|---|\n| Rút gọn chủ động | the staff working late |\n| Rút gọn bị động | the report written last week |\n| Nguyên nhân | Noticing the error, she stopped. |\n| Hoàn thành trước | Having finished the report, he left. |\n| So sánh | Compared with last year, ... |"
+    },
+    {
+      "heading": "Mẹo nhận diện trong đề TOEIC",
+      "body": "Xác định danh từ mà phân từ bổ nghĩa. Nếu danh từ **tự làm hành động**, dùng V-ing. Nếu danh từ **bị tác động**, dùng V-ed/V3. Nếu hành động đã xong trước hành động chính, dùng 'Having + V3'."
+    },
+    {
+      "heading": "Bẫy thường gặp",
+      "body": "Không chọn V-ing chỉ vì thấy hợp nghĩa; phải kiểm tra chủ động/bị động. 'Having + V3' chỉ dùng khi rõ hai hành động cùng chủ ngữ và hành động đầu đã hoàn thành. Sau 'when/while' có thể dùng phân từ khi chủ ngữ đồng nhất, nhưng đừng lược bỏ nếu gây nhập nhằng."
+    }
+  ],
+  "examples": [
+    {
+      "en": "The documents signed yesterday are now on the server.",
+      "vi": "Tài liệu ký hôm qua hiện đã ở trên máy chủ.",
+      "note": "Tài liệu bị ký nên dùng V-ed."
+    },
+    {
+      "en": "The technician working on the machine is from Germany.",
+      "vi": "Kỹ thuật viên đang làm việc với máy đến từ Đức.",
+      "note": "Kỹ thuật viên chủ động làm nên dùng V-ing."
+    },
+    {
+      "en": "Having reviewed the figures, the board approved the plan.",
+      "vi": "Sau khi xem lại số liệu, hội đồng duyệt kế hoạch.",
+      "note": "Hành động xem xét hoàn thành trước."
+    }
+  ],
+  "practice_pack": "practice-p5-participle-01"
+}

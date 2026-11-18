@@ -1,0 +1,57 @@
+{
+  "id": "lesson-g06-subject-verb-agreement",
+  "kind": "lesson",
+  "title": "Hòa hợp chủ ngữ – động từ",
+  "topic": "g06_subject_verb_agreement",
+  "parts": [
+    5
+  ],
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "Bài ngữ pháp g06 kèm gói luyện practice-p5-subject-verb-agreement-01.",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 0
+    }
+  },
+  "sections": [
+    {
+      "heading": "Cốt lõi cần nhớ",
+      "body": "Động từ chia theo **chủ ngữ chính**, không theo cụm giới từ đứng sau. Hãy bỏ phần bổ nghĩa trong ngoặc để tìm chủ ngữ thật: *The list (of items) ___*. Ở thì hiện tại, chủ ngữ số ít thêm -s; chủ ngữ số nhiều giữ nguyên."
+    },
+    {
+      "heading": "Các mẫu thường gặp",
+      "body": "| Mẫu | Động từ |\n|---|---|\n| The number of + N số nhiều | số ít |\n| A number of + N số nhiều | số nhiều |\n| Each / Every / One of + N số nhiều | số ít |\n| Neither ... nor / Either ... or | theo chủ ngữ gần nhất |\n| Half / Most of + N | theo danh từ sau 'of' |\n| Danh từ không đếm được (news, furniture, equipment) | số ít |\n| Tên môn học, tiền, khoảng cách | số ít |"
+    },
+    {
+      "heading": "Mẹo nhận diện trong đề TOEIC",
+      "body": "Gạch chân cụm 'of ...' và đại từ quan hệ để tìm chủ ngữ thật. Với 'neither ... nor' và 'either ... or', nhìn danh từ **ngay trước động từ**. Với 'a number of' và 'the number of', phân biệt nghĩa: 'nhiều' so với 'con số'."
+    },
+    {
+      "heading": "Bẫy thường gặp",
+      "body": "Đừng chia theo danh từ gần động từ nếu nó nằm trong cụm giới từ: *The box of files is* chứ không phải *are*. Cẩn thận 'staff', 'team', 'committee' trong tiếng Anh Mỹ thường dùng số ít khi chỉ một đơn vị."
+    }
+  ],
+  "examples": [
+    {
+      "en": "The list of approved suppliers is updated every month.",
+      "vi": "Danh sách nhà cung cấp được duyệt được cập nhật hằng tháng.",
+      "note": "Chủ ngữ là 'The list', không phải 'suppliers'."
+    },
+    {
+      "en": "Neither the manager nor the assistants were informed.",
+      "vi": "Cả quản lý và các trợ lý đều không được thông báo.",
+      "note": "Động từ theo chủ ngữ gần nhất 'assistants'."
+    },
+    {
+      "en": "A number of employees have requested new laptops.",
+      "vi": "Một số nhân viên đã yêu cầu máy tính mới.",
+      "note": "'A number of' đi với động từ số nhiều."
+    }
+  ],
+  "practice_pack": "practice-p5-subject-verb-agreement-01"
+}

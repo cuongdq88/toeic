@@ -1,0 +1,794 @@
+{
+  "id": "practice-p5-preposition-02",
+  "kind": "practice",
+  "title": "Luyện Part 5 – Giới từ 02",
+  "level": "medium",
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "18 câu giới từ, 4 câu mức 4-5.",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 0
+    }
+  },
+  "groups": [
+    {
+      "id": "g01",
+      "part": 5,
+      "questions": [
+        {
+          "no": 1,
+          "type": "p5_preposition",
+          "difficulty": 2,
+          "stem": "The meeting is scheduled ____ Monday morning.",
+          "options": [
+            {
+              "key": "A",
+              "text": "on"
+            },
+            {
+              "key": "B",
+              "text": "in"
+            },
+            {
+              "key": "C",
+              "text": "at"
+            },
+            {
+              "key": "D",
+              "text": "by"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Dùng 'on' trước thứ trong tuần và ngày cụ thể.",
+            "why_wrong": {
+              "B": "'In' dùng cho tháng/năm.",
+              "C": "'At' dùng cho giờ.",
+              "D": "'By' chỉ hạn chót."
+            },
+            "translation_vi": "Cuộc họp được lên lịch vào sáng thứ Hai."
+          },
+          "tags": [
+            "g09_prepositions_phrases"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "part": 5,
+      "questions": [
+        {
+          "no": 2,
+          "type": "p5_preposition",
+          "difficulty": 2,
+          "stem": "Please submit the form ____ Friday.",
+          "options": [
+            {
+              "key": "A",
+              "text": "until"
+            },
+            {
+              "key": "B",
+              "text": "by"
+            },
+            {
+              "key": "C",
+              "text": "since"
+            },
+            {
+              "key": "D",
+              "text": "during"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'By' chỉ hạn chót phải hoàn thành.",
+            "why_wrong": {
+              "A": "'Until' chỉ kéo dài đến lúc nào.",
+              "C": "'Since' chỉ mốc bắt đầu.",
+              "D": "'During' chỉ trong khoảng thời gian."
+            },
+            "translation_vi": "Vui lòng nộp mẫu trước thứ Sáu."
+          },
+          "tags": [
+            "g09_prepositions_phrases"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "part": 5,
+      "questions": [
+        {
+          "no": 3,
+          "type": "p5_preposition",
+          "difficulty": 2,
+          "stem": "The report is due ____ two weeks.",
+          "options": [
+            {
+              "key": "A",
+              "text": "after"
+            },
+            {
+              "key": "B",
+              "text": "on"
+            },
+            {
+              "key": "C",
+              "text": "in"
+            },
+            {
+              "key": "D",
+              "text": "at"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'In + khoảng thời gian' chỉ tương lai tính từ hiện tại.",
+            "why_wrong": {
+              "A": "'After' cần mốc cụ thể.",
+              "B": "'On' dùng cho ngày.",
+              "D": "'At' dùng cho giờ."
+            },
+            "translation_vi": "Báo cáo phải nộp trong hai tuần nữa."
+          },
+          "tags": [
+            "g09_prepositions_phrases"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "part": 5,
+      "questions": [
+        {
+          "no": 4,
+          "type": "p5_preposition",
+          "difficulty": 2,
+          "stem": "She has worked here ____ 2019.",
+          "options": [
+            {
+              "key": "A",
+              "text": "for"
+            },
+            {
+              "key": "B",
+              "text": "from"
+            },
+            {
+              "key": "C",
+              "text": "during"
+            },
+            {
+              "key": "D",
+              "text": "since"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "'Since' + mốc thời gian bắt đầu với thì hiện tại hoàn thành.",
+            "why_wrong": {
+              "A": "'For' + khoảng thời gian.",
+              "B": "'From' không dùng với hiện tại hoàn thành ở đây.",
+              "C": "'During' chỉ trong suốt kỳ."
+            },
+            "translation_vi": "Cô ấy làm việc ở đây từ năm 2019."
+          },
+          "tags": [
+            "g09_prepositions_phrases"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "part": 5,
+      "questions": [
+        {
+          "no": 5,
+          "type": "p5_preposition",
+          "difficulty": 3,
+          "stem": "The company is responsible ____ maintaining the equipment.",
+          "options": [
+            {
+              "key": "A",
+              "text": "for"
+            },
+            {
+              "key": "B",
+              "text": "of"
+            },
+            {
+              "key": "C",
+              "text": "to"
+            },
+            {
+              "key": "D",
+              "text": "with"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'Responsible for' + V-ing/danh từ.",
+            "why_wrong": {
+              "B": "'Responsible of' không đúng.",
+              "C": "'Responsible to' chỉ cấp trên.",
+              "D": "'Responsible with' không đúng."
+            },
+            "translation_vi": "Công ty chịu trách nhiệm bảo trì thiết bị."
+          },
+          "tags": [
+            "g09_prepositions_phrases"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g06",
+      "part": 5,
+      "questions": [
+        {
+          "no": 6,
+          "type": "p5_preposition",
+          "difficulty": 3,
+          "stem": "We depend ____ reliable suppliers for our raw materials.",
+          "options": [
+            {
+              "key": "A",
+              "text": "of"
+            },
+            {
+              "key": "B",
+              "text": "on"
+            },
+            {
+              "key": "C",
+              "text": "for"
+            },
+            {
+              "key": "D",
+              "text": "at"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'Depend on' là cụm cố định.",
+            "why_wrong": {
+              "A": "'Depend of' không đúng.",
+              "C": "'Depend for' không đúng.",
+              "D": "'Depend at' không đúng."
+            },
+            "translation_vi": "Chúng tôi phụ thuộc vào nhà cung cấp nguyên liệu đáng tin cậy."
+          },
+          "tags": [
+            "g09_prepositions_phrases"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g07",
+      "part": 5,
+      "questions": [
+        {
+          "no": 7,
+          "type": "p5_preposition",
+          "difficulty": 2,
+          "stem": "The brochure provides information ____ our services.",
+          "options": [
+            {
+              "key": "A",
+              "text": "of"
+            },
+            {
+              "key": "B",
+              "text": "for"
+            },
+            {
+              "key": "C",
+              "text": "about"
+            },
+            {
+              "key": "D",
+              "text": "at"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'Information about' là cụm đúng.",
+            "why_wrong": {
+              "A": "'Information of' không tự nhiên.",
+              "B": "'Information for' sai nghĩa.",
+              "D": "'Information at' không đúng."
+            },
+            "translation_vi": "Tài liệu cung cấp thông tin về dịch vụ của chúng tôi."
+          },
+          "tags": [
+            "g09_prepositions_phrases"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g08",
+      "part": 5,
+      "questions": [
+        {
+          "no": 8,
+          "type": "p5_preposition",
+          "difficulty": 4,
+          "stem": "Please contact me ____ extension 245 if you have questions.",
+          "options": [
+            {
+              "key": "A",
+              "text": "on"
+            },
+            {
+              "key": "B",
+              "text": "in"
+            },
+            {
+              "key": "C",
+              "text": "by"
+            },
+            {
+              "key": "D",
+              "text": "at"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "'At extension + số' là cách nói chuẩn khi gọi nội bộ.",
+            "why_wrong": {
+              "A": "'On extension' không đúng.",
+              "B": "'In extension' không đúng.",
+              "C": "'By extension' mang nghĩa khác."
+            },
+            "translation_vi": "Vui lòng liên hệ số nội bộ 245 nếu có thắc mắc."
+          },
+          "tags": [
+            "g09_prepositions_phrases"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g09",
+      "part": 5,
+      "questions": [
+        {
+          "no": 9,
+          "type": "p5_preposition",
+          "difficulty": 3,
+          "stem": "The delay was caused ____ a software error.",
+          "options": [
+            {
+              "key": "A",
+              "text": "by"
+            },
+            {
+              "key": "B",
+              "text": "from"
+            },
+            {
+              "key": "C",
+              "text": "of"
+            },
+            {
+              "key": "D",
+              "text": "with"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Bị động 'be caused by' chỉ nguyên nhân.",
+            "why_wrong": {
+              "B": "'Caused from' không đúng.",
+              "C": "'Caused of' không đúng.",
+              "D": "'Caused with' không đúng."
+            },
+            "translation_vi": "Sự chậm trễ do lỗi phần mềm gây ra."
+          },
+          "tags": [
+            "g09_prepositions_phrases"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g10",
+      "part": 5,
+      "questions": [
+        {
+          "no": 10,
+          "type": "p5_preposition",
+          "difficulty": 4,
+          "stem": "The team is committed ____ delivering the project on time.",
+          "options": [
+            {
+              "key": "A",
+              "text": "for"
+            },
+            {
+              "key": "B",
+              "text": "to"
+            },
+            {
+              "key": "C",
+              "text": "with"
+            },
+            {
+              "key": "D",
+              "text": "on"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'Be committed to' + V-ing (cam kết làm gì).",
+            "why_wrong": {
+              "A": "'Committed for' không đúng.",
+              "C": "'Committed with' không đúng.",
+              "D": "'Committed on' không đúng."
+            },
+            "translation_vi": "Nhóm cam kết giao dự án đúng hạn."
+          },
+          "tags": [
+            "g09_prepositions_phrases"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g11",
+      "part": 5,
+      "questions": [
+        {
+          "no": 11,
+          "type": "p5_preposition",
+          "difficulty": 3,
+          "stem": "The new policy applies ____ all departments.",
+          "options": [
+            {
+              "key": "A",
+              "text": "for"
+            },
+            {
+              "key": "B",
+              "text": "with"
+            },
+            {
+              "key": "C",
+              "text": "to"
+            },
+            {
+              "key": "D",
+              "text": "at"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'Apply to' nghĩa là áp dụng cho.",
+            "why_wrong": {
+              "A": "'Apply for' nghĩa là xin việc.",
+              "B": "'Apply with' không đúng.",
+              "D": "'Apply at' không đúng."
+            },
+            "translation_vi": "Chính sách mới áp dụng cho mọi phòng ban."
+          },
+          "tags": [
+            "g09_prepositions_phrases"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g12",
+      "part": 5,
+      "questions": [
+        {
+          "no": 12,
+          "type": "p5_preposition",
+          "difficulty": 4,
+          "stem": "The fee is payable ____ advance.",
+          "options": [
+            {
+              "key": "A",
+              "text": "on"
+            },
+            {
+              "key": "B",
+              "text": "at"
+            },
+            {
+              "key": "C",
+              "text": "by"
+            },
+            {
+              "key": "D",
+              "text": "in"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Cụm cố định 'in advance' nghĩa là trả trước.",
+            "why_wrong": {
+              "A": "'On advance' không đúng.",
+              "B": "'At advance' không đúng.",
+              "C": "'By advance' không đúng."
+            },
+            "translation_vi": "Phí phải trả trước."
+          },
+          "tags": [
+            "g09_prepositions_phrases"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g13",
+      "part": 5,
+      "questions": [
+        {
+          "no": 13,
+          "type": "p5_preposition",
+          "difficulty": 4,
+          "stem": "The equipment is ____ warranty for two years.",
+          "options": [
+            {
+              "key": "A",
+              "text": "under"
+            },
+            {
+              "key": "B",
+              "text": "in"
+            },
+            {
+              "key": "C",
+              "text": "on"
+            },
+            {
+              "key": "D",
+              "text": "at"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'Under warranty' là cụm cố định.",
+            "why_wrong": {
+              "B": "'In warranty' không đúng.",
+              "C": "'On warranty' không đúng.",
+              "D": "'At warranty' không đúng."
+            },
+            "translation_vi": "Thiết bị được bảo hành hai năm."
+          },
+          "tags": [
+            "g09_prepositions_phrases"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g14",
+      "part": 5,
+      "questions": [
+        {
+          "no": 14,
+          "type": "p5_preposition",
+          "difficulty": 3,
+          "stem": "Please sign ____ the dotted line.",
+          "options": [
+            {
+              "key": "A",
+              "text": "at"
+            },
+            {
+              "key": "B",
+              "text": "on"
+            },
+            {
+              "key": "C",
+              "text": "in"
+            },
+            {
+              "key": "D",
+              "text": "by"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'Sign on the dotted line' là cụm quen thuộc.",
+            "why_wrong": {
+              "A": "'Sign at' không đúng.",
+              "C": "'Sign in' nghĩa là điểm danh.",
+              "D": "'Sign by' không đúng."
+            },
+            "translation_vi": "Vui lòng ký vào dòng kẻ chấm."
+          },
+          "tags": [
+            "g09_prepositions_phrases"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g15",
+      "part": 5,
+      "questions": [
+        {
+          "no": 15,
+          "type": "p5_preposition",
+          "difficulty": 3,
+          "stem": "The invoice was paid ____ full.",
+          "options": [
+            {
+              "key": "A",
+              "text": "at"
+            },
+            {
+              "key": "B",
+              "text": "on"
+            },
+            {
+              "key": "C",
+              "text": "in"
+            },
+            {
+              "key": "D",
+              "text": "by"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'Paid in full' nghĩa là thanh toán toàn bộ.",
+            "why_wrong": {
+              "A": "'Paid at full' không đúng.",
+              "B": "'Paid on full' không đúng.",
+              "D": "'Paid by full' không đúng."
+            },
+            "translation_vi": "Hóa đơn đã được thanh toán toàn bộ."
+          },
+          "tags": [
+            "g09_prepositions_phrases"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g16",
+      "part": 5,
+      "questions": [
+        {
+          "no": 16,
+          "type": "p5_preposition",
+          "difficulty": 3,
+          "stem": "We are looking for a candidate ____ experience in logistics.",
+          "options": [
+            {
+              "key": "A",
+              "text": "of"
+            },
+            {
+              "key": "B",
+              "text": "at"
+            },
+            {
+              "key": "C",
+              "text": "by"
+            },
+            {
+              "key": "D",
+              "text": "with"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "'A candidate with experience' dùng 'with' chỉ đặc điểm.",
+            "why_wrong": {
+              "A": "'Candidate of experience' không đúng.",
+              "B": "'Candidate at experience' không đúng.",
+              "C": "'Candidate by experience' không đúng."
+            },
+            "translation_vi": "Chúng tôi tìm ứng viên có kinh nghiệm logistics."
+          },
+          "tags": [
+            "g09_prepositions_phrases"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g17",
+      "part": 5,
+      "questions": [
+        {
+          "no": 17,
+          "type": "p5_preposition",
+          "difficulty": 3,
+          "stem": "The train arrived ____ schedule despite the snow.",
+          "options": [
+            {
+              "key": "A",
+              "text": "on"
+            },
+            {
+              "key": "B",
+              "text": "in"
+            },
+            {
+              "key": "C",
+              "text": "at"
+            },
+            {
+              "key": "D",
+              "text": "by"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'On schedule' nghĩa là đúng lịch.",
+            "why_wrong": {
+              "B": "'In schedule' không đúng.",
+              "C": "'At schedule' không đúng.",
+              "D": "'By schedule' không đúng."
+            },
+            "translation_vi": "Tàu đến đúng lịch dù có tuyết."
+          },
+          "tags": [
+            "g09_prepositions_phrases"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g18",
+      "part": 5,
+      "questions": [
+        {
+          "no": 18,
+          "type": "p5_preposition",
+          "difficulty": 3,
+          "stem": "The report must be completed ____ the end of the month.",
+          "options": [
+            {
+              "key": "A",
+              "text": "until"
+            },
+            {
+              "key": "B",
+              "text": "by"
+            },
+            {
+              "key": "C",
+              "text": "in"
+            },
+            {
+              "key": "D",
+              "text": "at"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'By the end of' chỉ hạn chót.",
+            "why_wrong": {
+              "A": "'Until the end' chỉ kéo dài.",
+              "C": "'In the end' nghĩa là cuối cùng.",
+              "D": "'At the end' chỉ vị trí/thời điểm."
+            },
+            "translation_vi": "Báo cáo phải hoàn thành trước cuối tháng."
+          },
+          "tags": [
+            "g09_prepositions_phrases"
+          ]
+        }
+      ]
+    }
+  ]
+}

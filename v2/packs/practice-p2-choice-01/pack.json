@@ -1,0 +1,1380 @@
+{
+  "id": "practice-p2-choice-01",
+  "kind": "practice",
+  "title": "Luyện Part 2 – Câu hỏi lựa chọn",
+  "level": "medium",
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 20
+    }
+  },
+  "groups": [
+    {
+      "id": "g01",
+      "part": 2,
+      "audio": "audio/g01.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 1.",
+          "vi": "Câu 1."
+        },
+        {
+          "speaker": "W1",
+          "accent": "UK",
+          "text": "Would you like tea or coffee?",
+          "vi": "Would you like tea or coffee?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(A) At three o'clock.",
+          "vi": "(A) At three o'clock."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(B) Coffee, please.",
+          "vi": "(B) Coffee, please."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(C) Yes, please.",
+          "vi": "(C) Yes, please."
+        }
+      ],
+      "questions": [
+        {
+          "no": 1,
+          "type": "p2_choice",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "At three o'clock."
+            },
+            {
+              "key": "B",
+              "text": "Coffee, please."
+            },
+            {
+              "key": "C",
+              "text": "Yes, please."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Câu hỏi lựa chọn được đáp lại bằng cách chọn 'Coffee'.",
+            "why_wrong": {
+              "A": "Đây là câu trả lời cho 'When'.",
+              "C": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Anh muốn trà hay cà phê? – Cà phê, cảm ơn."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "part": 2,
+      "audio": "audio/g02.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 2.",
+          "vi": "Câu 2."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "Shall we meet in the morning or the afternoon?",
+          "vi": "Shall we meet in the morning or the afternoon?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(A) In the main office.",
+          "vi": "(A) In the main office."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(B) Yes, we shall.",
+          "vi": "(B) Yes, we shall."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(C) The morning works better.",
+          "vi": "(C) The morning works better."
+        }
+      ],
+      "questions": [
+        {
+          "no": 2,
+          "type": "p2_choice",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "In the main office."
+            },
+            {
+              "key": "B",
+              "text": "Yes, we shall."
+            },
+            {
+              "key": "C",
+              "text": "The morning works better."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Câu hỏi lựa chọn được trả lời bằng cách chọn buổi sáng.",
+            "why_wrong": {
+              "A": "Đây là câu trả lời cho 'Where'.",
+              "B": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Chúng ta gặp buổi sáng hay chiều? – Buổi sáng hợp hơn."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "part": 2,
+      "audio": "audio/g03.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 3.",
+          "vi": "Câu 3."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "Do you prefer the window seat or the aisle?",
+          "vi": "Do you prefer the window seat or the aisle?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(A) The aisle, if possible.",
+          "vi": "(A) The aisle, if possible."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(B) The flight is full.",
+          "vi": "(B) The flight is full."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(C) Yes, I do.",
+          "vi": "(C) Yes, I do."
+        }
+      ],
+      "questions": [
+        {
+          "no": 3,
+          "type": "p2_choice",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The aisle, if possible."
+            },
+            {
+              "key": "B",
+              "text": "The flight is full."
+            },
+            {
+              "key": "C",
+              "text": "Yes, I do."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Câu hỏi lựa chọn được trả lời bằng cách chọn 'The aisle'.",
+            "why_wrong": {
+              "B": "Nói chuyến bay đầy, không chọn chỗ.",
+              "C": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Anh thích ghế cạnh cửa sổ hay lối đi? – Lối đi nếu được."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "part": 2,
+      "audio": "audio/g04.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 4.",
+          "vi": "Câu 4."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Should I call or send an e-mail?",
+          "vi": "Should I call or send an e-mail?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(A) The e-mail was long.",
+          "vi": "(A) The e-mail was long."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(B) A quick call would be faster.",
+          "vi": "(B) A quick call would be faster."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(C) Yes, you should.",
+          "vi": "(C) Yes, you should."
+        }
+      ],
+      "questions": [
+        {
+          "no": 4,
+          "type": "p2_choice",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The e-mail was long."
+            },
+            {
+              "key": "B",
+              "text": "A quick call would be faster."
+            },
+            {
+              "key": "C",
+              "text": "Yes, you should."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Câu hỏi lựa chọn được trả lời bằng cách chọn gọi điện.",
+            "why_wrong": {
+              "A": "Nhận xét email, không chọn cách.",
+              "C": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Tôi nên gọi hay gửi email? – Gọi nhanh hơn."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "part": 2,
+      "audio": "audio/g05.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 5.",
+          "vi": "Câu 5."
+        },
+        {
+          "speaker": "W1",
+          "accent": "UK",
+          "text": "Are we taking the train or flying?",
+          "vi": "Are we taking the train or flying?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(A) The station is close.",
+          "vi": "(A) The station is close."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(B) Yes, we are.",
+          "vi": "(B) Yes, we are."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(C) Flying saves a day.",
+          "vi": "(C) Flying saves a day."
+        }
+      ],
+      "questions": [
+        {
+          "no": 5,
+          "type": "p2_choice",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The station is close."
+            },
+            {
+              "key": "B",
+              "text": "Yes, we are."
+            },
+            {
+              "key": "C",
+              "text": "Flying saves a day."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Câu hỏi lựa chọn được trả lời bằng cách chọn bay.",
+            "why_wrong": {
+              "A": "Nói ga gần, không chọn phương tiện.",
+              "B": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Chúng ta đi tàu hay bay? – Bay tiết kiệm một ngày."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g06",
+      "part": 2,
+      "audio": "audio/g06.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 6.",
+          "vi": "Câu 6."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "Would you rather start on Monday or Wednesday?",
+          "vi": "Would you rather start on Monday or Wednesday?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(A) Wednesday gives us more time.",
+          "vi": "(A) Wednesday gives us more time."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(B) In the large room.",
+          "vi": "(B) In the large room."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(C) Yes, I would.",
+          "vi": "(C) Yes, I would."
+        }
+      ],
+      "questions": [
+        {
+          "no": 6,
+          "type": "p2_choice",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Wednesday gives us more time."
+            },
+            {
+              "key": "B",
+              "text": "In the large room."
+            },
+            {
+              "key": "C",
+              "text": "Yes, I would."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Câu hỏi lựa chọn được trả lời bằng cách chọn thứ Tư.",
+            "why_wrong": {
+              "B": "Đây là câu trả lời cho 'Where'.",
+              "C": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Anh muốn bắt đầu thứ Hai hay thứ Tư? – Thứ Tư có thêm thời gian."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g07",
+      "part": 2,
+      "audio": "audio/g07.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 7.",
+          "vi": "Câu 7."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "Should we pay now or at the end of the month?",
+          "vi": "Should we pay now or at the end of the month?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(A) The invoice is ready.",
+          "vi": "(A) The invoice is ready."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(B) Let's pay at the end.",
+          "vi": "(B) Let's pay at the end."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(C) Yes, we should.",
+          "vi": "(C) Yes, we should."
+        }
+      ],
+      "questions": [
+        {
+          "no": 7,
+          "type": "p2_choice",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The invoice is ready."
+            },
+            {
+              "key": "B",
+              "text": "Let's pay at the end."
+            },
+            {
+              "key": "C",
+              "text": "Yes, we should."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Câu hỏi lựa chọn được trả lời bằng cách chọn trả cuối tháng.",
+            "why_wrong": {
+              "A": "Nói hóa đơn sẵn sàng, không chọn thời điểm.",
+              "C": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Chúng ta trả ngay hay cuối tháng? – Trả cuối tháng đi."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g08",
+      "part": 2,
+      "audio": "audio/g08.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 8.",
+          "vi": "Câu 8."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Do you want the report printed or sent by e-mail?",
+          "vi": "Do you want the report printed or sent by e-mail?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(A) The report is long.",
+          "vi": "(A) The report is long."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(B) Yes, I want it.",
+          "vi": "(B) Yes, I want it."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(C) E-mail is fine.",
+          "vi": "(C) E-mail is fine."
+        }
+      ],
+      "questions": [
+        {
+          "no": 8,
+          "type": "p2_choice",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The report is long."
+            },
+            {
+              "key": "B",
+              "text": "Yes, I want it."
+            },
+            {
+              "key": "C",
+              "text": "E-mail is fine."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Câu hỏi lựa chọn được trả lời bằng cách chọn email.",
+            "why_wrong": {
+              "A": "Nhận xét báo cáo, không chọn cách.",
+              "B": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Anh muốn báo cáo in ra hay gửi email? – Email là được."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g09",
+      "part": 2,
+      "audio": "audio/g09.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 9.",
+          "vi": "Câu 9."
+        },
+        {
+          "speaker": "W1",
+          "accent": "UK",
+          "text": "Is the meeting in person or online?",
+          "vi": "Is the meeting in person or online?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(A) Online, to save travel time.",
+          "vi": "(A) Online, to save travel time."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(B) At ten o'clock.",
+          "vi": "(B) At ten o'clock."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(C) Yes, it is.",
+          "vi": "(C) Yes, it is."
+        }
+      ],
+      "questions": [
+        {
+          "no": 9,
+          "type": "p2_choice",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Online, to save travel time."
+            },
+            {
+              "key": "B",
+              "text": "At ten o'clock."
+            },
+            {
+              "key": "C",
+              "text": "Yes, it is."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Câu hỏi lựa chọn được trả lời bằng cách chọn trực tuyến.",
+            "why_wrong": {
+              "B": "Đây là câu trả lời cho 'When'.",
+              "C": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Cuộc họp trực tiếp hay trực tuyến? – Trực tuyến để tiết kiệm thời gian đi lại."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g10",
+      "part": 2,
+      "audio": "audio/g10.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 10.",
+          "vi": "Câu 10."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "Will you take the early shift or the late one?",
+          "vi": "Will you take the early shift or the late one?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(A) At the front desk.",
+          "vi": "(A) At the front desk."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(B) The early one suits me.",
+          "vi": "(B) The early one suits me."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(C) Yes, I will.",
+          "vi": "(C) Yes, I will."
+        }
+      ],
+      "questions": [
+        {
+          "no": 10,
+          "type": "p2_choice",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "At the front desk."
+            },
+            {
+              "key": "B",
+              "text": "The early one suits me."
+            },
+            {
+              "key": "C",
+              "text": "Yes, I will."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Câu hỏi lựa chọn được trả lời bằng cách chọn ca sớm.",
+            "why_wrong": {
+              "A": "Đây là câu trả lời cho 'Where'.",
+              "C": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Anh nhận ca sớm hay ca muộn? – Ca sớm hợp với tôi."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g11",
+      "part": 2,
+      "audio": "audio/g11.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 11.",
+          "vi": "Câu 11."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "Shall we order pizza or sandwiches for the team?",
+          "vi": "Shall we order pizza or sandwiches for the team?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(A) The team is small.",
+          "vi": "(A) The team is small."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(B) Yes, let's order.",
+          "vi": "(B) Yes, let's order."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(C) Sandwiches are easier to share.",
+          "vi": "(C) Sandwiches are easier to share."
+        }
+      ],
+      "questions": [
+        {
+          "no": 11,
+          "type": "p2_choice",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The team is small."
+            },
+            {
+              "key": "B",
+              "text": "Yes, let's order."
+            },
+            {
+              "key": "C",
+              "text": "Sandwiches are easier to share."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Câu hỏi lựa chọn được trả lời bằng cách chọn sandwich.",
+            "why_wrong": {
+              "A": "Nói nhóm nhỏ, không chọn món.",
+              "B": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Đặt pizza hay sandwich cho nhóm? – Sandwich dễ chia hơn."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g12",
+      "part": 2,
+      "audio": "audio/g12.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 12.",
+          "vi": "Câu 12."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Do we renew the contract or look for another supplier?",
+          "vi": "Do we renew the contract or look for another supplier?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(A) That depends on the new pricing.",
+          "vi": "(A) That depends on the new pricing."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(B) The contract is old.",
+          "vi": "(B) The contract is old."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(C) Yes, we do.",
+          "vi": "(C) Yes, we do."
+        }
+      ],
+      "questions": [
+        {
+          "no": 12,
+          "type": "p2_choice",
+          "difficulty": 4,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "That depends on the new pricing."
+            },
+            {
+              "key": "B",
+              "text": "The contract is old."
+            },
+            {
+              "key": "C",
+              "text": "Yes, we do."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Câu trả lời chưa chọn ngay mà nêu điều kiện giá mới; đây là đáp án gián tiếp đúng.",
+            "why_wrong": {
+              "B": "Nhận xét hợp đồng, không chọn phương án.",
+              "C": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Gia hạn hợp đồng hay tìm nhà cung cấp khác? – Còn tùy giá mới."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g13",
+      "part": 2,
+      "audio": "audio/g13.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 13.",
+          "vi": "Câu 13."
+        },
+        {
+          "speaker": "W1",
+          "accent": "UK",
+          "text": "Should we book the larger hall or the smaller room?",
+          "vi": "Should we book the larger hall or the smaller room?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(A) The hotel is nearby.",
+          "vi": "(A) The hotel is nearby."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(B) The larger hall fits everyone.",
+          "vi": "(B) The larger hall fits everyone."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(C) Yes, we should.",
+          "vi": "(C) Yes, we should."
+        }
+      ],
+      "questions": [
+        {
+          "no": 13,
+          "type": "p2_choice",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The hotel is nearby."
+            },
+            {
+              "key": "B",
+              "text": "The larger hall fits everyone."
+            },
+            {
+              "key": "C",
+              "text": "Yes, we should."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Câu hỏi lựa chọn được trả lời bằng cách chọn hội trường lớn.",
+            "why_wrong": {
+              "A": "Nói khách sạn gần, không chọn phòng.",
+              "C": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Đặt hội trường lớn hay phòng nhỏ? – Hội trường lớn đủ chỗ."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g14",
+      "part": 2,
+      "audio": "audio/g14.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 14.",
+          "vi": "Câu 14."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "Would you like to pay by card or in cash?",
+          "vi": "Would you like to pay by card or in cash?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(A) The total is forty dollars.",
+          "vi": "(A) The total is forty dollars."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(B) Yes, please.",
+          "vi": "(B) Yes, please."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(C) Card is easier for me.",
+          "vi": "(C) Card is easier for me."
+        }
+      ],
+      "questions": [
+        {
+          "no": 14,
+          "type": "p2_choice",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The total is forty dollars."
+            },
+            {
+              "key": "B",
+              "text": "Yes, please."
+            },
+            {
+              "key": "C",
+              "text": "Card is easier for me."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Câu hỏi lựa chọn được trả lời bằng cách chọn thẻ.",
+            "why_wrong": {
+              "A": "Nói tổng tiền, không chọn cách trả.",
+              "B": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Anh muốn trả bằng thẻ hay tiền mặt? – Thẻ tiện hơn."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g15",
+      "part": 2,
+      "audio": "audio/g15.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 15.",
+          "vi": "Câu 15."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "Is the problem the software or the hardware?",
+          "vi": "Is the problem the software or the hardware?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(A) The engineers are still testing both.",
+          "vi": "(A) The engineers are still testing both."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(B) The computer is new.",
+          "vi": "(B) The computer is new."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(C) Yes, there is a problem.",
+          "vi": "(C) Yes, there is a problem."
+        }
+      ],
+      "questions": [
+        {
+          "no": 15,
+          "type": "p2_choice",
+          "difficulty": 4,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The engineers are still testing both."
+            },
+            {
+              "key": "B",
+              "text": "The computer is new."
+            },
+            {
+              "key": "C",
+              "text": "Yes, there is a problem."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Đáp án cho biết chưa xác định, là cách trả lời gián tiếp cho câu lựa chọn.",
+            "why_wrong": {
+              "B": "Nói máy mới, không chọn nguyên nhân.",
+              "C": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Vấn đề là phần mềm hay phần cứng? – Kỹ sư vẫn đang kiểm tra cả hai."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g16",
+      "part": 2,
+      "audio": "audio/g16.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 16.",
+          "vi": "Câu 16."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Shall we postpone the launch or reduce the features?",
+          "vi": "Shall we postpone the launch or reduce the features?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(A) The launch is important.",
+          "vi": "(A) The launch is important."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(B) The marketing team is still deciding.",
+          "vi": "(B) The marketing team is still deciding."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(C) Yes, we shall.",
+          "vi": "(C) Yes, we shall."
+        }
+      ],
+      "questions": [
+        {
+          "no": 16,
+          "type": "p2_choice",
+          "difficulty": 4,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The launch is important."
+            },
+            {
+              "key": "B",
+              "text": "The marketing team is still deciding."
+            },
+            {
+              "key": "C",
+              "text": "Yes, we shall."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Đáp án cho biết chưa quyết, là cách trả lời gián tiếp đúng.",
+            "why_wrong": {
+              "A": "Nói buổi ra mắt quan trọng, không chọn.",
+              "C": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Hoãn ra mắt hay giảm tính năng? – Nhóm tiếp thị vẫn đang quyết."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g17",
+      "part": 2,
+      "audio": "audio/g17.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 17.",
+          "vi": "Câu 17."
+        },
+        {
+          "speaker": "W1",
+          "accent": "UK",
+          "text": "Do you want to discuss it today or tomorrow?",
+          "vi": "Do you want to discuss it today or tomorrow?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(A) The office is closed.",
+          "vi": "(A) The office is closed."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(B) Yes, I do.",
+          "vi": "(B) Yes, I do."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(C) Tomorrow gives me time to check.",
+          "vi": "(C) Tomorrow gives me time to check."
+        }
+      ],
+      "questions": [
+        {
+          "no": 17,
+          "type": "p2_choice",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The office is closed."
+            },
+            {
+              "key": "B",
+              "text": "Yes, I do."
+            },
+            {
+              "key": "C",
+              "text": "Tomorrow gives me time to check."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Câu hỏi lựa chọn được trả lời bằng cách chọn ngày mai.",
+            "why_wrong": {
+              "A": "Nói văn phòng đóng, không chọn ngày.",
+              "B": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Anh muốn bàn hôm nay hay mai? – Mai để tôi có thời gian kiểm tra."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g18",
+      "part": 2,
+      "audio": "audio/g18.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 18.",
+          "vi": "Câu 18."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "Should the signs be in English or bilingual?",
+          "vi": "Should the signs be in English or bilingual?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(A) The committee will vote on it tomorrow.",
+          "vi": "(A) The committee will vote on it tomorrow."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(B) The signs are new.",
+          "vi": "(B) The signs are new."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(C) Yes, they should.",
+          "vi": "(C) Yes, they should."
+        }
+      ],
+      "questions": [
+        {
+          "no": 18,
+          "type": "p2_choice",
+          "difficulty": 4,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The committee will vote on it tomorrow."
+            },
+            {
+              "key": "B",
+              "text": "The signs are new."
+            },
+            {
+              "key": "C",
+              "text": "Yes, they should."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Đáp án cho biết sẽ bỏ phiếu, là cách trả lời gián tiếp cho câu lựa chọn.",
+            "why_wrong": {
+              "B": "Nói biển mới, không chọn ngôn ngữ.",
+              "C": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Biển nên viết tiếng Anh hay song ngữ? – Ủy ban sẽ bỏ phiếu ngày mai."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g19",
+      "part": 2,
+      "audio": "audio/g19.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 19.",
+          "vi": "Câu 19."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "Are we hiring a permanent or a temporary assistant?",
+          "vi": "Are we hiring a permanent or a temporary assistant?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(A) The assistant is helpful.",
+          "vi": "(A) The assistant is helpful."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(B) Temporary, during the busy season.",
+          "vi": "(B) Temporary, during the busy season."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(C) Yes, we are.",
+          "vi": "(C) Yes, we are."
+        }
+      ],
+      "questions": [
+        {
+          "no": 19,
+          "type": "p2_choice",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The assistant is helpful."
+            },
+            {
+              "key": "B",
+              "text": "Temporary, during the busy season."
+            },
+            {
+              "key": "C",
+              "text": "Yes, we are."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Câu hỏi lựa chọn được trả lời bằng cách chọn tạm thời.",
+            "why_wrong": {
+              "A": "Nhận xét trợ lý, không chọn loại hợp đồng.",
+              "C": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Chúng ta tuyển trợ lý dài hạn hay tạm thời? – Tạm thời trong mùa cao điểm."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g20",
+      "part": 2,
+      "audio": "audio/g20.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 20.",
+          "vi": "Câu 20."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Would you prefer to start immediately or after the holiday?",
+          "vi": "Would you prefer to start immediately or after the holiday?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(A) The holiday was long.",
+          "vi": "(A) The holiday was long."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(B) Yes, I would.",
+          "vi": "(B) Yes, I would."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(C) After the holiday, I think.",
+          "vi": "(C) After the holiday, I think."
+        }
+      ],
+      "questions": [
+        {
+          "no": 20,
+          "type": "p2_choice",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The holiday was long."
+            },
+            {
+              "key": "B",
+              "text": "Yes, I would."
+            },
+            {
+              "key": "C",
+              "text": "After the holiday, I think."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Câu hỏi lựa chọn được trả lời bằng cách chọn sau kỳ nghỉ.",
+            "why_wrong": {
+              "A": "Nhận xét kỳ nghỉ, không chọn thời điểm.",
+              "B": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Anh muốn bắt đầu ngay hay sau kỳ nghỉ? – Tôi nghĩ sau kỳ nghỉ."
+          }
+        }
+      ]
+    }
+  ]
+}

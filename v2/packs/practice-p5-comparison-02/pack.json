@@ -1,0 +1,843 @@
+{
+  "id": "practice-p5-comparison-02",
+  "kind": "practice",
+  "title": "Luyện Part 5 – So sánh 02",
+  "level": "medium",
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "19 câu so sánh, 6 câu mức 4-5.",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 0
+    }
+  },
+  "groups": [
+    {
+      "id": "g01",
+      "part": 5,
+      "questions": [
+        {
+          "no": 1,
+          "type": "p5_comparison",
+          "difficulty": 2,
+          "stem": "This year's report is ____ than last year's.",
+          "options": [
+            {
+              "key": "A",
+              "text": "more detailed"
+            },
+            {
+              "key": "B",
+              "text": "detailed"
+            },
+            {
+              "key": "C",
+              "text": "most detailed"
+            },
+            {
+              "key": "D",
+              "text": "the most detailed"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Có 'than' nên cần so sánh hơn của tính từ dài: 'more detailed'.",
+            "why_wrong": {
+              "B": "'detailed' là dạng gốc.",
+              "C": "'most detailed' là so sánh nhất.",
+              "D": "'the most detailed' là so sánh nhất có mạo từ."
+            },
+            "translation_vi": "Báo cáo năm nay chi tiết hơn năm ngoái."
+          },
+          "tags": [
+            "g14_comparison"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "part": 5,
+      "questions": [
+        {
+          "no": 2,
+          "type": "p5_comparison",
+          "difficulty": 2,
+          "stem": "The new printer is ____ of the three models.",
+          "options": [
+            {
+              "key": "A",
+              "text": "more reliable"
+            },
+            {
+              "key": "B",
+              "text": "the most reliable"
+            },
+            {
+              "key": "C",
+              "text": "most reliable"
+            },
+            {
+              "key": "D",
+              "text": "reliably"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "So sánh nhất trong ba mô hình cần 'the most' + tính từ dài.",
+            "why_wrong": {
+              "A": "'more reliable' là so sánh hơn.",
+              "C": "Thiếu mạo từ 'the' trước so sánh nhất.",
+              "D": "'reliably' là trạng từ."
+            },
+            "translation_vi": "Máy in mới là mẫu đáng tin cậy nhất trong ba mẫu."
+          },
+          "tags": [
+            "g14_comparison"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "part": 5,
+      "questions": [
+        {
+          "no": 3,
+          "type": "p5_comparison",
+          "difficulty": 3,
+          "stem": "The train is not ____ the plane for long journeys.",
+          "options": [
+            {
+              "key": "A",
+              "text": "as fast"
+            },
+            {
+              "key": "B",
+              "text": "faster"
+            },
+            {
+              "key": "C",
+              "text": "as fast as"
+            },
+            {
+              "key": "D",
+              "text": "the fastest"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Cấu trúc so sánh ngang bằng phủ định là 'not as fast as'.",
+            "why_wrong": {
+              "A": "Thiếu 'as' thứ hai.",
+              "B": "'faster' không đi với 'not ... as'.",
+              "D": "'the fastest' là so sánh nhất."
+            },
+            "translation_vi": "Tàu không nhanh bằng máy bay cho hành trình dài."
+          },
+          "tags": [
+            "g14_comparison"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "part": 5,
+      "questions": [
+        {
+          "no": 4,
+          "type": "p5_comparison",
+          "difficulty": 3,
+          "stem": "Sales in June were ____ higher than in May.",
+          "options": [
+            {
+              "key": "A",
+              "text": "considerable"
+            },
+            {
+              "key": "B",
+              "text": "considering"
+            },
+            {
+              "key": "C",
+              "text": "consideration"
+            },
+            {
+              "key": "D",
+              "text": "considerably"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Cần trạng từ bổ nghĩa cho so sánh hơn 'higher', nên dùng 'considerably'.",
+            "why_wrong": {
+              "A": "'considerable' là tính từ.",
+              "B": "'considering' là giới từ/động từ.",
+              "C": "'consideration' là danh từ."
+            },
+            "translation_vi": "Doanh số tháng Sáu cao hơn đáng kể so với tháng Năm."
+          },
+          "tags": [
+            "g14_comparison"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "part": 5,
+      "questions": [
+        {
+          "no": 5,
+          "type": "p5_comparison",
+          "difficulty": 4,
+          "stem": "The ____ we order, the lower the unit price.",
+          "options": [
+            {
+              "key": "A",
+              "text": "more"
+            },
+            {
+              "key": "B",
+              "text": "much"
+            },
+            {
+              "key": "C",
+              "text": "most"
+            },
+            {
+              "key": "D",
+              "text": "many"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Cấu trúc 'the more ... the lower ...' diễn tả quan hệ tỉ lệ thuận.",
+            "why_wrong": {
+              "B": "'much' không dùng trong cấu trúc 'the ... the ...'.",
+              "C": "'most' là so sánh nhất.",
+              "D": "'many' không phù hợp với động từ 'order' ở đây."
+            },
+            "translation_vi": "Chúng ta đặt càng nhiều thì đơn giá càng thấp."
+          },
+          "tags": [
+            "g14_comparison"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g06",
+      "part": 5,
+      "questions": [
+        {
+          "no": 6,
+          "type": "p5_comparison",
+          "difficulty": 3,
+          "stem": "Her presentation was ____ better than the previous one.",
+          "options": [
+            {
+              "key": "A",
+              "text": "very"
+            },
+            {
+              "key": "B",
+              "text": "much"
+            },
+            {
+              "key": "C",
+              "text": "so"
+            },
+            {
+              "key": "D",
+              "text": "too"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'Much' bổ nghĩa cho so sánh hơn 'better'; 'very/so/too' không đứng trước so sánh hơn.",
+            "why_wrong": {
+              "A": "'very' không đi với so sánh hơn.",
+              "C": "'so' không đi với so sánh hơn ở đây.",
+              "D": "'too' mang nghĩa quá mức."
+            },
+            "translation_vi": "Bài thuyết trình của cô ấy tốt hơn nhiều so với lần trước."
+          },
+          "tags": [
+            "g14_comparison"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g07",
+      "part": 5,
+      "questions": [
+        {
+          "no": 7,
+          "type": "p5_comparison",
+          "difficulty": 4,
+          "stem": "Of the two candidates, Ms. Ito is ____.",
+          "options": [
+            {
+              "key": "A",
+              "text": "more experienced"
+            },
+            {
+              "key": "B",
+              "text": "most experienced"
+            },
+            {
+              "key": "C",
+              "text": "the more experienced"
+            },
+            {
+              "key": "D",
+              "text": "the most experienced"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "So sánh giữa hai đối tượng dùng 'the + so sánh hơn'.",
+            "why_wrong": {
+              "A": "Thiếu 'the' trong so sánh hai đối tượng.",
+              "B": "Không dùng so sánh nhất cho hai người.",
+              "D": "'the most' dùng cho từ ba đối tượng trở lên."
+            },
+            "translation_vi": "Trong hai ứng viên, cô Ito là người có kinh nghiệm hơn."
+          },
+          "tags": [
+            "g14_comparison"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g08",
+      "part": 5,
+      "questions": [
+        {
+          "no": 8,
+          "type": "p5_comparison",
+          "difficulty": 3,
+          "stem": "The software runs ____ than the old version.",
+          "options": [
+            {
+              "key": "A",
+              "text": "smoother"
+            },
+            {
+              "key": "B",
+              "text": "most smoothly"
+            },
+            {
+              "key": "C",
+              "text": "smoothly"
+            },
+            {
+              "key": "D",
+              "text": "more smoothly"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Có 'than' nên cần so sánh hơn của trạng từ: 'more smoothly'.",
+            "why_wrong": {
+              "A": "'smoother' là tính từ so sánh hơn.",
+              "B": "'most smoothly' là so sánh nhất.",
+              "C": "'smoothly' là dạng gốc."
+            },
+            "translation_vi": "Phần mềm chạy mượt hơn phiên bản cũ."
+          },
+          "tags": [
+            "g14_comparison"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g09",
+      "part": 5,
+      "questions": [
+        {
+          "no": 9,
+          "type": "p5_comparison",
+          "difficulty": 2,
+          "stem": "Fewer employees attended the workshop ____ last year.",
+          "options": [
+            {
+              "key": "A",
+              "text": "than"
+            },
+            {
+              "key": "B",
+              "text": "then"
+            },
+            {
+              "key": "C",
+              "text": "as"
+            },
+            {
+              "key": "D",
+              "text": "that"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Có 'fewer' nên cần 'than' để nối hai mốc so sánh.",
+            "why_wrong": {
+              "B": "'then' chỉ thời gian.",
+              "C": "'as' dùng cho so sánh ngang bằng.",
+              "D": "'that' không dùng sau 'fewer'."
+            },
+            "translation_vi": "Năm nay ít nhân viên dự hội thảo hơn năm ngoái."
+          },
+          "tags": [
+            "g14_comparison"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g10",
+      "part": 5,
+      "questions": [
+        {
+          "no": 10,
+          "type": "p5_comparison",
+          "difficulty": 2,
+          "stem": "This is ____ expensive item in the catalogue.",
+          "options": [
+            {
+              "key": "A",
+              "text": "less"
+            },
+            {
+              "key": "B",
+              "text": "the least"
+            },
+            {
+              "key": "C",
+              "text": "least"
+            },
+            {
+              "key": "D",
+              "text": "the less"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "So sánh nhất kém nhất trong toàn bộ danh mục cần 'the least'.",
+            "why_wrong": {
+              "A": "'less' là so sánh hơn.",
+              "C": "Thiếu mạo từ 'the'.",
+              "D": "'the less' không dùng cho so sánh nhất."
+            },
+            "translation_vi": "Đây là mặt hàng ít đắt nhất trong danh mục."
+          },
+          "tags": [
+            "g14_comparison"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g11",
+      "part": 5,
+      "questions": [
+        {
+          "no": 11,
+          "type": "p5_comparison",
+          "difficulty": 4,
+          "stem": "The closer we get to the deadline, ____ stressful the work becomes.",
+          "options": [
+            {
+              "key": "A",
+              "text": "more"
+            },
+            {
+              "key": "B",
+              "text": "the most"
+            },
+            {
+              "key": "C",
+              "text": "the more"
+            },
+            {
+              "key": "D",
+              "text": "most"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Cấu trúc 'the closer ... the more ...' cần 'the more' để song song.",
+            "why_wrong": {
+              "A": "Thiếu 'the' trong vế thứ hai.",
+              "B": "'the most' không dùng trong cấu trúc tỉ lệ.",
+              "D": "'most' thiếu mạo từ."
+            },
+            "translation_vi": "Càng gần hạn chót, công việc càng căng thẳng."
+          },
+          "tags": [
+            "g14_comparison"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g12",
+      "part": 5,
+      "questions": [
+        {
+          "no": 12,
+          "type": "p5_comparison",
+          "difficulty": 3,
+          "stem": "The new policy is similar ____ the old one in most respects.",
+          "options": [
+            {
+              "key": "A",
+              "text": "with"
+            },
+            {
+              "key": "B",
+              "text": "as"
+            },
+            {
+              "key": "C",
+              "text": "than"
+            },
+            {
+              "key": "D",
+              "text": "to"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Tính từ 'similar' đi với giới từ 'to'.",
+            "why_wrong": {
+              "A": "'similar with' không đúng.",
+              "B": "'similar as' không đúng.",
+              "C": "'than' chỉ dùng với so sánh hơn."
+            },
+            "translation_vi": "Chính sách mới tương tự chính sách cũ ở hầu hết khía cạnh."
+          },
+          "tags": [
+            "g14_comparison"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g13",
+      "part": 5,
+      "questions": [
+        {
+          "no": 13,
+          "type": "p5_comparison",
+          "difficulty": 2,
+          "stem": "This branch performs ____ than any other in the region.",
+          "options": [
+            {
+              "key": "A",
+              "text": "better"
+            },
+            {
+              "key": "B",
+              "text": "good"
+            },
+            {
+              "key": "C",
+              "text": "best"
+            },
+            {
+              "key": "D",
+              "text": "well"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Có 'than' nên cần so sánh hơn bất quy tắc 'better'.",
+            "why_wrong": {
+              "B": "'good' là tính từ gốc.",
+              "C": "'best' là so sánh nhất.",
+              "D": "'well' là trạng từ gốc."
+            },
+            "translation_vi": "Chi nhánh này hoạt động tốt hơn bất kỳ chi nhánh nào trong khu vực."
+          },
+          "tags": [
+            "g14_comparison"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g14",
+      "part": 5,
+      "questions": [
+        {
+          "no": 14,
+          "type": "p5_comparison",
+          "difficulty": 3,
+          "stem": "Prices are ____ higher this quarter than last.",
+          "options": [
+            {
+              "key": "A",
+              "text": "slight"
+            },
+            {
+              "key": "B",
+              "text": "slightly"
+            },
+            {
+              "key": "C",
+              "text": "slightest"
+            },
+            {
+              "key": "D",
+              "text": "slightness"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Cần trạng từ 'slightly' bổ nghĩa cho 'higher'.",
+            "why_wrong": {
+              "A": "'slight' là tính từ.",
+              "C": "'slightest' là so sánh nhất.",
+              "D": "'slightness' là danh từ."
+            },
+            "translation_vi": "Giá quý này cao hơn một chút so với quý trước."
+          },
+          "tags": [
+            "g14_comparison"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g15",
+      "part": 5,
+      "questions": [
+        {
+          "no": 15,
+          "type": "p5_comparison",
+          "difficulty": 4,
+          "stem": "The less time we have, ____ we must work.",
+          "options": [
+            {
+              "key": "A",
+              "text": "fast"
+            },
+            {
+              "key": "B",
+              "text": "the fastest"
+            },
+            {
+              "key": "C",
+              "text": "the faster"
+            },
+            {
+              "key": "D",
+              "text": "faster"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Cấu trúc 'the less ... the faster ...' diễn tả quan hệ tỉ lệ.",
+            "why_wrong": {
+              "A": "'Fast' là dạng gốc.",
+              "B": "'The fastest' là so sánh nhất.",
+              "D": "Thiếu 'the' trong vế so sánh song song."
+            },
+            "translation_vi": "Chúng ta càng có ít thời gian thì càng phải làm việc nhanh hơn."
+          },
+          "tags": [
+            "g14_comparison"
+          ],
+          "correct": "the faster",
+          "w": [
+            "fast",
+            "the fastest",
+            "faster"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g16",
+      "part": 5,
+      "questions": [
+        {
+          "no": 16,
+          "type": "p5_comparison",
+          "difficulty": 3,
+          "stem": "Our team completed the project ____ than expected.",
+          "options": [
+            {
+              "key": "A",
+              "text": "soon"
+            },
+            {
+              "key": "B",
+              "text": "soonest"
+            },
+            {
+              "key": "C",
+              "text": "more soon"
+            },
+            {
+              "key": "D",
+              "text": "sooner"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Có 'than' nên cần so sánh hơn của 'soon' là 'sooner'.",
+            "why_wrong": {
+              "A": "'soon' là dạng gốc.",
+              "B": "'soonest' là so sánh nhất.",
+              "C": "'more soon' không đúng."
+            },
+            "translation_vi": "Nhóm chúng tôi hoàn thành dự án sớm hơn dự kiến."
+          },
+          "tags": [
+            "g14_comparison"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g17",
+      "part": 5,
+      "questions": [
+        {
+          "no": 17,
+          "type": "p5_comparison",
+          "difficulty": 3,
+          "stem": "The second proposal is ____ acceptable than the first.",
+          "options": [
+            {
+              "key": "A",
+              "text": "less"
+            },
+            {
+              "key": "B",
+              "text": "little"
+            },
+            {
+              "key": "C",
+              "text": "least"
+            },
+            {
+              "key": "D",
+              "text": "fewer"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Có 'than' và tính từ 'acceptable' nên dùng 'less'.",
+            "why_wrong": {
+              "B": "'little' là dạng gốc.",
+              "C": "'least' là so sánh nhất.",
+              "D": "'fewer' dùng cho danh từ đếm được."
+            },
+            "translation_vi": "Đề xuất thứ hai kém chấp nhận hơn đề xuất thứ nhất."
+          },
+          "tags": [
+            "g14_comparison"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g18",
+      "part": 5,
+      "questions": [
+        {
+          "no": 18,
+          "type": "p5_comparison",
+          "difficulty": 5,
+          "stem": "It was ____ the most successful campaign we have run.",
+          "options": [
+            {
+              "key": "A",
+              "text": "far by"
+            },
+            {
+              "key": "B",
+              "text": "by far"
+            },
+            {
+              "key": "C",
+              "text": "so far"
+            },
+            {
+              "key": "D",
+              "text": "too far"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'By far' nhấn mạnh so sánh nhất, đứng trước 'the most'.",
+            "why_wrong": {
+              "A": "'far by' sai trật tự.",
+              "C": "'so far' nghĩa là cho đến nay.",
+              "D": "'too far' nghĩa là quá xa."
+            },
+            "translation_vi": "Đây rõ ràng là chiến dịch thành công nhất chúng tôi từng chạy."
+          },
+          "tags": [
+            "g14_comparison"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g19",
+      "part": 5,
+      "questions": [
+        {
+          "no": 19,
+          "type": "p5_comparison",
+          "difficulty": 4,
+          "stem": "The equipment is ____ heavier than we anticipated.",
+          "options": [
+            {
+              "key": "A",
+              "text": "some"
+            },
+            {
+              "key": "B",
+              "text": "any"
+            },
+            {
+              "key": "C",
+              "text": "somewhat"
+            },
+            {
+              "key": "D",
+              "text": "none"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Cần trạng từ 'somewhat' bổ nghĩa cho so sánh hơn 'heavier'.",
+            "why_wrong": {
+              "A": "'some' là hạn định từ.",
+              "B": "'any' dùng trong câu phủ định/nghi vấn.",
+              "D": "'none' là đại từ."
+            },
+            "translation_vi": "Thiết bị nặng hơn chúng tôi dự kiến một chút."
+          },
+          "tags": [
+            "g14_comparison"
+          ]
+        }
+      ]
+    }
+  ]
+}

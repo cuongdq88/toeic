@@ -1,0 +1,28 @@
+{
+  "id": "lesson-g01-word-form",
+  "kind": "lesson",
+  "title": "Từ loại (Word form)",
+  "topic": "g01_word_form",
+  "parts": [5, 6],
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "Bài ngữ pháp g01 kèm gói luyện practice-p5-word-form-01.",
+    "ai_check": {"date": "2026-11-12", "fixed": 0}
+  },
+  "sections": [
+    {"heading": "Vì sao quan trọng?", "body": "Khoảng một phần ba câu Part 5 chỉ hỏi chọn đúng **loại từ**. Chỉ cần nhìn vị trí chỗ trống và từ đứng cạnh là chọn được, không cần dịch cả câu."},
+    {"heading": "Đuôi từ thường gặp", "body": "| Loại từ | Đuôi thường gặp |\n|---|---|\n| Danh từ | -tion, -ment, -ness, -ity, -ance, -ship |\n| Tính từ | -ive, -able, -ful, -al, -ous, -ic |\n| Trạng từ | -ly (bổ nghĩa cho động từ hoặc tính từ) |\n| Động từ | -ize, -ify, -en, -ate |"},
+    {"heading": "Mẹo theo vị trí", "body": "- `a / an / the ___` → danh từ\n- `___ + danh từ` → tính từ\n- `động từ + ___` → trạng từ\n- `be / become / seem + ___` → tính từ\n- `giới từ + ___` → danh từ hoặc V-ing"},
+    {"heading": "Bẫy trong đề TOEIC", "body": "Đáp án nhiễu thường cùng gốc từ nên nhìn giống nhau. Hãy xác định **từ cần bổ nghĩa là gì** trước, rồi mới chọn đuôi. Cẩn thận các cặp dễ nhầm: `economic` (thuộc kinh tế) và `economical` (tiết kiệm); `considerable` (đáng kể) và `considerate` (chu đáo)."}
+  ],
+  "examples": [
+    {"en": "The company submitted a detailed proposal.", "vi": "Công ty đã nộp một đề xuất chi tiết.", "note": "Trước danh từ 'proposal' cần tính từ 'detailed'."},
+    {"en": "The technician checked the equipment carefully.", "vi": "Kỹ thuật viên đã kiểm tra thiết bị cẩn thận.", "note": "Sau động từ 'checked' cần trạng từ 'carefully'."},
+    {"en": "Her promotion was announced on Monday.", "vi": "Việc cô ấy được thăng chức đã được công bố vào thứ Hai.", "note": "Sau sở hữu 'Her' cần danh từ 'promotion'."}
+  ],
+  "practice_pack": "practice-p5-word-form-01"
+}

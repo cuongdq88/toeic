@@ -1,0 +1,549 @@
+{
+  "id": "vocab-v22-health",
+  "kind": "vocab",
+  "title": "Từ vựng V22 – Sức khỏe, bảo hiểm",
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "24 từ chủ đề sức khỏe, bảo hiểm, tự chọn theo tần suất công sở, tự soạn ví dụ.",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 0
+    }
+  },
+  "words": [
+    {
+      "id": "w0001",
+      "word": "policy",
+      "pos": "n",
+      "ipa": "/ˈpɑːləsi/",
+      "meaning_vi": "hợp đồng bảo hiểm",
+      "definition_en": "a contract with an insurance company",
+      "examples": [
+        {
+          "en": "The policy covers dental treatment.",
+          "vi": "Hợp đồng bảo hiểm chi trả điều trị nha khoa."
+        }
+      ],
+      "collocations": [
+        "insurance policy",
+        "take out a policy"
+      ],
+      "family": [],
+      "topic": "v22_health",
+      "level": 3
+    },
+    {
+      "id": "w0002",
+      "word": "premium",
+      "pos": "n",
+      "ipa": "/ˈpriːmiəm/",
+      "meaning_vi": "phí bảo hiểm",
+      "definition_en": "the amount paid regularly for insurance",
+      "examples": [
+        {
+          "en": "The monthly premium rose after the claim.",
+          "vi": "Phí bảo hiểm hằng tháng tăng sau khi yêu cầu chi trả."
+        }
+      ],
+      "collocations": [
+        "monthly premium",
+        "pay a premium"
+      ],
+      "family": [],
+      "topic": "v22_health",
+      "level": 4
+    },
+    {
+      "id": "w0003",
+      "word": "deductible",
+      "pos": "n",
+      "ipa": "/dɪˈdʌktəbl/",
+      "meaning_vi": "mức khấu trừ",
+      "definition_en": "the amount a patient pays before insurance starts paying",
+      "examples": [
+        {
+          "en": "The deductible is five hundred dollars a year.",
+          "vi": "Mức khấu trừ là năm trăm đô một năm."
+        }
+      ],
+      "collocations": [
+        "annual deductible",
+        "meet the deductible"
+      ],
+      "family": [],
+      "topic": "v22_health",
+      "level": 5
+    },
+    {
+      "id": "w0004",
+      "word": "coverage",
+      "pos": "n",
+      "ipa": "/ˈkʌvərɪdʒ/",
+      "meaning_vi": "phạm vi bảo hiểm",
+      "definition_en": "the protection provided by an insurance plan",
+      "examples": [
+        {
+          "en": "The plan offers coverage for hospital stays.",
+          "vi": "Gói bảo hiểm chi trả cho thời gian nằm viện."
+        }
+      ],
+      "collocations": [
+        "health coverage",
+        "full coverage"
+      ],
+      "family": [
+        "cover (v)"
+      ],
+      "topic": "v22_health",
+      "level": 4
+    },
+    {
+      "id": "w0005",
+      "word": "claim",
+      "pos": "n",
+      "ipa": "/kleɪm/",
+      "meaning_vi": "yêu cầu chi trả",
+      "definition_en": "a request for money from an insurance company",
+      "examples": [
+        {
+          "en": "She submitted the claim with the hospital receipts.",
+          "vi": "Cô ấy nộp yêu cầu chi trả kèm hóa đơn bệnh viện."
+        }
+      ],
+      "collocations": [
+        "file a claim",
+        "insurance claim"
+      ],
+      "family": [
+        "claim (v)"
+      ],
+      "topic": "v22_health",
+      "level": 2
+    },
+    {
+      "id": "w0006",
+      "word": "clinic",
+      "pos": "n",
+      "ipa": "/ˈklɪnɪk/",
+      "meaning_vi": "phòng khám",
+      "definition_en": "a place where people receive medical advice or treatment",
+      "examples": [
+        {
+          "en": "The clinic opens at eight on weekdays.",
+          "vi": "Phòng khám mở lúc tám giờ ngày thường."
+        }
+      ],
+      "collocations": [
+        "walk-in clinic",
+        "health clinic"
+      ],
+      "family": [],
+      "topic": "v22_health",
+      "level": 1
+    },
+    {
+      "id": "w0007",
+      "word": "physician",
+      "pos": "n",
+      "ipa": "/fɪˈzɪʃn/",
+      "meaning_vi": "bác sĩ điều trị",
+      "definition_en": "a doctor of medicine",
+      "examples": [
+        {
+          "en": "Patients must see a physician before referral.",
+          "vi": "Bệnh nhân phải gặp bác sĩ trước khi chuyển tuyến."
+        }
+      ],
+      "collocations": [
+        "family physician",
+        "consult a physician"
+      ],
+      "family": [],
+      "topic": "v22_health",
+      "level": 4
+    },
+    {
+      "id": "w0008",
+      "word": "appointment",
+      "pos": "n",
+      "ipa": "/əˈpɔɪntmənt/",
+      "meaning_vi": "lịch hẹn khám",
+      "definition_en": "an arranged time to see a doctor",
+      "examples": [
+        {
+          "en": "I made an appointment for Tuesday morning.",
+          "vi": "Tôi đặt lịch hẹn sáng thứ Ba."
+        }
+      ],
+      "collocations": [
+        "make an appointment",
+        "cancel an appointment"
+      ],
+      "family": [
+        "appoint (v)"
+      ],
+      "topic": "v22_health",
+      "level": 2
+    },
+    {
+      "id": "w0009",
+      "word": "prescription",
+      "pos": "n",
+      "ipa": "/prɪˈskrɪpʃn/",
+      "meaning_vi": "đơn thuốc",
+      "definition_en": "a doctor's written order for medicine",
+      "examples": [
+        {
+          "en": "The doctor sent the prescription to the pharmacy.",
+          "vi": "Bác sĩ gửi đơn thuốc đến hiệu thuốc."
+        }
+      ],
+      "collocations": [
+        "write a prescription",
+        "prescription drug"
+      ],
+      "family": [
+        "prescribe (v)"
+      ],
+      "topic": "v22_health",
+      "level": 3
+    },
+    {
+      "id": "w0010",
+      "word": "pharmacy",
+      "pos": "n",
+      "ipa": "/ˈfɑːrməsi/",
+      "meaning_vi": "hiệu thuốc",
+      "definition_en": "a shop where medicine is prepared and sold",
+      "examples": [
+        {
+          "en": "The pharmacy is on the ground floor of the clinic.",
+          "vi": "Hiệu thuốc ở tầng trệt của phòng khám."
+        }
+      ],
+      "collocations": [
+        "hospital pharmacy",
+        "pharmacy counter"
+      ],
+      "family": [
+        "pharmacist (n)"
+      ],
+      "topic": "v22_health",
+      "level": 2
+    },
+    {
+      "id": "w0011",
+      "word": "symptom",
+      "pos": "n",
+      "ipa": "/ˈsɪmptəm/",
+      "meaning_vi": "triệu chứng",
+      "definition_en": "a sign of an illness",
+      "examples": [
+        {
+          "en": "Report any new symptoms to your doctor.",
+          "vi": "Báo cho bác sĩ mọi triệu chứng mới."
+        }
+      ],
+      "collocations": [
+        "common symptom",
+        "develop symptoms"
+      ],
+      "family": [],
+      "topic": "v22_health",
+      "level": 4
+    },
+    {
+      "id": "w0012",
+      "word": "diagnosis",
+      "pos": "n",
+      "ipa": "/ˌdaɪəɡˈnoʊsɪs/",
+      "meaning_vi": "chẩn đoán",
+      "definition_en": "the identification of an illness by a doctor",
+      "examples": [
+        {
+          "en": "The diagnosis was confirmed after a blood test.",
+          "vi": "Chẩn đoán được xác nhận sau xét nghiệm máu."
+        }
+      ],
+      "collocations": [
+        "make a diagnosis",
+        "early diagnosis"
+      ],
+      "family": [
+        "diagnose (v)"
+      ],
+      "topic": "v22_health",
+      "level": 5
+    },
+    {
+      "id": "w0013",
+      "word": "treatment",
+      "pos": "n",
+      "ipa": "/ˈtriːtmənt/",
+      "meaning_vi": "điều trị",
+      "definition_en": "medical care given to cure an illness",
+      "examples": [
+        {
+          "en": "The treatment lasts six weeks.",
+          "vi": "Việc điều trị kéo dài sáu tuần."
+        }
+      ],
+      "collocations": [
+        "receive treatment",
+        "medical treatment"
+      ],
+      "family": [
+        "treat (v)"
+      ],
+      "topic": "v22_health",
+      "level": 2
+    },
+    {
+      "id": "w0014",
+      "word": "therapy",
+      "pos": "n",
+      "ipa": "/ˈθerəpi/",
+      "meaning_vi": "liệu pháp trị liệu",
+      "definition_en": "a form of treatment for a physical or mental condition",
+      "examples": [
+        {
+          "en": "She attends physical therapy twice a week.",
+          "vi": "Cô ấy đi vật lý trị liệu hai lần mỗi tuần."
+        }
+      ],
+      "collocations": [
+        "physical therapy",
+        "speech therapy"
+      ],
+      "family": [
+        "therapist (n)"
+      ],
+      "topic": "v22_health",
+      "level": 3
+    },
+    {
+      "id": "w0015",
+      "word": "vaccination",
+      "pos": "n",
+      "ipa": "/ˌvæksɪˈneɪʃn/",
+      "meaning_vi": "việc tiêm phòng",
+      "definition_en": "the act of giving a vaccine to prevent disease",
+      "examples": [
+        {
+          "en": "Vaccination is required before travel to the region.",
+          "vi": "Cần tiêm phòng trước khi đến khu vực đó."
+        }
+      ],
+      "collocations": [
+        "flu vaccination",
+        "vaccination program"
+      ],
+      "family": [
+        "vaccinate (v)"
+      ],
+      "topic": "v22_health",
+      "level": 4
+    },
+    {
+      "id": "w0016",
+      "word": "checkup",
+      "pos": "n",
+      "ipa": "/ˈtʃekʌp/",
+      "meaning_vi": "khám sức khỏe định kỳ",
+      "definition_en": "a general medical examination",
+      "examples": [
+        {
+          "en": "The company pays for an annual checkup.",
+          "vi": "Công ty chi trả khám sức khỏe hằng năm."
+        }
+      ],
+      "collocations": [
+        "annual checkup",
+        "routine checkup"
+      ],
+      "family": [],
+      "topic": "v22_health",
+      "level": 2
+    },
+    {
+      "id": "w0017",
+      "word": "emergency",
+      "pos": "n",
+      "ipa": "/ɪˈmɜːrdʒənsi/",
+      "meaning_vi": "trường hợp khẩn cấp",
+      "definition_en": "a serious situation needing immediate action",
+      "examples": [
+        {
+          "en": "Call this number in an emergency.",
+          "vi": "Gọi số này trong trường hợp khẩn cấp."
+        }
+      ],
+      "collocations": [
+        "medical emergency",
+        "emergency room"
+      ],
+      "family": [],
+      "topic": "v22_health",
+      "level": 2
+    },
+    {
+      "id": "w0018",
+      "word": "ambulance",
+      "pos": "n",
+      "ipa": "/ˈæmbjələns/",
+      "meaning_vi": "xe cứu thương",
+      "definition_en": "a vehicle that takes sick people to hospital",
+      "examples": [
+        {
+          "en": "An ambulance arrived within ten minutes.",
+          "vi": "Xe cứu thương đến trong mười phút."
+        }
+      ],
+      "collocations": [
+        "call an ambulance",
+        "ambulance service"
+      ],
+      "family": [],
+      "topic": "v22_health",
+      "level": 3
+    },
+    {
+      "id": "w0019",
+      "word": "allergy",
+      "pos": "n",
+      "ipa": "/ˈælɜːrdʒi/",
+      "meaning_vi": "dị ứng",
+      "definition_en": "a physical reaction to something harmless",
+      "examples": [
+        {
+          "en": "He has a severe allergy to peanuts.",
+          "vi": "Anh ấy dị ứng nặng với đậu phộng."
+        }
+      ],
+      "collocations": [
+        "food allergy",
+        "allergy test"
+      ],
+      "family": [
+        "allergic (adj)"
+      ],
+      "topic": "v22_health",
+      "level": 3
+    },
+    {
+      "id": "w0020",
+      "word": "wellness",
+      "pos": "n",
+      "ipa": "/ˈwelnəs/",
+      "meaning_vi": "sức khỏe toàn diện",
+      "definition_en": "the state of being healthy, especially through prevention",
+      "examples": [
+        {
+          "en": "The firm runs a wellness program for staff.",
+          "vi": "Công ty có chương trình chăm sóc sức khỏe cho nhân viên."
+        }
+      ],
+      "collocations": [
+        "wellness program",
+        "wellness centre"
+      ],
+      "family": [
+        "well (adj)"
+      ],
+      "topic": "v22_health",
+      "level": 4
+    },
+    {
+      "id": "w0021",
+      "word": "copay",
+      "pos": "n",
+      "ipa": "/ˈkoʊpeɪ/",
+      "meaning_vi": "khoản đồng chi trả",
+      "definition_en": "a fixed amount a patient pays for a service",
+      "examples": [
+        {
+          "en": "The copay for a visit is twenty dollars.",
+          "vi": "Khoản đồng chi trả mỗi lần khám là hai mươi đô."
+        }
+      ],
+      "collocations": [
+        "small copay",
+        "pay a copay"
+      ],
+      "family": [],
+      "topic": "v22_health",
+      "level": 5
+    },
+    {
+      "id": "w0022",
+      "word": "referral",
+      "pos": "n",
+      "ipa": "/rɪˈfɜːrəl/",
+      "meaning_vi": "giấy chuyển tuyến",
+      "definition_en": "the act of sending a patient to a specialist",
+      "examples": [
+        {
+          "en": "You need a referral from your family doctor.",
+          "vi": "Bạn cần giấy chuyển tuyến từ bác sĩ gia đình."
+        }
+      ],
+      "collocations": [
+        "medical referral",
+        "specialist referral"
+      ],
+      "family": [
+        "refer (v)"
+      ],
+      "topic": "v22_health",
+      "level": 5
+    },
+    {
+      "id": "w0023",
+      "word": "recovery",
+      "pos": "n",
+      "ipa": "/rɪˈkʌvəri/",
+      "meaning_vi": "sự hồi phục",
+      "definition_en": "the process of getting better after illness",
+      "examples": [
+        {
+          "en": "Her recovery took several months.",
+          "vi": "Quá trình hồi phục của cô ấy mất vài tháng."
+        }
+      ],
+      "collocations": [
+        "full recovery",
+        "recovery time"
+      ],
+      "family": [
+        "recover (v)"
+      ],
+      "topic": "v22_health",
+      "level": 3
+    },
+    {
+      "id": "w0024",
+      "word": "health insurance",
+      "pos": "n",
+      "ipa": "/helθ ɪnˈʃʊrəns/",
+      "meaning_vi": "bảo hiểm y tế",
+      "definition_en": "insurance that pays for medical costs",
+      "examples": [
+        {
+          "en": "Health insurance is part of the benefits package.",
+          "vi": "Bảo hiểm y tế nằm trong gói phúc lợi."
+        }
+      ],
+      "collocations": [
+        "private health insurance",
+        "health insurance plan"
+      ],
+      "family": [],
+      "topic": "v22_health",
+      "level": 3
+    }
+  ]
+}

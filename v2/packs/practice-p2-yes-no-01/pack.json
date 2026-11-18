@@ -1,0 +1,1380 @@
+{
+  "id": "practice-p2-yes-no-01",
+  "kind": "practice",
+  "title": "Luyện Part 2 – Yes/No",
+  "level": "medium",
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 20
+    }
+  },
+  "groups": [
+    {
+      "id": "g01",
+      "part": 2,
+      "audio": "audio/g01.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 1.",
+          "vi": "Câu 1."
+        },
+        {
+          "speaker": "W1",
+          "accent": "UK",
+          "text": "Do you have a moment to talk?",
+          "vi": "Do you have a moment to talk?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(A) Sure, come in.",
+          "vi": "(A) Sure, come in."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(B) The door is open.",
+          "vi": "(B) The door is open."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(C) In ten minutes.",
+          "vi": "(C) In ten minutes."
+        }
+      ],
+      "questions": [
+        {
+          "no": 1,
+          "type": "p2_yes_no",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Sure, come in."
+            },
+            {
+              "key": "B",
+              "text": "The door is open."
+            },
+            {
+              "key": "C",
+              "text": "In ten minutes."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Câu hỏi Yes/No được đáp lại bằng 'Sure, come in'.",
+            "why_wrong": {
+              "B": "Nói cửa mở, không trả lời câu hỏi.",
+              "C": "Đây là câu trả lời cho 'When'."
+            },
+            "translation_vi": "Anh có chút thời gian nói chuyện không? – Được, vào đi."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "part": 2,
+      "audio": "audio/g02.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 2.",
+          "vi": "Câu 2."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "Is the conference room available?",
+          "vi": "Is the conference room available?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(A) On the third floor.",
+          "vi": "(A) On the third floor."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(B) About twenty seats.",
+          "vi": "(B) About twenty seats."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(C) Yes, it's free all morning.",
+          "vi": "(C) Yes, it's free all morning."
+        }
+      ],
+      "questions": [
+        {
+          "no": 2,
+          "type": "p2_yes_no",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "On the third floor."
+            },
+            {
+              "key": "B",
+              "text": "About twenty seats."
+            },
+            {
+              "key": "C",
+              "text": "Yes, it's free all morning."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Câu hỏi Yes/No được trả lời 'Yes' kèm thông tin.",
+            "why_wrong": {
+              "A": "Đây là câu trả lời cho 'Where'.",
+              "B": "Đây là câu trả lời cho 'How many'."
+            },
+            "translation_vi": "Phòng hội nghị có trống không? – Có, trống cả buổi sáng."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "part": 2,
+      "audio": "audio/g03.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 3.",
+          "vi": "Câu 3."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "Did you receive my e-mail?",
+          "vi": "Did you receive my e-mail?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(A) I sent it yesterday.",
+          "vi": "(A) I sent it yesterday."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(B) It must have gone to spam.",
+          "vi": "(B) It must have gone to spam."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(C) Yes, e-mail is useful.",
+          "vi": "(C) Yes, e-mail is useful."
+        }
+      ],
+      "questions": [
+        {
+          "no": 3,
+          "type": "p2_yes_no",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "I sent it yesterday."
+            },
+            {
+              "key": "B",
+              "text": "It must have gone to spam."
+            },
+            {
+              "key": "C",
+              "text": "Yes, e-mail is useful."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Đáp án gián tiếp cho biết chưa thấy email, có thể vào thư rác.",
+            "why_wrong": {
+              "A": "Nói đã gửi, không xác nhận nhận được.",
+              "C": "Nhận xét email, không trả lời."
+            },
+            "translation_vi": "Anh nhận được email của tôi chưa? – Chắc nó vào thư rác rồi."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "part": 2,
+      "audio": "audio/g04.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 4.",
+          "vi": "Câu 4."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Are you attending the dinner?",
+          "vi": "Are you attending the dinner?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(A) I'll try to make it.",
+          "vi": "(A) I'll try to make it."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(B) The dinner was good.",
+          "vi": "(B) The dinner was good."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(C) At seven o'clock.",
+          "vi": "(C) At seven o'clock."
+        }
+      ],
+      "questions": [
+        {
+          "no": 4,
+          "type": "p2_yes_no",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "I'll try to make it."
+            },
+            {
+              "key": "B",
+              "text": "The dinner was good."
+            },
+            {
+              "key": "C",
+              "text": "At seven o'clock."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Câu hỏi Yes/No được trả lời gián tiếp bằng 'I'll try to make it'.",
+            "why_wrong": {
+              "B": "Nhận xét bữa tối, không trả lời.",
+              "C": "Đây là câu trả lời cho 'When'."
+            },
+            "translation_vi": "Anh có dự bữa tối không? – Tôi sẽ cố thu xếp."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "part": 2,
+      "audio": "audio/g05.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 5.",
+          "vi": "Câu 5."
+        },
+        {
+          "speaker": "W1",
+          "accent": "UK",
+          "text": "Has the package arrived?",
+          "vi": "Has the package arrived?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(A) The package is heavy.",
+          "vi": "(A) The package is heavy."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(B) Yes, I ordered it.",
+          "vi": "(B) Yes, I ordered it."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(C) It's still with the courier.",
+          "vi": "(C) It's still with the courier."
+        }
+      ],
+      "questions": [
+        {
+          "no": 5,
+          "type": "p2_yes_no",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The package is heavy."
+            },
+            {
+              "key": "B",
+              "text": "Yes, I ordered it."
+            },
+            {
+              "key": "C",
+              "text": "It's still with the courier."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Câu trả lời gián tiếp cho biết kiện hàng chưa đến.",
+            "why_wrong": {
+              "A": "Nhận xét kiện hàng, không trả lời.",
+              "B": "Nói đã đặt hàng, không xác nhận đến."
+            },
+            "translation_vi": "Kiện hàng đã đến chưa? – Nó vẫn đang ở chỗ chuyển phát."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g06",
+      "part": 2,
+      "audio": "audio/g06.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 6.",
+          "vi": "Câu 6."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "Do you need help with the boxes?",
+          "vi": "Do you need help with the boxes?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(A) The boxes are empty.",
+          "vi": "(A) The boxes are empty."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(B) That would be great.",
+          "vi": "(B) That would be great."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(C) In the storeroom.",
+          "vi": "(C) In the storeroom."
+        }
+      ],
+      "questions": [
+        {
+          "no": 6,
+          "type": "p2_yes_no",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The boxes are empty."
+            },
+            {
+              "key": "B",
+              "text": "That would be great."
+            },
+            {
+              "key": "C",
+              "text": "In the storeroom."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Câu hỏi Yes/No được đáp lại bằng 'That would be great'.",
+            "why_wrong": {
+              "A": "Nhận xét thùng, không trả lời.",
+              "C": "Đây là câu trả lời cho 'Where'."
+            },
+            "translation_vi": "Anh có cần giúp bê thùng không? – Thế thì tốt quá."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g07",
+      "part": 2,
+      "audio": "audio/g07.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 7.",
+          "vi": "Câu 7."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "Is the report ready for review?",
+          "vi": "Is the report ready for review?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(A) I'm finishing the last section.",
+          "vi": "(A) I'm finishing the last section."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(B) The report is long.",
+          "vi": "(B) The report is long."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(C) Yes, I reviewed it.",
+          "vi": "(C) Yes, I reviewed it."
+        }
+      ],
+      "questions": [
+        {
+          "no": 7,
+          "type": "p2_yes_no",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "I'm finishing the last section."
+            },
+            {
+              "key": "B",
+              "text": "The report is long."
+            },
+            {
+              "key": "C",
+              "text": "Yes, I reviewed it."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Câu trả lời gián tiếp cho biết báo cáo chưa xong.",
+            "why_wrong": {
+              "B": "Nhận xét báo cáo, không trả lời.",
+              "C": "Nói đã xem, không xác nhận sẵn sàng."
+            },
+            "translation_vi": "Báo cáo sẵn sàng để xem chưa? – Tôi đang làm phần cuối."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g08",
+      "part": 2,
+      "audio": "audio/g08.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 8.",
+          "vi": "Câu 8."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Did the client sign the contract?",
+          "vi": "Did the client sign the contract?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(A) The contract is new.",
+          "vi": "(A) The contract is new."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(B) At our office.",
+          "vi": "(B) At our office."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(C) She's still considering it.",
+          "vi": "(C) She's still considering it."
+        }
+      ],
+      "questions": [
+        {
+          "no": 8,
+          "type": "p2_yes_no",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The contract is new."
+            },
+            {
+              "key": "B",
+              "text": "At our office."
+            },
+            {
+              "key": "C",
+              "text": "She's still considering it."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Câu trả lời gián tiếp cho biết khách chưa ký.",
+            "why_wrong": {
+              "A": "Nhận xét hợp đồng, không trả lời.",
+              "B": "Đây là câu trả lời cho 'Where'."
+            },
+            "translation_vi": "Khách đã ký hợp đồng chưa? – Cô ấy vẫn đang cân nhắc."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g09",
+      "part": 2,
+      "audio": "audio/g09.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 9.",
+          "vi": "Câu 9."
+        },
+        {
+          "speaker": "W1",
+          "accent": "UK",
+          "text": "Are the new chairs comfortable?",
+          "vi": "Are the new chairs comfortable?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(A) They arrived Monday.",
+          "vi": "(A) They arrived Monday."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(B) Much better than the old ones.",
+          "vi": "(B) Much better than the old ones."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(C) Yes, twelve chairs.",
+          "vi": "(C) Yes, twelve chairs."
+        }
+      ],
+      "questions": [
+        {
+          "no": 9,
+          "type": "p2_yes_no",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "They arrived Monday."
+            },
+            {
+              "key": "B",
+              "text": "Much better than the old ones."
+            },
+            {
+              "key": "C",
+              "text": "Yes, twelve chairs."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Câu hỏi Yes/No được trả lời gián tiếp bằng so sánh với ghế cũ.",
+            "why_wrong": {
+              "A": "Nói ngày đến, không trả lời.",
+              "C": "Nói số lượng, không trả lời."
+            },
+            "translation_vi": "Ghế mới có thoải mái không? – Tốt hơn nhiều so với ghế cũ."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g10",
+      "part": 2,
+      "audio": "audio/g10.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 10.",
+          "vi": "Câu 10."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "Can you finish by Friday?",
+          "vi": "Can you finish by Friday?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(A) It depends on the supplier.",
+          "vi": "(A) It depends on the supplier."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(B) Friday is busy.",
+          "vi": "(B) Friday is busy."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(C) Yes, I finished.",
+          "vi": "(C) Yes, I finished."
+        }
+      ],
+      "questions": [
+        {
+          "no": 10,
+          "type": "p2_yes_no",
+          "difficulty": 4,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "It depends on the supplier."
+            },
+            {
+              "key": "B",
+              "text": "Friday is busy."
+            },
+            {
+              "key": "C",
+              "text": "Yes, I finished."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Câu trả lời gián tiếp cho biết chưa chắc kịp vì phụ thuộc nhà cung cấp.",
+            "why_wrong": {
+              "B": "Nói thứ Sáu bận, không trả lời.",
+              "C": "Nói đã xong, không đúng ý hỏi."
+            },
+            "translation_vi": "Anh làm xong trước thứ Sáu được không? – Còn tùy nhà cung cấp."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g11",
+      "part": 2,
+      "audio": "audio/g11.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 11.",
+          "vi": "Câu 11."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "Have you used this software before?",
+          "vi": "Have you used this software before?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(A) The software is new.",
+          "vi": "(A) The software is new."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(B) Yes, it is useful.",
+          "vi": "(B) Yes, it is useful."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(C) Only briefly, at my last job.",
+          "vi": "(C) Only briefly, at my last job."
+        }
+      ],
+      "questions": [
+        {
+          "no": 11,
+          "type": "p2_yes_no",
+          "difficulty": 4,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The software is new."
+            },
+            {
+              "key": "B",
+              "text": "Yes, it is useful."
+            },
+            {
+              "key": "C",
+              "text": "Only briefly, at my last job."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Câu trả lời gián tiếp cho biết đã dùng ít ở công việc trước.",
+            "why_wrong": {
+              "A": "Nhận xét phần mềm, không trả lời.",
+              "B": "Nhận xét hữu ích, không trả lời."
+            },
+            "translation_vi": "Anh đã dùng phần mềm này chưa? – Chỉ một chút, ở việc trước."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g12",
+      "part": 2,
+      "audio": "audio/g12.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 12.",
+          "vi": "Câu 12."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Is the museum open on Mondays?",
+          "vi": "Is the museum open on Mondays?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(A) The museum is large.",
+          "vi": "(A) The museum is large."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(B) Not since the renovation.",
+          "vi": "(B) Not since the renovation."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(C) Yes, I visited Monday.",
+          "vi": "(C) Yes, I visited Monday."
+        }
+      ],
+      "questions": [
+        {
+          "no": 12,
+          "type": "p2_yes_no",
+          "difficulty": 4,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The museum is large."
+            },
+            {
+              "key": "B",
+              "text": "Not since the renovation."
+            },
+            {
+              "key": "C",
+              "text": "Yes, I visited Monday."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Câu trả lời gián tiếp cho biết bảo tàng không mở thứ Hai sau đợt sửa.",
+            "why_wrong": {
+              "A": "Nhận xét bảo tàng, không trả lời.",
+              "C": "Nói đã đến, không trả lời có mở không."
+            },
+            "translation_vi": "Bảo tàng có mở thứ Hai không? – Không, từ sau đợt sửa chữa."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g13",
+      "part": 2,
+      "audio": "audio/g13.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 13.",
+          "vi": "Câu 13."
+        },
+        {
+          "speaker": "W1",
+          "accent": "UK",
+          "text": "Do you think the weather will improve?",
+          "vi": "Do you think the weather will improve?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(A) The forecast says it should.",
+          "vi": "(A) The forecast says it should."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(B) The weather was nice.",
+          "vi": "(B) The weather was nice."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(C) At the weekend.",
+          "vi": "(C) At the weekend."
+        }
+      ],
+      "questions": [
+        {
+          "no": 13,
+          "type": "p2_yes_no",
+          "difficulty": 4,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The forecast says it should."
+            },
+            {
+              "key": "B",
+              "text": "The weather was nice."
+            },
+            {
+              "key": "C",
+              "text": "At the weekend."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Câu trả lời gián tiếp dựa vào dự báo để nói thời tiết sẽ tốt lên.",
+            "why_wrong": {
+              "B": "Nói thời tiết đã đẹp, không trả lời.",
+              "C": "Đây là câu trả lời cho 'When'."
+            },
+            "translation_vi": "Anh có nghĩ thời tiết sẽ tốt hơn không? – Dự báo nói là có."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g14",
+      "part": 2,
+      "audio": "audio/g14.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 14.",
+          "vi": "Câu 14."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "Was the presentation well received?",
+          "vi": "Was the presentation well received?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(A) The presentation was long.",
+          "vi": "(A) The presentation was long."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(B) In the main hall.",
+          "vi": "(B) In the main hall."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(C) Several people asked for the slides.",
+          "vi": "(C) Several people asked for the slides."
+        }
+      ],
+      "questions": [
+        {
+          "no": 14,
+          "type": "p2_yes_no",
+          "difficulty": 4,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The presentation was long."
+            },
+            {
+              "key": "B",
+              "text": "In the main hall."
+            },
+            {
+              "key": "C",
+              "text": "Several people asked for the slides."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Việc nhiều người xin slide cho thấy bài trình bày được đón nhận tốt.",
+            "why_wrong": {
+              "A": "Nhận xét độ dài, không trả lời.",
+              "B": "Đây là câu trả lời cho 'Where'."
+            },
+            "translation_vi": "Bài trình bày có được đón nhận tốt không? – Vài người xin slide."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g15",
+      "part": 2,
+      "audio": "audio/g15.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 15.",
+          "vi": "Câu 15."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "Are you free for lunch tomorrow?",
+          "vi": "Are you free for lunch tomorrow?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(A) Lunch was delicious.",
+          "vi": "(A) Lunch was delicious."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(B) I have a meeting until one.",
+          "vi": "(B) I have a meeting until one."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(C) At the café.",
+          "vi": "(C) At the café."
+        }
+      ],
+      "questions": [
+        {
+          "no": 15,
+          "type": "p2_yes_no",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Lunch was delicious."
+            },
+            {
+              "key": "B",
+              "text": "I have a meeting until one."
+            },
+            {
+              "key": "C",
+              "text": "At the café."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Câu trả lời gián tiếp cho biết bận đến một giờ.",
+            "why_wrong": {
+              "A": "Nhận xét bữa trưa, không trả lời.",
+              "C": "Đây là câu trả lời cho 'Where'."
+            },
+            "translation_vi": "Mai anh rảnh ăn trưa không? – Tôi họp đến một giờ."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g16",
+      "part": 2,
+      "audio": "audio/g16.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 16.",
+          "vi": "Câu 16."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Did you enjoy the workshop?",
+          "vi": "Did you enjoy the workshop?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(A) The last session was especially useful.",
+          "vi": "(A) The last session was especially useful."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(B) The workshop was full.",
+          "vi": "(B) The workshop was full."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(C) Yes, I attended.",
+          "vi": "(C) Yes, I attended."
+        }
+      ],
+      "questions": [
+        {
+          "no": 16,
+          "type": "p2_yes_no",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The last session was especially useful."
+            },
+            {
+              "key": "B",
+              "text": "The workshop was full."
+            },
+            {
+              "key": "C",
+              "text": "Yes, I attended."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Câu trả lời gián tiếp cho thấy buổi học hữu ích.",
+            "why_wrong": {
+              "B": "Nói buổi học đông, không trả lời.",
+              "C": "Nói đã tham dự, không nói thích."
+            },
+            "translation_vi": "Anh có thích hội thảo không? – Phiên cuối đặc biệt hữu ích."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g17",
+      "part": 2,
+      "audio": "audio/g17.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 17.",
+          "vi": "Câu 17."
+        },
+        {
+          "speaker": "W1",
+          "accent": "UK",
+          "text": "Is this the right form for a refund?",
+          "vi": "Is this the right form for a refund?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(A) The form is short.",
+          "vi": "(A) The form is short."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(B) Yes, refunds take time.",
+          "vi": "(B) Yes, refunds take time."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(C) That's the one for exchanges.",
+          "vi": "(C) That's the one for exchanges."
+        }
+      ],
+      "questions": [
+        {
+          "no": 17,
+          "type": "p2_yes_no",
+          "difficulty": 4,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The form is short."
+            },
+            {
+              "key": "B",
+              "text": "Yes, refunds take time."
+            },
+            {
+              "key": "C",
+              "text": "That's the one for exchanges."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Câu trả lời gián tiếp cho biết đây là mẫu đổi hàng, không phải hoàn tiền.",
+            "why_wrong": {
+              "A": "Nhận xét mẫu, không trả lời.",
+              "B": "Nói hoàn tiền mất thời gian, không trả lời."
+            },
+            "translation_vi": "Đây có phải mẫu xin hoàn tiền không? – Đây là mẫu đổi hàng."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g18",
+      "part": 2,
+      "audio": "audio/g18.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 18.",
+          "vi": "Câu 18."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "Have the repairs been completed?",
+          "vi": "Have the repairs been completed?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(A) The repairs were costly.",
+          "vi": "(A) The repairs were costly."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(B) The technician is coming back tomorrow.",
+          "vi": "(B) The technician is coming back tomorrow."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(C) Yes, they were needed.",
+          "vi": "(C) Yes, they were needed."
+        }
+      ],
+      "questions": [
+        {
+          "no": 18,
+          "type": "p2_yes_no",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The repairs were costly."
+            },
+            {
+              "key": "B",
+              "text": "The technician is coming back tomorrow."
+            },
+            {
+              "key": "C",
+              "text": "Yes, they were needed."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Câu trả lời gián tiếp cho biết việc sửa chưa xong.",
+            "why_wrong": {
+              "A": "Nói chi phí, không trả lời.",
+              "C": "Nói cần sửa, không xác nhận xong."
+            },
+            "translation_vi": "Việc sửa chữa xong chưa? – Kỹ thuật viên mai quay lại."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g19",
+      "part": 2,
+      "audio": "audio/g19.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 19.",
+          "vi": "Câu 19."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "Will you be at the office on Friday?",
+          "vi": "Will you be at the office on Friday?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(A) I'm working from home that day.",
+          "vi": "(A) I'm working from home that day."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(B) The office is closed.",
+          "vi": "(B) The office is closed."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(C) Yes, Friday is fine.",
+          "vi": "(C) Yes, Friday is fine."
+        }
+      ],
+      "questions": [
+        {
+          "no": 19,
+          "type": "p2_yes_no",
+          "difficulty": 4,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "I'm working from home that day."
+            },
+            {
+              "key": "B",
+              "text": "The office is closed."
+            },
+            {
+              "key": "C",
+              "text": "Yes, Friday is fine."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Câu trả lời gián tiếp cho biết sẽ không ở văn phòng.",
+            "why_wrong": {
+              "B": "Nói văn phòng đóng, không trả lời.",
+              "C": "Nói thứ Sáu ổn, không trả lời vị trí."
+            },
+            "translation_vi": "Thứ Sáu anh có ở văn phòng không? – Hôm đó tôi làm ở nhà."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g20",
+      "part": 2,
+      "audio": "audio/g20.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 20.",
+          "vi": "Câu 20."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Do you have the latest figures?",
+          "vi": "Do you have the latest figures?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(A) The figures are high.",
+          "vi": "(A) The figures are high."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(B) Yes, I have figures.",
+          "vi": "(B) Yes, I have figures."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(C) I'm waiting for finance to send them.",
+          "vi": "(C) I'm waiting for finance to send them."
+        }
+      ],
+      "questions": [
+        {
+          "no": 20,
+          "type": "p2_yes_no",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The figures are high."
+            },
+            {
+              "key": "B",
+              "text": "Yes, I have figures."
+            },
+            {
+              "key": "C",
+              "text": "I'm waiting for finance to send them."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Câu trả lời gián tiếp cho biết chưa có số liệu.",
+            "why_wrong": {
+              "A": "Nhận xét số liệu, không trả lời.",
+              "B": "Nói có số liệu, mâu thuẫn."
+            },
+            "translation_vi": "Anh có số liệu mới nhất chưa? – Tôi đang chờ tài chính gửi."
+          }
+        }
+      ]
+    }
+  ]
+}

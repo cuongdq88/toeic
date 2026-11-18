@@ -1,0 +1,837 @@
+{
+  "id": "practice-p5-quantifier-determiner-02",
+  "kind": "practice",
+  "title": "Luyện Part 5 – Lượng từ 02",
+  "level": "medium",
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "19 câu lượng từ, 5 câu mức 4-5.",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 0
+    }
+  },
+  "groups": [
+    {
+      "id": "g01",
+      "part": 5,
+      "questions": [
+        {
+          "no": 1,
+          "type": "p5_quantifier_determiner",
+          "difficulty": 2,
+          "stem": "There are ____ chairs in the meeting room.",
+          "options": [
+            {
+              "key": "A",
+              "text": "a few"
+            },
+            {
+              "key": "B",
+              "text": "a little"
+            },
+            {
+              "key": "C",
+              "text": "much"
+            },
+            {
+              "key": "D",
+              "text": "an amount of"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'Chairs' là danh từ đếm được số nhiều nên dùng 'a few'.",
+            "why_wrong": {
+              "B": "'A little' dùng cho không đếm được.",
+              "C": "'Much' dùng trong phủ định/nghi vấn.",
+              "D": "'An amount of' dùng cho không đếm được."
+            },
+            "translation_vi": "Có vài chiếc ghế trong phòng họp."
+          },
+          "tags": [
+            "g17_quantifiers"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "part": 5,
+      "questions": [
+        {
+          "no": 2,
+          "type": "p5_quantifier_determiner",
+          "difficulty": 2,
+          "stem": "We have ____ time before the deadline.",
+          "options": [
+            {
+              "key": "A",
+              "text": "few"
+            },
+            {
+              "key": "B",
+              "text": "little"
+            },
+            {
+              "key": "C",
+              "text": "many"
+            },
+            {
+              "key": "D",
+              "text": "a number of"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'Time' không đếm được nên dùng 'little'.",
+            "why_wrong": {
+              "A": "'Few' dùng cho đếm được.",
+              "C": "'Many' dùng cho đếm được.",
+              "D": "'A number of' dùng cho đếm được."
+            },
+            "translation_vi": "Chúng ta còn ít thời gian trước hạn chót."
+          },
+          "tags": [
+            "g17_quantifiers"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "part": 5,
+      "questions": [
+        {
+          "no": 3,
+          "type": "p5_quantifier_determiner",
+          "difficulty": 2,
+          "stem": "____ employees attended the safety briefing.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Much"
+            },
+            {
+              "key": "B",
+              "text": "A great deal of"
+            },
+            {
+              "key": "C",
+              "text": "Many"
+            },
+            {
+              "key": "D",
+              "text": "Little"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'Employees' đếm được số nhiều nên dùng 'Many'.",
+            "why_wrong": {
+              "A": "'Much' dùng cho không đếm được.",
+              "B": "'A great deal of' dùng cho không đếm được.",
+              "D": "'Little' dùng cho không đếm được."
+            },
+            "translation_vi": "Nhiều nhân viên đã dự buổi phổ biến an toàn."
+          },
+          "tags": [
+            "g17_quantifiers"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "part": 5,
+      "questions": [
+        {
+          "no": 4,
+          "type": "p5_quantifier_determiner",
+          "difficulty": 3,
+          "stem": "Please provide ____ information as possible about the incident.",
+          "options": [
+            {
+              "key": "A",
+              "text": "as many"
+            },
+            {
+              "key": "B",
+              "text": "as few"
+            },
+            {
+              "key": "C",
+              "text": "as a little"
+            },
+            {
+              "key": "D",
+              "text": "as much"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "'Information' không đếm được nên dùng 'as much ... as possible'.",
+            "why_wrong": {
+              "A": "'As many' dùng cho đếm được.",
+              "B": "'As few' nghĩa ngược.",
+              "C": "'As a little' sai cấu trúc."
+            },
+            "translation_vi": "Vui lòng cung cấp càng nhiều thông tin càng tốt về sự cố."
+          },
+          "tags": [
+            "g17_quantifiers"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "part": 5,
+      "questions": [
+        {
+          "no": 5,
+          "type": "p5_quantifier_determiner",
+          "difficulty": 2,
+          "stem": "There is ____ coffee left in the pot.",
+          "options": [
+            {
+              "key": "A",
+              "text": "a little"
+            },
+            {
+              "key": "B",
+              "text": "a few"
+            },
+            {
+              "key": "C",
+              "text": "many"
+            },
+            {
+              "key": "D",
+              "text": "few"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'Coffee' không đếm được nên dùng 'a little'.",
+            "why_wrong": {
+              "B": "'A few' dùng cho đếm được.",
+              "C": "'Many' dùng cho đếm được.",
+              "D": "'Few' dùng cho đếm được."
+            },
+            "translation_vi": "Còn một ít cà phê trong bình."
+          },
+          "tags": [
+            "g17_quantifiers"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g06",
+      "part": 5,
+      "questions": [
+        {
+          "no": 6,
+          "type": "p5_quantifier_determiner",
+          "difficulty": 3,
+          "stem": "The company received ____ applications this year.",
+          "options": [
+            {
+              "key": "A",
+              "text": "a large amount of"
+            },
+            {
+              "key": "B",
+              "text": "a large number of"
+            },
+            {
+              "key": "C",
+              "text": "much"
+            },
+            {
+              "key": "D",
+              "text": "a great deal of"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'Applications' đếm được nên dùng 'a large number of'.",
+            "why_wrong": {
+              "A": "'A large amount of' dùng cho không đếm được.",
+              "C": "'Much' dùng cho không đếm được.",
+              "D": "'A great deal of' dùng cho không đếm được."
+            },
+            "translation_vi": "Công ty nhận được số lượng lớn đơn ứng tuyển năm nay."
+          },
+          "tags": [
+            "g17_quantifiers"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g07",
+      "part": 5,
+      "questions": [
+        {
+          "no": 7,
+          "type": "p5_quantifier_determiner",
+          "difficulty": 4,
+          "stem": "____ of the two candidates has management experience.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Both"
+            },
+            {
+              "key": "B",
+              "text": "All"
+            },
+            {
+              "key": "C",
+              "text": "Neither"
+            },
+            {
+              "key": "D",
+              "text": "None"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'Neither of the two' + động từ số ít.",
+            "why_wrong": {
+              "A": "'Both' dùng với động từ số nhiều.",
+              "B": "'All' dùng cho từ ba trở lên.",
+              "D": "'None' dùng cho từ ba trở lên."
+            },
+            "translation_vi": "Không ai trong hai ứng viên có kinh nghiệm quản lý."
+          },
+          "tags": [
+            "g17_quantifiers"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g08",
+      "part": 5,
+      "questions": [
+        {
+          "no": 8,
+          "type": "p5_quantifier_determiner",
+          "difficulty": 3,
+          "stem": "We spent ____ money on the advertising campaign.",
+          "options": [
+            {
+              "key": "A",
+              "text": "a great number of"
+            },
+            {
+              "key": "B",
+              "text": "many"
+            },
+            {
+              "key": "C",
+              "text": "few"
+            },
+            {
+              "key": "D",
+              "text": "a great deal of"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "'Money' không đếm được nên dùng 'a great deal of'.",
+            "why_wrong": {
+              "A": "'A great number of' dùng cho đếm được.",
+              "B": "'Many' dùng cho đếm được.",
+              "C": "'Few' dùng cho đếm được."
+            },
+            "translation_vi": "Chúng tôi chi nhiều tiền cho chiến dịch quảng cáo."
+          },
+          "tags": [
+            "g17_quantifiers"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g09",
+      "part": 5,
+      "questions": [
+        {
+          "no": 9,
+          "type": "p5_quantifier_determiner",
+          "difficulty": 4,
+          "stem": "Only ____ of the equipment was damaged during transport.",
+          "options": [
+            {
+              "key": "A",
+              "text": "a small amount"
+            },
+            {
+              "key": "B",
+              "text": "a small number"
+            },
+            {
+              "key": "C",
+              "text": "few"
+            },
+            {
+              "key": "D",
+              "text": "many"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'Equipment' không đếm được nên dùng 'a small amount'.",
+            "why_wrong": {
+              "B": "'A small number' dùng cho đếm được.",
+              "C": "'Few' dùng cho đếm được.",
+              "D": "'Many' dùng cho đếm được."
+            },
+            "translation_vi": "Chỉ một phần nhỏ thiết bị bị hỏng khi vận chuyển."
+          },
+          "tags": [
+            "g17_quantifiers"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g10",
+      "part": 5,
+      "questions": [
+        {
+          "no": 10,
+          "type": "p5_quantifier_determiner",
+          "difficulty": 3,
+          "stem": "Each of the branches ____ its own budget.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have"
+            },
+            {
+              "key": "B",
+              "text": "has"
+            },
+            {
+              "key": "C",
+              "text": "having"
+            },
+            {
+              "key": "D",
+              "text": "are"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'Each of' + danh từ số nhiều đi với động từ số ít.",
+            "why_wrong": {
+              "A": "'Have' sai số.",
+              "C": "'Having' không phải động từ chính.",
+              "D": "'Are' sai số."
+            },
+            "translation_vi": "Mỗi chi nhánh có ngân sách riêng."
+          },
+          "tags": [
+            "g17_quantifiers"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g11",
+      "part": 5,
+      "questions": [
+        {
+          "no": 11,
+          "type": "p5_quantifier_determiner",
+          "difficulty": 3,
+          "stem": "There are ____ seats available than we expected.",
+          "options": [
+            {
+              "key": "A",
+              "text": "less"
+            },
+            {
+              "key": "B",
+              "text": "few"
+            },
+            {
+              "key": "C",
+              "text": "fewer"
+            },
+            {
+              "key": "D",
+              "text": "little"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'Seats' đếm được nên dùng so sánh hơn 'fewer'.",
+            "why_wrong": {
+              "A": "'Less' dùng cho không đếm được.",
+              "B": "'Few' là dạng gốc.",
+              "D": "'Little' dùng cho không đếm được."
+            },
+            "translation_vi": "Có ít chỗ trống hơn chúng tôi dự kiến."
+          },
+          "tags": [
+            "g17_quantifiers"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g12",
+      "part": 5,
+      "questions": [
+        {
+          "no": 12,
+          "type": "p5_quantifier_determiner",
+          "difficulty": 3,
+          "stem": "The new procedure requires ____ paperwork than before.",
+          "options": [
+            {
+              "key": "A",
+              "text": "fewer"
+            },
+            {
+              "key": "B",
+              "text": "little"
+            },
+            {
+              "key": "C",
+              "text": "few"
+            },
+            {
+              "key": "D",
+              "text": "less"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "'Paperwork' không đếm được nên dùng 'less'.",
+            "why_wrong": {
+              "A": "'Fewer' dùng cho đếm được.",
+              "B": "'Little' là dạng gốc.",
+              "C": "'Few' dùng cho đếm được."
+            },
+            "translation_vi": "Quy trình mới cần ít giấy tờ hơn trước."
+          },
+          "tags": [
+            "g17_quantifiers"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g13",
+      "part": 5,
+      "questions": [
+        {
+          "no": 13,
+          "type": "p5_quantifier_determiner",
+          "difficulty": 2,
+          "stem": "____ of the staff agreed to work overtime on Saturday.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Most"
+            },
+            {
+              "key": "B",
+              "text": "Much"
+            },
+            {
+              "key": "C",
+              "text": "A little"
+            },
+            {
+              "key": "D",
+              "text": "Every"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'Most of the staff' là cách dùng đúng.",
+            "why_wrong": {
+              "B": "'Much' không đi với 'of the staff'.",
+              "C": "'A little' không dùng cho người.",
+              "D": "'Every' không đi với 'of'."
+            },
+            "translation_vi": "Phần lớn nhân viên đồng ý làm thêm thứ Bảy."
+          },
+          "tags": [
+            "g17_quantifiers"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g14",
+      "part": 5,
+      "questions": [
+        {
+          "no": 14,
+          "type": "p5_quantifier_determiner",
+          "difficulty": 4,
+          "stem": "He has ____ experience in international trade.",
+          "options": [
+            {
+              "key": "A",
+              "text": "considerable number of"
+            },
+            {
+              "key": "B",
+              "text": "considerable"
+            },
+            {
+              "key": "C",
+              "text": "many"
+            },
+            {
+              "key": "D",
+              "text": "few"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'Experience' không đếm được nên dùng 'considerable'.",
+            "why_wrong": {
+              "A": "'Considerable number of' dùng cho đếm được.",
+              "C": "'Many' dùng cho đếm được.",
+              "D": "'Few' dùng cho đếm được."
+            },
+            "translation_vi": "Anh ấy có nhiều kinh nghiệm trong thương mại quốc tế."
+          },
+          "tags": [
+            "g17_quantifiers"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g15",
+      "part": 5,
+      "questions": [
+        {
+          "no": 15,
+          "type": "p5_quantifier_determiner",
+          "difficulty": 3,
+          "stem": "____ of the reports were accurate, so we requested revisions.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Neither"
+            },
+            {
+              "key": "B",
+              "text": "Much"
+            },
+            {
+              "key": "C",
+              "text": "None"
+            },
+            {
+              "key": "D",
+              "text": "Every"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'None of the reports' + động từ số nhiều, phù hợp với việc yêu cầu sửa.",
+            "why_wrong": {
+              "A": "'Neither' chỉ dùng cho hai.",
+              "B": "'Much' không đi với 'of the reports'.",
+              "D": "'Every' không đi với 'of'."
+            },
+            "translation_vi": "Không báo cáo nào chính xác nên chúng tôi yêu cầu sửa lại."
+          },
+          "tags": [
+            "g17_quantifiers"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g16",
+      "part": 5,
+      "questions": [
+        {
+          "no": 16,
+          "type": "p5_quantifier_determiner",
+          "difficulty": 3,
+          "stem": "There is ____ room for improvement in the current process.",
+          "options": [
+            {
+              "key": "A",
+              "text": "plenty"
+            },
+            {
+              "key": "B",
+              "text": "a number of"
+            },
+            {
+              "key": "C",
+              "text": "many"
+            },
+            {
+              "key": "D",
+              "text": "plenty of"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "'Plenty of' + danh từ không đếm được 'room'.",
+            "why_wrong": {
+              "A": "'Plenty' thiếu 'of'.",
+              "B": "'A number of' dùng cho đếm được.",
+              "C": "'Many' dùng cho đếm được."
+            },
+            "translation_vi": "Còn nhiều chỗ để cải thiện trong quy trình hiện tại."
+          },
+          "tags": [
+            "g17_quantifiers"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g17",
+      "part": 5,
+      "questions": [
+        {
+          "no": 17,
+          "type": "p5_quantifier_determiner",
+          "difficulty": 3,
+          "stem": "The manager interviewed ____ candidate personally.",
+          "options": [
+            {
+              "key": "A",
+              "text": "every"
+            },
+            {
+              "key": "B",
+              "text": "all"
+            },
+            {
+              "key": "C",
+              "text": "each of"
+            },
+            {
+              "key": "D",
+              "text": "many"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'Every' + danh từ số ít 'candidate'.",
+            "why_wrong": {
+              "B": "'All' cần danh từ số nhiều.",
+              "C": "'Each of' cần 'the'.",
+              "D": "'Many' cần danh từ số nhiều."
+            },
+            "translation_vi": "Quản lý đích thân phỏng vấn từng ứng viên."
+          },
+          "tags": [
+            "g17_quantifiers"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g18",
+      "part": 5,
+      "questions": [
+        {
+          "no": 18,
+          "type": "p5_quantifier_determiner",
+          "difficulty": 4,
+          "stem": "Only a few of the files ____ been updated.",
+          "options": [
+            {
+              "key": "A",
+              "text": "has"
+            },
+            {
+              "key": "B",
+              "text": "have"
+            },
+            {
+              "key": "C",
+              "text": "is"
+            },
+            {
+              "key": "D",
+              "text": "was"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'A few of the files' số nhiều đi với 'have'.",
+            "why_wrong": {
+              "A": "'Has' sai số.",
+              "C": "'Is' sai số.",
+              "D": "'Was' sai số."
+            },
+            "translation_vi": "Chỉ một vài tệp đã được cập nhật."
+          },
+          "tags": [
+            "g17_quantifiers"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g19",
+      "part": 5,
+      "questions": [
+        {
+          "no": 19,
+          "type": "p5_quantifier_determiner",
+          "difficulty": 4,
+          "stem": "We need ____ more resources to finish the project on time.",
+          "options": [
+            {
+              "key": "A",
+              "text": "a little"
+            },
+            {
+              "key": "B",
+              "text": "much"
+            },
+            {
+              "key": "C",
+              "text": "a few"
+            },
+            {
+              "key": "D",
+              "text": "a great deal"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'Resources' đếm được số nhiều nên dùng 'a few'.",
+            "why_wrong": {
+              "A": "'A little' dùng cho không đếm được.",
+              "B": "'Much' dùng cho không đếm được.",
+              "D": "'A great deal' dùng cho không đếm được."
+            },
+            "translation_vi": "Chúng ta cần thêm vài nguồn lực để hoàn thành dự án đúng hạn."
+          },
+          "tags": [
+            "g17_quantifiers"
+          ]
+        }
+      ]
+    }
+  ]
+}

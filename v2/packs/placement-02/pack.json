@@ -1,0 +1,1030 @@
+{
+  "id": "placement-02",
+  "kind": "placement",
+  "title": "Placement test 02",
+  "level": "medium",
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "Placement test 02 tự soạn.",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 4
+    }
+  },
+  "groups": [
+    {
+      "id": "g01",
+      "part": 1,
+      "questions": [
+        {
+          "no": 1,
+          "type": "p1_single_person",
+          "difficulty": 1,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "She's watering the plants."
+            },
+            {
+              "key": "B",
+              "text": "She's arranging flowers."
+            },
+            {
+              "key": "C",
+              "text": "She's paying at the counter."
+            },
+            {
+              "key": "D",
+              "text": "She's sweeping the floor."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Cô ấy đang cắm hoa vào bình nên 'arranging flowers' đúng.",
+            "why_wrong": {
+              "A": "Không có bình tưới.",
+              "C": "Cô ấy đứng sau quầy, không trả tiền.",
+              "D": "Không có chổi quét."
+            },
+            "translation_vi": "Cô ấy đang cắm hoa."
+          },
+          "tags": [
+            "v10_shopping"
+          ]
+        }
+      ],
+      "image": "img/g01.webp",
+      "image_brief": "Ảnh trong cửa hàng hoa: một phụ nữ đứng sau quầy, tay đang cắm hoa vào bình. Xung quanh có các bó hoa. Không có chữ đọc được.",
+      "audio": "audio/g01.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 1. Look at the picture marked number 1 in your test book.",
+          "vi": "Câu 1. Hãy nhìn bức ảnh số 1 trong đề."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "(A) She's watering the plants.",
+          "vi": "(A) She's watering the plants."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "(B) She's arranging flowers.",
+          "vi": "(B) She's arranging flowers."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "(C) She's paying at the counter.",
+          "vi": "(C) She's paying at the counter."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "(D) She's sweeping the floor.",
+          "vi": "(D) She's sweeping the floor."
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "part": 1,
+      "questions": [
+        {
+          "no": 2,
+          "type": "p1_multiple_people",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "They're riding a bicycle."
+            },
+            {
+              "key": "B",
+              "text": "They're washing a bicycle."
+            },
+            {
+              "key": "C",
+              "text": "They're repairing a bicycle."
+            },
+            {
+              "key": "D",
+              "text": "They're selling a bicycle."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Hai người đang sửa xe đạp nên 'repairing a bicycle' đúng.",
+            "why_wrong": {
+              "A": "Xe đang lật, không ai cưỡi.",
+              "B": "Không có nước rửa.",
+              "D": "Không có ai mua bán."
+            },
+            "translation_vi": "Họ đang sửa một chiếc xe đạp."
+          },
+          "tags": [
+            "v10_shopping"
+          ]
+        }
+      ],
+      "image": "img/g02.webp",
+      "image_brief": "Ảnh ngoài trời: hai người đang sửa một chiếc xe đạp bị lật ngược, một người giữ bánh trước. Có hộp dụng cụ dưới đất.",
+      "audio": "audio/g02.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 2. Look at the picture marked number 2 in your test book.",
+          "vi": "Câu 2. Hãy nhìn bức ảnh số 2 trong đề."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(A) They're riding a bicycle.",
+          "vi": "(A) They're riding a bicycle."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(B) They're washing a bicycle.",
+          "vi": "(B) They're washing a bicycle."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(C) They're repairing a bicycle.",
+          "vi": "(C) They're repairing a bicycle."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(D) They're selling a bicycle.",
+          "vi": "(D) They're selling a bicycle."
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "part": 2,
+      "questions": [
+        {
+          "no": 3,
+          "type": "p2_wh_when",
+          "difficulty": 1,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "At four thirty."
+            },
+            {
+              "key": "B",
+              "text": "In the main hall."
+            },
+            {
+              "key": "C",
+              "text": "Yes, it does."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'When' hỏi giờ nên 'At four thirty' đúng.",
+            "why_wrong": {
+              "B": "Đây là câu trả lời cho 'Where'.",
+              "C": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Buổi hội thảo kết thúc khi nào? – Lúc bốn giờ ba mươi."
+          }
+        }
+      ],
+      "audio": "audio/g03.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 3.",
+          "vi": "Câu 3."
+        },
+        {
+          "speaker": "W1",
+          "accent": "UK",
+          "text": "When does the workshop finish?",
+          "vi": "When does the workshop finish?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(A) At four thirty.",
+          "vi": "(A) At four thirty."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(B) In the main hall.",
+          "vi": "(B) In the main hall."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(C) Yes, it does.",
+          "vi": "(C) Yes, it does."
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "part": 2,
+      "questions": [
+        {
+          "no": 4,
+          "type": "p2_wh_where",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "On the intranet."
+            },
+            {
+              "key": "B",
+              "text": "It's very useful."
+            },
+            {
+              "key": "C",
+              "text": "Yes, I have one."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'Where' hỏi nơi chốn nên 'On the intranet' đúng.",
+            "why_wrong": {
+              "B": "Nhận xét tài liệu, không trả lời nơi chốn.",
+              "C": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Tôi có thể tìm sổ tay nhân viên ở đâu? – Trên mạng nội bộ."
+          }
+        }
+      ],
+      "audio": "audio/g04.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 4.",
+          "vi": "Câu 4."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "Where can I find the staff handbook?",
+          "vi": "Where can I find the staff handbook?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(A) On the intranet.",
+          "vi": "(A) On the intranet."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(B) It's very useful.",
+          "vi": "(B) It's very useful."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(C) Yes, I have one.",
+          "vi": "(C) Yes, I have one."
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "part": 2,
+      "questions": [
+        {
+          "no": 5,
+          "type": "p2_wh_why",
+          "difficulty": 3,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The crew arrived late."
+            },
+            {
+              "key": "B",
+              "text": "At gate twelve."
+            },
+            {
+              "key": "C",
+              "text": "For two hours."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'Why' hỏi lý do nên 'The crew arrived late' đúng.",
+            "why_wrong": {
+              "B": "Đây là câu trả lời cho 'Where'.",
+              "C": "Đây là câu trả lời cho 'How long'."
+            },
+            "translation_vi": "Vì sao chuyến bay bị trễ? – Phi hành đoàn đến muộn."
+          }
+        }
+      ],
+      "audio": "audio/g05.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 5.",
+          "vi": "Câu 5."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "Why did the flight get delayed?",
+          "vi": "Why did the flight get delayed?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(A) The crew arrived late.",
+          "vi": "(A) The crew arrived late."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(B) At gate twelve.",
+          "vi": "(B) At gate twelve."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(C) For two hours.",
+          "vi": "(C) For two hours."
+        }
+      ]
+    },
+    {
+      "id": "g06",
+      "part": 3,
+      "questions": [
+        {
+          "no": 6,
+          "type": "p3_problem_reason",
+          "difficulty": 3,
+          "stem": "What is wrong with the invoice?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The delivery was late"
+            },
+            {
+              "key": "B",
+              "text": "The invoice was lost"
+            },
+            {
+              "key": "C",
+              "text": "The order was canceled"
+            },
+            {
+              "key": "D",
+              "text": "The invoice charged for too many boxes"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Người nam nói hóa đơn tính hai mươi thùng nhưng đơn hàng chỉ mười lăm.",
+            "why_wrong": {
+              "A": "Không phàn nàn giao trễ.",
+              "B": "Hóa đơn đã nhận được.",
+              "C": "Đơn hàng không bị hủy."
+            },
+            "translation_vi": "Vấn đề của hóa đơn là gì? – Tính thừa số thùng."
+          }
+        },
+        {
+          "no": 7,
+          "type": "p3_next_action",
+          "difficulty": 3,
+          "stem": "What will the man do?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Refund the payment"
+            },
+            {
+              "key": "B",
+              "text": "Issue a corrected invoice"
+            },
+            {
+              "key": "C",
+              "text": "Cancel the order"
+            },
+            {
+              "key": "D",
+              "text": "Send more boxes"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Người nam nói sẽ phát hành hóa đơn điều chỉnh và gửi email.",
+            "why_wrong": {
+              "A": "Không nói hoàn tiền.",
+              "C": "Không hủy đơn.",
+              "D": "Không gửi thêm thùng."
+            },
+            "translation_vi": "Người nam sẽ làm gì? – Phát hành hóa đơn điều chỉnh."
+          }
+        },
+        {
+          "no": 8,
+          "type": "p3_detail",
+          "difficulty": 3,
+          "stem": "What is the payment deadline?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Thirty days from the delivery date"
+            },
+            {
+              "key": "B",
+              "text": "Fourteen days from today"
+            },
+            {
+              "key": "C",
+              "text": "Thirty days from the corrected invoice date"
+            },
+            {
+              "key": "D",
+              "text": "On the last day of the month"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Người nam nói hạn thanh toán là ba mươi ngày kể từ ngày hóa đơn điều chỉnh.",
+            "why_wrong": {
+              "A": "Không tính từ ngày giao hàng.",
+              "B": "Không phải mười bốn ngày.",
+              "D": "Không phải cuối tháng."
+            },
+            "translation_vi": "Hạn thanh toán là khi nào? – Ba mươi ngày kể từ ngày hóa đơn điều chỉnh."
+          }
+        }
+      ],
+      "audio": "audio/g06.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 6 through 8 refer to the following conversation.",
+          "vi": "Câu 6 đến 8 dựa vào đoạn hội thoại sau."
+        },
+        {
+          "speaker": "W1",
+          "accent": "UK",
+          "text": "I'm calling about the invoice we received for last month's delivery.",
+          "vi": "Tôi gọi về hóa đơn nhận được cho đơn giao tháng trước."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "Let me check. We charged for twenty boxes, but your order was for fifteen.",
+          "vi": "Để tôi kiểm tra. Chúng tôi tính hai mươi thùng, nhưng đơn của chị là mười lăm."
+        },
+        {
+          "speaker": "W1",
+          "accent": "UK",
+          "text": "That's right. Can you send a corrected invoice?",
+          "vi": "Đúng vậy. Anh gửi hóa đơn điều chỉnh được không?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "I'll issue it today and email it to your accounts team.",
+          "vi": "Hôm nay tôi sẽ phát hành và gửi email cho nhóm kế toán của chị."
+        },
+        {
+          "speaker": "W1",
+          "accent": "UK",
+          "text": "Please also confirm the payment deadline.",
+          "vi": "Vui lòng xác nhận cả hạn thanh toán."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "It's thirty days from the corrected invoice date.",
+          "vi": "Là ba mươi ngày kể từ ngày hóa đơn điều chỉnh."
+        }
+      ]
+    },
+    {
+      "id": "g09",
+      "part": 4,
+      "questions": [
+        {
+          "no": 9,
+          "type": "p4_purpose_topic",
+          "difficulty": 2,
+          "stem": "What is the purpose of the announcement?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To announce new library hours and rules"
+            },
+            {
+              "key": "B",
+              "text": "To advertise a book sale"
+            },
+            {
+              "key": "C",
+              "text": "To recruit a librarian"
+            },
+            {
+              "key": "D",
+              "text": "To close the school library"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Người nói thông báo giờ mở cửa mới và quy định mượn sách.",
+            "why_wrong": {
+              "B": "Không quảng cáo bán sách.",
+              "C": "Không tuyển thủ thư.",
+              "D": "Thư viện vẫn mở."
+            },
+            "translation_vi": "Mục đích của thông báo là gì? – Thông báo giờ mở và quy định mới của thư viện."
+          }
+        },
+        {
+          "no": 10,
+          "type": "p4_detail",
+          "difficulty": 2,
+          "stem": "How many books may students borrow, and for how long?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Two books for four weeks"
+            },
+            {
+              "key": "B",
+              "text": "Four books for two weeks"
+            },
+            {
+              "key": "C",
+              "text": "Four books for four days"
+            },
+            {
+              "key": "D",
+              "text": "Two books for two weeks"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Người nói cho biết học sinh được mượn tối đa bốn sách trong hai tuần.",
+            "why_wrong": {
+              "A": "Không phải hai sách bốn tuần.",
+              "C": "Không phải bốn ngày.",
+              "D": "Không phải hai sách hai tuần."
+            },
+            "translation_vi": "Học sinh được mượn bao nhiêu sách và trong bao lâu? – Bốn sách trong hai tuần."
+          }
+        },
+        {
+          "no": 11,
+          "type": "p4_inference",
+          "difficulty": 3,
+          "stem": "Why should books be returned on time?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The library has too many books"
+            },
+            {
+              "key": "B",
+              "text": "Students must pay a fee to join"
+            },
+            {
+              "key": "C",
+              "text": "Parents must attend the reading club"
+            },
+            {
+              "key": "D",
+              "text": "Overdue books prevent new loans"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Người nói trả sách muộn sẽ chặn việc mượn sách mới, nên phụ huynh được nhờ nhắc con trả đúng hạn.",
+            "why_wrong": {
+              "A": "Không nói thư viện quá nhiều sách.",
+              "B": "Không có phí tham gia.",
+              "C": "Phụ huynh không phải dự câu lạc bộ."
+            },
+            "translation_vi": "Vì sao cần trả sách đúng hạn? – Vì sách quá hạn chặn việc mượn sách mới."
+          }
+        }
+      ],
+      "audio": "audio/g09.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 9 through 11 refer to the following announcement.",
+          "vi": "Câu 9 đến 11 dựa vào thông báo sau."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "Good evening, parents. The school library will be open until six on weekdays from next month. Students may borrow up to four books for two weeks. We ask parents to help children return books on time, as overdue items block new loans. A reading club will meet on Wednesdays after school. There is no charge, but students must sign up at the library desk.",
+          "vi": "Chào buổi tối quý phụ huynh. Thư viện trường sẽ mở đến sáu giờ các ngày trong tuần từ tháng sau. Học sinh được mượn tối đa bốn sách trong hai tuần. Chúng tôi nhờ phụ huynh giúp con trả sách đúng hạn vì sách quá hạn sẽ chặn việc mượn sách mới. Câu lạc bộ đọc sách họp thứ Tư sau giờ học. Không thu phí, nhưng học sinh phải đăng ký tại quầy thư viện."
+        }
+      ]
+    },
+    {
+      "id": "g12",
+      "part": 5,
+      "questions": [
+        {
+          "no": 12,
+          "type": "p5_word_form",
+          "difficulty": 1,
+          "stem": "The shop sells ____ fruit every morning.",
+          "options": [
+            {
+              "key": "A",
+              "text": "freshly"
+            },
+            {
+              "key": "B",
+              "text": "fresh"
+            },
+            {
+              "key": "C",
+              "text": "freshness"
+            },
+            {
+              "key": "D",
+              "text": "freshen"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Trước danh từ 'fruit' cần tính từ nên chọn 'fresh'.",
+            "why_wrong": {
+              "A": "'freshly' là trạng từ.",
+              "C": "'freshness' là danh từ.",
+              "D": "'freshen' là động từ."
+            },
+            "translation_vi": "Cửa hàng bán trái cây tươi mỗi sáng."
+          },
+          "tags": [
+            "g01_word_form",
+            "v10_shopping"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g13",
+      "part": 5,
+      "questions": [
+        {
+          "no": 13,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 2,
+          "stem": "She ____ the report yesterday.",
+          "options": [
+            {
+              "key": "A",
+              "text": "finishes"
+            },
+            {
+              "key": "B",
+              "text": "finish"
+            },
+            {
+              "key": "C",
+              "text": "finishing"
+            },
+            {
+              "key": "D",
+              "text": "finished"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "'Yesterday' là mốc quá khứ nên dùng 'finished'.",
+            "why_wrong": {
+              "A": "'finishes' là hiện tại đơn.",
+              "B": "'finish' sai hòa hợp chủ ngữ.",
+              "C": "'finishing' thiếu trợ động từ."
+            },
+            "translation_vi": "Cô ấy đã hoàn thành báo cáo hôm qua."
+          },
+          "tags": [
+            "g03_past_tenses",
+            "v03_office"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g14",
+      "part": 5,
+      "questions": [
+        {
+          "no": 14,
+          "type": "p5_preposition",
+          "difficulty": 3,
+          "stem": "The report must be finished ____ Friday.",
+          "options": [
+            {
+              "key": "A",
+              "text": "until"
+            },
+            {
+              "key": "B",
+              "text": "since"
+            },
+            {
+              "key": "C",
+              "text": "by"
+            },
+            {
+              "key": "D",
+              "text": "during"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'by + mốc thời gian' nghĩa là trước/không muộn hơn thứ Sáu.",
+            "why_wrong": {
+              "A": "'until' chỉ kéo dài đến lúc nào.",
+              "B": "'since' chỉ mốc bắt đầu.",
+              "D": "'during' chỉ trong khoảng thời gian."
+            },
+            "translation_vi": "Báo cáo phải hoàn thành trước thứ Sáu."
+          },
+          "tags": [
+            "g09_prepositions_phrases",
+            "v08_accounting"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g15",
+      "part": 5,
+      "questions": [
+        {
+          "no": 15,
+          "type": "p5_comparison",
+          "difficulty": 4,
+          "stem": "This route is ____ than the one we took yesterday.",
+          "options": [
+            {
+              "key": "A",
+              "text": "direct"
+            },
+            {
+              "key": "B",
+              "text": "most direct"
+            },
+            {
+              "key": "C",
+              "text": "more direct"
+            },
+            {
+              "key": "D",
+              "text": "directer"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Tính từ dài 'direct' dùng 'more' khi so sánh hơn.",
+            "why_wrong": {
+              "A": "'direct' thiếu dạng so sánh.",
+              "B": "'most direct' là so sánh nhất.",
+              "D": "'directer' sai dạng so sánh."
+            },
+            "translation_vi": "Tuyến này trực tiếp hơn tuyến chúng ta đi hôm qua."
+          },
+          "tags": [
+            "g14_comparison",
+            "v17_travel"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g16",
+      "part": 5,
+      "questions": [
+        {
+          "no": 16,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 5,
+          "stem": "Had the contract been signed, the project ____ by now.",
+          "options": [
+            {
+              "key": "A",
+              "text": "would start"
+            },
+            {
+              "key": "B",
+              "text": "would have started"
+            },
+            {
+              "key": "C",
+              "text": "will start"
+            },
+            {
+              "key": "D",
+              "text": "has started"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Điều kiện loại 3 đảo ngữ cần 'would have + V-ed'.",
+            "why_wrong": {
+              "A": "'would start' thiếu dạng hoàn thành.",
+              "C": "'will start' sai cấu trúc điều kiện.",
+              "D": "'has started' sai cấu trúc."
+            },
+            "translation_vi": "Nếu hợp đồng được ký, dự án đã bắt đầu rồi."
+          },
+          "tags": [
+            "g18_conditionals",
+            "v01_contracts"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g17",
+      "part": 7,
+      "questions": [
+        {
+          "no": 17,
+          "type": "p7_main_idea_purpose",
+          "difficulty": 2,
+          "stem": "What is the purpose of the e-mail?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To advertise a new restaurant"
+            },
+            {
+              "key": "B",
+              "text": "To hire a cooking teacher"
+            },
+            {
+              "key": "C",
+              "text": "To close the community centre"
+            },
+            {
+              "key": "D",
+              "text": "To explain changes to a cooking class"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Email thông báo đổi lịch lớp nấu ăn và các yêu cầu mới.",
+            "why_wrong": {
+              "A": "Không quảng cáo nhà hàng.",
+              "B": "Không tuyển giáo viên.",
+              "C": "Trung tâm vẫn hoạt động."
+            },
+            "translation_vi": "Mục đích của email là gì? – Giải thích thay đổi của lớp nấu ăn."
+          },
+          "evidence": "The Friday cooking class will move to Saturday mornings"
+        },
+        {
+          "no": 18,
+          "type": "p7_detail",
+          "difficulty": 2,
+          "stem": "How much is the class fee?",
+          "options": [
+            {
+              "key": "A",
+              "text": "$40 for four weeks"
+            },
+            {
+              "key": "B",
+              "text": "$80 for eight weeks"
+            },
+            {
+              "key": "C",
+              "text": "$40 for eight weeks"
+            },
+            {
+              "key": "D",
+              "text": "$14 for two weeks"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Email ghi học phí vẫn là 40 đô cho tám tuần.",
+            "why_wrong": {
+              "A": "Không phải bốn tuần.",
+              "B": "Không phải 80 đô.",
+              "D": "Không phải 14 đô hai tuần."
+            },
+            "translation_vi": "Học phí là bao nhiêu? – 40 đô cho tám tuần."
+          },
+          "evidence": "The fee remains $40 for eight weeks"
+        },
+        {
+          "no": 19,
+          "type": "p7_detail",
+          "difficulty": 3,
+          "stem": "What is provided only for the first class?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Ingredients"
+            },
+            {
+              "key": "B",
+              "text": "Equipment and aprons"
+            },
+            {
+              "key": "C",
+              "text": "Recipe books"
+            },
+            {
+              "key": "D",
+              "text": "All meals"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Email nói chỉ cung cấp nguyên liệu cho buổi đầu; sau đó học viên tự mang.",
+            "why_wrong": {
+              "B": "Dụng cụ sẽ được liệt kê qua email, không cấp.",
+              "C": "Không nhắc sách công thức.",
+              "D": "Không cấp toàn bộ bữa ăn."
+            },
+            "translation_vi": "Buổi đầu chỉ được cung cấp gì? – Nguyên liệu."
+          },
+          "evidence": "We will provide ingredients for the first class only"
+        },
+        {
+          "no": 20,
+          "type": "p7_inference",
+          "difficulty": 4,
+          "stem": "Why should members contact the office by the 25th?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To get a refund for the old class"
+            },
+            {
+              "key": "B",
+              "text": "To change the teacher"
+            },
+            {
+              "key": "C",
+              "text": "To cancel their membership"
+            },
+            {
+              "key": "D",
+              "text": "To secure a place in the smaller alternative class"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Email yêu cầu báo trước ngày 25 nếu muốn đổi vì lớp thứ Tư giới hạn mười hai chỗ, hàm ý cần giữ chỗ sớm.",
+            "why_wrong": {
+              "A": "Không nhắc hoàn tiền.",
+              "B": "Không được chọn giáo viên.",
+              "C": "Không nhắc hủy hội viên."
+            },
+            "translation_vi": "Vì sao cần báo văn phòng trước ngày 25? – Để giữ chỗ trong lớp thay thế ít chỗ."
+          },
+          "evidence": "places are limited to twelve ... tell the office by the 25th"
+        }
+      ],
+      "passages": [
+        {
+          "type": "email",
+          "title": "Cooking class changes",
+          "text": "To: All Members\nFrom: Riverside Community Centre\nSubject: Cooking class changes\n\nThe Friday cooking class will move to Saturday mornings from next month. The class will run from 9:30 to 11:30 in the main kitchen. The teacher, Mr. Bell, will continue with the same programme.\n\nMembers who cannot attend on Saturdays may join the Wednesday evening class instead, but places are limited to twelve. Please tell the office by the 25th if you want to change.\n\nThe fee remains $40 for eight weeks. We will provide ingredients for the first class only; after that, students should bring their own.\n\nA list of simple equipment will be emailed before the first session.",
+          "vi": "Gửi toàn thể hội viên. Từ Trung tâm Cộng đồng Riverside. Lớp nấu ăn thứ Sáu sẽ chuyển sang sáng thứ Bảy từ tháng sau, từ 9:30 đến 11:30 tại bếp chính. Giáo viên ông Bell tiếp tục chương trình cũ. Hội viên không dự được thứ Bảy có thể chuyển sang lớp tối thứ Tư, nhưng lớp giới hạn mười hai chỗ. Vui lòng báo văn phòng trước ngày 25 nếu muốn đổi. Học phí vẫn 40 đô cho tám tuần. Chúng tôi cung cấp nguyên liệu cho buổi đầu; sau đó học viên tự mang. Danh sách dụng cụ đơn giản sẽ được gửi qua email trước buổi đầu."
+        }
+      ]
+    }
+  ]
+}

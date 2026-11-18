@@ -1,0 +1,1380 @@
+{
+  "id": "practice-p2-statement-01",
+  "kind": "practice",
+  "title": "Luyện Part 2 – Câu trần thuật",
+  "level": "medium",
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 20
+    }
+  },
+  "groups": [
+    {
+      "id": "g01",
+      "part": 2,
+      "audio": "audio/g01.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 1.",
+          "vi": "Câu 1."
+        },
+        {
+          "speaker": "W1",
+          "accent": "UK",
+          "text": "The meeting has been moved to Thursday.",
+          "vi": "The meeting has been moved to Thursday."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(A) I'll update my calendar.",
+          "vi": "(A) I'll update my calendar."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(B) The meeting was long.",
+          "vi": "(B) The meeting was long."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(C) Yes, I met him.",
+          "vi": "(C) Yes, I met him."
+        }
+      ],
+      "questions": [
+        {
+          "no": 1,
+          "type": "p2_statement",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "I'll update my calendar."
+            },
+            {
+              "key": "B",
+              "text": "The meeting was long."
+            },
+            {
+              "key": "C",
+              "text": "Yes, I met him."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Câu trần thuật báo đổi ngày; đáp án hợp lý là cập nhật lịch.",
+            "why_wrong": {
+              "B": "Nhận xét cuộc họp, không phản hồi.",
+              "C": "Hiểu nhầm 'met', sai nghĩa."
+            },
+            "translation_vi": "Cuộc họp đã dời sang thứ Năm. – Tôi sẽ cập nhật lịch."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "part": 2,
+      "audio": "audio/g02.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 2.",
+          "vi": "Câu 2."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "The train is delayed by twenty minutes.",
+          "vi": "The train is delayed by twenty minutes."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(A) The train is new.",
+          "vi": "(A) The train is new."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(B) At the station.",
+          "vi": "(B) At the station."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(C) Then we'll miss our connection.",
+          "vi": "(C) Then we'll miss our connection."
+        }
+      ],
+      "questions": [
+        {
+          "no": 2,
+          "type": "p2_statement",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The train is new."
+            },
+            {
+              "key": "B",
+              "text": "At the station."
+            },
+            {
+              "key": "C",
+              "text": "Then we'll miss our connection."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Câu trần thuật báo tàu trễ; đáp án nêu hệ quả hợp lý.",
+            "why_wrong": {
+              "A": "Nhận xét tàu, không phản hồi.",
+              "B": "Đây là câu trả lời cho 'Where'."
+            },
+            "translation_vi": "Tàu trễ hai mươi phút. – Vậy chúng ta sẽ lỡ chuyến nối."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "part": 2,
+      "audio": "audio/g03.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 3.",
+          "vi": "Câu 3."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "The new intern starts on Monday.",
+          "vi": "The new intern starts on Monday."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(A) The intern is young.",
+          "vi": "(A) The intern is young."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(B) I'll prepare a desk for her.",
+          "vi": "(B) I'll prepare a desk for her."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(C) Yes, she started.",
+          "vi": "(C) Yes, she started."
+        }
+      ],
+      "questions": [
+        {
+          "no": 3,
+          "type": "p2_statement",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The intern is young."
+            },
+            {
+              "key": "B",
+              "text": "I'll prepare a desk for her."
+            },
+            {
+              "key": "C",
+              "text": "Yes, she started."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Câu trần thuật báo nhân viên mới; đáp án hợp lý là chuẩn bị chỗ.",
+            "why_wrong": {
+              "A": "Nhận xét tuổi, không phản hồi.",
+              "C": "Nói đã bắt đầu, sai thì."
+            },
+            "translation_vi": "Thực tập sinh mới bắt đầu thứ Hai. – Tôi sẽ chuẩn bị bàn cho cô ấy."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "part": 2,
+      "audio": "audio/g04.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 4.",
+          "vi": "Câu 4."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "The client wants a discount.",
+          "vi": "The client wants a discount."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(A) Let's see what we can offer.",
+          "vi": "(A) Let's see what we can offer."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(B) The client called.",
+          "vi": "(B) The client called."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(C) Yes, a discount.",
+          "vi": "(C) Yes, a discount."
+        }
+      ],
+      "questions": [
+        {
+          "no": 4,
+          "type": "p2_statement",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Let's see what we can offer."
+            },
+            {
+              "key": "B",
+              "text": "The client called."
+            },
+            {
+              "key": "C",
+              "text": "Yes, a discount."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Câu trần thuật nêu yêu cầu của khách; đáp án hợp lý là xem mức giảm.",
+            "why_wrong": {
+              "B": "Nói khách gọi, không phản hồi.",
+              "C": "Lặp lại từ, không trả lời."
+            },
+            "translation_vi": "Khách muốn giảm giá. – Hãy xem chúng ta có thể đề nghị gì."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "part": 2,
+      "audio": "audio/g05.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 5.",
+          "vi": "Câu 5."
+        },
+        {
+          "speaker": "W1",
+          "accent": "UK",
+          "text": "The coffee machine is out of order.",
+          "vi": "The coffee machine is out of order."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(A) The coffee is hot.",
+          "vi": "(A) The coffee is hot."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(B) Yes, it's out.",
+          "vi": "(B) Yes, it's out."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(C) I'll use the one upstairs.",
+          "vi": "(C) I'll use the one upstairs."
+        }
+      ],
+      "questions": [
+        {
+          "no": 5,
+          "type": "p2_statement",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The coffee is hot."
+            },
+            {
+              "key": "B",
+              "text": "Yes, it's out."
+            },
+            {
+              "key": "C",
+              "text": "I'll use the one upstairs."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Câu trần thuật báo máy hỏng; đáp án nêu giải pháp.",
+            "why_wrong": {
+              "A": "Nhận xét cà phê, không phản hồi.",
+              "B": "Lặp lại thông tin, không giải quyết."
+            },
+            "translation_vi": "Máy cà phê bị hỏng. – Tôi sẽ dùng máy trên lầu."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g06",
+      "part": 2,
+      "audio": "audio/g06.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 6.",
+          "vi": "Câu 6."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "The fire alarm will be tested at noon.",
+          "vi": "The fire alarm will be tested at noon."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(A) The alarm is loud.",
+          "vi": "(A) The alarm is loud."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(B) I'll remind the team.",
+          "vi": "(B) I'll remind the team."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(C) Yes, it was tested.",
+          "vi": "(C) Yes, it was tested."
+        }
+      ],
+      "questions": [
+        {
+          "no": 6,
+          "type": "p2_statement",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The alarm is loud."
+            },
+            {
+              "key": "B",
+              "text": "I'll remind the team."
+            },
+            {
+              "key": "C",
+              "text": "Yes, it was tested."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Câu trần thuật báo thử chuông; đáp án hợp lý là nhắc nhóm.",
+            "why_wrong": {
+              "A": "Nhận xét chuông, không phản hồi.",
+              "C": "Nói đã thử, sai thì."
+            },
+            "translation_vi": "Chuông báo cháy sẽ được thử lúc trưa. – Tôi sẽ nhắc nhóm."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g07",
+      "part": 2,
+      "audio": "audio/g07.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 7.",
+          "vi": "Câu 7."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "The printer needs a new toner cartridge.",
+          "vi": "The printer needs a new toner cartridge."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(A) I'll order one today.",
+          "vi": "(A) I'll order one today."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(B) The printer is new.",
+          "vi": "(B) The printer is new."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(C) Yes, it needs one.",
+          "vi": "(C) Yes, it needs one."
+        }
+      ],
+      "questions": [
+        {
+          "no": 7,
+          "type": "p2_statement",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "I'll order one today."
+            },
+            {
+              "key": "B",
+              "text": "The printer is new."
+            },
+            {
+              "key": "C",
+              "text": "Yes, it needs one."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Câu trần thuật báo thiếu mực; đáp án hợp lý là đặt hàng.",
+            "why_wrong": {
+              "B": "Nhận xét máy, không phản hồi.",
+              "C": "Lặp lại, không hành động."
+            },
+            "translation_vi": "Máy in cần hộp mực mới. – Hôm nay tôi sẽ đặt."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g08",
+      "part": 2,
+      "audio": "audio/g08.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 8.",
+          "vi": "Câu 8."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Our biggest client is visiting next week.",
+          "vi": "Our biggest client is visiting next week."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(A) The client is important.",
+          "vi": "(A) The client is important."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(B) Yes, they visited.",
+          "vi": "(B) Yes, they visited."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(C) We should prepare the meeting room.",
+          "vi": "(C) We should prepare the meeting room."
+        }
+      ],
+      "questions": [
+        {
+          "no": 8,
+          "type": "p2_statement",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The client is important."
+            },
+            {
+              "key": "B",
+              "text": "Yes, they visited."
+            },
+            {
+              "key": "C",
+              "text": "We should prepare the meeting room."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Câu trần thuật báo khách đến; đáp án hợp lý là chuẩn bị phòng.",
+            "why_wrong": {
+              "A": "Nhận xét khách, không phản hồi.",
+              "B": "Nói đã đến, sai thì."
+            },
+            "translation_vi": "Khách lớn nhất sẽ đến tuần sau. – Chúng ta nên chuẩn bị phòng họp."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g09",
+      "part": 2,
+      "audio": "audio/g09.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 9.",
+          "vi": "Câu 9."
+        },
+        {
+          "speaker": "W1",
+          "accent": "UK",
+          "text": "The budget has been cut by ten percent.",
+          "vi": "The budget has been cut by ten percent."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(A) The budget is large.",
+          "vi": "(A) The budget is large."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(B) Then we'll have to drop some activities.",
+          "vi": "(B) Then we'll have to drop some activities."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(C) Yes, it was cut.",
+          "vi": "(C) Yes, it was cut."
+        }
+      ],
+      "questions": [
+        {
+          "no": 9,
+          "type": "p2_statement",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The budget is large."
+            },
+            {
+              "key": "B",
+              "text": "Then we'll have to drop some activities."
+            },
+            {
+              "key": "C",
+              "text": "Yes, it was cut."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Câu trần thuật báo cắt ngân sách; đáp án nêu hệ quả.",
+            "why_wrong": {
+              "A": "Nhận xét ngân sách, không phản hồi.",
+              "C": "Lặp lại, không giải quyết."
+            },
+            "translation_vi": "Ngân sách bị cắt mười phần trăm. – Vậy phải bỏ vài hoạt động."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g10",
+      "part": 2,
+      "audio": "audio/g10.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 10.",
+          "vi": "Câu 10."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "The supplier can deliver only half the order.",
+          "vi": "The supplier can deliver only half the order."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(A) Let's find another supplier for the rest.",
+          "vi": "(A) Let's find another supplier for the rest."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(B) The order is big.",
+          "vi": "(B) The order is big."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(C) Yes, they delivered.",
+          "vi": "(C) Yes, they delivered."
+        }
+      ],
+      "questions": [
+        {
+          "no": 10,
+          "type": "p2_statement",
+          "difficulty": 4,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Let's find another supplier for the rest."
+            },
+            {
+              "key": "B",
+              "text": "The order is big."
+            },
+            {
+              "key": "C",
+              "text": "Yes, they delivered."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Câu trần thuật báo thiếu hàng; đáp án nêu giải pháp.",
+            "why_wrong": {
+              "B": "Nhận xét đơn, không phản hồi.",
+              "C": "Nói đã giao, mâu thuẫn."
+            },
+            "translation_vi": "Nhà cung cấp chỉ giao được nửa đơn. – Tìm nhà khác cho phần còn lại."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g11",
+      "part": 2,
+      "audio": "audio/g11.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 11.",
+          "vi": "Câu 11."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "The office will be closed on Friday afternoon.",
+          "vi": "The office will be closed on Friday afternoon."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(A) The office is new.",
+          "vi": "(A) The office is new."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(B) Yes, it closed.",
+          "vi": "(B) Yes, it closed."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(C) I'll move the client call to the morning.",
+          "vi": "(C) I'll move the client call to the morning."
+        }
+      ],
+      "questions": [
+        {
+          "no": 11,
+          "type": "p2_statement",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The office is new."
+            },
+            {
+              "key": "B",
+              "text": "Yes, it closed."
+            },
+            {
+              "key": "C",
+              "text": "I'll move the client call to the morning."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Câu trần thuật báo đóng cửa; đáp án hợp lý là dời cuộc gọi.",
+            "why_wrong": {
+              "A": "Nhận xét văn phòng, không phản hồi.",
+              "B": "Nói đã đóng, sai thì."
+            },
+            "translation_vi": "Văn phòng đóng chiều thứ Sáu. – Tôi sẽ dời cuộc gọi khách sang sáng."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g12",
+      "part": 2,
+      "audio": "audio/g12.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 12.",
+          "vi": "Câu 12."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "The software update will take two hours.",
+          "vi": "The software update will take two hours."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(A) The software is useful.",
+          "vi": "(A) The software is useful."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(B) I'll save my work before it starts.",
+          "vi": "(B) I'll save my work before it starts."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(C) Yes, it updated.",
+          "vi": "(C) Yes, it updated."
+        }
+      ],
+      "questions": [
+        {
+          "no": 12,
+          "type": "p2_statement",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The software is useful."
+            },
+            {
+              "key": "B",
+              "text": "I'll save my work before it starts."
+            },
+            {
+              "key": "C",
+              "text": "Yes, it updated."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Câu trần thuật báo cập nhật lâu; đáp án hợp lý là lưu việc.",
+            "why_wrong": {
+              "A": "Nhận xét phần mềm, không phản hồi.",
+              "C": "Nói đã cập nhật, sai thì."
+            },
+            "translation_vi": "Cập nhật phần mềm mất hai giờ. – Tôi sẽ lưu việc trước."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g13",
+      "part": 2,
+      "audio": "audio/g13.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 13.",
+          "vi": "Câu 13."
+        },
+        {
+          "speaker": "W1",
+          "accent": "UK",
+          "text": "The manager is unhappy with the sales figures.",
+          "vi": "The manager is unhappy with the sales figures."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(A) Let's prepare a new forecast.",
+          "vi": "(A) Let's prepare a new forecast."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(B) The figures are high.",
+          "vi": "(B) The figures are high."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(C) Yes, he is unhappy.",
+          "vi": "(C) Yes, he is unhappy."
+        }
+      ],
+      "questions": [
+        {
+          "no": 13,
+          "type": "p2_statement",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Let's prepare a new forecast."
+            },
+            {
+              "key": "B",
+              "text": "The figures are high."
+            },
+            {
+              "key": "C",
+              "text": "Yes, he is unhappy."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Câu trần thuật báo quản lý không hài lòng; đáp án nêu hành động.",
+            "why_wrong": {
+              "B": "Nhận xét số liệu, không phản hồi.",
+              "C": "Lặp lại, không giải quyết."
+            },
+            "translation_vi": "Quản lý không hài lòng với số liệu bán hàng. – Hãy chuẩn bị dự báo mới."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g14",
+      "part": 2,
+      "audio": "audio/g14.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 14.",
+          "vi": "Câu 14."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "The parking lot will be full during the event.",
+          "vi": "The parking lot will be full during the event."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(A) The event is big.",
+          "vi": "(A) The event is big."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(B) Yes, it was full.",
+          "vi": "(B) Yes, it was full."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(C) Employees should use public transport.",
+          "vi": "(C) Employees should use public transport."
+        }
+      ],
+      "questions": [
+        {
+          "no": 14,
+          "type": "p2_statement",
+          "difficulty": 4,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The event is big."
+            },
+            {
+              "key": "B",
+              "text": "Yes, it was full."
+            },
+            {
+              "key": "C",
+              "text": "Employees should use public transport."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Câu trần thuật báo hết chỗ đỗ; đáp án nêu giải pháp.",
+            "why_wrong": {
+              "A": "Nhận xét sự kiện, không phản hồi.",
+              "B": "Nói đã đầy, sai thì."
+            },
+            "translation_vi": "Bãi đỗ sẽ kín trong sự kiện. – Nhân viên nên đi phương tiện công cộng."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g15",
+      "part": 2,
+      "audio": "audio/g15.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 15.",
+          "vi": "Câu 15."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "The new policy starts next month.",
+          "vi": "The new policy starts next month."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(A) The policy is clear.",
+          "vi": "(A) The policy is clear."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(B) I'll read the details before then.",
+          "vi": "(B) I'll read the details before then."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(C) Yes, it starts.",
+          "vi": "(C) Yes, it starts."
+        }
+      ],
+      "questions": [
+        {
+          "no": 15,
+          "type": "p2_statement",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The policy is clear."
+            },
+            {
+              "key": "B",
+              "text": "I'll read the details before then."
+            },
+            {
+              "key": "C",
+              "text": "Yes, it starts."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Câu trần thuật báo chính sách mới; đáp án hợp lý là đọc chi tiết.",
+            "why_wrong": {
+              "A": "Nhận xét chính sách, không phản hồi.",
+              "C": "Lặp lại, không hành động."
+            },
+            "translation_vi": "Chính sách mới bắt đầu tháng sau. – Tôi sẽ đọc chi tiết trước đó."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g16",
+      "part": 2,
+      "audio": "audio/g16.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 16.",
+          "vi": "Câu 16."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "The customer has asked for a refund.",
+          "vi": "The customer has asked for a refund."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(A) I'll process it this afternoon.",
+          "vi": "(A) I'll process it this afternoon."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(B) The customer is happy.",
+          "vi": "(B) The customer is happy."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(C) Yes, a refund.",
+          "vi": "(C) Yes, a refund."
+        }
+      ],
+      "questions": [
+        {
+          "no": 16,
+          "type": "p2_statement",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "I'll process it this afternoon."
+            },
+            {
+              "key": "B",
+              "text": "The customer is happy."
+            },
+            {
+              "key": "C",
+              "text": "Yes, a refund."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Câu trần thuật báo khách xin hoàn tiền; đáp án hợp lý là xử lý.",
+            "why_wrong": {
+              "B": "Nói khách hài lòng, mâu thuẫn.",
+              "C": "Lặp lại, không hành động."
+            },
+            "translation_vi": "Khách đã yêu cầu hoàn tiền. – Chiều nay tôi xử lý."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g17",
+      "part": 2,
+      "audio": "audio/g17.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 17.",
+          "vi": "Câu 17."
+        },
+        {
+          "speaker": "W1",
+          "accent": "UK",
+          "text": "The flight has been canceled.",
+          "vi": "The flight has been canceled."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(A) The flight was full.",
+          "vi": "(A) The flight was full."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(B) Yes, it was canceled.",
+          "vi": "(B) Yes, it was canceled."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(C) Can you book me on the next one?",
+          "vi": "(C) Can you book me on the next one?"
+        }
+      ],
+      "questions": [
+        {
+          "no": 17,
+          "type": "p2_statement",
+          "difficulty": 4,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The flight was full."
+            },
+            {
+              "key": "B",
+              "text": "Yes, it was canceled."
+            },
+            {
+              "key": "C",
+              "text": "Can you book me on the next one?"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Câu trần thuật báo hủy chuyến; đáp án hợp lý là đặt chuyến khác.",
+            "why_wrong": {
+              "A": "Nói chuyến đầy, không phản hồi.",
+              "B": "Lặp lại, không giải quyết."
+            },
+            "translation_vi": "Chuyến bay bị hủy. – Anh đặt giúp tôi chuyến tiếp theo nhé?"
+          }
+        }
+      ]
+    },
+    {
+      "id": "g18",
+      "part": 2,
+      "audio": "audio/g18.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 18.",
+          "vi": "Câu 18."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "The annual report is now available online.",
+          "vi": "The annual report is now available online."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(A) The report is long.",
+          "vi": "(A) The report is long."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(B) I'll download a copy.",
+          "vi": "(B) I'll download a copy."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(C) Yes, it is online.",
+          "vi": "(C) Yes, it is online."
+        }
+      ],
+      "questions": [
+        {
+          "no": 18,
+          "type": "p2_statement",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The report is long."
+            },
+            {
+              "key": "B",
+              "text": "I'll download a copy."
+            },
+            {
+              "key": "C",
+              "text": "Yes, it is online."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Câu trần thuật báo báo cáo có online; đáp án hợp lý là tải về.",
+            "why_wrong": {
+              "A": "Nhận xét báo cáo, không phản hồi.",
+              "C": "Lặp lại, không hành động."
+            },
+            "translation_vi": "Báo cáo thường niên đã có trực tuyến. – Tôi sẽ tải một bản."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g19",
+      "part": 2,
+      "audio": "audio/g19.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 19.",
+          "vi": "Câu 19."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "The technician found a problem with the wiring.",
+          "vi": "The technician found a problem with the wiring."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(A) Then the repair will cost more.",
+          "vi": "(A) Then the repair will cost more."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(B) The wiring is new.",
+          "vi": "(B) The wiring is new."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(C) Yes, he found it.",
+          "vi": "(C) Yes, he found it."
+        }
+      ],
+      "questions": [
+        {
+          "no": 19,
+          "type": "p2_statement",
+          "difficulty": 4,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Then the repair will cost more."
+            },
+            {
+              "key": "B",
+              "text": "The wiring is new."
+            },
+            {
+              "key": "C",
+              "text": "Yes, he found it."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Câu trần thuật báo lỗi dây điện; đáp án nêu hệ quả chi phí.",
+            "why_wrong": {
+              "B": "Nhận xét dây, không phản hồi.",
+              "C": "Lặp lại, không kết luận."
+            },
+            "translation_vi": "Kỹ thuật viên phát hiện lỗi dây điện. – Vậy chi phí sửa sẽ cao hơn."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g20",
+      "part": 2,
+      "audio": "audio/g20.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 20.",
+          "vi": "Câu 20."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "The lunch order hasn't arrived yet.",
+          "vi": "The lunch order hasn't arrived yet."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(A) The lunch was good.",
+          "vi": "(A) The lunch was good."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(B) Yes, it arrived.",
+          "vi": "(B) Yes, it arrived."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(C) I'll call the restaurant.",
+          "vi": "(C) I'll call the restaurant."
+        }
+      ],
+      "questions": [
+        {
+          "no": 20,
+          "type": "p2_statement",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The lunch was good."
+            },
+            {
+              "key": "B",
+              "text": "Yes, it arrived."
+            },
+            {
+              "key": "C",
+              "text": "I'll call the restaurant."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Câu trần thuật báo đơn trưa chưa đến; đáp án hợp lý là gọi quán.",
+            "why_wrong": {
+              "A": "Nhận xét bữa trưa, không phản hồi.",
+              "B": "Nói đã đến, mâu thuẫn."
+            },
+            "translation_vi": "Đơn bữa trưa vẫn chưa đến. – Tôi sẽ gọi nhà hàng."
+          }
+        }
+      ]
+    }
+  ]
+}

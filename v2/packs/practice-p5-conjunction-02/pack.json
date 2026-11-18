@@ -1,0 +1,794 @@
+{
+  "id": "practice-p5-conjunction-02",
+  "kind": "practice",
+  "title": "Luyện Part 5 – Liên từ 02",
+  "level": "medium",
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "18 câu liên từ, 5 câu mức 4-5.",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 0
+    }
+  },
+  "groups": [
+    {
+      "id": "g01",
+      "part": 5,
+      "questions": [
+        {
+          "no": 1,
+          "type": "p5_conjunction",
+          "difficulty": 2,
+          "stem": "____ the weather was bad, the outdoor event continued.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Although"
+            },
+            {
+              "key": "B",
+              "text": "Despite"
+            },
+            {
+              "key": "C",
+              "text": "Because of"
+            },
+            {
+              "key": "D",
+              "text": "In spite of"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Sau 'Although' là một mệnh đề đầy đủ.",
+            "why_wrong": {
+              "B": "'Despite' cần cụm danh từ.",
+              "C": "'Because of' chỉ nguyên nhân, sai nghĩa.",
+              "D": "'In spite of' cần cụm danh từ."
+            },
+            "translation_vi": "Dù thời tiết xấu, sự kiện ngoài trời vẫn tiếp tục."
+          },
+          "tags": [
+            "g11_subordinating_conjunctions"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "part": 5,
+      "questions": [
+        {
+          "no": 2,
+          "type": "p5_conjunction",
+          "difficulty": 2,
+          "stem": "Please call me ____ you need help with the report.",
+          "options": [
+            {
+              "key": "A",
+              "text": "unless"
+            },
+            {
+              "key": "B",
+              "text": "if"
+            },
+            {
+              "key": "C",
+              "text": "so that"
+            },
+            {
+              "key": "D",
+              "text": "because of"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'If' dẫn mệnh đề điều kiện phù hợp với lời đề nghị.",
+            "why_wrong": {
+              "A": "'Unless' nghĩa là trừ khi.",
+              "C": "'So that' chỉ mục đích.",
+              "D": "'Because of' cần cụm danh từ."
+            },
+            "translation_vi": "Hãy gọi cho tôi nếu bạn cần giúp về báo cáo."
+          },
+          "tags": [
+            "g11_subordinating_conjunctions"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "part": 5,
+      "questions": [
+        {
+          "no": 3,
+          "type": "p5_conjunction",
+          "difficulty": 3,
+          "stem": "The shipment was delayed ____ a strike at the port.",
+          "options": [
+            {
+              "key": "A",
+              "text": "because"
+            },
+            {
+              "key": "B",
+              "text": "although"
+            },
+            {
+              "key": "C",
+              "text": "because of"
+            },
+            {
+              "key": "D",
+              "text": "so"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Sau chỗ trống là cụm danh từ nên dùng 'because of'.",
+            "why_wrong": {
+              "A": "'Because' cần mệnh đề.",
+              "B": "'Although' chỉ sự tương phản.",
+              "D": "'So' chỉ kết quả."
+            },
+            "translation_vi": "Lô hàng bị trễ vì cuộc đình công ở cảng."
+          },
+          "tags": [
+            "g11_subordinating_conjunctions"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "part": 5,
+      "questions": [
+        {
+          "no": 4,
+          "type": "p5_conjunction",
+          "difficulty": 3,
+          "stem": "____ you submit the form by Friday, your application will not be considered.",
+          "options": [
+            {
+              "key": "A",
+              "text": "If"
+            },
+            {
+              "key": "B",
+              "text": "Although"
+            },
+            {
+              "key": "C",
+              "text": "Because"
+            },
+            {
+              "key": "D",
+              "text": "Unless"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "'Unless' mang nghĩa 'nếu không', phù hợp với kết quả phủ định.",
+            "why_wrong": {
+              "A": "'If' làm nghĩa ngược.",
+              "B": "'Although' chỉ tương phản.",
+              "C": "'Because' chỉ nguyên nhân."
+            },
+            "translation_vi": "Trừ khi bạn nộp mẫu trước thứ Sáu, đơn sẽ không được xem xét."
+          },
+          "tags": [
+            "g11_subordinating_conjunctions"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "part": 5,
+      "questions": [
+        {
+          "no": 5,
+          "type": "p5_conjunction",
+          "difficulty": 3,
+          "stem": "She spoke slowly ____ everyone could follow the instructions.",
+          "options": [
+            {
+              "key": "A",
+              "text": "so that"
+            },
+            {
+              "key": "B",
+              "text": "so"
+            },
+            {
+              "key": "C",
+              "text": "such that"
+            },
+            {
+              "key": "D",
+              "text": "in order to"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'So that' + mệnh đề chỉ mục đích.",
+            "why_wrong": {
+              "B": "'So' + mệnh đề chỉ kết quả, không có 'that'.",
+              "C": "'Such that' không đúng cấu trúc.",
+              "D": "'In order to' cần động từ nguyên mẫu."
+            },
+            "translation_vi": "Cô ấy nói chậm để mọi người theo kịp hướng dẫn."
+          },
+          "tags": [
+            "g11_subordinating_conjunctions"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g06",
+      "part": 5,
+      "questions": [
+        {
+          "no": 6,
+          "type": "p5_conjunction",
+          "difficulty": 3,
+          "stem": "He is responsible for sales, ____ his colleague handles customer support.",
+          "options": [
+            {
+              "key": "A",
+              "text": "during"
+            },
+            {
+              "key": "B",
+              "text": "while"
+            },
+            {
+              "key": "C",
+              "text": "despite"
+            },
+            {
+              "key": "D",
+              "text": "so"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'While' nối hai mệnh đề đối chiếu.",
+            "why_wrong": {
+              "A": "'During' là giới từ.",
+              "C": "'Despite' cần cụm danh từ.",
+              "D": "'So' chỉ kết quả."
+            },
+            "translation_vi": "Anh ấy phụ trách bán hàng, còn đồng nghiệp xử lý hỗ trợ khách hàng."
+          },
+          "tags": [
+            "g11_subordinating_conjunctions"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g07",
+      "part": 5,
+      "questions": [
+        {
+          "no": 7,
+          "type": "p5_conjunction",
+          "difficulty": 3,
+          "stem": "____ the high cost, the company approved the project.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Although"
+            },
+            {
+              "key": "B",
+              "text": "Because"
+            },
+            {
+              "key": "C",
+              "text": "Despite"
+            },
+            {
+              "key": "D",
+              "text": "Unless"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Sau chỗ trống là cụm danh từ nên dùng 'Despite'.",
+            "why_wrong": {
+              "A": "'Although' cần mệnh đề.",
+              "B": "'Because' chỉ nguyên nhân.",
+              "D": "'Unless' chỉ điều kiện."
+            },
+            "translation_vi": "Dù chi phí cao, công ty vẫn duyệt dự án."
+          },
+          "tags": [
+            "g11_subordinating_conjunctions"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g08",
+      "part": 5,
+      "questions": [
+        {
+          "no": 8,
+          "type": "p5_conjunction",
+          "difficulty": 2,
+          "stem": "Both the manager ____ the assistant attended the briefing.",
+          "options": [
+            {
+              "key": "A",
+              "text": "or"
+            },
+            {
+              "key": "B",
+              "text": "nor"
+            },
+            {
+              "key": "C",
+              "text": "but"
+            },
+            {
+              "key": "D",
+              "text": "and"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Cấu trúc 'both ... and ...' nối hai chủ ngữ.",
+            "why_wrong": {
+              "A": "'Both ... or' không đúng.",
+              "B": "'Both ... nor' không đúng.",
+              "C": "'Both ... but' không đúng."
+            },
+            "translation_vi": "Cả quản lý và trợ lý đều dự buổi phổ biến."
+          },
+          "tags": [
+            "g11_subordinating_conjunctions"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g09",
+      "part": 5,
+      "questions": [
+        {
+          "no": 9,
+          "type": "p5_conjunction",
+          "difficulty": 3,
+          "stem": "The report was not only late ____ incomplete.",
+          "options": [
+            {
+              "key": "A",
+              "text": "but also"
+            },
+            {
+              "key": "B",
+              "text": "and also"
+            },
+            {
+              "key": "C",
+              "text": "but"
+            },
+            {
+              "key": "D",
+              "text": "also"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Cấu trúc 'not only ... but also ...' bổ sung ý tương phản.",
+            "why_wrong": {
+              "B": "'and also' không đúng cấu trúc.",
+              "C": "'but' thiếu 'also'.",
+              "D": "'also' thiếu 'but'."
+            },
+            "translation_vi": "Báo cáo không chỉ muộn mà còn thiếu nội dung."
+          },
+          "tags": [
+            "g11_subordinating_conjunctions"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g10",
+      "part": 5,
+      "questions": [
+        {
+          "no": 10,
+          "type": "p5_conjunction",
+          "difficulty": 2,
+          "stem": "Neither the printer ____ the scanner is working.",
+          "options": [
+            {
+              "key": "A",
+              "text": "or"
+            },
+            {
+              "key": "B",
+              "text": "nor"
+            },
+            {
+              "key": "C",
+              "text": "and"
+            },
+            {
+              "key": "D",
+              "text": "but"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Cấu trúc 'neither ... nor ...' diễn tả phủ định kép.",
+            "why_wrong": {
+              "A": "'Neither ... or' không đúng.",
+              "C": "'Neither ... and' không đúng.",
+              "D": "'Neither ... but' không đúng."
+            },
+            "translation_vi": "Cả máy in và máy quét đều không hoạt động."
+          },
+          "tags": [
+            "g11_subordinating_conjunctions"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g11",
+      "part": 5,
+      "questions": [
+        {
+          "no": 11,
+          "type": "p5_conjunction",
+          "difficulty": 4,
+          "stem": "Take an umbrella ____ it rains later.",
+          "options": [
+            {
+              "key": "A",
+              "text": "in case of"
+            },
+            {
+              "key": "B",
+              "text": "so that"
+            },
+            {
+              "key": "C",
+              "text": "in case"
+            },
+            {
+              "key": "D",
+              "text": "unless"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'In case' + mệnh đề chỉ phòng khi.",
+            "why_wrong": {
+              "A": "'In case of' cần cụm danh từ.",
+              "B": "'So that' chỉ mục đích.",
+              "D": "'Unless' chỉ điều kiện loại trừ."
+            },
+            "translation_vi": "Hãy mang ô phòng khi trời mưa sau."
+          },
+          "tags": [
+            "g11_subordinating_conjunctions"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g12",
+      "part": 5,
+      "questions": [
+        {
+          "no": 12,
+          "type": "p5_conjunction",
+          "difficulty": 5,
+          "stem": "____ much effort he made, the result did not change.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Whatever"
+            },
+            {
+              "key": "B",
+              "text": "Whenever"
+            },
+            {
+              "key": "C",
+              "text": "Wherever"
+            },
+            {
+              "key": "D",
+              "text": "However"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "'However much' + danh từ nghĩa là dù nhiều đến mấy.",
+            "why_wrong": {
+              "A": "'Whatever' không đi với 'much effort' theo cách này.",
+              "B": "'Whenever' chỉ thời gian.",
+              "C": "'Wherever' chỉ nơi chốn."
+            },
+            "translation_vi": "Dù anh ấy nỗ lực nhiều đến đâu, kết quả vẫn không đổi."
+          },
+          "tags": [
+            "g11_subordinating_conjunctions"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g13",
+      "part": 5,
+      "questions": [
+        {
+          "no": 13,
+          "type": "p5_conjunction",
+          "difficulty": 4,
+          "stem": "The meeting was canceled ____ the director's sudden illness.",
+          "options": [
+            {
+              "key": "A",
+              "text": "owing to"
+            },
+            {
+              "key": "B",
+              "text": "owing"
+            },
+            {
+              "key": "C",
+              "text": "due"
+            },
+            {
+              "key": "D",
+              "text": "because"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'Owing to' + cụm danh từ chỉ nguyên nhân.",
+            "why_wrong": {
+              "B": "'Owing' thiếu 'to'.",
+              "C": "'Due' thiếu 'to'.",
+              "D": "'Because' cần mệnh đề."
+            },
+            "translation_vi": "Cuộc họp bị hủy do bệnh đột ngột của giám đốc."
+          },
+          "tags": [
+            "g11_subordinating_conjunctions"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g14",
+      "part": 5,
+      "questions": [
+        {
+          "no": 14,
+          "type": "p5_conjunction",
+          "difficulty": 4,
+          "stem": "We will proceed ____ the client gives written approval.",
+          "options": [
+            {
+              "key": "A",
+              "text": "provided"
+            },
+            {
+              "key": "B",
+              "text": "provided that"
+            },
+            {
+              "key": "C",
+              "text": "in case"
+            },
+            {
+              "key": "D",
+              "text": "despite"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'Provided that' + mệnh đề chỉ điều kiện.",
+            "why_wrong": {
+              "A": "'Provided' thiếu 'that'.",
+              "C": "'In case' chỉ phòng khi.",
+              "D": "'Despite' cần cụm danh từ."
+            },
+            "translation_vi": "Chúng tôi sẽ tiến hành miễn là khách hàng chấp thuận bằng văn bản."
+          },
+          "tags": [
+            "g11_subordinating_conjunctions"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g15",
+      "part": 5,
+      "questions": [
+        {
+          "no": 15,
+          "type": "p5_conjunction",
+          "difficulty": 3,
+          "stem": "The team worked overtime ____ finish the report by Monday.",
+          "options": [
+            {
+              "key": "A",
+              "text": "so that"
+            },
+            {
+              "key": "B",
+              "text": "in order"
+            },
+            {
+              "key": "C",
+              "text": "in order to"
+            },
+            {
+              "key": "D",
+              "text": "for"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'In order to' + động từ nguyên mẫu chỉ mục đích.",
+            "why_wrong": {
+              "A": "'So that' cần mệnh đề.",
+              "B": "'In order' thiếu 'to'.",
+              "D": "'For' cần danh từ/V-ing."
+            },
+            "translation_vi": "Nhóm làm thêm giờ để hoàn thành báo cáo trước thứ Hai."
+          },
+          "tags": [
+            "g11_subordinating_conjunctions"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g16",
+      "part": 5,
+      "questions": [
+        {
+          "no": 16,
+          "type": "p5_conjunction",
+          "difficulty": 3,
+          "stem": "____ the deadline was tight, they delivered the project on time.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Even"
+            },
+            {
+              "key": "B",
+              "text": "Despite"
+            },
+            {
+              "key": "C",
+              "text": "In spite"
+            },
+            {
+              "key": "D",
+              "text": "Even though"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "'Even though' + mệnh đề chỉ sự nhượng bộ.",
+            "why_wrong": {
+              "A": "'Even' không nối mệnh đề như vậy.",
+              "B": "'Despite' cần cụm danh từ.",
+              "C": "'In spite' thiếu 'of'."
+            },
+            "translation_vi": "Dù hạn chót gấp, họ vẫn giao dự án đúng hạn."
+          },
+          "tags": [
+            "g11_subordinating_conjunctions"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g17",
+      "part": 5,
+      "questions": [
+        {
+          "no": 17,
+          "type": "p5_conjunction",
+          "difficulty": 3,
+          "stem": "You can ____ pay online or send a check by mail.",
+          "options": [
+            {
+              "key": "A",
+              "text": "either"
+            },
+            {
+              "key": "B",
+              "text": "neither"
+            },
+            {
+              "key": "C",
+              "text": "both"
+            },
+            {
+              "key": "D",
+              "text": "not only"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Cấu trúc 'either ... or ...' đưa ra hai lựa chọn.",
+            "why_wrong": {
+              "B": "'Neither ... or' không đúng.",
+              "C": "'Both ... or' không đúng.",
+              "D": "'Not only ... or' không đúng."
+            },
+            "translation_vi": "Bạn có thể trả trực tuyến hoặc gửi séc qua bưu điện."
+          },
+          "tags": [
+            "g11_subordinating_conjunctions"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g18",
+      "part": 5,
+      "questions": [
+        {
+          "no": 18,
+          "type": "p5_conjunction",
+          "difficulty": 5,
+          "stem": "Scarcely had we left the office ____ it started raining heavily.",
+          "options": [
+            {
+              "key": "A",
+              "text": "than"
+            },
+            {
+              "key": "B",
+              "text": "when"
+            },
+            {
+              "key": "C",
+              "text": "then"
+            },
+            {
+              "key": "D",
+              "text": "that"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Cấu trúc đảo ngữ 'Scarcely ... when ...' diễn tả hai việc gần như đồng thời.",
+            "why_wrong": {
+              "A": "'Than' dùng với so sánh hơn.",
+              "C": "'Then' chỉ thời gian tiếp nối.",
+              "D": "'That' không dùng trong cấu trúc này."
+            },
+            "translation_vi": "Chúng tôi vừa rời văn phòng thì trời bắt đầu mưa to."
+          },
+          "tags": [
+            "g11_subordinating_conjunctions"
+          ]
+        }
+      ]
+    }
+  ]
+}

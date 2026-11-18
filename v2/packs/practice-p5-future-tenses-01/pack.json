@@ -1,0 +1,680 @@
+{
+  "id": "practice-p5-future-tenses-01",
+  "kind": "practice",
+  "title": "Luyện Part 5 – Thì tương lai 01",
+  "level": "medium",
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "15 câu Part 5 chủ điểm g04_future_tenses, độ khó 1-5, 7 câu mức 4-5.",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 0
+    }
+  },
+  "groups": [
+    {
+      "id": "g01",
+      "part": 5,
+      "questions": [
+        {
+          "no": 1,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 1,
+          "stem": "The meeting ____ at ten tomorrow morning.",
+          "options": [
+            {
+              "key": "A",
+              "text": "begin"
+            },
+            {
+              "key": "B",
+              "text": "will begin"
+            },
+            {
+              "key": "C",
+              "text": "beginning"
+            },
+            {
+              "key": "D",
+              "text": "began"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'Tomorrow morning' chỉ tương lai nên dùng 'will begin'.",
+            "why_wrong": {
+              "A": "'begin' thiếu trợ động từ tương lai.",
+              "C": "'beginning' không phải động từ chia.",
+              "D": "'began' là quá khứ."
+            },
+            "translation_vi": "Cuộc họp sẽ bắt đầu lúc mười giờ sáng mai."
+          },
+          "tags": [
+            "g04_future_tenses",
+            "v06_meetings"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "part": 5,
+      "questions": [
+        {
+          "no": 2,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 2,
+          "stem": "We ____ the new system next Monday.",
+          "options": [
+            {
+              "key": "A",
+              "text": "install"
+            },
+            {
+              "key": "B",
+              "text": "installed"
+            },
+            {
+              "key": "C",
+              "text": "have installed"
+            },
+            {
+              "key": "D",
+              "text": "are going to install"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "'Be going to' diễn tả kế hoạch đã định cho tương lai nên chọn 'are going to install'.",
+            "why_wrong": {
+              "A": "'install' là hiện tại.",
+              "B": "'installed' là quá khứ.",
+              "C": "'have installed' là hiện tại hoàn thành."
+            },
+            "translation_vi": "Chúng tôi sẽ lắp hệ thống mới vào thứ Hai tới."
+          },
+          "tags": [
+            "g04_future_tenses",
+            "v16_technology"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "part": 5,
+      "questions": [
+        {
+          "no": 3,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 2,
+          "stem": "I ____ the client at three this afternoon; the time is already confirmed.",
+          "options": [
+            {
+              "key": "A",
+              "text": "am meeting"
+            },
+            {
+              "key": "B",
+              "text": "have met"
+            },
+            {
+              "key": "C",
+              "text": "will have met"
+            },
+            {
+              "key": "D",
+              "text": "met"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Hiện tại tiếp diễn diễn tả lịch hẹn đã chốt trong tương lai gần nên chọn 'am meeting'.",
+            "why_wrong": {
+              "B": "'have met' là hiện tại hoàn thành, sai nghĩa.",
+              "C": "'will have met' là tương lai hoàn thành, sai nghĩa.",
+              "D": "'met' là quá khứ đơn."
+            },
+            "translation_vi": "Tôi sẽ gặp khách lúc ba giờ chiều nay; giờ đã được xác nhận."
+          },
+          "tags": [
+            "g04_future_tenses",
+            "v06_meetings"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "part": 5,
+      "questions": [
+        {
+          "no": 4,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 3,
+          "stem": "By next June, she ____ here for five years.",
+          "options": [
+            {
+              "key": "A",
+              "text": "works"
+            },
+            {
+              "key": "B",
+              "text": "is working"
+            },
+            {
+              "key": "C",
+              "text": "will have worked"
+            },
+            {
+              "key": "D",
+              "text": "worked"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'By next June' + khoảng thời gian cần tương lai hoàn thành 'will have worked'.",
+            "why_wrong": {
+              "A": "'works' là hiện tại.",
+              "B": "'is working' chỉ đang diễn ra.",
+              "D": "'worked' là quá khứ."
+            },
+            "translation_vi": "Đến tháng Sáu tới, cô ấy sẽ làm ở đây được năm năm."
+          },
+          "tags": [
+            "g04_future_tenses",
+            "v05_personnel"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "part": 5,
+      "questions": [
+        {
+          "no": 5,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 3,
+          "stem": "Don't call at eight; we ____ dinner then.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have"
+            },
+            {
+              "key": "B",
+              "text": "will be having"
+            },
+            {
+              "key": "C",
+              "text": "have had"
+            },
+            {
+              "key": "D",
+              "text": "had"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Hành động đang diễn ra tại một thời điểm tương lai nên dùng tương lai tiếp diễn 'will be having'.",
+            "why_wrong": {
+              "A": "'have' là hiện tại.",
+              "C": "'have had' là hiện tại hoàn thành.",
+              "D": "'had' là quá khứ."
+            },
+            "translation_vi": "Đừng gọi lúc tám giờ; lúc đó chúng tôi đang ăn tối."
+          },
+          "tags": [
+            "g04_future_tenses",
+            "v20_restaurants"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g06",
+      "part": 5,
+      "questions": [
+        {
+          "no": 6,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 3,
+          "stem": "The package ____ tomorrow morning, according to the courier.",
+          "options": [
+            {
+              "key": "A",
+              "text": "delivers"
+            },
+            {
+              "key": "B",
+              "text": "is delivered"
+            },
+            {
+              "key": "C",
+              "text": "has delivered"
+            },
+            {
+              "key": "D",
+              "text": "will be delivered"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Gói hàng được giao trong tương lai nên dùng bị động tương lai 'will be delivered'.",
+            "why_wrong": {
+              "A": "'delivers' chủ động, sai nghĩa.",
+              "B": "'is delivered' là hiện tại bị động.",
+              "C": "'has delivered' là hiện tại hoàn thành."
+            },
+            "translation_vi": "Theo đơn vị vận chuyển, gói hàng sẽ được giao vào sáng mai."
+          },
+          "tags": [
+            "g04_future_tenses",
+            "v11_ordering_shipping"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g07",
+      "part": 5,
+      "questions": [
+        {
+          "no": 7,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 3,
+          "stem": "This time next week, we ____ the annual conference.",
+          "options": [
+            {
+              "key": "A",
+              "text": "will be attending"
+            },
+            {
+              "key": "B",
+              "text": "have attended"
+            },
+            {
+              "key": "C",
+              "text": "attended"
+            },
+            {
+              "key": "D",
+              "text": "had attended"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'This time next week' chỉ thời điểm đang diễn ra trong tương lai nên dùng 'will be attending'.",
+            "why_wrong": {
+              "B": "'have attended' là hiện tại hoàn thành.",
+              "C": "'attended' là quá khứ đơn.",
+              "D": "'had attended' là quá khứ hoàn thành."
+            },
+            "translation_vi": "Giờ này tuần sau, chúng ta sẽ đang dự hội nghị thường niên."
+          },
+          "tags": [
+            "g04_future_tenses",
+            "v21_events"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g08",
+      "part": 5,
+      "questions": [
+        {
+          "no": 8,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 3,
+          "stem": "The manager ____ the results by Friday afternoon.",
+          "options": [
+            {
+              "key": "A",
+              "text": "reviews"
+            },
+            {
+              "key": "B",
+              "text": "reviewed"
+            },
+            {
+              "key": "C",
+              "text": "will review"
+            },
+            {
+              "key": "D",
+              "text": "is reviewing"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'By Friday afternoon' chỉ tương lai nên dùng 'will review'.",
+            "why_wrong": {
+              "A": "'reviews' là hiện tại.",
+              "B": "'reviewed' là quá khứ.",
+              "D": "'is reviewing' chỉ đang diễn ra."
+            },
+            "translation_vi": "Người quản lý sẽ xem xét kết quả trước chiều thứ Sáu."
+          },
+          "tags": [
+            "g04_future_tenses",
+            "v06_meetings"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g09",
+      "part": 5,
+      "questions": [
+        {
+          "no": 9,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 4,
+          "stem": "By the end of the month, the team ____ all three reports.",
+          "options": [
+            {
+              "key": "A",
+              "text": "completes"
+            },
+            {
+              "key": "B",
+              "text": "will have completed"
+            },
+            {
+              "key": "C",
+              "text": "is completing"
+            },
+            {
+              "key": "D",
+              "text": "completed"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'By the end of the month' + hành động hoàn tất trước mốc tương lai nên dùng tương lai hoàn thành 'will have completed'.",
+            "why_wrong": {
+              "A": "'completes' là hiện tại.",
+              "C": "'is completing' chỉ đang diễn ra.",
+              "D": "'completed' là quá khứ."
+            },
+            "translation_vi": "Đến cuối tháng, nhóm sẽ hoàn thành cả ba báo cáo."
+          },
+          "tags": [
+            "g04_future_tenses",
+            "v07_finance"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g10",
+      "part": 5,
+      "questions": [
+        {
+          "no": 10,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 4,
+          "stem": "If the weather holds, the outdoor event ____ as planned.",
+          "options": [
+            {
+              "key": "A",
+              "text": "will proceed"
+            },
+            {
+              "key": "B",
+              "text": "proceeding"
+            },
+            {
+              "key": "C",
+              "text": "proceeded"
+            },
+            {
+              "key": "D",
+              "text": "has proceeded"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Mệnh đề chính của câu điều kiện loại 1 dùng 'will + V' nên chọn 'will proceed'.",
+            "why_wrong": {
+              "B": "'proceeding' thiếu trợ động từ.",
+              "C": "'proceeded' là quá khứ đơn.",
+              "D": "'has proceeded' là hiện tại hoàn thành."
+            },
+            "translation_vi": "Nếu thời tiết giữ được, sự kiện ngoài trời sẽ diễn ra như kế hoạch."
+          },
+          "tags": [
+            "g04_future_tenses",
+            "v21_events"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g11",
+      "part": 5,
+      "questions": [
+        {
+          "no": 11,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 4,
+          "stem": "This time tomorrow, the delegates ____ in the main hall.",
+          "options": [
+            {
+              "key": "A",
+              "text": "gather"
+            },
+            {
+              "key": "B",
+              "text": "gathered"
+            },
+            {
+              "key": "C",
+              "text": "have gathered"
+            },
+            {
+              "key": "D",
+              "text": "will be gathering"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "'This time tomorrow' chỉ thời điểm đang diễn ra trong tương lai nên dùng 'will be gathering'.",
+            "why_wrong": {
+              "A": "'gather' là hiện tại.",
+              "B": "'gathered' là quá khứ.",
+              "C": "'have gathered' là hiện tại hoàn thành."
+            },
+            "translation_vi": "Giờ này mai, các đại biểu sẽ đang tập trung tại hội trường chính."
+          },
+          "tags": [
+            "g04_future_tenses",
+            "v21_events"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g12",
+      "part": 5,
+      "questions": [
+        {
+          "no": 12,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 4,
+          "stem": "The new policy ____ by the board next week.",
+          "options": [
+            {
+              "key": "A",
+              "text": "approves"
+            },
+            {
+              "key": "B",
+              "text": "is approving"
+            },
+            {
+              "key": "C",
+              "text": "will be approved"
+            },
+            {
+              "key": "D",
+              "text": "has approved"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Chính sách được thông qua trong tương lai nên dùng bị động tương lai 'will be approved'.",
+            "why_wrong": {
+              "A": "'approves' chủ động, sai nghĩa.",
+              "B": "'is approving' chủ động và sai thì.",
+              "D": "'has approved' là hiện tại hoàn thành chủ động."
+            },
+            "translation_vi": "Chính sách mới sẽ được hội đồng thông qua vào tuần sau."
+          },
+          "tags": [
+            "g04_future_tenses",
+            "v05_personnel"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g13",
+      "part": 5,
+      "questions": [
+        {
+          "no": 13,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 5,
+          "stem": "By 2030, the company ____ in this market for fifty years.",
+          "options": [
+            {
+              "key": "A",
+              "text": "operates"
+            },
+            {
+              "key": "B",
+              "text": "will have been operating"
+            },
+            {
+              "key": "C",
+              "text": "is operating"
+            },
+            {
+              "key": "D",
+              "text": "operated"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'By 2030' + khoảng thời gian kéo dài cần tương lai hoàn thành tiếp diễn 'will have been operating'.",
+            "why_wrong": {
+              "A": "'operates' là hiện tại.",
+              "C": "'is operating' chỉ đang diễn ra.",
+              "D": "'operated' là quá khứ."
+            },
+            "translation_vi": "Đến năm 2030, công ty sẽ hoạt động trong thị trường này được năm mươi năm."
+          },
+          "tags": [
+            "g04_future_tenses",
+            "v02_marketing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g14",
+      "part": 5,
+      "questions": [
+        {
+          "no": 14,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 5,
+          "stem": "Should the shipment arrive late, we ____ the opening.",
+          "options": [
+            {
+              "key": "A",
+              "text": "postpone"
+            },
+            {
+              "key": "B",
+              "text": "postponed"
+            },
+            {
+              "key": "C",
+              "text": "would have postponed"
+            },
+            {
+              "key": "D",
+              "text": "will postpone"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Đảo ngữ điều kiện loại 1 'Should...' đi với mệnh đề chính 'will + V' nên chọn 'will postpone'.",
+            "why_wrong": {
+              "A": "'postpone' thiếu 'will'.",
+              "B": "'postponed' là quá khứ.",
+              "C": "'would have postponed' thuộc điều kiện loại 3."
+            },
+            "translation_vi": "Nếu lô hàng đến muộn, chúng ta sẽ hoãn buổi khai trương."
+          },
+          "tags": [
+            "g04_future_tenses",
+            "v11_ordering_shipping"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g15",
+      "part": 5,
+      "questions": [
+        {
+          "no": 15,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 5,
+          "stem": "The board ____ a decision by the time the shareholders meet.",
+          "options": [
+            {
+              "key": "A",
+              "text": "will have made"
+            },
+            {
+              "key": "B",
+              "text": "makes"
+            },
+            {
+              "key": "C",
+              "text": "has made"
+            },
+            {
+              "key": "D",
+              "text": "made"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Quyết định sẽ hoàn tất trước khi cổ đông họp nên dùng tương lai hoàn thành 'will have made'.",
+            "why_wrong": {
+              "B": "'makes' là hiện tại.",
+              "C": "'has made' là hiện tại hoàn thành.",
+              "D": "'made' là quá khứ."
+            },
+            "translation_vi": "Hội đồng sẽ đưa ra quyết định trước khi các cổ đông họp."
+          },
+          "tags": [
+            "g04_future_tenses",
+            "v07_finance"
+          ]
+        }
+      ]
+    }
+  ]
+}

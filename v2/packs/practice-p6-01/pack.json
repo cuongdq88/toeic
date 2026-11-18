@@ -1,0 +1,655 @@
+{
+  "id": "practice-p6-01",
+  "kind": "practice",
+  "title": "Luyện Part 6 – Bộ 01",
+  "level": "medium",
+  "version": 1,
+  "meta": {
+    "author": "claude",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "ai_check": {
+      "date": "2026-11-17",
+      "fixed": 0
+    }
+  },
+  "groups": [
+    {
+      "id": "g01",
+      "part": 6,
+      "passages": [
+        {
+          "type": "email",
+          "title": "Change to Thursday's workshop",
+          "text": "To: Customer Service Team\nFrom: Lena Fischer, Training Coordinator\nSubject: Change to Thursday's workshop\n\nThe customer-handling workshop that was planned for Thursday morning {{1}} to Friday afternoon. The trainer, Mr. Okoye, has been asked to attend a regional meeting on Thursday and cannot return in time. {{2}} The session will still take place in Room 204 and will run from 1:30 to 4:30 P.M.\n\nIf you are scheduled to work at the service desk on Friday afternoon, please find a colleague who can {{3}} your shift before Wednesday. {{4}}, let me know by then so that I can reserve a place for you in next month's session.",
+          "vi": "Gửi nhóm Chăm sóc khách hàng. Buổi hội thảo kỹ năng xử lý khách hàng dự kiến vào sáng thứ Năm đã được dời sang chiều thứ Sáu. Giảng viên, ông Okoye, được yêu cầu dự một cuộc họp khu vực vào thứ Năm và không kịp quay lại. Chúng tôi xin lỗi vì báo gấp. Buổi học vẫn diễn ra ở phòng 204, từ 1:30 đến 4:30 chiều. Nếu bạn có lịch trực quầy dịch vụ chiều thứ Sáu, vui lòng tìm một đồng nghiệp làm thay ca trước thứ Tư. Nếu không, hãy báo tôi trước thời điểm đó để tôi giữ chỗ cho bạn ở khóa tháng sau."
+        }
+      ],
+      "questions": [
+        {
+          "no": 1,
+          "type": "p6_grammar",
+          "difficulty": 3,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "has rescheduled"
+            },
+            {
+              "key": "B",
+              "text": "will reschedule"
+            },
+            {
+              "key": "C",
+              "text": "rescheduling"
+            },
+            {
+              "key": "D",
+              "text": "has been rescheduled"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Chủ ngữ 'the workshop' không tự dời lịch được, nó bị dời → bị động hoàn thành 'has been rescheduled'.",
+            "why_wrong": {
+              "A": "Chủ động: hội thảo không tự dời lịch.",
+              "B": "Chủ động và thì tương lai, trong khi việc dời đã xảy ra.",
+              "C": "V-ing không làm động từ chính của câu."
+            },
+            "translation_vi": "Buổi hội thảo dự kiến vào sáng thứ Năm đã được dời sang chiều thứ Sáu."
+          },
+          "tags": [
+            "g05_passive_voice"
+          ]
+        },
+        {
+          "no": 2,
+          "type": "p6_sentence_insertion",
+          "difficulty": 4,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The regional meeting has been postponed until next month."
+            },
+            {
+              "key": "B",
+              "text": "We apologize for the short notice."
+            },
+            {
+              "key": "C",
+              "text": "Room 204 is currently closed for renovation."
+            },
+            {
+              "key": "D",
+              "text": "Mr. Okoye will therefore lead the session on Thursday morning."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Sau khi báo dời lịch và nêu lý do, lời xin lỗi vì báo gấp là câu nối tự nhiên trước phần thông tin buổi học.",
+            "why_wrong": {
+              "A": "Mâu thuẫn: ông Okoye vẫn phải dự cuộc họp vào thứ Năm.",
+              "C": "Mâu thuẫn với câu sau: buổi học vẫn ở phòng 204.",
+              "D": "Mâu thuẫn: ông không thể có mặt sáng thứ Năm."
+            },
+            "translation_vi": "Chúng tôi xin lỗi vì thông báo gấp."
+          }
+        },
+        {
+          "no": 3,
+          "type": "p6_vocabulary",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "protect"
+            },
+            {
+              "key": "B",
+              "text": "handle"
+            },
+            {
+              "key": "C",
+              "text": "cover"
+            },
+            {
+              "key": "D",
+              "text": "keep"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'cover someone's shift' = làm thay ca của ai.",
+            "why_wrong": {
+              "A": "'protect a shift' không có nghĩa.",
+              "B": "'handle' đi với việc/vấn đề, không đi với 'your shift' theo nghĩa làm thay.",
+              "D": "'keep your shift' = giữ ca, ngược ý."
+            },
+            "translation_vi": "Vui lòng tìm một đồng nghiệp có thể làm thay ca của bạn trước thứ Tư."
+          },
+          "tags": [
+            "v05_personnel"
+          ]
+        },
+        {
+          "no": 4,
+          "type": "p6_connector",
+          "difficulty": 3,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Otherwise"
+            },
+            {
+              "key": "B",
+              "text": "However"
+            },
+            {
+              "key": "C",
+              "text": "Therefore"
+            },
+            {
+              "key": "D",
+              "text": "Similarly"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'Otherwise' = nếu không (tìm được người thay) thì hãy báo tôi.",
+            "why_wrong": {
+              "B": "Không có ý đối lập với câu trước.",
+              "C": "Báo cho người điều phối không phải là kết quả của việc tìm người thay.",
+              "D": "Không có sự so sánh tương tự."
+            },
+            "translation_vi": "Nếu không, hãy báo tôi trước thời điểm đó để tôi giữ chỗ cho bạn ở khóa tháng sau."
+          },
+          "tags": [
+            "g19_transition_adverbs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "part": 6,
+      "passages": [
+        {
+          "type": "notice",
+          "title": "Elevator maintenance",
+          "text": "NOTICE TO ALL TENANTS\n\nMaintenance work on the east elevators will take place from Monday, May 5, through Wednesday, May 7. During this period, only the west elevators {{5}} in service. Tenants on floors 10 to 15 may experience longer waiting times, especially between 8:30 and 9:30 A.M. {{6}}\n\nDeliveries that require an elevator should be scheduled for Thursday or later. {{7}}, if the work is completed early, we will post an update in the main lobby and send a message to each office manager. Building management thanks you for your {{8}} while the work is under way.",
+          "vi": "Thông báo tới tất cả người thuê. Thang máy phía đông sẽ được bảo trì từ thứ Hai 5/5 tới thứ Tư 7/5. Trong thời gian này, chỉ thang máy phía tây còn hoạt động. Người thuê ở tầng 10–15 có thể phải chờ lâu hơn, nhất là từ 8:30 đến 9:30 sáng. Chúng tôi khuyên quý vị dành thêm thời gian hoặc đi cầu thang cho quãng ngắn. Các chuyến giao hàng cần dùng thang máy nên hẹn từ thứ Năm trở đi. Tuy nhiên, nếu công việc xong sớm, chúng tôi sẽ đăng thông báo ở sảnh chính và nhắn cho quản lý từng văn phòng. Ban quản lý cảm ơn sự kiên nhẫn của quý vị."
+        }
+      ],
+      "questions": [
+        {
+          "no": 5,
+          "type": "p6_grammar",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "remains"
+            },
+            {
+              "key": "B",
+              "text": "will remain"
+            },
+            {
+              "key": "C",
+              "text": "remained"
+            },
+            {
+              "key": "D",
+              "text": "remaining"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Việc bảo trì diễn ra trong tương lai (May 5–7) → 'will remain'.",
+            "why_wrong": {
+              "A": "Chủ ngữ 'elevators' số nhiều, không dùng 'remains'.",
+              "C": "Quá khứ, sai mốc thời gian.",
+              "D": "V-ing không làm động từ chính."
+            },
+            "translation_vi": "Trong thời gian này, chỉ thang máy phía tây sẽ còn hoạt động."
+          },
+          "tags": [
+            "g04_future_tenses"
+          ]
+        },
+        {
+          "no": 6,
+          "type": "p6_sentence_insertion",
+          "difficulty": 3,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The west elevators were installed only last year."
+            },
+            {
+              "key": "B",
+              "text": "Floors 10 to 15 will be closed on those days."
+            },
+            {
+              "key": "C",
+              "text": "The east elevators will remain open to visitors."
+            },
+            {
+              "key": "D",
+              "text": "We recommend allowing extra time or using the stairs for short trips."
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Câu trước nói sẽ phải chờ lâu hơn → lời khuyên dành thêm thời gian hoặc đi cầu thang nối tiếp hợp lý.",
+            "why_wrong": {
+              "A": "Thông tin lắp đặt không liên quan tới việc phải chờ lâu.",
+              "B": "Mâu thuẫn: người thuê ở tầng 10–15 vẫn làm việc, chỉ chờ lâu hơn.",
+              "C": "Mâu thuẫn: thang máy phía đông đang bảo trì."
+            },
+            "translation_vi": "Chúng tôi khuyên quý vị dành thêm thời gian hoặc đi cầu thang cho quãng ngắn."
+          }
+        },
+        {
+          "no": 7,
+          "type": "p6_connector",
+          "difficulty": 3,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Therefore"
+            },
+            {
+              "key": "B",
+              "text": "For example"
+            },
+            {
+              "key": "C",
+              "text": "However"
+            },
+            {
+              "key": "D",
+              "text": "Similarly"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Câu trước yêu cầu hẹn giao hàng từ thứ Năm; câu này nêu khả năng ngược lại (xong sớm) → 'However'.",
+            "why_wrong": {
+              "A": "Việc xong sớm không phải kết quả của yêu cầu hẹn giao hàng.",
+              "B": "Không phải ví dụ cho câu trước.",
+              "D": "Không có sự tương tự."
+            },
+            "translation_vi": "Tuy nhiên, nếu công việc hoàn thành sớm, chúng tôi sẽ đăng thông báo ở sảnh chính."
+          },
+          "tags": [
+            "g19_transition_adverbs"
+          ]
+        },
+        {
+          "no": 8,
+          "type": "p6_vocabulary",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "patience"
+            },
+            {
+              "key": "B",
+              "text": "tolerance"
+            },
+            {
+              "key": "C",
+              "text": "endurance"
+            },
+            {
+              "key": "D",
+              "text": "persistence"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Cụm cố định khi thông báo bất tiện: 'thank you for your patience'.",
+            "why_wrong": {
+              "B": "'tolerance' (sự khoan dung) không dùng trong lời cảm ơn này.",
+              "C": "'endurance' là sức bền.",
+              "D": "'persistence' là sự kiên trì theo đuổi."
+            },
+            "translation_vi": "Ban quản lý tòa nhà cảm ơn sự kiên nhẫn của quý vị trong thời gian thi công."
+          },
+          "tags": [
+            "v23_real_estate"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "part": 6,
+      "passages": [
+        {
+          "type": "advertisement",
+          "title": "Harvest Table Catering",
+          "text": "Planning a company lunch? Harvest Table Catering delivers fresh, seasonal meals to offices across the downtown area. Our menus are prepared each morning {{9}} locally grown ingredients, and every order includes plates, napkins, and serving utensils. {{10}}\n\n{{11}}, we offer a free tasting session to businesses that book an event for more than thirty guests. Orders must be placed at least forty-eight hours in advance, and the number of guests can be changed up to one day before {{12}}. Visit harvesttable.com to see this season's menus.",
+          "vi": "Đang lên kế hoạch bữa trưa cho công ty? Harvest Table Catering giao bữa ăn tươi theo mùa tới các văn phòng khắp khu trung tâm. Thực đơn được chuẩn bị mỗi sáng bằng nguyên liệu trồng tại địa phương, và mỗi đơn hàng đều kèm đĩa, khăn ăn và dụng cụ phục vụ. Món chay và không gluten cũng có theo yêu cầu. Ngoài ra, chúng tôi tổ chức buổi nếm thử miễn phí cho doanh nghiệp đặt tiệc trên ba mươi khách. Đơn hàng phải đặt trước ít nhất 48 giờ, và có thể đổi số khách tới một ngày trước khi giao. Xem thực đơn mùa này tại harvesttable.com."
+        }
+      ],
+      "questions": [
+        {
+          "no": 9,
+          "type": "p6_grammar",
+          "difficulty": 3,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "used"
+            },
+            {
+              "key": "B",
+              "text": "to use"
+            },
+            {
+              "key": "C",
+              "text": "using"
+            },
+            {
+              "key": "D",
+              "text": "uses"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Cụm phân từ chủ động 'using ...' bổ sung cách chế biến cho mệnh đề trước.",
+            "why_wrong": {
+              "A": "'used' mang nghĩa bị động, sai với 'ingredients' là tân ngữ.",
+              "B": "'to use' chỉ mục đích, không hợp.",
+              "D": "Động từ chia, không đứng sau mệnh đề đã có động từ chính."
+            },
+            "translation_vi": "Thực đơn được chuẩn bị mỗi sáng bằng nguyên liệu trồng tại địa phương."
+          },
+          "tags": [
+            "g15_participles"
+          ]
+        },
+        {
+          "no": 10,
+          "type": "p6_sentence_insertion",
+          "difficulty": 4,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Customers must bring their own serving utensils."
+            },
+            {
+              "key": "B",
+              "text": "Vegetarian and gluten-free dishes are also available on request."
+            },
+            {
+              "key": "C",
+              "text": "Tasting sessions are offered only to individual customers."
+            },
+            {
+              "key": "D",
+              "text": "We are unable to deliver to the downtown area."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Đoạn đang liệt kê những gì đơn hàng có; câu về món chay/không gluten tiếp tục giới thiệu dịch vụ.",
+            "why_wrong": {
+              "A": "Mâu thuẫn: đơn hàng đã gồm dụng cụ phục vụ.",
+              "C": "Mâu thuẫn với câu sau: buổi nếm thử dành cho doanh nghiệp.",
+              "D": "Mâu thuẫn: công ty giao khắp khu trung tâm."
+            },
+            "translation_vi": "Món chay và món không gluten cũng có theo yêu cầu."
+          }
+        },
+        {
+          "no": 11,
+          "type": "p6_connector",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "In addition"
+            },
+            {
+              "key": "B",
+              "text": "However"
+            },
+            {
+              "key": "C",
+              "text": "As a result"
+            },
+            {
+              "key": "D",
+              "text": "For example"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Đoạn mới giới thiệu thêm một ưu đãi → 'In addition' (ngoài ra).",
+            "why_wrong": {
+              "B": "Không có ý đối lập.",
+              "C": "Buổi nếm thử không phải kết quả của đoạn trước.",
+              "D": "Không phải ví dụ minh họa."
+            },
+            "translation_vi": "Ngoài ra, chúng tôi tổ chức buổi nếm thử miễn phí cho doanh nghiệp đặt tiệc trên ba mươi khách."
+          },
+          "tags": [
+            "g19_transition_adverbs"
+          ]
+        },
+        {
+          "no": 12,
+          "type": "p6_vocabulary",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "admission"
+            },
+            {
+              "key": "B",
+              "text": "departure"
+            },
+            {
+              "key": "C",
+              "text": "retirement"
+            },
+            {
+              "key": "D",
+              "text": "delivery"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Thay đổi số khách được tới một ngày trước khi giao hàng (delivery).",
+            "why_wrong": {
+              "A": "'admission' là sự nhận vào/vé vào cửa.",
+              "B": "'departure' là sự khởi hành.",
+              "C": "'retirement' là sự nghỉ hưu."
+            },
+            "translation_vi": "Số lượng khách có thể thay đổi tới một ngày trước khi giao."
+          },
+          "tags": [
+            "v20_restaurants"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "part": 6,
+      "passages": [
+        {
+          "type": "article",
+          "title": "Northbridge Logistics opens second warehouse",
+          "text": "Northbridge Logistics has opened a second warehouse near the Port of Halden, the company announced on Monday. The new facility, {{13}} covers 40,000 square meters, will store goods for clients in the shipping and retail sectors. Until now, all of Northbridge's storage operations were based at its original site in Tarsby. {{14}}\n\nCompany president Ines Varga said the location was chosen because of its direct access to the port's container terminal. \"Ships now unload right next to our doors,\" she said. \"{{15}}, goods can move from ship to shelf in a single day.\" The warehouse is expected to create about 120 new {{16}} over the next two years.",
+          "vi": "Northbridge Logistics mở kho thứ hai gần cảng Halden, công ty thông báo hôm thứ Hai. Cơ sở mới rộng 40.000 mét vuông sẽ lưu hàng cho khách trong ngành vận tải biển và bán lẻ. Trước nay mọi hoạt động lưu kho đều ở cơ sở gốc tại Tarsby, nơi đã kín công suất từ năm ngoái. Chủ tịch Ines Varga cho biết địa điểm được chọn vì nối thẳng với bến container của cảng. \"Tàu giờ dỡ hàng ngay trước cửa nhà chúng tôi,\" bà nói. \"Nhờ vậy, hàng có thể đi từ tàu lên kệ trong một ngày.\" Kho mới dự kiến tạo khoảng 120 việc làm trong hai năm tới."
+        }
+      ],
+      "questions": [
+        {
+          "no": 13,
+          "type": "p6_grammar",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "what"
+            },
+            {
+              "key": "B",
+              "text": "who"
+            },
+            {
+              "key": "C",
+              "text": "where"
+            },
+            {
+              "key": "D",
+              "text": "which"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Mệnh đề quan hệ không xác định bổ nghĩa cho vật 'facility' và làm chủ ngữ của 'covers' → 'which'.",
+            "why_wrong": {
+              "A": "'what' không dùng làm đại từ quan hệ sau danh từ.",
+              "B": "'who' chỉ người.",
+              "C": "'where' cần mệnh đề có chủ ngữ riêng."
+            },
+            "translation_vi": "Cơ sở mới, rộng 40.000 mét vuông, sẽ lưu hàng cho khách."
+          },
+          "tags": [
+            "g13_relative_clauses"
+          ]
+        },
+        {
+          "no": 14,
+          "type": "p6_sentence_insertion",
+          "difficulty": 4,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The company plans to close the Halden facility next year."
+            },
+            {
+              "key": "B",
+              "text": "Ms. Varga joined the company as president in 2015."
+            },
+            {
+              "key": "C",
+              "text": "That site had reached full capacity last year."
+            },
+            {
+              "key": "D",
+              "text": "Tarsby is home to the region's largest container terminal."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Câu trước nói mọi hoạt động lưu kho ở Tarsby; 'That site' (cơ sở đó) đã đầy công suất giải thích vì sao mở kho thứ hai.",
+            "why_wrong": {
+              "A": "Mâu thuẫn: cơ sở Halden vừa mới mở.",
+              "B": "Bà Varga chưa được giới thiệu (được giới thiệu ở đoạn sau) nên 'Ms. Varga' không thể xuất hiện trước.",
+              "D": "Mâu thuẫn: lý do chọn Halden là để gần cảng container."
+            },
+            "translation_vi": "Cơ sở đó đã kín công suất từ năm ngoái."
+          }
+        },
+        {
+          "no": 15,
+          "type": "p6_connector",
+          "difficulty": 3,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Nevertheless"
+            },
+            {
+              "key": "B",
+              "text": "As a result"
+            },
+            {
+              "key": "C",
+              "text": "For instance"
+            },
+            {
+              "key": "D",
+              "text": "Otherwise"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Tàu dỡ hàng ngay trước cửa (nguyên nhân) → hàng lên kệ trong một ngày (kết quả): 'As a result'.",
+            "why_wrong": {
+              "A": "Không có ý nhượng bộ/đối lập.",
+              "C": "Không phải ví dụ.",
+              "D": "'Otherwise' (nếu không thì) sai logic."
+            },
+            "translation_vi": "Nhờ vậy, hàng có thể đi từ tàu lên kệ trong một ngày."
+          },
+          "tags": [
+            "g19_transition_adverbs"
+          ]
+        },
+        {
+          "no": 16,
+          "type": "p6_vocabulary",
+          "difficulty": 3,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "positions"
+            },
+            {
+              "key": "B",
+              "text": "seats"
+            },
+            {
+              "key": "C",
+              "text": "stations"
+            },
+            {
+              "key": "D",
+              "text": "chairs"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'create new positions' = tạo vị trí việc làm mới.",
+            "why_wrong": {
+              "B": "'seats' là chỗ ngồi.",
+              "C": "'stations' là trạm/vị trí máy, không chỉ việc làm.",
+              "D": "'chairs' là ghế."
+            },
+            "translation_vi": "Kho mới dự kiến tạo khoảng 120 vị trí việc làm trong hai năm tới."
+          },
+          "tags": [
+            "v04_hiring"
+          ]
+        }
+      ]
+    }
+  ]
+}

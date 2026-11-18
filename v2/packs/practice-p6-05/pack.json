@@ -1,0 +1,655 @@
+{
+  "id": "practice-p6-05",
+  "kind": "practice",
+  "title": "Luyện Part 6 – Bộ 05",
+  "level": "medium",
+  "version": 1,
+  "meta": {
+    "author": "claude",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "ai_check": {
+      "date": "2026-11-17",
+      "fixed": 0
+    }
+  },
+  "groups": [
+    {
+      "id": "g01",
+      "part": 6,
+      "passages": [
+        {
+          "type": "notice",
+          "title": "Cafeteria hours",
+          "text": "STAFF CAFETERIA – NEW HOURS\n\nFrom Monday, June 2, the staff cafeteria will open at 7:30 A.M. instead of 8:00 A.M. so that employees on the early shift can have breakfast before work. {{1}} Lunch will continue to be served from 11:30 A.M. to 2:00 P.M.\n\n{{2}}, the cafeteria will now close at 4:00 P.M. rather than 5:00 P.M., since very few people use it in the late afternoon. Hot drinks and light snacks will still be {{3}} from the vending machines on each floor. Comments about the new schedule can be left in the {{4}} box near the cashier.",
+          "vi": "Căng tin nhân viên – giờ mới. Từ thứ Hai 2/6, căng tin mở cửa lúc 7:30 thay vì 8:00 để nhân viên ca sớm ăn sáng trước giờ làm. Một số món sáng nóng phục vụ tới 10 giờ. Bữa trưa vẫn phục vụ từ 11:30 tới 2:00 chiều. Mặt khác, căng tin sẽ đóng cửa lúc 4 giờ chiều thay vì 5 giờ, vì rất ít người dùng vào cuối buổi chiều. Đồ uống nóng và đồ ăn nhẹ vẫn có ở máy bán hàng mỗi tầng. Ý kiến về giờ mới có thể bỏ vào hộp góp ý cạnh quầy thu ngân."
+        }
+      ],
+      "questions": [
+        {
+          "no": 1,
+          "type": "p6_sentence_insertion",
+          "difficulty": 3,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "A selection of hot breakfast items will be offered until 10:00 A.M."
+            },
+            {
+              "key": "B",
+              "text": "Breakfast will no longer be served in the cafeteria."
+            },
+            {
+              "key": "C",
+              "text": "The early shift has been canceled for the summer."
+            },
+            {
+              "key": "D",
+              "text": "The cafeteria will remain closed until noon."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Vừa nói mở cửa sớm để ăn sáng → câu nói về món sáng phục vụ tới 10 giờ tiếp nối hợp lý.",
+            "why_wrong": {
+              "B": "Mâu thuẫn: mở sớm chính là để phục vụ bữa sáng.",
+              "C": "Mâu thuẫn: thay đổi được làm vì ca sớm.",
+              "D": "Mâu thuẫn: căng tin mở lúc 7:30."
+            },
+            "translation_vi": "Một số món sáng nóng sẽ được phục vụ tới 10 giờ."
+          }
+        },
+        {
+          "no": 2,
+          "type": "p6_connector",
+          "difficulty": 3,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "For example"
+            },
+            {
+              "key": "B",
+              "text": "As a result"
+            },
+            {
+              "key": "C",
+              "text": "On the other hand"
+            },
+            {
+              "key": "D",
+              "text": "In addition"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Đoạn trước nói mở sớm hơn; đoạn này nói đóng sớm hơn — hai thay đổi trái chiều → 'On the other hand'.",
+            "why_wrong": {
+              "A": "Không phải ví dụ.",
+              "B": "Đóng cửa sớm không phải hệ quả của việc mở sớm.",
+              "D": "'In addition' bỏ qua sự trái chiều giữa hai thay đổi."
+            },
+            "translation_vi": "Mặt khác, căng tin sẽ đóng cửa lúc 4 giờ chiều thay vì 5 giờ."
+          },
+          "tags": [
+            "g19_transition_adverbs"
+          ]
+        },
+        {
+          "no": 3,
+          "type": "p6_vocabulary",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "possible"
+            },
+            {
+              "key": "B",
+              "text": "capable"
+            },
+            {
+              "key": "C",
+              "text": "suitable"
+            },
+            {
+              "key": "D",
+              "text": "available"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "'will still be available from the vending machines' = vẫn có sẵn ở máy bán hàng.",
+            "why_wrong": {
+              "A": "'possible' không dùng cho đồ vật có sẵn.",
+              "B": "'capable' đi với 'of' và chỉ năng lực.",
+              "C": "'suitable' (phù hợp) sai nghĩa."
+            },
+            "translation_vi": "Đồ uống nóng và đồ ăn nhẹ vẫn có sẵn ở máy bán hàng mỗi tầng."
+          },
+          "tags": [
+            "v20_restaurants"
+          ]
+        },
+        {
+          "no": 4,
+          "type": "p6_vocabulary",
+          "difficulty": 3,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "proposal"
+            },
+            {
+              "key": "B",
+              "text": "suggestion"
+            },
+            {
+              "key": "C",
+              "text": "request"
+            },
+            {
+              "key": "D",
+              "text": "complaint"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'suggestion box' = hộp góp ý, cụm cố định.",
+            "why_wrong": {
+              "A": "'proposal box' không phải cụm dùng.",
+              "C": "'request box' không phải cụm dùng.",
+              "D": "'complaint box' chỉ dành cho khiếu nại, hẹp hơn 'comments'."
+            },
+            "translation_vi": "Ý kiến về giờ mới có thể bỏ vào hộp góp ý cạnh quầy thu ngân."
+          },
+          "tags": [
+            "v03_office"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "part": 6,
+      "passages": [
+        {
+          "type": "email",
+          "title": "Project update",
+          "text": "To: Mira Castellanos\nFrom: Jonah Price\nSubject: Website redesign – update\n\nHi Mira,\n\nI wanted to give you a quick update on the website redesign. The design team finished the new home page last Friday, and the client approved it {{5}} any changes. {{6}}\n\nThe product pages, however, will be about a week late. The photographer who was supposed to deliver the images on Monday {{7}} ill and has not been able to complete the shoot. {{8}}, I have asked the team to start on the contact and about pages so that no time is wasted.\n\nBest,\nJonah",
+          "vi": "Jonah gửi Mira cập nhật về dự án thiết kế lại website. Nhóm thiết kế đã hoàn thành trang chủ mới hôm thứ Sáu và khách hàng duyệt mà không yêu cầu sửa gì, nên phần đó đúng tiến độ. Tuy nhiên, các trang sản phẩm sẽ trễ khoảng một tuần. Nhiếp ảnh gia lẽ ra giao ảnh hôm thứ Hai đã bị ốm và chưa thể hoàn thành buổi chụp. Trong lúc đó, tôi đã bảo nhóm bắt đầu làm trang liên hệ và trang giới thiệu để không lãng phí thời gian."
+        }
+      ],
+      "questions": [
+        {
+          "no": 5,
+          "type": "p6_grammar",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "without"
+            },
+            {
+              "key": "B",
+              "text": "except"
+            },
+            {
+              "key": "C",
+              "text": "unless"
+            },
+            {
+              "key": "D",
+              "text": "beyond"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'approved it without any changes' = duyệt mà không cần sửa gì.",
+            "why_wrong": {
+              "B": "'except any changes' sai nghĩa và sai cấu trúc.",
+              "C": "'unless' là liên từ, cần mệnh đề.",
+              "D": "'beyond any changes' không có nghĩa."
+            },
+            "translation_vi": "Khách hàng đã duyệt mà không yêu cầu sửa gì."
+          },
+          "tags": [
+            "g09_prepositions_phrases"
+          ]
+        },
+        {
+          "no": 6,
+          "type": "p6_sentence_insertion",
+          "difficulty": 4,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The client has asked us to start the home page again."
+            },
+            {
+              "key": "B",
+              "text": "The photographer delivered all the images on Monday."
+            },
+            {
+              "key": "C",
+              "text": "The whole project will be finished a week early."
+            },
+            {
+              "key": "D",
+              "text": "That part of the project is therefore on schedule."
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Trang chủ xong và được duyệt → phần đó đúng tiến độ; câu sau mở đầu bằng 'however' để nói phần bị trễ.",
+            "why_wrong": {
+              "A": "Mâu thuẫn: khách đã duyệt không sửa.",
+              "B": "Mâu thuẫn: nhiếp ảnh gia chưa hoàn thành.",
+              "C": "Mâu thuẫn: trang sản phẩm bị trễ một tuần."
+            },
+            "translation_vi": "Vì vậy phần đó của dự án đang đúng tiến độ."
+          }
+        },
+        {
+          "no": 7,
+          "type": "p6_grammar",
+          "difficulty": 3,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "is being"
+            },
+            {
+              "key": "B",
+              "text": "had"
+            },
+            {
+              "key": "C",
+              "text": "has been"
+            },
+            {
+              "key": "D",
+              "text": "will be"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Bị ốm từ trước đến nay và vẫn chưa xong việc ('has not been able') → hiện tại hoàn thành 'has been'.",
+            "why_wrong": {
+              "A": "'is being ill' không dùng (ill là trạng thái).",
+              "B": "'had ill' sai cấu trúc.",
+              "D": "Tương lai sai vì việc ốm đã xảy ra."
+            },
+            "translation_vi": "Nhiếp ảnh gia lẽ ra giao ảnh hôm thứ Hai đã bị ốm và chưa thể hoàn thành buổi chụp."
+          },
+          "tags": [
+            "g02_present_tenses"
+          ]
+        },
+        {
+          "no": 8,
+          "type": "p6_connector",
+          "difficulty": 3,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Likewise"
+            },
+            {
+              "key": "B",
+              "text": "In the meantime"
+            },
+            {
+              "key": "C",
+              "text": "Even so"
+            },
+            {
+              "key": "D",
+              "text": "In summary"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Trong lúc chờ ảnh, nhóm làm các trang khác → 'In the meantime'.",
+            "why_wrong": {
+              "A": "Không có sự tương tự.",
+              "C": "Không có ý nhượng bộ.",
+              "D": "Không phải câu tóm tắt."
+            },
+            "translation_vi": "Trong lúc đó, tôi đã bảo nhóm bắt đầu làm trang liên hệ và trang giới thiệu."
+          },
+          "tags": [
+            "g19_transition_adverbs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "part": 6,
+      "passages": [
+        {
+          "type": "article",
+          "title": "City expands bus network",
+          "text": "The city of Port Arden will add three new bus routes next spring, transportation officials announced on Tuesday. The routes will connect the northern suburbs with the hospital district, an area that currently has no direct public transport. {{9}}\n\nThe project will be paid for partly through a national grant. {{10}}, the city will purchase twelve electric buses, which are quieter and {{11}} to operate than diesel models. Officials expect the new routes to {{12}} about 4,000 riders a day within the first year.",
+          "vi": "Thành phố Port Arden sẽ mở thêm ba tuyến xe buýt vào mùa xuân tới, các quan chức giao thông thông báo hôm thứ Ba. Các tuyến nối vùng ngoại ô phía bắc với khu bệnh viện, nơi hiện chưa có phương tiện công cộng trực tiếp; người dân phải đổi xe hai lần để tới bệnh viện. Dự án được tài trợ một phần bằng ngân sách quốc gia. Với khoản tài trợ này, thành phố sẽ mua mười hai xe buýt điện, êm hơn và rẻ hơn khi vận hành so với xe diesel. Các quan chức kỳ vọng tuyến mới thu hút khoảng 4.000 lượt khách mỗi ngày trong năm đầu."
+        }
+      ],
+      "questions": [
+        {
+          "no": 9,
+          "type": "p6_sentence_insertion",
+          "difficulty": 4,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The hospital district will be closed to all traffic next spring."
+            },
+            {
+              "key": "B",
+              "text": "Residents there must now change buses twice to reach the hospital."
+            },
+            {
+              "key": "C",
+              "text": "The northern suburbs already have three direct routes to the hospital."
+            },
+            {
+              "key": "D",
+              "text": "Officials canceled the plan on Tuesday."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Câu trước nói khu này chưa có tuyến trực tiếp → câu nêu hệ quả hiện tại (phải đổi xe hai lần) minh họa vấn đề.",
+            "why_wrong": {
+              "A": "Mâu thuẫn: tuyến mới sẽ chạy vào khu bệnh viện.",
+              "C": "Mâu thuẫn: hiện không có tuyến trực tiếp.",
+              "D": "Mâu thuẫn: thông báo mở tuyến mới."
+            },
+            "translation_vi": "Người dân ở đó hiện phải đổi xe hai lần để tới bệnh viện."
+          }
+        },
+        {
+          "no": 10,
+          "type": "p6_connector",
+          "difficulty": 3,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Instead"
+            },
+            {
+              "key": "B",
+              "text": "On the contrary"
+            },
+            {
+              "key": "C",
+              "text": "Nevertheless"
+            },
+            {
+              "key": "D",
+              "text": "With this funding"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Nhờ khoản tài trợ vừa nhắc, thành phố sẽ mua xe điện → 'With this funding'.",
+            "why_wrong": {
+              "A": "Không thay thế điều gì.",
+              "B": "Không có ý phản bác.",
+              "C": "Không có ý nhượng bộ."
+            },
+            "translation_vi": "Với khoản tài trợ này, thành phố sẽ mua mười hai xe buýt điện."
+          },
+          "tags": [
+            "g19_transition_adverbs"
+          ]
+        },
+        {
+          "no": 11,
+          "type": "p6_grammar",
+          "difficulty": 3,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "cheaper"
+            },
+            {
+              "key": "B",
+              "text": "cheap"
+            },
+            {
+              "key": "C",
+              "text": "cheaply"
+            },
+            {
+              "key": "D",
+              "text": "cheapest"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Có 'than diesel models' → so sánh hơn 'cheaper', song song với 'quieter'.",
+            "why_wrong": {
+              "B": "Dạng nguyên không đi với 'than'.",
+              "C": "Trạng từ không đứng sau 'are ... and'.",
+              "D": "So sánh nhất không đi với 'than'."
+            },
+            "translation_vi": "...xe êm hơn và rẻ hơn khi vận hành so với xe diesel."
+          },
+          "tags": [
+            "g14_comparison"
+          ]
+        },
+        {
+          "no": 12,
+          "type": "p6_vocabulary",
+          "difficulty": 3,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "approach"
+            },
+            {
+              "key": "B",
+              "text": "admit"
+            },
+            {
+              "key": "C",
+              "text": "attract"
+            },
+            {
+              "key": "D",
+              "text": "appeal"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'attract riders' = thu hút hành khách.",
+            "why_wrong": {
+              "A": "'approach riders' là tiếp cận, sai nghĩa.",
+              "B": "'admit riders' là cho vào, sai nghĩa.",
+              "D": "'appeal' cần 'to' (appeal to riders)."
+            },
+            "translation_vi": "Các quan chức kỳ vọng tuyến mới thu hút khoảng 4.000 lượt khách mỗi ngày."
+          },
+          "tags": [
+            "v17_travel"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "part": 6,
+      "passages": [
+        {
+          "type": "letter",
+          "title": "Membership renewal",
+          "text": "Dear Mr. Abara,\n\nYour annual membership with the Greenfield Business Library will {{13}} on November 30. As a member, you have had access to our private study rooms, online databases, and monthly networking breakfasts. {{14}}\n\nTo continue enjoying these benefits, simply renew online before the end of the month. Members who renew early will receive a ten percent discount. {{15}}, you will be entered into a draw for a free one-year {{16}} to Market Weekly magazine.\n\nThank you for being part of our community.\n\nMembership Office",
+          "vi": "Kính gửi ông Abara. Hội viên năm của ông tại Thư viện Doanh nghiệp Greenfield sẽ hết hạn ngày 30/11. Là hội viên, ông được dùng phòng học riêng, cơ sở dữ liệu trực tuyến và bữa sáng giao lưu hằng tháng. Riêng năm ngoái, hội viên đã đặt hơn 2.000 giờ phòng học. Để tiếp tục hưởng các quyền lợi này, chỉ cần gia hạn trực tuyến trước cuối tháng. Hội viên gia hạn sớm được giảm mười phần trăm. Hơn nữa, ông sẽ được tham gia bốc thăm một năm đặt mua tạp chí Market Weekly miễn phí. Cảm ơn ông đã là một phần của cộng đồng chúng tôi."
+        }
+      ],
+      "questions": [
+        {
+          "no": 13,
+          "type": "p6_vocabulary",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "finish"
+            },
+            {
+              "key": "B",
+              "text": "complete"
+            },
+            {
+              "key": "C",
+              "text": "expire"
+            },
+            {
+              "key": "D",
+              "text": "conclude"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'membership will expire' = tư cách hội viên sẽ hết hạn.",
+            "why_wrong": {
+              "A": "'finish' không dùng cho hạn hội viên.",
+              "B": "'complete' cần tân ngữ hoặc nghĩa hoàn thành công việc.",
+              "D": "'conclude' dùng cho sự kiện/cuộc họp."
+            },
+            "translation_vi": "Hội viên năm của ông sẽ hết hạn vào ngày 30/11."
+          },
+          "tags": [
+            "v01_contracts"
+          ]
+        },
+        {
+          "no": 14,
+          "type": "p6_sentence_insertion",
+          "difficulty": 3,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Members are not allowed to use the online databases."
+            },
+            {
+              "key": "B",
+              "text": "The networking breakfasts were canceled last year."
+            },
+            {
+              "key": "C",
+              "text": "The library will close permanently on November 30."
+            },
+            {
+              "key": "D",
+              "text": "Last year alone, members booked more than 2,000 hours in our study rooms."
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Câu trước liệt kê quyền lợi; câu số liệu về giờ đặt phòng học minh họa giá trị quyền lợi, trước lời mời gia hạn.",
+            "why_wrong": {
+              "A": "Mâu thuẫn: hội viên được dùng cơ sở dữ liệu.",
+              "B": "Mâu thuẫn: bữa sáng giao lưu diễn ra hằng tháng.",
+              "C": "Mâu thuẫn: thư mời gia hạn để tiếp tục sử dụng."
+            },
+            "translation_vi": "Riêng năm ngoái, hội viên đã đặt hơn 2.000 giờ phòng học."
+          }
+        },
+        {
+          "no": 15,
+          "type": "p6_connector",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Furthermore"
+            },
+            {
+              "key": "B",
+              "text": "Otherwise"
+            },
+            {
+              "key": "C",
+              "text": "Similarly"
+            },
+            {
+              "key": "D",
+              "text": "Instead"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Thêm một ưu đãi nữa cho người gia hạn sớm → 'Furthermore'.",
+            "why_wrong": {
+              "B": "'Otherwise' (nếu không) sai logic.",
+              "C": "Bốc thăm không giống giảm giá.",
+              "D": "Không thay thế ưu đãi giảm giá."
+            },
+            "translation_vi": "Hơn nữa, ông sẽ được tham gia bốc thăm một năm đặt báo miễn phí."
+          },
+          "tags": [
+            "g19_transition_adverbs"
+          ]
+        },
+        {
+          "no": 16,
+          "type": "p6_vocabulary",
+          "difficulty": 3,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "registration"
+            },
+            {
+              "key": "B",
+              "text": "subscription"
+            },
+            {
+              "key": "C",
+              "text": "membership"
+            },
+            {
+              "key": "D",
+              "text": "enrollment"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'a subscription to a magazine' = đặt mua dài hạn tạp chí.",
+            "why_wrong": {
+              "A": "'registration to' không dùng với tạp chí.",
+              "C": "'membership to a magazine' không phải cách nói; tạp chí dùng 'subscription'.",
+              "D": "'enrollment' dùng cho khóa học."
+            },
+            "translation_vi": "...bốc thăm một năm đặt mua tạp chí Market Weekly miễn phí."
+          },
+          "tags": [
+            "v25_media_entertainment"
+          ]
+        }
+      ]
+    }
+  ]
+}

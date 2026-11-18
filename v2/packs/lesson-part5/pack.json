@@ -1,0 +1,66 @@
+{
+  "id": "lesson-part5",
+  "kind": "lesson",
+  "title": "Chiến thuật Part 5 – Incomplete Sentences",
+  "topic": "part5",
+  "parts": [
+    5
+  ],
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "Bài chiến thuật Part 5, thông số theo README mục 4-5.",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 0
+    }
+  },
+  "sections": [
+    {
+      "heading": "Part này thi gì",
+      "body": "Part 5 có **30 câu** điền khuyết, khoảng **12 phút**. Mỗi câu dài 12–25 từ, có một chỗ trống `____` và 4 đáp án A–D. Tỉ lệ khoảng **60% ngữ pháp, 40% từ vựng**. Đây là phần dễ tăng điểm nhanh nhất trong Reading."
+    },
+    {
+      "heading": "Các dạng câu hỏi",
+      "body": "- Từ loại\n- Thì, thể bị động\n- Hòa hợp chủ ngữ – động từ\n- Đại từ\n- Giới từ\n- Liên từ\n- Mệnh đề quan hệ\n- So sánh\n- Phân từ V-ing / V-ed\n- Danh động từ / to V\n- Lượng từ, hạn định từ\n- Từ vựng, collocation"
+    },
+    {
+      "heading": "Chiến thuật làm bài",
+      "body": "1. Nhìn **từ đứng ngay trước và sau** chỗ trống.\n2. Xác định loại từ cần điền (danh, động, tính, trạng).\n3. Nếu là động từ: kiểm tra thì, hòa hợp số ít/số nhiều, chủ động/bị động.\n4. Nếu là giới từ/liên từ: nhớ cụm cố định và quan hệ nghĩa giữa hai vế.\n5. Loại đáp án sai hình thức trước, rồi mới cân nhắc nghĩa.\n6. Câu khó đánh dấu, quay lại sau khi làm hết câu dễ."
+    },
+    {
+      "heading": "Bẫy thường gặp",
+      "body": "- **Cùng gốc từ**: `economic` / `economical`, `considerable` / `considerate`.\n- **Giới từ cố định**: `compatible with`, `responsible for`, `depend on`.\n- **Collocation**: chỉ một từ tạo cụm đúng (vd. `commitment to`, `for your records`).\n- **Hai đáp án gần nghĩa**: phải dựa vào ngữ cảnh hoặc giới từ đi kèm.\n- Câu từ vựng có 4 đáp án cùng từ loại, cùng lĩnh vực, nghĩa gần nhau — đọc kỹ cả câu."
+    },
+    {
+      "heading": "Phân bổ thời gian",
+      "body": "30 câu trong khoảng **12 phút**, trung bình **24 giây/câu**. Câu dễ nên xong trong 15–20 giây để dành 2–3 phút cho câu khó. Không dành quá 40 giây cho một câu."
+    }
+  ],
+  "examples": [
+    {
+      "en": "The manager asked for a ____ explanation. (brief / briefly / briefness)",
+      "vi": "Người quản lý yêu cầu một lời giải thích ngắn gọn.",
+      "note": "Bẫy từ loại: trước danh từ 'explanation' phải là tính từ 'brief'."
+    },
+    {
+      "en": "The new software is compatible ____ most systems.",
+      "vi": "Phần mềm mới tương thích với hầu hết hệ thống.",
+      "note": "Bẫy giới từ cố định: 'compatible with'."
+    },
+    {
+      "en": "Please keep a copy for your ____. (notes / documents / records)",
+      "vi": "Vui lòng giữ một bản để lưu hồ sơ.",
+      "note": "Bẫy collocation: chỉ 'for your records' là cụm cố định."
+    },
+    {
+      "en": "The company ____ this supplier since 2019.",
+      "vi": "Công ty đã dùng nhà cung cấp này từ năm 2019.",
+      "note": "Bẫy thì: 'since' yêu cầu hiện tại hoàn thành."
+    }
+  ],
+  "practice_pack": null
+}

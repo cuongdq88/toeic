@@ -1,0 +1,1175 @@
+{
+  "id": "practice-p4-graphic-01",
+  "kind": "practice",
+  "title": "Luyện Part 4 – Câu hỏi kèm bảng 01",
+  "level": "medium",
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "7 bài nói viết tay, mỗi bài 3 câu; đủ 4 giọng; mỗi câu graphic phải ghép audio với bảng 4 dòng.",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 0
+    }
+  },
+  "groups": [
+    {
+      "id": "g01",
+      "part": 4,
+      "audio": "audio/g01.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 1 through 3 refer to the following announcement and graphic.",
+          "vi": "Câu 1 đến 3 dựa vào thông báo và bảng sau."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "Good morning, and welcome to the hotel. Our two breakfast rooms will have new opening times next week. The dining room that faces the harbour will open earlier than the one overlooking the garden, so guests catching early flights can eat first. Both rooms serve the same menu, and hot food stays available until nine. Coffee and tea are served from opening until the doors close. If you have a dietary request, please speak to the chef when you arrive. The reception team will place a sign by each lift with the new hours. Kindly do not take plates or cups out of the dining area.",
+          "vi": "Chào buổi sáng và chào mừng đến khách sạn. Hai phòng ăn sáng sẽ có giờ mở mới vào tuần sau. Phòng ăn nhìn ra bến cảng sẽ mở sớm hơn phòng nhìn ra vườn, để khách bay sớm có thể ăn trước. Cả hai phòng dùng chung thực đơn, đồ ăn nóng có đến chín giờ. Cà phê và trà được phục vụ từ lúc mở đến khi đóng cửa. Nếu có yêu cầu ăn kiêng, hãy trao đổi với đầu bếp khi đến. Lễ tân sẽ đặt biển giờ mới cạnh mỗi thang máy. Vui lòng không mang đĩa hoặc cốc ra khỏi khu ăn."
+        }
+      ],
+      "graphic": {
+        "kind": "table",
+        "title": "Hotel breakfast rooms",
+        "columns": [
+          "Room",
+          "Opens",
+          "Closes",
+          "View"
+        ],
+        "rows": [
+          [
+            "Harbor Room",
+            "6:30",
+            "9:30",
+            "Harbour"
+          ],
+          [
+            "Terrace Room",
+            "7:00",
+            "10:30",
+            "Garden"
+          ],
+          [
+            "Sky Room",
+            "8:00",
+            "11:00",
+            "City"
+          ],
+          [
+            "Court Room",
+            "6:00",
+            "9:00",
+            "Courtyard"
+          ]
+        ]
+      },
+      "questions": [
+        {
+          "no": 1,
+          "type": "p4_purpose_topic",
+          "difficulty": 2,
+          "stem": "What is the purpose of the talk?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To advertise a new restaurant"
+            },
+            {
+              "key": "B",
+              "text": "To announce a room price increase"
+            },
+            {
+              "key": "C",
+              "text": "To explain breakfast arrangements"
+            },
+            {
+              "key": "D",
+              "text": "To hire kitchen staff"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Người nói giải thích giờ mở mới và quy định ở hai phòng ăn sáng.",
+            "why_wrong": {
+              "A": "Không quảng cáo nhà hàng mới.",
+              "B": "Không công bố tăng giá phòng.",
+              "D": "Không tuyển đầu bếp."
+            },
+            "translation_vi": "Mục đích là giải thích cách phục vụ bữa sáng."
+          }
+        },
+        {
+          "no": 2,
+          "type": "p4_detail",
+          "difficulty": 2,
+          "stem": "Why will the harbour-facing room open earlier?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It serves guests with early flights"
+            },
+            {
+              "key": "B",
+              "text": "It has a better view"
+            },
+            {
+              "key": "C",
+              "text": "It has a larger kitchen"
+            },
+            {
+              "key": "D",
+              "text": "It is being renovated"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Người nói cho biết phòng nhìn ra bến cảng mở sớm để khách bay sớm ăn trước.",
+            "why_wrong": {
+              "B": "Không nói view đẹp hơn.",
+              "C": "Không so bếp lớn hơn.",
+              "D": "Không nói đang sửa."
+            },
+            "translation_vi": "Vì nó phục vụ khách có chuyến bay sớm."
+          }
+        },
+        {
+          "no": 3,
+          "type": "p4_graphic",
+          "difficulty": 4,
+          "stem": "Look at the graphic. What time does the room the speaker mentions close?",
+          "options": [
+            {
+              "key": "A",
+              "text": "10:30"
+            },
+            {
+              "key": "B",
+              "text": "9:30"
+            },
+            {
+              "key": "C",
+              "text": "11:00"
+            },
+            {
+              "key": "D",
+              "text": "9:00"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Phòng nhìn ra bến cảng là Harbor Room, đóng lúc 9:30.",
+            "why_wrong": {
+              "A": "10:30 là Terrace Room.",
+              "C": "11:00 là Sky Room.",
+              "D": "9:00 là Court Room."
+            },
+            "translation_vi": "Phòng người nói nhắc đến đóng lúc 9:30."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "part": 4,
+      "audio": "audio/g02.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 4 through 6 refer to the following announcement and graphic.",
+          "vi": "Câu 4 đến 6 dựa vào thông báo và bảng sau."
+        },
+        {
+          "speaker": "W1",
+          "accent": "UK",
+          "text": "This is a message for passengers using the hotel airport shuttle. The service that leaves before six thirty and calls only at the international terminal is the earliest of the day. If you are flying domestic, please take one of the later services, which stop at the domestic hall. All shuttles leave from the side entrance, not the main lobby, and seats should be reserved at reception the evening before. The journey usually takes less than an hour, depending on traffic. Please keep your booking number ready when you board, and the driver will help with your luggage.",
+          "vi": "Đây là tin nhắn cho hành khách dùng xe đưa đón sân bay. Chuyến khởi hành trước sáu giờ ba mươi và chỉ dừng ở nhà ga quốc tế là chuyến sớm nhất trong ngày. Nếu bay nội địa, hãy dùng một chuyến muộn hơn dừng ở sảnh nội địa. Mọi xe rời từ cửa hông, không phải sảnh chính, và nên đặt chỗ ở lễ tân từ tối hôm trước. Hành trình thường dưới một giờ tùy giao thông. Hãy chuẩn bị mã đặt chỗ khi lên xe, tài xế sẽ giúp hành lý."
+        },
+        {
+          "speaker": "W1",
+          "accent": "UK",
+          "text": "Thank you for staying with us, and have a pleasant flight.",
+          "vi": "Cảm ơn đã lưu trú và chúc chuyến bay vui vẻ."
+        }
+      ],
+      "graphic": {
+        "kind": "table",
+        "title": "Airport shuttle services",
+        "columns": [
+          "Service",
+          "Departs",
+          "Travel time",
+          "Terminal"
+        ],
+        "rows": [
+          [
+            "Airport Express",
+            "6:10",
+            "25 min",
+            "International"
+          ],
+          [
+            "City Link",
+            "6:40",
+            "40 min",
+            "Domestic"
+          ],
+          [
+            "Downtown Flyer",
+            "7:20",
+            "30 min",
+            "International"
+          ],
+          [
+            "North Gate",
+            "7:50",
+            "45 min",
+            "Domestic"
+          ]
+        ]
+      },
+      "questions": [
+        {
+          "no": 4,
+          "type": "p4_purpose_topic",
+          "difficulty": 2,
+          "stem": "What is the purpose of the talk?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To advertise a new airline"
+            },
+            {
+              "key": "B",
+              "text": "To announce a road closure"
+            },
+            {
+              "key": "C",
+              "text": "To recruit shuttle drivers"
+            },
+            {
+              "key": "D",
+              "text": "To explain shuttle services to the airport"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Người nói giải thích giờ, điểm dừng và cách đặt chỗ của xe đưa đón sân bay.",
+            "why_wrong": {
+              "A": "Không quảng cáo hãng bay.",
+              "B": "Không báo đóng đường.",
+              "C": "Không tuyển tài xế."
+            },
+            "translation_vi": "Mục đích là giải thích dịch vụ xe đưa đón sân bay."
+          }
+        },
+        {
+          "no": 5,
+          "type": "p4_speaker_audience",
+          "difficulty": 2,
+          "stem": "Who most likely is the audience?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Airline pilots"
+            },
+            {
+              "key": "B",
+              "text": "Taxi drivers"
+            },
+            {
+              "key": "C",
+              "text": "Hotel guests"
+            },
+            {
+              "key": "D",
+              "text": "Hotel chefs"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Người nói hướng dẫn khách lưu trú cách dùng xe đưa đón sân bay.",
+            "why_wrong": {
+              "A": "Không phải phi công.",
+              "B": "Không phải tài xế taxi.",
+              "D": "Không phải đầu bếp."
+            },
+            "translation_vi": "Người nghe là khách lưu trú của khách sạn."
+          }
+        },
+        {
+          "no": 6,
+          "type": "p4_graphic",
+          "difficulty": 4,
+          "stem": "Look at the graphic. What is the travel time of the service the speaker mentions?",
+          "options": [
+            {
+              "key": "A",
+              "text": "25 min"
+            },
+            {
+              "key": "B",
+              "text": "40 min"
+            },
+            {
+              "key": "C",
+              "text": "30 min"
+            },
+            {
+              "key": "D",
+              "text": "45 min"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Chuyến sớm nhất và chỉ dừng nhà ga quốc tế là Airport Express, đi 25 phút.",
+            "why_wrong": {
+              "B": "40 min là City Link.",
+              "C": "30 min là Downtown Flyer.",
+              "D": "45 min là North Gate."
+            },
+            "translation_vi": "Thời gian di chuyển của chuyến đó là 25 phút."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "part": 4,
+      "audio": "audio/g03.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 7 through 9 refer to the following announcement and graphic.",
+          "vi": "Câu 7 đến 9 dựa vào thông báo và bảng sau."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "Welcome to the training centre. We have four meeting rooms available for your session. The largest room is the only one where everyone can sit facing the screen, so we have reserved it for your group. The smaller rooms are fine for workshops of up to twenty people, but they do not have the same audiovisual equipment. Please collect your welcome pack at the front desk before nine. Coffee will be served outside the rooms during the break, and a technician will be on hand if you need help with the screen.",
+          "vi": "Chào mừng đến trung tâm đào tạo. Chúng tôi có bốn phòng họp cho buổi của quý vị. Phòng lớn nhất là phòng duy nhất để mọi người ngồi quay về màn hình, nên chúng tôi đã giữ cho nhóm. Các phòng nhỏ hợp cho hội thảo đến hai mươi người, nhưng không có đầy đủ thiết bị nghe nhìn. Hãy nhận túi chào mừng ở lễ tân trước chín giờ. Cà phê được phục vụ ngoài phòng trong giờ nghỉ, kỹ thuật viên có mặt nếu cần hỗ trợ màn hình."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "Please leave each room tidy for the next group.",
+          "vi": "Hãy giữ phòng gọn gàng cho nhóm tiếp theo."
+        }
+      ],
+      "graphic": {
+        "kind": "table",
+        "title": "Training centre rooms",
+        "columns": [
+          "Room",
+          "Capacity",
+          "Daily rate",
+          "Equipment"
+        ],
+        "rows": [
+          [
+            "Maple",
+            "12",
+            "$200",
+            "Whiteboard"
+          ],
+          [
+            "Pine",
+            "24",
+            "$350",
+            "Projector"
+          ],
+          [
+            "Cedar",
+            "40",
+            "$500",
+            "Video screen"
+          ],
+          [
+            "Oak",
+            "60",
+            "$650",
+            "Video screen"
+          ]
+        ]
+      },
+      "questions": [
+        {
+          "no": 7,
+          "type": "p4_purpose_topic",
+          "difficulty": 2,
+          "stem": "What is the purpose of the talk?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To advertise office furniture"
+            },
+            {
+              "key": "B",
+              "text": "To describe the meeting rooms"
+            },
+            {
+              "key": "C",
+              "text": "To announce a price increase"
+            },
+            {
+              "key": "D",
+              "text": "To hire a technician"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Người nói giới thiệu các phòng họp và cách sử dụng trong buổi đào tạo.",
+            "why_wrong": {
+              "A": "Không quảng cáo nội thất.",
+              "C": "Không công bố tăng giá.",
+              "D": "Không tuyển kỹ thuật viên."
+            },
+            "translation_vi": "Mục đích là giới thiệu các phòng họp."
+          }
+        },
+        {
+          "no": 8,
+          "type": "p4_detail",
+          "difficulty": 3,
+          "stem": "Why was the largest room reserved for the group?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It has the only whiteboard"
+            },
+            {
+              "key": "B",
+              "text": "It is the cheapest room"
+            },
+            {
+              "key": "C",
+              "text": "It is closest to the café"
+            },
+            {
+              "key": "D",
+              "text": "It lets everyone face the screen"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Người nói cho biết phòng lớn nhất là nơi mọi người có thể ngồi quay về màn hình.",
+            "why_wrong": {
+              "A": "Bảng trắng ở phòng Maple.",
+              "B": "Phòng lớn nhất không rẻ nhất.",
+              "C": "Không nói gần quán cà phê."
+            },
+            "translation_vi": "Vì phòng lớn nhất cho mọi người hướng về màn hình."
+          }
+        },
+        {
+          "no": 9,
+          "type": "p4_graphic",
+          "difficulty": 4,
+          "stem": "Look at the graphic. What is the daily rate of the room the speaker mentions?",
+          "options": [
+            {
+              "key": "A",
+              "text": "$200"
+            },
+            {
+              "key": "B",
+              "text": "$650"
+            },
+            {
+              "key": "C",
+              "text": "$350"
+            },
+            {
+              "key": "D",
+              "text": "$500"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Phòng lớn nhất là Oak, giá $650 mỗi ngày.",
+            "why_wrong": {
+              "A": "$200 là Maple.",
+              "C": "$350 là Pine.",
+              "D": "$500 là Cedar."
+            },
+            "translation_vi": "Giá theo ngày của phòng lớn nhất là 650 đô."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "part": 4,
+      "audio": "audio/g04.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 10 through 12 refer to the following announcement and graphic.",
+          "vi": "Câu 10 đến 12 dựa vào thông báo và bảng sau."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "Good afternoon, and welcome to the conference. This morning there are two sessions. The workshop that includes a certificate will run in the second morning slot, so please go there right after the opening speech. The other morning session is a budgeting talk for new managers. In the afternoon, we have two more sessions, and the programme printed on your badge lists the rooms. Please arrive five minutes early, as the doors close once a session begins, and keep your badge visible at all times.",
+          "vi": "Chào buổi chiều và chào mừng đến hội nghị. Sáng nay có hai phiên. Buổi hội thảo có cấp chứng chỉ sẽ diễn ra ở khung giờ sáng thứ hai, nên hãy đến ngay sau bài phát biểu khai mạc. Phiên sáng còn lại là buổi nói về ngân sách cho quản lý mới. Buổi chiều có thêm hai phiên, chương trình in trên thẻ ghi phòng. Hãy đến sớm năm phút vì cửa đóng khi phiên bắt đầu, và luôn đeo thẻ để nhân viên nhìn thấy."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "The full afternoon schedule is posted beside the information desk in the main lobby.",
+          "vi": "Lịch buổi chiều đầy đủ được dán cạnh bàn thông tin ở sảnh chính."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "Thank you.",
+          "vi": "Xin cảm ơn."
+        }
+      ],
+      "graphic": {
+        "kind": "table",
+        "title": "Conference morning sessions",
+        "columns": [
+          "Session",
+          "Starts",
+          "Room",
+          "Certificate"
+        ],
+        "rows": [
+          [
+            "Budgeting Basics",
+            "9:00",
+            "Hall A",
+            "No"
+          ],
+          [
+            "Digital Ethics",
+            "11:00",
+            "Hall B",
+            "Yes"
+          ],
+          [
+            "Retention Workshop",
+            "14:00",
+            "Hall C",
+            "Yes"
+          ],
+          [
+            "Media Lab",
+            "16:00",
+            "Hall D",
+            "No"
+          ]
+        ]
+      },
+      "questions": [
+        {
+          "no": 10,
+          "type": "p4_purpose_topic",
+          "difficulty": 2,
+          "stem": "What is the purpose of the talk?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To cancel a workshop"
+            },
+            {
+              "key": "B",
+              "text": "To introduce a new manager"
+            },
+            {
+              "key": "C",
+              "text": "To describe the morning sessions"
+            },
+            {
+              "key": "D",
+              "text": "To sell conference tickets"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Người nói giới thiệu các phiên sáng và cách di chuyển đến phòng.",
+            "why_wrong": {
+              "A": "Không hủy hội thảo.",
+              "B": "Không giới thiệu quản lý mới.",
+              "D": "Không bán vé."
+            },
+            "translation_vi": "Mục đích là mô tả các phiên buổi sáng."
+          }
+        },
+        {
+          "no": 11,
+          "type": "p4_next_action",
+          "difficulty": 3,
+          "stem": "What are attendees advised to do before a session?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Stay in the hall"
+            },
+            {
+              "key": "B",
+              "text": "Print a new badge"
+            },
+            {
+              "key": "C",
+              "text": "Change rooms"
+            },
+            {
+              "key": "D",
+              "text": "Arrive five minutes early"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Người nói yêu cầu đến sớm năm phút vì cửa đóng khi phiên bắt đầu.",
+            "why_wrong": {
+              "A": "Không bảo ở lại sảnh.",
+              "B": "Không yêu cầu in thẻ mới.",
+              "C": "Không bảo đổi phòng."
+            },
+            "translation_vi": "Họ được khuyên đến sớm năm phút trước phiên."
+          }
+        },
+        {
+          "no": 12,
+          "type": "p4_graphic",
+          "difficulty": 4,
+          "stem": "Look at the graphic. Which room will the session the speaker mentions use?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Hall B"
+            },
+            {
+              "key": "B",
+              "text": "Hall A"
+            },
+            {
+              "key": "C",
+              "text": "Hall C"
+            },
+            {
+              "key": "D",
+              "text": "Hall D"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Buổi hội thảo có chứng chỉ ở khung giờ sáng thứ hai là Digital Ethics, tổ chức ở Hall B.",
+            "why_wrong": {
+              "B": "Hall A là Budgeting Basics.",
+              "C": "Hall C là Retention Workshop chiều.",
+              "D": "Hall D là Media Lab chiều."
+            },
+            "translation_vi": "Phiên được nhắc đến dùng Hall B."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "part": 4,
+      "audio": "audio/g05.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 13 through 15 refer to the following announcement and graphic.",
+          "vi": "Câu 13 đến 15 dựa vào thông báo và bảng sau."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "This is a message for the sales team about sending the proposal to our client. The client needs the documents before lunch, so please use the option that guarantees morning delivery. It costs a little more, but it includes full tracking and a signature on arrival. The standard service is cheaper but takes three days, which is too slow for this deadline. Put the sealed envelope at the front desk by two o'clock, and the courier will collect it at three. Make sure the client's name and address are written clearly on the label.",
+          "vi": "Đây là tin nhắn cho nhóm bán hàng về việc gửi đề xuất cho khách. Khách cần tài liệu trước bữa trưa nên hãy dùng phương án bảo đảm giao buổi sáng. Nó đắt hơn một chút nhưng có theo dõi đầy đủ và chữ ký khi nhận. Dịch vụ tiêu chuẩn rẻ hơn nhưng mất ba ngày, quá chậm so với hạn này. Hãy đặt phong bì niêm phong ở lễ tân trước hai giờ, bên chuyển phát sẽ lấy lúc ba giờ. Nhớ ghi rõ tên và địa chỉ khách lên nhãn."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "Please check that the envelope is sealed before you leave it.",
+          "vi": "Hãy kiểm tra phong bì đã được dán kín trước khi rời đi."
+        }
+      ],
+      "graphic": {
+        "kind": "table",
+        "title": "Courier service options",
+        "columns": [
+          "Service",
+          "Delivery",
+          "Price",
+          "Tracking"
+        ],
+        "rows": [
+          [
+            "Standard",
+            "3 days",
+            "$8",
+            "Basic"
+          ],
+          [
+            "Express",
+            "Next day",
+            "$14",
+            "Full"
+          ],
+          [
+            "Priority",
+            "Morning",
+            "$18",
+            "Full"
+          ],
+          [
+            "Economy",
+            "5 days",
+            "$5",
+            "None"
+          ]
+        ]
+      },
+      "questions": [
+        {
+          "no": 13,
+          "type": "p4_purpose_topic",
+          "difficulty": 2,
+          "stem": "What is the purpose of the talk?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To advertise the courier"
+            },
+            {
+              "key": "B",
+              "text": "To announce a new deadline"
+            },
+            {
+              "key": "C",
+              "text": "To explain how to send the proposal"
+            },
+            {
+              "key": "D",
+              "text": "To hire a delivery driver"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Người nói hướng dẫn nhóm bán hàng cách gửi đề xuất đúng hạn.",
+            "why_wrong": {
+              "A": "Không quảng cáo đơn vị chuyển phát.",
+              "B": "Không công bố hạn mới.",
+              "D": "Không tuyển tài xế."
+            },
+            "translation_vi": "Mục đích là giải thích cách gửi đề xuất."
+          }
+        },
+        {
+          "no": 14,
+          "type": "p4_request_suggestion",
+          "difficulty": 3,
+          "stem": "What should staff do by two o'clock?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Call the client"
+            },
+            {
+              "key": "B",
+              "text": "Print the tracking number"
+            },
+            {
+              "key": "C",
+              "text": "Change the delivery address"
+            },
+            {
+              "key": "D",
+              "text": "Put the envelope at the front desk"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Người nói yêu cầu đặt phong bì niêm phong ở lễ tân trước hai giờ.",
+            "why_wrong": {
+              "A": "Không yêu cầu gọi khách.",
+              "B": "Không yêu cầu in mã theo dõi.",
+              "C": "Không đổi địa chỉ."
+            },
+            "translation_vi": "Họ nên đặt phong bì ở lễ tân trước hai giờ."
+          }
+        },
+        {
+          "no": 15,
+          "type": "p4_graphic",
+          "difficulty": 4,
+          "stem": "Look at the graphic. What is the price of the service the speaker mentions?",
+          "options": [
+            {
+              "key": "A",
+              "text": "$18"
+            },
+            {
+              "key": "B",
+              "text": "$8"
+            },
+            {
+              "key": "C",
+              "text": "$14"
+            },
+            {
+              "key": "D",
+              "text": "$5"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Phương án bảo đảm giao buổi sáng là Priority, giá $18.",
+            "why_wrong": {
+              "B": "$8 là Standard.",
+              "C": "$14 là Express.",
+              "D": "$5 là Economy."
+            },
+            "translation_vi": "Giá dịch vụ giao buổi sáng là 18 đô."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g06",
+      "part": 4,
+      "audio": "audio/g06.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 16 through 18 refer to the following announcement and graphic.",
+          "vi": "Câu 16 đến 18 dựa vào thông báo và bảng sau."
+        },
+        {
+          "speaker": "W1",
+          "accent": "UK",
+          "text": "Welcome to the fitness centre. This week we offer four classes. The class held in the main studio and designed for beginners is the first one of the day, so it is perfect if you are new to the centre. The intermediate class takes place in studio two later in the morning, and the advanced circuit session is in the main studio in the evening. Please bring a towel and a water bottle, and check in at the desk ten minutes before your class starts. If you are not sure which level is right for you, ask an instructor before booking.",
+          "vi": "Chào mừng đến trung tâm thể hình. Tuần này chúng tôi có bốn lớp. Lớp ở phòng chính dành cho người mới là lớp đầu tiên trong ngày, rất hợp nếu bạn mới đến. Lớp trung cấp ở phòng hai vào cuối buổi sáng, còn buổi circuit nâng cao ở phòng chính vào buổi tối. Hãy mang khăn và chai nước, làm thủ tục ở quầy mười phút trước giờ học. Nếu không chắc mức phù hợp, hãy hỏi huấn luyện viên trước khi đặt."
+        }
+      ],
+      "graphic": {
+        "kind": "table",
+        "title": "Evening fitness classes",
+        "columns": [
+          "Class",
+          "Starts",
+          "Studio",
+          "Level"
+        ],
+        "rows": [
+          [
+            "Yoga",
+            "7:00",
+            "Main",
+            "Beginner"
+          ],
+          [
+            "Pilates",
+            "9:00",
+            "Studio 2",
+            "Intermediate"
+          ],
+          [
+            "Circuit",
+            "18:30",
+            "Main",
+            "Advanced"
+          ],
+          [
+            "Spinning",
+            "20:00",
+            "Studio 3",
+            "Beginner"
+          ]
+        ]
+      },
+      "questions": [
+        {
+          "no": 16,
+          "type": "p4_speaker_audience",
+          "difficulty": 2,
+          "stem": "Who most likely is the audience?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Professional athletes"
+            },
+            {
+              "key": "B",
+              "text": "Fitness centre members"
+            },
+            {
+              "key": "C",
+              "text": "Gym equipment suppliers"
+            },
+            {
+              "key": "D",
+              "text": "Health inspectors"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Người nói giới thiệu lớp học cho người đến tập tại trung tâm.",
+            "why_wrong": {
+              "A": "Không phải vận động viên chuyên nghiệp.",
+              "C": "Không phải nhà cung cấp dụng cụ.",
+              "D": "Không phải thanh tra y tế."
+            },
+            "translation_vi": "Người nghe là hội viên của trung tâm thể hình."
+          }
+        },
+        {
+          "no": 17,
+          "type": "p4_detail",
+          "difficulty": 3,
+          "stem": "What should members do before a class starts?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Ask an instructor to book"
+            },
+            {
+              "key": "B",
+              "text": "Bring a guest"
+            },
+            {
+              "key": "C",
+              "text": "Choose a new studio"
+            },
+            {
+              "key": "D",
+              "text": "Check in at the desk"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Người nói yêu cầu làm thủ tục ở quầy mười phút trước giờ học.",
+            "why_wrong": {
+              "A": "Chỉ hỏi khi không chắc mức.",
+              "B": "Không nhắc mang khách.",
+              "C": "Không đổi phòng tập."
+            },
+            "translation_vi": "Họ nên làm thủ tục ở quầy trước giờ học."
+          }
+        },
+        {
+          "no": 18,
+          "type": "p4_graphic",
+          "difficulty": 4,
+          "stem": "Look at the graphic. When does the class the speaker mentions start?",
+          "options": [
+            {
+              "key": "A",
+              "text": "7:00"
+            },
+            {
+              "key": "B",
+              "text": "9:00"
+            },
+            {
+              "key": "C",
+              "text": "18:30"
+            },
+            {
+              "key": "D",
+              "text": "20:00"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Lớp ở phòng chính dành cho người mới là Yoga, bắt đầu lúc 7:00.",
+            "why_wrong": {
+              "B": "9:00 là Pilates ở Studio 2.",
+              "C": "18:30 là Circuit nâng cao.",
+              "D": "20:00 là Spinning."
+            },
+            "translation_vi": "Lớp được nhắc đến bắt đầu lúc 7:00."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g07",
+      "part": 4,
+      "audio": "audio/g07.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 19 through 21 refer to the following announcement and graphic.",
+          "vi": "Câu 19 đến 21 dựa vào thông báo và bảng sau."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "This is a station announcement. The express that leaves after four in the afternoon will depart from a different platform than usual, so please check the sign above the stairs. Passengers for the airport should board the first two carriages. The earlier express and the local services are running on time. Please stand behind the yellow line and let passengers off before boarding. Tickets can be bought at the machine or from the conductor, and a small charge applies if you buy on board.",
+          "vi": "Đây là thông báo ở ga. Chuyến tàu nhanh khởi hành sau bốn giờ chiều sẽ đi từ sân ga khác thường lệ, nên hãy xem biển phía trên cầu thang. Hành khách đi sân bay nên lên hai toa đầu. Chuyến nhanh sớm hơn và các chuyến địa phương chạy đúng giờ. Hãy đứng sau vạch vàng và để khách xuống trước khi lên. Có thể mua vé ở máy hoặc từ nhân viên, mua trên tàu sẽ có phụ phí nhỏ."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "We apologize for the inconvenience caused by the platform change. Please listen for further updates.",
+          "vi": "Chúng tôi xin lỗi vì sự bất tiện do đổi sân ga. Hãy nghe thêm cập nhật."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "Thank you.",
+          "vi": "Xin cảm ơn."
+        }
+      ],
+      "graphic": {
+        "kind": "table",
+        "title": "Station train departures",
+        "columns": [
+          "Train",
+          "Departs",
+          "Arrives",
+          "Platform"
+        ],
+        "rows": [
+          [
+            "Morning Express",
+            "7:15",
+            "8:05",
+            "2"
+          ],
+          [
+            "Midday Local",
+            "11:30",
+            "12:40",
+            "4"
+          ],
+          [
+            "Afternoon Express",
+            "16:20",
+            "17:10",
+            "1"
+          ],
+          [
+            "Evening Local",
+            "18:45",
+            "19:55",
+            "3"
+          ]
+        ]
+      },
+      "questions": [
+        {
+          "no": 19,
+          "type": "p4_purpose_topic",
+          "difficulty": 2,
+          "stem": "What is the purpose of the announcement?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To sell train tickets"
+            },
+            {
+              "key": "B",
+              "text": "To give train departure information"
+            },
+            {
+              "key": "C",
+              "text": "To advertise the airport"
+            },
+            {
+              "key": "D",
+              "text": "To hire station staff"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Người nói thông báo giờ đi, sân ga và quy định lên tàu.",
+            "why_wrong": {
+              "A": "Không bán vé.",
+              "C": "Không quảng cáo sân bay.",
+              "D": "Không tuyển nhân viên."
+            },
+            "translation_vi": "Mục đích là cung cấp thông tin tàu khởi hành."
+          }
+        },
+        {
+          "no": 20,
+          "type": "p4_inference",
+          "difficulty": 3,
+          "stem": "Why should passengers check the sign above the stairs?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The train is canceled"
+            },
+            {
+              "key": "B",
+              "text": "Tickets are sold there"
+            },
+            {
+              "key": "C",
+              "text": "The platform has changed"
+            },
+            {
+              "key": "D",
+              "text": "The stairs are closed"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Chuyến tàu nhanh chiều đi từ sân ga khác, nên cần xem biển chỉ dẫn.",
+            "why_wrong": {
+              "A": "Tàu không bị hủy.",
+              "B": "Vé bán ở máy, không phải biển.",
+              "D": "Cầu thang không đóng."
+            },
+            "translation_vi": "Vì sân ga đã đổi."
+          }
+        },
+        {
+          "no": 21,
+          "type": "p4_graphic",
+          "difficulty": 4,
+          "stem": "Look at the graphic. Which platform does the service the speaker mentions leave from?",
+          "options": [
+            {
+              "key": "A",
+              "text": "2"
+            },
+            {
+              "key": "B",
+              "text": "4"
+            },
+            {
+              "key": "C",
+              "text": "1"
+            },
+            {
+              "key": "D",
+              "text": "3"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Chuyến nhanh sau bốn giờ chiều là Afternoon Express, đi từ sân ga 1.",
+            "why_wrong": {
+              "A": "2 là Morning Express.",
+              "B": "4 là Midday Local.",
+              "D": "3 là Evening Local."
+            },
+            "translation_vi": "Chuyến được nhắc đến đi từ sân ga 1."
+          }
+        }
+      ]
+    }
+  ]
+}

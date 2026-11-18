@@ -1,0 +1,232 @@
+{
+  "id": "vocab-v01-contracts",
+  "kind": "vocab",
+  "title": "Từ vựng V01 – Hợp đồng",
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "24 từ chủ đề hợp đồng, tự chọn theo tần suất công sở, tự soạn ví dụ.",
+    "ai_check": {"date": "2026-11-12", "fixed": 0}
+  },
+  "words": [
+    {
+      "id": "w0001", "word": "contract", "pos": "n", "ipa": "/ˈkɑːntrækt/",
+      "meaning_vi": "hợp đồng",
+      "definition_en": "a written legal agreement between two or more parties",
+      "examples": [{"en": "Both sides signed the contract after a week of talks.", "vi": "Hai bên đã ký hợp đồng sau một tuần đàm phán."}],
+      "collocations": ["sign a contract", "breach a contract", "renew a contract"],
+      "family": ["contractual (adj)", "contractor (n)"],
+      "topic": "v01_contracts", "level": 1
+    },
+    {
+      "id": "w0002", "word": "clause", "pos": "n", "ipa": "/klɔːz/",
+      "meaning_vi": "điều khoản",
+      "definition_en": "a separate part of a legal document that deals with one point",
+      "examples": [{"en": "The payment clause requires a deposit within ten days.", "vi": "Điều khoản thanh toán yêu cầu đặt cọc trong vòng mười ngày."}],
+      "collocations": ["include a clause", "a standard clause", "a penalty clause"],
+      "family": [],
+      "topic": "v01_contracts", "level": 2
+    },
+    {
+      "id": "w0003", "word": "breach", "pos": "n", "ipa": "/briːtʃ/",
+      "meaning_vi": "sự vi phạm",
+      "definition_en": "an act of breaking a law, rule, or agreement",
+      "examples": [{"en": "Late delivery of the goods was treated as a breach of contract.", "vi": "Việc giao hàng muộn bị coi là vi phạm hợp đồng."}],
+      "collocations": ["breach of contract", "a serious breach", "a security breach"],
+      "family": ["breach (v)"],
+      "topic": "v01_contracts", "level": 3
+    },
+    {
+      "id": "w0004", "word": "terminate", "pos": "v", "ipa": "/ˈtɜːrmɪneɪt/",
+      "meaning_vi": "chấm dứt",
+      "definition_en": "to bring an agreement or activity to an end",
+      "examples": [{"en": "The client may terminate the agreement with thirty days' notice.", "vi": "Khách hàng có thể chấm dứt thỏa thuận với thông báo trước ba mươi ngày."}],
+      "collocations": ["terminate a contract", "terminate employment"],
+      "family": ["termination (n)"],
+      "topic": "v01_contracts", "level": 2
+    },
+    {
+      "id": "w0005", "word": "renew", "pos": "v", "ipa": "/rɪˈnuː/",
+      "meaning_vi": "gia hạn",
+      "definition_en": "to arrange for an agreement to continue for a further period",
+      "examples": [{"en": "We need to renew the office lease before it runs out.", "vi": "Chúng ta cần gia hạn hợp đồng thuê văn phòng trước khi hết hạn."}],
+      "collocations": ["renew a lease", "renew a subscription", "renew a license"],
+      "family": ["renewal (n)"],
+      "topic": "v01_contracts", "level": 1
+    },
+    {
+      "id": "w0006", "word": "expire", "pos": "v", "ipa": "/ɪkˈspaɪər/",
+      "meaning_vi": "hết hạn",
+      "definition_en": "to reach the end of the period for which something is valid",
+      "examples": [{"en": "The warranty will expire at the end of December.", "vi": "Bảo hành sẽ hết hạn vào cuối tháng Mười Hai."}],
+      "collocations": ["the contract expires", "expire soon", "expire on a date"],
+      "family": ["expiration (n)"],
+      "topic": "v01_contracts", "level": 2
+    },
+    {
+      "id": "w0007", "word": "obligation", "pos": "n", "ipa": "/ˌɑːblɪˈɡeɪʃn/",
+      "meaning_vi": "nghĩa vụ",
+      "definition_en": "something that a person or company must do because of a rule or agreement",
+      "examples": [{"en": "The supplier has an obligation to replace faulty goods.", "vi": "Nhà cung cấp có nghĩa vụ thay thế hàng bị lỗi."}],
+      "collocations": ["meet an obligation", "a legal obligation", "under an obligation"],
+      "family": ["obligate (v)", "obligatory (adj)"],
+      "topic": "v01_contracts", "level": 3
+    },
+    {
+      "id": "w0008", "word": "liable", "pos": "adj", "ipa": "/ˈlaɪəbl/",
+      "meaning_vi": "có trách nhiệm pháp lý",
+      "definition_en": "legally responsible for paying for damage or loss",
+      "examples": [{"en": "The courier is liable for any goods damaged in transit.", "vi": "Đơn vị vận chuyển chịu trách nhiệm pháp lý với hàng hỏng trong quá trình vận chuyển."}],
+      "collocations": ["be liable for", "held liable", "personally liable"],
+      "family": ["liability (n)"],
+      "topic": "v01_contracts", "level": 4
+    },
+    {
+      "id": "w0009", "word": "comply", "pos": "v", "ipa": "/kəmˈplaɪ/",
+      "meaning_vi": "tuân thủ",
+      "definition_en": "to act in accordance with a rule, order, or request",
+      "examples": [{"en": "All branches must comply with the new safety rules.", "vi": "Mọi chi nhánh phải tuân thủ quy định an toàn mới."}],
+      "collocations": ["comply with regulations", "fully comply", "refuse to comply"],
+      "family": ["compliance (n)", "compliant (adj)"],
+      "topic": "v01_contracts", "level": 2
+    },
+    {
+      "id": "w0010", "word": "confidential", "pos": "adj", "ipa": "/ˌkɑːnfɪˈdenʃl/",
+      "meaning_vi": "bảo mật",
+      "definition_en": "meant to be kept secret and not shared with others",
+      "examples": [{"en": "Please keep the terms of this agreement confidential.", "vi": "Vui lòng giữ bí mật các điều khoản của thỏa thuận này."}],
+      "collocations": ["keep information confidential", "a confidential document", "strictly confidential"],
+      "family": ["confidentiality (n)"],
+      "topic": "v01_contracts", "level": 2
+    },
+    {
+      "id": "w0011", "word": "provision", "pos": "n", "ipa": "/prəˈvɪʒn/",
+      "meaning_vi": "điều khoản, quy định",
+      "definition_en": "a condition or arrangement included in a law or agreement",
+      "examples": [{"en": "The contract contains a provision for early payment.", "vi": "Hợp đồng có một điều khoản về thanh toán sớm."}],
+      "collocations": ["include a provision", "a contract provision", "a special provision"],
+      "family": ["provide (v)"],
+      "topic": "v01_contracts", "level": 3
+    },
+    {
+      "id": "w0012", "word": "amendment", "pos": "n", "ipa": "/əˈmendmənt/",
+      "meaning_vi": "sự sửa đổi",
+      "definition_en": "a small change made to a document or agreement",
+      "examples": [{"en": "Both parties approved the amendment to the payment schedule.", "vi": "Hai bên đã chấp thuận sửa đổi lịch thanh toán."}],
+      "collocations": ["make an amendment", "a contract amendment"],
+      "family": ["amend (v)"],
+      "topic": "v01_contracts", "level": 3
+    },
+    {
+      "id": "w0013", "word": "enforce", "pos": "v", "ipa": "/ɪnˈfɔːrs/",
+      "meaning_vi": "thực thi",
+      "definition_en": "to make people obey a law or agreement",
+      "examples": [{"en": "The city will enforce the new parking rules from Monday.", "vi": "Thành phố sẽ thực thi quy định đỗ xe mới từ thứ Hai."}],
+      "collocations": ["enforce a law", "enforce a contract", "strictly enforce"],
+      "family": ["enforcement (n)"],
+      "topic": "v01_contracts", "level": 3
+    },
+    {
+      "id": "w0014", "word": "dispute", "pos": "n", "ipa": "/dɪˈspjuːt/",
+      "meaning_vi": "tranh chấp",
+      "definition_en": "a disagreement, especially one that lasts a long time",
+      "examples": [{"en": "The two firms settled the dispute without going to court.", "vi": "Hai công ty đã giải quyết tranh chấp mà không cần ra tòa."}],
+      "collocations": ["resolve a dispute", "a legal dispute", "a payment dispute"],
+      "family": ["dispute (v)", "disputed (adj)"],
+      "topic": "v01_contracts", "level": 3
+    },
+    {
+      "id": "w0015", "word": "binding", "pos": "adj", "ipa": "/ˈbaɪndɪŋ/",
+      "meaning_vi": "có tính ràng buộc",
+      "definition_en": "having legal force that must be obeyed",
+      "examples": [{"en": "The signed document is legally binding on both companies.", "vi": "Văn bản đã ký có tính ràng buộc pháp lý với cả hai công ty."}],
+      "collocations": ["legally binding", "a binding agreement", "a binding decision"],
+      "family": ["bind (v)"],
+      "topic": "v01_contracts", "level": 4
+    },
+    {
+      "id": "w0016", "word": "signature", "pos": "n", "ipa": "/ˈsɪɡnətʃər/",
+      "meaning_vi": "chữ ký",
+      "definition_en": "your name written by yourself, especially on a document",
+      "examples": [{"en": "The form is not valid without the manager's signature.", "vi": "Mẫu đơn không có hiệu lực nếu thiếu chữ ký của người quản lý."}],
+      "collocations": ["obtain a signature", "a signature line", "a digital signature"],
+      "family": ["sign (v)"],
+      "topic": "v01_contracts", "level": 1
+    },
+    {
+      "id": "w0017", "word": "draft", "pos": "n", "ipa": "/dræft/",
+      "meaning_vi": "bản nháp",
+      "definition_en": "an early version of a document that may still be changed",
+      "examples": [{"en": "Please review the first draft and send your comments.", "vi": "Vui lòng xem bản nháp đầu tiên và gửi ý kiến."}],
+      "collocations": ["a first draft", "a rough draft", "draft a contract"],
+      "family": ["draft (v)"],
+      "topic": "v01_contracts", "level": 1
+    },
+    {
+      "id": "w0018", "word": "arbitration", "pos": "n", "ipa": "/ˌɑːrbɪˈtreɪʃn/",
+      "meaning_vi": "sự trọng tài",
+      "definition_en": "the process of settling a disagreement with the help of a neutral person",
+      "examples": [{"en": "The dispute was finally settled through arbitration.", "vi": "Cuối cùng tranh chấp được giải quyết thông qua trọng tài."}],
+      "collocations": ["go to arbitration", "an arbitration clause", "binding arbitration"],
+      "family": ["arbitrate (v)", "arbitrator (n)"],
+      "topic": "v01_contracts", "level": 5
+    },
+    {
+      "id": "w0019", "word": "indemnify", "pos": "v", "ipa": "/ɪnˈdemnɪfaɪ/",
+      "meaning_vi": "bồi thường, bảo đảm",
+      "definition_en": "to promise to pay someone for a loss they may suffer",
+      "examples": [{"en": "The vendor agreed to indemnify the buyer against any legal costs.", "vi": "Nhà bán đồng ý bồi thường cho người mua mọi chi phí pháp lý."}],
+      "collocations": ["indemnify against loss", "indemnify a party"],
+      "family": ["indemnity (n)"],
+      "topic": "v01_contracts", "level": 5
+    },
+    {
+      "id": "w0020", "word": "waive", "pos": "v", "ipa": "/weɪv/",
+      "meaning_vi": "từ bỏ (quyền, phí)",
+      "definition_en": "to officially give up a right or decide not to charge a fee",
+      "examples": [{"en": "The bank agreed to waive the transfer fee for the first year.", "vi": "Ngân hàng đồng ý miễn phí chuyển khoản trong năm đầu."}],
+      "collocations": ["waive a fee", "waive a right", "waive a requirement"],
+      "family": ["waiver (n)"],
+      "topic": "v01_contracts", "level": 4
+    },
+    {
+      "id": "w0021", "word": "validity", "pos": "n", "ipa": "/vəˈlɪdəti/",
+      "meaning_vi": "tính hiệu lực",
+      "definition_en": "the state of being legally or officially acceptable",
+      "examples": [{"en": "The lawyer questioned the validity of the unsigned agreement.", "vi": "Luật sư đặt câu hỏi về tính hiệu lực của thỏa thuận chưa ký."}],
+      "collocations": ["the validity of a contract", "question the validity", "a validity period"],
+      "family": ["valid (adj)", "validate (v)"],
+      "topic": "v01_contracts", "level": 4
+    },
+    {
+      "id": "w0022", "word": "mutually", "pos": "adv", "ipa": "/ˈmjuːtʃuəli/",
+      "meaning_vi": "một cách đôi bên",
+      "definition_en": "in a way that is shared or agreed by both sides",
+      "examples": [{"en": "The partnership was mutually beneficial for both companies.", "vi": "Quan hệ hợp tác mang lại lợi ích cho cả hai công ty."}],
+      "collocations": ["mutually agreed", "mutually beneficial", "mutually acceptable"],
+      "family": ["mutual (adj)"],
+      "topic": "v01_contracts", "level": 3
+    },
+    {
+      "id": "w0023", "word": "stipulate", "pos": "v", "ipa": "/ˈstɪpjuleɪt/",
+      "meaning_vi": "quy định rõ",
+      "definition_en": "to state clearly that something must be done",
+      "examples": [{"en": "The agreement stipulates that payment must be made in dollars.", "vi": "Thỏa thuận quy định rõ rằng phải thanh toán bằng đô la."}],
+      "collocations": ["the contract stipulates", "clearly stipulated", "stipulate a deadline"],
+      "family": ["stipulation (n)"],
+      "topic": "v01_contracts", "level": 5
+    },
+    {
+      "id": "w0024", "word": "pursuant to", "pos": "phr", "ipa": "/pərˈsuːənt tu/",
+      "meaning_vi": "theo, căn cứ theo",
+      "definition_en": "in accordance with a law, rule, or agreement",
+      "examples": [{"en": "Pursuant to the agreement, the audit will take place in June.", "vi": "Theo thỏa thuận, đợt kiểm toán sẽ diễn ra vào tháng Sáu."}],
+      "collocations": ["pursuant to the agreement", "pursuant to the regulations"],
+      "family": [],
+      "topic": "v01_contracts", "level": 5
+    }
+  ]
+}

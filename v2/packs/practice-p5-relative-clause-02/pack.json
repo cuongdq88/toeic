@@ -1,0 +1,837 @@
+{
+  "id": "practice-p5-relative-clause-02",
+  "kind": "practice",
+  "title": "Luyện Part 5 – Mệnh đề quan hệ 02",
+  "level": "medium",
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "19 câu mệnh đề quan hệ, 5 câu mức 4-5.",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 0
+    }
+  },
+  "groups": [
+    {
+      "id": "g01",
+      "part": 5,
+      "questions": [
+        {
+          "no": 1,
+          "type": "p5_relative_clause",
+          "difficulty": 2,
+          "stem": "The employee ____ called yesterday is on leave this week.",
+          "options": [
+            {
+              "key": "A",
+              "text": "who"
+            },
+            {
+              "key": "B",
+              "text": "which"
+            },
+            {
+              "key": "C",
+              "text": "whose"
+            },
+            {
+              "key": "D",
+              "text": "whom"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'Who' thay cho người làm chủ ngữ.",
+            "why_wrong": {
+              "B": "'Which' chỉ vật.",
+              "C": "'Whose' chỉ sở hữu.",
+              "D": "'Whom' là tân ngữ."
+            },
+            "translation_vi": "Nhân viên gọi hôm qua đang nghỉ tuần này."
+          },
+          "tags": [
+            "g13_relative_clauses"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "part": 5,
+      "questions": [
+        {
+          "no": 2,
+          "type": "p5_relative_clause",
+          "difficulty": 2,
+          "stem": "The report ____ was submitted late needs revision.",
+          "options": [
+            {
+              "key": "A",
+              "text": "who"
+            },
+            {
+              "key": "B",
+              "text": "that"
+            },
+            {
+              "key": "C",
+              "text": "whose"
+            },
+            {
+              "key": "D",
+              "text": "what"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'That' thay cho vật trong mệnh đề xác định.",
+            "why_wrong": {
+              "A": "'Who' chỉ người.",
+              "C": "'Whose' chỉ sở hữu.",
+              "D": "'What' không dùng làm đại từ quan hệ ở đây."
+            },
+            "translation_vi": "Báo cáo nộp muộn cần được sửa."
+          },
+          "tags": [
+            "g13_relative_clauses"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "part": 5,
+      "questions": [
+        {
+          "no": 3,
+          "type": "p5_relative_clause",
+          "difficulty": 2,
+          "stem": "The manager ____ office is on the second floor is unavailable today.",
+          "options": [
+            {
+              "key": "A",
+              "text": "who"
+            },
+            {
+              "key": "B",
+              "text": "which"
+            },
+            {
+              "key": "C",
+              "text": "whose"
+            },
+            {
+              "key": "D",
+              "text": "whom"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'Whose' chỉ sở hữu cho 'office'.",
+            "why_wrong": {
+              "A": "'Who' làm chủ ngữ.",
+              "B": "'Which' chỉ vật.",
+              "D": "'Whom' làm tân ngữ."
+            },
+            "translation_vi": "Quản lý có văn phòng ở tầng hai hôm nay không có mặt."
+          },
+          "tags": [
+            "g13_relative_clauses"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "part": 5,
+      "questions": [
+        {
+          "no": 4,
+          "type": "p5_relative_clause",
+          "difficulty": 3,
+          "stem": "The city ____ the factory is located has strict environmental rules.",
+          "options": [
+            {
+              "key": "A",
+              "text": "which"
+            },
+            {
+              "key": "B",
+              "text": "that"
+            },
+            {
+              "key": "C",
+              "text": "when"
+            },
+            {
+              "key": "D",
+              "text": "where"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "'Where' thay cho cụm chỉ nơi chốn.",
+            "why_wrong": {
+              "A": "'Which' thiếu giới từ.",
+              "B": "'That' thiếu giới từ.",
+              "C": "'When' chỉ thời gian."
+            },
+            "translation_vi": "Thành phố nơi đặt nhà máy có quy định môi trường nghiêm ngặt."
+          },
+          "tags": [
+            "g13_relative_clauses"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "part": 5,
+      "questions": [
+        {
+          "no": 5,
+          "type": "p5_relative_clause",
+          "difficulty": 3,
+          "stem": "The day ____ we signed the contract was unusually rainy.",
+          "options": [
+            {
+              "key": "A",
+              "text": "when"
+            },
+            {
+              "key": "B",
+              "text": "which"
+            },
+            {
+              "key": "C",
+              "text": "where"
+            },
+            {
+              "key": "D",
+              "text": "who"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'When' thay cho cụm chỉ thời gian.",
+            "why_wrong": {
+              "B": "'Which' thiếu giới từ.",
+              "C": "'Where' chỉ nơi chốn.",
+              "D": "'Who' chỉ người."
+            },
+            "translation_vi": "Ngày chúng tôi ký hợp đồng mưa bất thường."
+          },
+          "tags": [
+            "g13_relative_clauses"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g06",
+      "part": 5,
+      "questions": [
+        {
+          "no": 6,
+          "type": "p5_relative_clause",
+          "difficulty": 4,
+          "stem": "The proposal, ____ was approved last week, will begin in June.",
+          "options": [
+            {
+              "key": "A",
+              "text": "that"
+            },
+            {
+              "key": "B",
+              "text": "which"
+            },
+            {
+              "key": "C",
+              "text": "who"
+            },
+            {
+              "key": "D",
+              "text": "whose"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Mệnh đề không xác định sau dấu phẩy dùng 'which', không dùng 'that'.",
+            "why_wrong": {
+              "A": "'That' không dùng sau dấu phẩy.",
+              "C": "'Who' chỉ người.",
+              "D": "'Whose' chỉ sở hữu."
+            },
+            "translation_vi": "Đề xuất đã được duyệt tuần trước sẽ bắt đầu vào tháng Sáu."
+          },
+          "tags": [
+            "g13_relative_clauses"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g07",
+      "part": 5,
+      "questions": [
+        {
+          "no": 7,
+          "type": "p5_relative_clause",
+          "difficulty": 2,
+          "stem": "The people ____ attended the job fair received information packs.",
+          "options": [
+            {
+              "key": "A",
+              "text": "which"
+            },
+            {
+              "key": "B",
+              "text": "whose"
+            },
+            {
+              "key": "C",
+              "text": "who"
+            },
+            {
+              "key": "D",
+              "text": "whom"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'Who' thay cho người làm chủ ngữ.",
+            "why_wrong": {
+              "A": "'Which' chỉ vật.",
+              "B": "'Whose' chỉ sở hữu.",
+              "D": "'Whom' là tân ngữ."
+            },
+            "translation_vi": "Những người dự hội chợ việc làm nhận được bộ tài liệu."
+          },
+          "tags": [
+            "g13_relative_clauses"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g08",
+      "part": 5,
+      "questions": [
+        {
+          "no": 8,
+          "type": "p5_relative_clause",
+          "difficulty": 2,
+          "stem": "This is the software ____ we use for all accounting tasks.",
+          "options": [
+            {
+              "key": "A",
+              "text": "who"
+            },
+            {
+              "key": "B",
+              "text": "whose"
+            },
+            {
+              "key": "C",
+              "text": "what"
+            },
+            {
+              "key": "D",
+              "text": "that"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "'That' thay cho vật trong mệnh đề xác định.",
+            "why_wrong": {
+              "A": "'Who' chỉ người.",
+              "B": "'Whose' chỉ sở hữu.",
+              "C": "'What' không dùng ở đây."
+            },
+            "translation_vi": "Đây là phần mềm chúng tôi dùng cho mọi việc kế toán."
+          },
+          "tags": [
+            "g13_relative_clauses"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g09",
+      "part": 5,
+      "questions": [
+        {
+          "no": 9,
+          "type": "p5_relative_clause",
+          "difficulty": 4,
+          "stem": "The reason ____ the shipment was delayed is still unclear.",
+          "options": [
+            {
+              "key": "A",
+              "text": "why"
+            },
+            {
+              "key": "B",
+              "text": "which"
+            },
+            {
+              "key": "C",
+              "text": "where"
+            },
+            {
+              "key": "D",
+              "text": "when"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'The reason why' là cấu trúc quen thuộc.",
+            "why_wrong": {
+              "B": "'Which' thiếu giới từ.",
+              "C": "'Where' chỉ nơi chốn.",
+              "D": "'When' chỉ thời gian."
+            },
+            "translation_vi": "Lý do lô hàng bị trễ vẫn chưa rõ."
+          },
+          "tags": [
+            "g13_relative_clauses"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g10",
+      "part": 5,
+      "questions": [
+        {
+          "no": 10,
+          "type": "p5_relative_clause",
+          "difficulty": 3,
+          "stem": "The table, ____ leg is broken, will be replaced.",
+          "options": [
+            {
+              "key": "A",
+              "text": "which"
+            },
+            {
+              "key": "B",
+              "text": "whose"
+            },
+            {
+              "key": "C",
+              "text": "that"
+            },
+            {
+              "key": "D",
+              "text": "who"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'Whose' chỉ sở hữu cho 'leg'.",
+            "why_wrong": {
+              "A": "'Which' không chỉ sở hữu.",
+              "C": "'That' không dùng sau dấu phẩy.",
+              "D": "'Who' chỉ người."
+            },
+            "translation_vi": "Chiếc bàn bị gãy chân sẽ được thay."
+          },
+          "tags": [
+            "g13_relative_clauses"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g11",
+      "part": 5,
+      "questions": [
+        {
+          "no": 11,
+          "type": "p5_relative_clause",
+          "difficulty": 4,
+          "stem": "The department to ____ the complaint was sent has not replied.",
+          "options": [
+            {
+              "key": "A",
+              "text": "who"
+            },
+            {
+              "key": "B",
+              "text": "where"
+            },
+            {
+              "key": "C",
+              "text": "which"
+            },
+            {
+              "key": "D",
+              "text": "that"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Sau giới từ 'to' dùng 'which' cho vật.",
+            "why_wrong": {
+              "A": "'Who' chỉ người.",
+              "B": "'Where' không dùng sau giới từ.",
+              "D": "'That' không dùng sau giới từ."
+            },
+            "translation_vi": "Phòng ban nhận khiếu nại vẫn chưa trả lời."
+          },
+          "tags": [
+            "g13_relative_clauses"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g12",
+      "part": 5,
+      "questions": [
+        {
+          "no": 12,
+          "type": "p5_relative_clause",
+          "difficulty": 2,
+          "stem": "The department ____ handles complaints has moved to the third floor.",
+          "options": [
+            {
+              "key": "A",
+              "text": "who"
+            },
+            {
+              "key": "B",
+              "text": "whose"
+            },
+            {
+              "key": "C",
+              "text": "where"
+            },
+            {
+              "key": "D",
+              "text": "that"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "'That' thay cho vật/sự việc trong mệnh đề xác định.",
+            "why_wrong": {
+              "A": "'Who' chỉ người.",
+              "B": "'Whose' chỉ sở hữu.",
+              "C": "'Where' chỉ nơi chốn."
+            },
+            "translation_vi": "Phòng xử lý khiếu nại đã chuyển lên tầng ba."
+          },
+          "tags": [
+            "g13_relative_clauses"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g13",
+      "part": 5,
+      "questions": [
+        {
+          "no": 13,
+          "type": "p5_relative_clause",
+          "difficulty": 2,
+          "stem": "The book ____ I borrowed from the library is overdue.",
+          "options": [
+            {
+              "key": "A",
+              "text": "which"
+            },
+            {
+              "key": "B",
+              "text": "who"
+            },
+            {
+              "key": "C",
+              "text": "whose"
+            },
+            {
+              "key": "D",
+              "text": "where"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'Which' thay cho vật làm tân ngữ.",
+            "why_wrong": {
+              "B": "'Who' chỉ người.",
+              "C": "'Whose' chỉ sở hữu.",
+              "D": "'Where' chỉ nơi chốn."
+            },
+            "translation_vi": "Cuốn sách tôi mượn thư viện đã quá hạn."
+          },
+          "tags": [
+            "g13_relative_clauses"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g14",
+      "part": 5,
+      "questions": [
+        {
+          "no": 14,
+          "type": "p5_relative_clause",
+          "difficulty": 3,
+          "stem": "The hotel ____ we stayed last year has closed.",
+          "options": [
+            {
+              "key": "A",
+              "text": "which"
+            },
+            {
+              "key": "B",
+              "text": "where"
+            },
+            {
+              "key": "C",
+              "text": "that"
+            },
+            {
+              "key": "D",
+              "text": "when"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'Where' thay cho cụm chỉ nơi chốn.",
+            "why_wrong": {
+              "A": "'Which' thiếu giới từ.",
+              "C": "'That' thiếu giới từ.",
+              "D": "'When' chỉ thời gian."
+            },
+            "translation_vi": "Khách sạn chúng tôi ở năm ngoái đã đóng."
+          },
+          "tags": [
+            "g13_relative_clauses"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g15",
+      "part": 5,
+      "questions": [
+        {
+          "no": 15,
+          "type": "p5_relative_clause",
+          "difficulty": 4,
+          "stem": "The proposal, ____ details were unclear, was rejected.",
+          "options": [
+            {
+              "key": "A",
+              "text": "which"
+            },
+            {
+              "key": "B",
+              "text": "that"
+            },
+            {
+              "key": "C",
+              "text": "whose"
+            },
+            {
+              "key": "D",
+              "text": "who"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'Whose' chỉ sở hữu cho 'details'.",
+            "why_wrong": {
+              "A": "'Which' không chỉ sở hữu.",
+              "B": "'That' không dùng sau dấu phẩy.",
+              "D": "'Who' chỉ người."
+            },
+            "translation_vi": "Đề xuất có chi tiết không rõ đã bị từ chối."
+          },
+          "tags": [
+            "g13_relative_clauses"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g16",
+      "part": 5,
+      "questions": [
+        {
+          "no": 16,
+          "type": "p5_relative_clause",
+          "difficulty": 2,
+          "stem": "The contract ____ we signed last month expires soon.",
+          "options": [
+            {
+              "key": "A",
+              "text": "who"
+            },
+            {
+              "key": "B",
+              "text": "whose"
+            },
+            {
+              "key": "C",
+              "text": "where"
+            },
+            {
+              "key": "D",
+              "text": "that"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "'That' thay cho vật làm tân ngữ.",
+            "why_wrong": {
+              "A": "'Who' chỉ người.",
+              "B": "'Whose' chỉ sở hữu.",
+              "C": "'Where' chỉ nơi chốn."
+            },
+            "translation_vi": "Hợp đồng chúng tôi ký tháng trước sắp hết hạn."
+          },
+          "tags": [
+            "g13_relative_clauses"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g17",
+      "part": 5,
+      "questions": [
+        {
+          "no": 17,
+          "type": "p5_relative_clause",
+          "difficulty": 2,
+          "stem": "The witness ____ testified at the hearing was very credible.",
+          "options": [
+            {
+              "key": "A",
+              "text": "who"
+            },
+            {
+              "key": "B",
+              "text": "which"
+            },
+            {
+              "key": "C",
+              "text": "whose"
+            },
+            {
+              "key": "D",
+              "text": "where"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'Who' thay cho người làm chủ ngữ.",
+            "why_wrong": {
+              "B": "'Which' chỉ vật.",
+              "C": "'Whose' chỉ sở hữu.",
+              "D": "'Where' chỉ nơi chốn."
+            },
+            "translation_vi": "Nhân chứng khai tại phiên điều trần rất đáng tin."
+          },
+          "tags": [
+            "g13_relative_clauses"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g18",
+      "part": 5,
+      "questions": [
+        {
+          "no": 18,
+          "type": "p5_relative_clause",
+          "difficulty": 2,
+          "stem": "The files ____ are stored online can be accessed remotely.",
+          "options": [
+            {
+              "key": "A",
+              "text": "who"
+            },
+            {
+              "key": "B",
+              "text": "that"
+            },
+            {
+              "key": "C",
+              "text": "whose"
+            },
+            {
+              "key": "D",
+              "text": "where"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'That' thay cho vật trong mệnh đề xác định.",
+            "why_wrong": {
+              "A": "'Who' chỉ người.",
+              "C": "'Whose' chỉ sở hữu.",
+              "D": "'Where' chỉ nơi chốn."
+            },
+            "translation_vi": "Các tệp lưu trực tuyến có thể truy cập từ xa."
+          },
+          "tags": [
+            "g13_relative_clauses"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g19",
+      "part": 5,
+      "questions": [
+        {
+          "no": 19,
+          "type": "p5_relative_clause",
+          "difficulty": 4,
+          "stem": "The manager to ____ the letter was addressed is on vacation.",
+          "options": [
+            {
+              "key": "A",
+              "text": "who"
+            },
+            {
+              "key": "B",
+              "text": "which"
+            },
+            {
+              "key": "C",
+              "text": "whom"
+            },
+            {
+              "key": "D",
+              "text": "whose"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Sau giới từ 'to' dùng 'whom' cho người.",
+            "why_wrong": {
+              "A": "'Who' không dùng sau giới từ.",
+              "B": "'Which' chỉ vật.",
+              "D": "'Whose' chỉ sở hữu."
+            },
+            "translation_vi": "Quản lý mà lá thư gửi đến đang đi nghỉ."
+          },
+          "tags": [
+            "g13_relative_clauses"
+          ]
+        }
+      ]
+    }
+  ]
+}

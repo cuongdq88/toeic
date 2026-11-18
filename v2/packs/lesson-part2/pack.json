@@ -1,0 +1,66 @@
+{
+  "id": "lesson-part2",
+  "kind": "lesson",
+  "title": "Chiến thuật Part 2 – Question–Response",
+  "topic": "part2",
+  "parts": [
+    2
+  ],
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "Bài chiến thuật Part 2, thông số theo README mục 4-5.",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 0
+    }
+  },
+  "sections": [
+    {
+      "heading": "Part này thi gì",
+      "body": "Part 2 có **25 câu**, khoảng **10 phút**. Bạn nghe một câu hỏi hoặc câu nói, sau đó nghe **3 lựa chọn A–C** và chọn câu trả lời phù hợp. Đề **không in** câu hỏi lẫn đáp án, chỉ nghe một lần."
+    },
+    {
+      "heading": "Các dạng câu hỏi",
+      "body": "- Who: hỏi người\n- What / Which: hỏi sự vật, lựa chọn\n- When: hỏi thời gian\n- Where: hỏi nơi chốn\n- Why: hỏi lý do\n- How / How many / How long: hỏi cách thức, số lượng, thời lượng\n- Câu hỏi Yes/No\n- Câu hỏi phủ định / câu hỏi đuôi\n- Câu hỏi lựa chọn (A or B)\n- Đề nghị, yêu cầu, lời mời\n- Câu trần thuật"
+    },
+    {
+      "heading": "Chiến thuật làm bài",
+      "body": "1. Nghe **từ hỏi đầu tiên** để xác định loại câu trả lời cần tìm.\n2. Với Wh-, loại ngay đáp án Yes/No.\n3. Với câu hỏi lựa chọn, chờ nghe đáp án chọn một trong hai.\n4. Khoảng 30% đáp án đúng là trả lời **gián tiếp** — đừng chờ từ khóa lặp lại.\n5. Loại đáp án chỉ lặp lại từ trong câu hỏi mà không trả lời.\n6. Chọn ngay sau khi nghe xong C, chuyển sang câu tiếp theo."
+    },
+    {
+      "heading": "Bẫy thường gặp",
+      "body": "- **Lặp từ**: đáp án nhắc lại danh từ trong câu hỏi nhưng sai ý.\n- **Từ phát âm giống**: `printer` / `prints`, `buy` / `by`.\n- **Yes/No cho câu Wh-**: hình thức hợp lý nhưng sai loại câu hỏi.\n- **Đúng ý, sai loại câu hỏi**: ví dụ hỏi When nhưng đáp án nêu Where.\n- Đáp án gián tiếp như 'Let me check the schedule.' thường là đáp án đúng."
+    },
+    {
+      "heading": "Phân bổ thời gian",
+      "body": "25 câu trong khoảng **10 phút**, trung bình **12–15 giây/câu** vì audio đọc cả câu hỏi và 3 đáp án. Không dừng lại suy nghĩ lâu; câu nào phân vân thì chọn phương án hợp lý nhất rồi đi tiếp."
+    }
+  ],
+  "examples": [
+    {
+      "en": "When does the training start? — Yes, it's on Friday.",
+      "vi": "Khi nào buổi đào tạo bắt đầu? — Vâng, nó vào thứ Sáu.",
+      "note": "Bẫy: câu hỏi When không trả lời bằng Yes; đáp án đúng phải nêu thời gian."
+    },
+    {
+      "en": "Where did you put the invoice? — It's in the top drawer.",
+      "vi": "Anh để hóa đơn ở đâu? — Nó ở ngăn kéo trên cùng.",
+      "note": "Trả lời đúng nơi chốn nhưng không lặp lại từ 'invoice'."
+    },
+    {
+      "en": "Could you send me the file? — I'll do it right after lunch.",
+      "vi": "Anh có thể gửi tệp cho tôi không? — Tôi sẽ làm ngay sau bữa trưa.",
+      "note": "Đáp án gián tiếp: đồng ý mà không nói 'yes'."
+    },
+    {
+      "en": "How many copies do we need? — About twenty, I think.",
+      "vi": "Chúng ta cần bao nhiêu bản? — Tôi nghĩ khoảng hai mươi.",
+      "note": "How many hỏi số lượng; đáp án nêu con số."
+    }
+  ],
+  "practice_pack": null
+}

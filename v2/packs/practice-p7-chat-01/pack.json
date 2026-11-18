@@ -1,0 +1,599 @@
+{
+  "id": "practice-p7-chat-01",
+  "kind": "practice",
+  "title": "Luyện Part 7 – Tin nhắn & chat 01",
+  "level": "medium",
+  "version": 1,
+  "meta": {
+    "author": "claude",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "ai_check": {
+      "date": "2026-11-17",
+      "fixed": 0
+    }
+  },
+  "groups": [
+    {
+      "id": "g01",
+      "part": 7,
+      "passages": [
+        {
+          "type": "text_message_chain",
+          "title": "Text messages",
+          "text": "Priya Nair [8:52 A.M.]: Are you at the Harlow office yet? The client meeting starts at 9:30.\nTom Baker [8:55 A.M.]: Still on the train. There's a signal problem near Elm Park.\nPriya Nair [8:56 A.M.]: How long are they saying?\nTom Baker [8:58 A.M.]: Your guess is as good as mine.\nPriya Nair [8:59 A.M.]: OK. I have the slides on my laptop, so I can start without you if I need to.\nTom Baker [9:01 A.M.]: That would be great. I'll join as soon as I get there.\nPriya Nair [9:02 A.M.]: Don't worry, I've got it covered.",
+          "vi": "Priya Nair (8:52): Anh tới văn phòng Harlow chưa? Họp với khách lúc 9:30. Tom Baker (8:55): Vẫn trên tàu, có sự cố tín hiệu gần Elm Park. Priya (8:56): Họ nói bao lâu? Tom (8:58): Tôi cũng không biết hơn chị đâu. Priya (8:59): Được, slide có trong laptop của tôi, cần thì tôi bắt đầu trước. Tom (9:01): Vậy thì tốt quá, tới nơi tôi vào ngay. Priya (9:02): Đừng lo, tôi lo được."
+        }
+      ],
+      "questions": [
+        {
+          "no": 1,
+          "type": "p7_main_idea_purpose",
+          "difficulty": 1,
+          "stem": "What are the writers mainly discussing?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A delay before a meeting"
+            },
+            {
+              "key": "B",
+              "text": "The cost of a train ticket"
+            },
+            {
+              "key": "C",
+              "text": "A change of meeting room"
+            },
+            {
+              "key": "D",
+              "text": "A problem with some slides"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Ông Baker bị kẹt tàu trước cuộc họp với khách.",
+            "why_wrong": {
+              "B": "Không nhắc giá vé.",
+              "C": "Không đổi phòng.",
+              "D": "Slide vẫn sẵn trên laptop của bà Nair."
+            },
+            "translation_vi": "Tin nhắn chủ yếu về gì? – Sự chậm trễ trước cuộc họp."
+          }
+        },
+        {
+          "no": 2,
+          "type": "p7_implied_meaning",
+          "difficulty": 3,
+          "stem": "At 8:58 A.M., what does Mr. Baker most likely mean when he writes, \"Your guess is as good as mine\"?",
+          "options": [
+            {
+              "key": "A",
+              "text": "He thinks Ms. Nair should guess the answer"
+            },
+            {
+              "key": "B",
+              "text": "He does not know how long the delay will be"
+            },
+            {
+              "key": "C",
+              "text": "He expects to arrive on time"
+            },
+            {
+              "key": "D",
+              "text": "He has already left the train"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'Your guess is as good as mine' = tôi cũng không biết hơn bạn → ông không biết sẽ trễ bao lâu.",
+            "why_wrong": {
+              "A": "Câu này không phải lời đề nghị đoán.",
+              "C": "Ông đang kẹt tàu, không chắc đến kịp.",
+              "D": "Ông vẫn đang ở trên tàu."
+            },
+            "translation_vi": "Lúc 8:58, ông Baker muốn nói gì? – Ông không biết sẽ chậm bao lâu."
+          }
+        },
+        {
+          "no": 3,
+          "type": "p7_implied_meaning",
+          "difficulty": 4,
+          "stem": "At 9:02 A.M., what does Ms. Nair imply when she writes, \"I've got it covered\"?",
+          "options": [
+            {
+              "key": "A",
+              "text": "She will cover the cost of a taxi"
+            },
+            {
+              "key": "B",
+              "text": "She has covered the laptop to protect it"
+            },
+            {
+              "key": "C",
+              "text": "She can handle the start of the meeting alone"
+            },
+            {
+              "key": "D",
+              "text": "She wants to cancel the meeting"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'I've got it covered' = tôi lo được → bà sẽ tự bắt đầu cuộc họp.",
+            "why_wrong": {
+              "A": "Không nhắc trả tiền taxi.",
+              "B": "Hiểu sai nghĩa đen của 'covered'.",
+              "D": "Bà sẵn sàng bắt đầu, không hủy."
+            },
+            "translation_vi": "Lúc 9:02, bà Nair muốn nói gì? – Bà tự lo phần đầu cuộc họp được."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "part": 7,
+      "passages": [
+        {
+          "type": "online_chat",
+          "title": "Online chat",
+          "text": "Grace Liu [2:10 P.M.]: The printer just sent the proofs for the spring catalog. The cover photo looks much darker than on screen.\nDaniel Osei [2:12 P.M.]: How dark? We approved that image last week.\nGrace Liu [2:13 P.M.]: You can barely see the product.\nMona Haddad [2:15 P.M.]: That's not going to fly with the client. They want the new chair to stand out.\nDaniel Osei [2:16 P.M.]: I'll ask the printer to lighten it and send a second proof.\nMona Haddad [2:17 P.M.]: Can they do it before Friday? The catalog goes out Monday.\nDaniel Osei [2:19 P.M.]: They usually turn proofs around in a day, so we should be fine.\nGrace Liu [2:20 P.M.]: Fingers crossed.",
+          "vi": "Grace Liu (2:10): Nhà in vừa gửi bản in thử catalog mùa xuân; ảnh bìa tối hơn nhiều so với trên màn hình. Daniel Osei (2:12): Tối cỡ nào? Tuần trước mình đã duyệt ảnh đó. Grace (2:13): Gần như không thấy sản phẩm. Mona Haddad (2:15): Khách sẽ không chấp nhận đâu, họ muốn chiếc ghế mới nổi bật. Daniel (2:16): Tôi sẽ nhờ nhà in làm sáng lại và gửi bản thử thứ hai. Mona (2:17): Kịp trước thứ Sáu không? Thứ Hai catalog phát hành. Daniel (2:19): Họ thường làm bản thử trong một ngày, chắc kịp. Grace (2:20): Hy vọng vậy."
+        }
+      ],
+      "questions": [
+        {
+          "no": 4,
+          "type": "p7_inference",
+          "difficulty": 3,
+          "stem": "What is most likely true about the writers?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They design furniture for a client"
+            },
+            {
+              "key": "B",
+              "text": "They work at a print shop"
+            },
+            {
+              "key": "C",
+              "text": "They are photographers"
+            },
+            {
+              "key": "D",
+              "text": "They work on printed marketing materials"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Họ duyệt bản in thử catalog cho khách → làm về tài liệu tiếp thị in ấn.",
+            "why_wrong": {
+              "A": "Cái ghế là sản phẩm của khách hàng.",
+              "B": "Nhà in là đối tác bên ngoài ('the printer').",
+              "C": "Họ duyệt ảnh, không nói họ chụp."
+            },
+            "translation_vi": "Những người viết nhiều khả năng làm gì? – Làm tài liệu tiếp thị in ấn."
+          }
+        },
+        {
+          "no": 5,
+          "type": "p7_implied_meaning",
+          "difficulty": 4,
+          "stem": "At 2:15 P.M., what does Ms. Haddad mean when she writes, \"That's not going to fly with the client\"?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The catalog cannot be sent by air"
+            },
+            {
+              "key": "B",
+              "text": "The chair is too heavy to ship"
+            },
+            {
+              "key": "C",
+              "text": "The client will not accept the cover"
+            },
+            {
+              "key": "D",
+              "text": "The client has canceled the order"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'That's not going to fly with the client' = khách sẽ không chấp nhận → bìa tối như vậy không được.",
+            "why_wrong": {
+              "A": "Hiểu sai nghĩa đen của 'fly'.",
+              "B": "Không nói về trọng lượng ghế.",
+              "D": "Không có việc hủy đơn."
+            },
+            "translation_vi": "Lúc 2:15, bà Haddad muốn nói gì? – Khách sẽ không chấp nhận bìa này."
+          }
+        },
+        {
+          "no": 6,
+          "type": "p7_implied_meaning",
+          "difficulty": 3,
+          "stem": "At 2:20 P.M., what does Ms. Liu most likely mean when she writes, \"Fingers crossed\"?",
+          "options": [
+            {
+              "key": "A",
+              "text": "She hopes the new proof arrives in time"
+            },
+            {
+              "key": "B",
+              "text": "She has hurt her fingers"
+            },
+            {
+              "key": "C",
+              "text": "She disagrees with Mr. Osei"
+            },
+            {
+              "key": "D",
+              "text": "She will print the catalog herself"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'Fingers crossed' = hy vọng mọi việc suôn sẻ → mong bản in thử mới kịp.",
+            "why_wrong": {
+              "B": "Hiểu sai nghĩa đen.",
+              "C": "Câu này thể hiện hy vọng, không phản đối.",
+              "D": "Nhà in sẽ làm, không phải bà."
+            },
+            "translation_vi": "Lúc 2:20, bà Liu muốn nói gì? – Bà hy vọng bản in thử mới kịp."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "part": 7,
+      "passages": [
+        {
+          "type": "text_message_chain",
+          "title": "Text messages",
+          "text": "Lucas Ferreira [11:05 A.M.]: The caterer just called. They can't deliver lunch for the training until 1 P.M.\nAna Kowalski [11:07 A.M.]: The session breaks at noon. Thirty people will be waiting an hour.\nLucas Ferreira [11:08 A.M.]: I know. Should I look for another caterer?\nAna Kowalski [11:10 A.M.]: On a day's notice? Good luck with that.\nLucas Ferreira [11:11 A.M.]: Fair point. What if we move the break to 1?\nAna Kowalski [11:13 A.M.]: The trainer won't mind. I'll tell him at the coffee break.\nLucas Ferreira [11:14 A.M.]: Perfect. That kills two birds with one stone, since the morning part was running short anyway.",
+          "vi": "Lucas Ferreira (11:05): Bên đồ ăn vừa gọi, họ chỉ giao bữa trưa cho buổi đào tạo lúc 1 giờ được. Ana Kowalski (11:07): Buổi học nghỉ lúc 12 giờ, ba mươi người sẽ phải chờ một tiếng. Lucas (11:08): Biết rồi. Có nên tìm bên khác không? Ana (11:10): Báo trước một ngày à? Khó lắm. Lucas (11:11): Cũng phải. Hay mình dời giờ nghỉ sang 1 giờ? Ana (11:13): Giảng viên không phiền đâu, giờ giải lao tôi sẽ nói với ông ấy. Lucas (11:14): Tuyệt, vậy là một công đôi việc, vì phần buổi sáng vốn hơi ngắn."
+        }
+      ],
+      "questions": [
+        {
+          "no": 7,
+          "type": "p7_main_idea_purpose",
+          "difficulty": 2,
+          "stem": "What are the writers mainly discussing?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Choosing a trainer for a session"
+            },
+            {
+              "key": "B",
+              "text": "Solving a problem with a lunch delivery"
+            },
+            {
+              "key": "C",
+              "text": "Booking a room for thirty people"
+            },
+            {
+              "key": "D",
+              "text": "Planning a coffee break menu"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Họ xử lý việc giao bữa trưa bị muộn bằng cách dời giờ nghỉ.",
+            "why_wrong": {
+              "A": "Giảng viên đã có sẵn.",
+              "C": "Không nhắc đặt phòng.",
+              "D": "Không bàn thực đơn giờ giải lao."
+            },
+            "translation_vi": "Họ chủ yếu bàn về gì? – Giải quyết vấn đề giao bữa trưa."
+          }
+        },
+        {
+          "no": 8,
+          "type": "p7_implied_meaning",
+          "difficulty": 4,
+          "stem": "At 11:10 A.M., what does Ms. Kowalski imply when she writes, \"Good luck with that\"?",
+          "options": [
+            {
+              "key": "A",
+              "text": "She wishes Mr. Ferreira success in his new job"
+            },
+            {
+              "key": "B",
+              "text": "She has found a new caterer"
+            },
+            {
+              "key": "C",
+              "text": "She thinks the training should be canceled"
+            },
+            {
+              "key": "D",
+              "text": "It is unlikely another caterer will be available"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "'Good luck with that' (giọng hoài nghi) = khó mà tìm được nhà cung cấp khác khi báo gấp.",
+            "why_wrong": {
+              "A": "Đây không phải lời chúc thật.",
+              "B": "Bà không tìm được ai.",
+              "C": "Bà đề xuất cách khác, không hủy."
+            },
+            "translation_vi": "Lúc 11:10, bà Kowalski muốn nói gì? – Khó tìm được nhà cung cấp khác."
+          }
+        },
+        {
+          "no": 9,
+          "type": "p7_implied_meaning",
+          "difficulty": 4,
+          "stem": "At 11:14 A.M., what does Mr. Ferreira most likely mean when he writes, \"That kills two birds with one stone\"?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Two people will leave the training"
+            },
+            {
+              "key": "B",
+              "text": "The caterer will bring two kinds of food"
+            },
+            {
+              "key": "C",
+              "text": "The change solves two problems at once"
+            },
+            {
+              "key": "D",
+              "text": "The training will end early"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'Kills two birds with one stone' = một việc giải quyết hai vấn đề: chờ đồ ăn và buổi sáng hơi ngắn.",
+            "why_wrong": {
+              "A": "Không ai rời buổi học.",
+              "B": "Không nhắc hai loại đồ ăn.",
+              "D": "Buổi học không kết thúc sớm."
+            },
+            "translation_vi": "Lúc 11:14, ông Ferreira muốn nói gì? – Thay đổi này giải quyết hai vấn đề cùng lúc."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "part": 7,
+      "passages": [
+        {
+          "type": "online_chat",
+          "title": "Online chat",
+          "text": "Hassan Ali [4:30 P.M.]: Has anyone heard from the landlord about renewing the lease for our showroom?\nJulia Meyer [4:32 P.M.]: He called this morning. He wants a 15 percent increase.\nHassan Ali [4:33 P.M.]: Fifteen? Last year it was five.\nKenji Sato [4:35 P.M.]: There are two empty units across the street. We're not exactly short of options.\nJulia Meyer [4:36 P.M.]: True. Should I tell him we're looking elsewhere?\nHassan Ali [4:38 P.M.]: Let's not show our hand yet. Ask him for the figures first.\nJulia Meyer [4:39 P.M.]: Will do. I'll call him tomorrow.",
+          "vi": "Hassan Ali (4:30): Có ai nghe chủ nhà nói gì về gia hạn hợp đồng thuê showroom chưa? Julia Meyer (4:32): Sáng nay ông ấy gọi, muốn tăng 15%. Hassan (4:33): 15%? Năm ngoái chỉ 5%. Kenji Sato (4:35): Bên kia đường có hai căn trống, mình đâu thiếu lựa chọn. Julia (4:36): Đúng vậy. Có nên nói với ông ấy là mình đang tìm chỗ khác không? Hassan (4:38): Đừng để lộ ý định vội. Cứ hỏi số liệu trước. Julia (4:39): Được, mai tôi gọi ông ấy."
+        }
+      ],
+      "questions": [
+        {
+          "no": 10,
+          "type": "p7_inference",
+          "difficulty": 4,
+          "stem": "What is most likely true about the writers' company?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The company owns two buildings"
+            },
+            {
+              "key": "B",
+              "text": "The company rents its showroom"
+            },
+            {
+              "key": "C",
+              "text": "Mr. Sato is the landlord"
+            },
+            {
+              "key": "D",
+              "text": "The lease was renewed last week"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Họ bàn gia hạn hợp đồng thuê showroom với chủ nhà → công ty đi thuê.",
+            "why_wrong": {
+              "A": "Hai căn trống là của người khác, chưa thuê.",
+              "C": "Chủ nhà là người khác, gọi cho bà Meyer.",
+              "D": "Họ đang bàn gia hạn, chưa ký."
+            },
+            "translation_vi": "Điều gì đúng về công ty? – Công ty thuê showroom."
+          }
+        },
+        {
+          "no": 11,
+          "type": "p7_implied_meaning",
+          "difficulty": 3,
+          "stem": "At 4:35 P.M., what does Mr. Sato imply when he writes, \"We're not exactly short of options\"?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They do not have enough space"
+            },
+            {
+              "key": "B",
+              "text": "They need more staff"
+            },
+            {
+              "key": "C",
+              "text": "They should accept the increase"
+            },
+            {
+              "key": "D",
+              "text": "They could easily move to another location"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "'We're not exactly short of options' (nói giảm) = có nhiều lựa chọn khác → có thể chuyển chỗ.",
+            "why_wrong": {
+              "A": "Ông nói có nhiều lựa chọn, không thiếu chỗ.",
+              "B": "Không nói về nhân sự.",
+              "C": "Ông gợi ý không cần chấp nhận."
+            },
+            "translation_vi": "Lúc 4:35, ông Sato muốn nói gì? – Họ có thể dễ dàng chuyển chỗ khác."
+          }
+        },
+        {
+          "no": 12,
+          "type": "p7_implied_meaning",
+          "difficulty": 4,
+          "stem": "At 4:38 P.M., what does Mr. Ali mean when he writes, \"Let's not show our hand yet\"?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They should not reveal their plans to the landlord yet"
+            },
+            {
+              "key": "B",
+              "text": "They should sign the lease immediately"
+            },
+            {
+              "key": "C",
+              "text": "Ms. Meyer should visit the empty units"
+            },
+            {
+              "key": "D",
+              "text": "The showroom should be closed early"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'Let's not show our hand yet' = chưa nên lộ kế hoạch → chưa nói với chủ nhà rằng đang tìm chỗ khác.",
+            "why_wrong": {
+              "B": "Ông muốn hỏi số liệu trước, chưa ký.",
+              "C": "Không yêu cầu đi xem căn trống.",
+              "D": "Không nói đóng cửa sớm."
+            },
+            "translation_vi": "Lúc 4:38, ông Ali muốn nói gì? – Chưa nên tiết lộ kế hoạch với chủ nhà."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "part": 7,
+      "passages": [
+        {
+          "type": "text_message_chain",
+          "title": "Text messages",
+          "text": "Sofia Rossi [6:40 P.M.]: Did the shipment of tablets for the Oakdale store arrive?\nEthan Brooks [6:43 P.M.]: It did, but half the boxes are the wrong model. They sent the 64 GB version instead of 128.\nSofia Rossi [6:44 P.M.]: The sale starts Saturday. We advertised the 128.\nEthan Brooks [6:46 P.M.]: I've already emailed the distributor. They say they'll send the right ones, but not before next week.\nSofia Rossi [6:48 P.M.]: That's cutting it way too close.\nEthan Brooks [6:49 P.M.]: Agreed. The Westgate store has extra stock. I could drive over tomorrow morning.\nSofia Rossi [6:50 P.M.]: You're a lifesaver. Text me when you're back.",
+          "vi": "Sofia Rossi (6:40): Lô máy tính bảng cho cửa hàng Oakdale tới chưa? Ethan Brooks (6:43): Tới rồi, nhưng nửa số thùng sai mẫu: họ gửi bản 64 GB thay vì 128. Sofia (6:44): Thứ Bảy bắt đầu giảm giá, mình đã quảng cáo bản 128. Ethan (6:46): Tôi đã email nhà phân phối; họ nói sẽ gửi đúng hàng nhưng phải tuần sau. Sofia (6:48): Vậy là quá sát giờ. Ethan (6:49): Đồng ý. Cửa hàng Westgate còn dư hàng, sáng mai tôi lái qua lấy. Sofia (6:50): Anh đúng là cứu tinh. Về thì nhắn tôi nhé."
+        }
+      ],
+      "questions": [
+        {
+          "no": 13,
+          "type": "p7_main_idea_purpose",
+          "difficulty": 2,
+          "stem": "What is the text-message exchange mainly about?",
+          "options": [
+            {
+              "key": "A",
+              "text": "An incorrect delivery of products"
+            },
+            {
+              "key": "B",
+              "text": "The opening of a new store"
+            },
+            {
+              "key": "C",
+              "text": "A price change for tablets"
+            },
+            {
+              "key": "D",
+              "text": "A problem with an advertisement"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Họ xử lý lô máy tính bảng giao nhầm dung lượng.",
+            "why_wrong": {
+              "B": "Không có cửa hàng mới.",
+              "C": "Không nhắc đổi giá.",
+              "D": "Quảng cáo đúng; hàng giao sai."
+            },
+            "translation_vi": "Tin nhắn chủ yếu về gì? – Một lô hàng giao sai."
+          }
+        },
+        {
+          "no": 14,
+          "type": "p7_implied_meaning",
+          "difficulty": 4,
+          "stem": "At 6:48 P.M., what does Ms. Rossi mean when she writes, \"That's cutting it way too close\"?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The boxes must be cut open carefully"
+            },
+            {
+              "key": "B",
+              "text": "The Westgate store is too close by"
+            },
+            {
+              "key": "C",
+              "text": "The sale should start earlier"
+            },
+            {
+              "key": "D",
+              "text": "The distributor's delivery would be too late for the sale"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "'That's cutting it way too close' = quá sát giờ → hàng đến tuần sau là trễ cho đợt giảm giá thứ Bảy.",
+            "why_wrong": {
+              "A": "Hiểu sai nghĩa đen của 'cutting'.",
+              "B": "Câu này nói về thời gian giao, không nói khoảng cách cửa hàng.",
+              "C": "Bà không đề xuất dời đợt giảm giá."
+            },
+            "translation_vi": "Lúc 6:48, bà Rossi muốn nói gì? – Hàng của nhà phân phối sẽ tới quá trễ."
+          }
+        },
+        {
+          "no": 15,
+          "type": "p7_implied_meaning",
+          "difficulty": 3,
+          "stem": "At 6:50 P.M., what does Ms. Rossi most likely mean when she writes, \"You're a lifesaver\"?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Mr. Brooks works in a hospital"
+            },
+            {
+              "key": "B",
+              "text": "She is grateful for Mr. Brooks's help"
+            },
+            {
+              "key": "C",
+              "text": "She is worried about his safety"
+            },
+            {
+              "key": "D",
+              "text": "She wants him to stay at Westgate"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'You're a lifesaver' = bạn giúp tôi rất nhiều → bà cảm ơn ông Brooks.",
+            "why_wrong": {
+              "A": "Hiểu sai nghĩa đen.",
+              "C": "Không có lo lắng về an toàn.",
+              "D": "Bà muốn ông nhắn tin khi quay lại."
+            },
+            "translation_vi": "Lúc 6:50, bà Rossi muốn nói gì? – Bà biết ơn sự giúp đỡ của ông Brooks."
+          }
+        }
+      ]
+    }
+  ]
+}

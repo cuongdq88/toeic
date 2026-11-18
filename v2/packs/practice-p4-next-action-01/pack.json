@@ -1,0 +1,1253 @@
+{
+  "id": "practice-p4-next-action-01",
+  "kind": "practice",
+  "title": "Luyện Part 4 – Việc xảy ra tiếp theo 01",
+  "level": "medium",
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "7 bài nói viết tay, mỗi bài 3 câu; đủ 4 giọng; không trùng tình huống/tên với gói khác.",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 0
+    }
+  },
+  "groups": [
+    {
+      "id": "g01",
+      "part": 4,
+      "audio": "audio/g01.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 1 through 3 refer to the following announcement.",
+          "vi": "Câu 1 đến 3 dựa vào thông báo sau."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Attention, everyone. The deadline for submitting your monthly expense reports has been moved up to the twentieth of each month. This change is needed so that the finance team can close the books on time. Please attach digital copies of all receipts, and make sure each expense is assigned to the correct project code. Reports submitted after the deadline will be processed in the following month's payroll. If you have any travel or client entertainment expenses, submit them before the twentieth even if you have not received the final invoice. Thank you for your cooperation.",
+          "vi": "Xin mọi người chú ý. Hạn nộp báo cáo chi phí hằng tháng được dời lên ngày hai mươi mỗi tháng. Thay đổi này để nhóm tài chính khóa sổ đúng hạn. Hãy đính kèm bản sao kỹ thuật số của mọi biên lai, và đảm bảo mỗi khoản chi được gán đúng mã dự án. Báo cáo nộp sau hạn sẽ được xử lý vào kỳ lương tháng sau. Nếu có chi phí đi lại hoặc tiếp khách, hãy nộp trước ngày hai mươi dù chưa nhận hóa đơn cuối. Cảm ơn sự hợp tác."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "The finance team thanks you for submitting on time.",
+          "vi": "Nhóm tài chính cảm ơn bạn nộp đúng hạn."
+        }
+      ],
+      "questions": [
+        {
+          "no": 1,
+          "type": "p4_purpose_topic",
+          "difficulty": 2,
+          "stem": "What is the purpose of the announcement?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To hire finance staff"
+            },
+            {
+              "key": "B",
+              "text": "To explain a new expense report deadline"
+            },
+            {
+              "key": "C",
+              "text": "To cancel expense reports"
+            },
+            {
+              "key": "D",
+              "text": "To increase salaries"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Người nói thông báo hạn nộp báo cáo chi phí mới.",
+            "why_wrong": {
+              "A": "Không tuyển nhân viên tài chính.",
+              "C": "Không hủy báo cáo.",
+              "D": "Không tăng lương."
+            },
+            "translation_vi": "Mục đích là giải thích hạn nộp báo cáo chi phí mới."
+          }
+        },
+        {
+          "no": 2,
+          "type": "p4_speaker_audience",
+          "difficulty": 2,
+          "stem": "Who most likely is the audience?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Employees"
+            },
+            {
+              "key": "B",
+              "text": "Finance staff only"
+            },
+            {
+              "key": "C",
+              "text": "Clients"
+            },
+            {
+              "key": "D",
+              "text": "Suppliers"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Người nói hướng dẫn nhân viên nộp báo cáo chi phí.",
+            "why_wrong": {
+              "B": "Không chỉ riêng nhân viên tài chính.",
+              "C": "Không phải khách hàng.",
+              "D": "Không phải nhà cung cấp."
+            },
+            "translation_vi": "Người nghe là nhân viên."
+          }
+        },
+        {
+          "no": 3,
+          "type": "p4_detail",
+          "difficulty": 3,
+          "stem": "What happens to reports submitted after the deadline?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They are rejected"
+            },
+            {
+              "key": "B",
+              "text": "They are paid immediately"
+            },
+            {
+              "key": "C",
+              "text": "They are processed the following month"
+            },
+            {
+              "key": "D",
+              "text": "They are sent to clients"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Báo cáo nộp sau hạn sẽ xử lý vào kỳ lương tháng sau.",
+            "why_wrong": {
+              "A": "Không bị từ chối.",
+              "B": "Không trả ngay.",
+              "D": "Không gửi cho khách."
+            },
+            "translation_vi": "Chúng được xử lý vào tháng sau."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "part": 4,
+      "audio": "audio/g02.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 4 through 6 refer to the following telephone message.",
+          "vi": "Câu 4 đến 6 dựa vào tin nhắn điện thoại sau."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "Hello, this is Benedict from the training centre. I'm calling to let you know that the safety workshop scheduled for this Thursday has been postponed until next Wednesday at the same time. The trainer is unwell and cannot travel this week. Your registration will be carried over automatically, so you do not need to sign up again. If the new date is not convenient, please call us to transfer your place to a colleague or to cancel. We will send a confirmation email with the updated room number by Monday. We apologise for the change and thank you for your understanding.",
+          "vi": "Xin chào, tôi là Benedict từ trung tâm đào tạo. Tôi gọi để báo rằng buổi hội thảo an toàn dự kiến thứ Năm này đã được dời sang thứ Tư tuần sau cùng giờ. Giảng viên không khỏe và không thể đi lại tuần này. Đăng ký của bạn được tự động chuyển sang buổi mới nên không cần đăng ký lại. Nếu ngày mới không thuận tiện, hãy gọi để chuyển chỗ cho đồng nghiệp hoặc hủy. Chúng tôi sẽ gửi email xác nhận kèm số phòng cập nhật trước thứ Hai. Xin lỗi vì thay đổi và cảm ơn đã thông cảm."
+        }
+      ],
+      "questions": [
+        {
+          "no": 4,
+          "type": "p4_request_suggestion",
+          "difficulty": 3,
+          "stem": "What should the listener do if the new date is inconvenient?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Sign up again"
+            },
+            {
+              "key": "B",
+              "text": "Ignore the message"
+            },
+            {
+              "key": "C",
+              "text": "Come on Thursday anyway"
+            },
+            {
+              "key": "D",
+              "text": "Call to transfer or cancel"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Người nói yêu cầu gọi để chuyển chỗ hoặc hủy nếu ngày mới không thuận.",
+            "why_wrong": {
+              "A": "Không cần đăng ký lại.",
+              "B": "Không nên bỏ qua.",
+              "C": "Buổi thứ Năm đã dời."
+            },
+            "translation_vi": "Người nghe nên gọi để chuyển hoặc hủy."
+          }
+        },
+        {
+          "no": 5,
+          "type": "p4_next_action",
+          "difficulty": 3,
+          "stem": "What will be sent by Monday?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A refund"
+            },
+            {
+              "key": "B",
+              "text": "A new trainer"
+            },
+            {
+              "key": "C",
+              "text": "A confirmation email with the room number"
+            },
+            {
+              "key": "D",
+              "text": "A certificate"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Email xác nhận kèm số phòng mới sẽ được gửi trước thứ Hai.",
+            "why_wrong": {
+              "A": "Không nhắc hoàn tiền.",
+              "B": "Không gửi giảng viên mới.",
+              "D": "Không gửi chứng chỉ."
+            },
+            "translation_vi": "Email xác nhận kèm số phòng sẽ được gửi."
+          }
+        },
+        {
+          "no": 6,
+          "type": "p4_inference",
+          "difficulty": 4,
+          "stem": "Why was the workshop postponed?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The room is double-booked"
+            },
+            {
+              "key": "B",
+              "text": "Too few people registered"
+            },
+            {
+              "key": "C",
+              "text": "The training centre closed"
+            },
+            {
+              "key": "D",
+              "text": "The trainer is unwell"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Giảng viên không khỏe nên không thể đi lại tuần này.",
+            "why_wrong": {
+              "A": "Không nói phòng trùng lịch.",
+              "B": "Không nói ít người đăng ký.",
+              "C": "Trung tâm vẫn hoạt động."
+            },
+            "translation_vi": "Vì giảng viên không khỏe."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "part": 4,
+      "audio": "audio/g03.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 7 through 9 refer to the following announcement and graphic.",
+          "vi": "Câu 7 đến 9 dựa vào thông báo và bảng sau."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "Good afternoon, everyone. The break room committee is introducing a weekly snack box delivery for staff. The box with the most items can feed a small army, while the smaller boxes suit a single desk. All boxes are delivered every Friday morning and include a mix of fruit, nuts, and packaged snacks. You can subscribe through the staff portal and cancel at any time. Payment is collected monthly through payroll, and you can choose your delivery floor during checkout. If you have allergies, please note them on the order form. Thank you.",
+          "vi": "Chào buổi chiều. Ủy ban phòng nghỉ đang triển khai dịch vụ giao hộp đồ ăn vặt hằng tuần cho nhân viên. Hộp có nhiều món nhất hợp cho nhóm lớn, còn các hộp nhỏ hợp để ở bàn cá nhân. Mọi hộp được giao sáng thứ Sáu hằng tuần và gồm trái cây, hạt và đồ ăn vặt đóng gói. Bạn có thể đăng ký qua cổng nhân viên và hủy bất cứ lúc nào. Thanh toán thu theo tháng qua lương, và bạn có thể chọn tầng giao khi thanh toán. Nếu bị dị ứng, hãy ghi chú trên biểu mẫu. Cảm ơn."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "You can also pause your subscription for one week.",
+          "vi": "Bạn cũng có thể tạm dừng đăng ký một tuần."
+        }
+      ],
+      "questions": [
+        {
+          "no": 7,
+          "type": "p4_implied_meaning",
+          "difficulty": 4,
+          "stem": "What does the speaker mean when she says, \"The box with the most items can feed a small army, while the smaller boxes suit a single desk.\"?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Large teams get a discount"
+            },
+            {
+              "key": "B",
+              "text": "The box with the most items suits many people"
+            },
+            {
+              "key": "C",
+              "text": "Small boxes are not available"
+            },
+            {
+              "key": "D",
+              "text": "The boxes are free"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Cụm 'feed a small army' ngụ ý hộp nhiều món đủ cho nhóm đông người.",
+            "why_wrong": {
+              "A": "Không nói giảm giá.",
+              "C": "Hộp nhỏ vẫn có.",
+              "D": "Không miễn phí."
+            },
+            "translation_vi": "Cô ấy ngụ ý hộp nhiều món hợp cho nhóm đông."
+          }
+        },
+        {
+          "no": 8,
+          "type": "p4_graphic",
+          "difficulty": 4,
+          "stem": "Look at the graphic. What is the monthly price of the box the speaker mentions?",
+          "options": [
+            {
+              "key": "A",
+              "text": "$60"
+            },
+            {
+              "key": "B",
+              "text": "$15"
+            },
+            {
+              "key": "C",
+              "text": "$25"
+            },
+            {
+              "key": "D",
+              "text": "$40"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Hộp có nhiều món nhất là Premium, giá $60/tháng.",
+            "why_wrong": {
+              "B": "$15 là Mini.",
+              "C": "$25 là Standard.",
+              "D": "$40 là Large."
+            },
+            "translation_vi": "Giá hằng tháng của hộp được nhắc đến là 60 đô."
+          }
+        },
+        {
+          "no": 9,
+          "type": "p4_purpose_topic",
+          "difficulty": 2,
+          "stem": "What is the purpose of the talk?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To sell fruit"
+            },
+            {
+              "key": "B",
+              "text": "To introduce the snack box delivery service"
+            },
+            {
+              "key": "C",
+              "text": "To hire kitchen staff"
+            },
+            {
+              "key": "D",
+              "text": "To close the break room"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Người nói giới thiệu dịch vụ giao hộp đồ ăn vặt hằng tuần.",
+            "why_wrong": {
+              "A": "Không bán trái cây.",
+              "C": "Không tuyển nhân viên bếp.",
+              "D": "Không đóng phòng nghỉ."
+            },
+            "translation_vi": "Mục đích là giới thiệu dịch vụ giao hộp đồ ăn vặt."
+          }
+        }
+      ],
+      "graphic": {
+        "kind": "table",
+        "title": "Snack box options",
+        "columns": [
+          "Box",
+          "Monthly price",
+          "Items",
+          "Delivery"
+        ],
+        "rows": [
+          [
+            "Mini",
+            "$15",
+            "10 items",
+            "Weekly"
+          ],
+          [
+            "Standard",
+            "$25",
+            "20 items",
+            "Weekly"
+          ],
+          [
+            "Large",
+            "$40",
+            "30 items",
+            "Weekly"
+          ],
+          [
+            "Premium",
+            "$60",
+            "40 items",
+            "Weekly"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "g04",
+      "part": 4,
+      "audio": "audio/g04.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 10 through 12 refer to the following announcement.",
+          "vi": "Câu 10 đến 12 dựa vào thông báo sau."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "Good morning. We are reopening the staff suggestion box, which had been paused during the office renovation. You can now submit ideas for improving our workplace through the online form or the physical box near the cafeteria. Suggestions are reviewed every two weeks by the operations team, and the best idea each month receives a small prize. Please include your name and department if you want to receive feedback, but anonymous submissions are also accepted. The first review round closes next Friday. Thank you for sharing your ideas.",
+          "vi": "Chào buổi sáng. Chúng tôi mở lại hộp góp ý nhân viên, vốn đã tạm dừng trong lúc cải tạo văn phòng. Giờ bạn có thể gửi ý tưởng cải thiện nơi làm việc qua biểu mẫu trực tuyến hoặc hộp góp ý gần nhà ăn. Ý kiến được nhóm vận hành xem xét mỗi hai tuần, và ý tưởng hay nhất mỗi tháng nhận phần thưởng nhỏ. Hãy ghi tên và phòng ban nếu muốn nhận phản hồi, nhưng cũng chấp nhận góp ý ẩn danh. Vòng xem xét đầu tiên đóng vào thứ Sáu tuần sau. Cảm ơn đã chia sẻ ý tưởng."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "We look forward to reading your suggestions.",
+          "vi": "Chúng tôi mong được đọc các góp ý của bạn."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "The best idea will be announced on the notice board.",
+          "vi": "Ý tưởng hay nhất sẽ được công bố trên bảng thông báo."
+        }
+      ],
+      "questions": [
+        {
+          "no": 10,
+          "type": "p4_speaker_audience",
+          "difficulty": 2,
+          "stem": "Who most likely is the audience?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Employees"
+            },
+            {
+              "key": "B",
+              "text": "Operations staff only"
+            },
+            {
+              "key": "C",
+              "text": "Visitors"
+            },
+            {
+              "key": "D",
+              "text": "Customers"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Người nói mời nhân viên gửi ý tưởng cải thiện nơi làm việc.",
+            "why_wrong": {
+              "B": "Không chỉ riêng nhân viên vận hành.",
+              "C": "Không phải khách.",
+              "D": "Không phải khách hàng."
+            },
+            "translation_vi": "Người nghe là nhân viên."
+          }
+        },
+        {
+          "no": 11,
+          "type": "p4_detail",
+          "difficulty": 3,
+          "stem": "How often are suggestions reviewed?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Every day"
+            },
+            {
+              "key": "B",
+              "text": "Once a year"
+            },
+            {
+              "key": "C",
+              "text": "Every two weeks"
+            },
+            {
+              "key": "D",
+              "text": "Every month only"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Ý kiến được xem xét mỗi hai tuần.",
+            "why_wrong": {
+              "A": "Không phải mỗi ngày.",
+              "B": "Không phải mỗi năm.",
+              "D": "Không chỉ mỗi tháng."
+            },
+            "translation_vi": "Ý kiến được xem xét mỗi hai tuần."
+          }
+        },
+        {
+          "no": 12,
+          "type": "p4_request_suggestion",
+          "difficulty": 3,
+          "stem": "What should employees include if they want feedback?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A photo"
+            },
+            {
+              "key": "B",
+              "text": "A prize"
+            },
+            {
+              "key": "C",
+              "text": "A signature"
+            },
+            {
+              "key": "D",
+              "text": "Their name and department"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Nhân viên nên ghi tên và phòng ban nếu muốn nhận phản hồi.",
+            "why_wrong": {
+              "A": "Không cần ảnh.",
+              "B": "Phần thưởng là cho ý tưởng hay nhất.",
+              "C": "Không cần chữ ký."
+            },
+            "translation_vi": "Họ nên ghi tên và phòng ban."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "part": 4,
+      "audio": "audio/g05.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 13 through 15 refer to the following announcement.",
+          "vi": "Câu 13 đến 15 dựa vào thông báo sau."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Attention, team. The building will test its backup generator this Friday at six in the evening. The test will last about thirty minutes, and during that time the lights in the hallways may flicker. Your computers and office equipment will not be affected because they run on a separate circuit. However, the elevators will be stopped for safety, so please use the stairs if you are still in the building. If you hear a short alarm, don't jump out of your skin; it is just part of the test. We appreciate your patience during this routine procedure.",
+          "vi": "Xin nhóm chú ý. Tòa nhà sẽ kiểm tra máy phát điện dự phòng thứ Sáu này lúc sáu giờ tối. Việc kiểm tra kéo dài khoảng ba mươi phút, và trong thời gian đó đèn hành lang có thể nhấp nháy. Máy tính và thiết bị văn phòng không bị ảnh hưởng vì chạy trên mạch riêng. Tuy nhiên, thang máy sẽ dừng vì an toàn, nên hãy dùng cầu thang nếu còn ở trong tòa nhà. Nếu nghe chuông ngắn, đừng lo lắng; đó là một phần của việc kiểm tra. Cảm ơn sự kiên nhẫn trong quy trình định kỳ này."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Thank you for helping us keep the building safe.",
+          "vi": "Cảm ơn đã giúp giữ an toàn cho tòa nhà."
+        }
+      ],
+      "questions": [
+        {
+          "no": 13,
+          "type": "p4_next_action",
+          "difficulty": 3,
+          "stem": "What will happen to the elevators during the test?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They will be stopped"
+            },
+            {
+              "key": "B",
+              "text": "They will run faster"
+            },
+            {
+              "key": "C",
+              "text": "They will be cleaned"
+            },
+            {
+              "key": "D",
+              "text": "They will be replaced"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Thang máy sẽ dừng vì an toàn trong lúc kiểm tra.",
+            "why_wrong": {
+              "B": "Không chạy nhanh hơn.",
+              "C": "Không nói dọn thang máy.",
+              "D": "Không thay thang máy."
+            },
+            "translation_vi": "Thang máy sẽ dừng."
+          }
+        },
+        {
+          "no": 14,
+          "type": "p4_inference",
+          "difficulty": 4,
+          "stem": "Why will office equipment not be affected?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It is turned off"
+            },
+            {
+              "key": "B",
+              "text": "The test is short"
+            },
+            {
+              "key": "C",
+              "text": "It runs on a separate circuit"
+            },
+            {
+              "key": "D",
+              "text": "The generator is new"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Thiết bị chạy trên mạch riêng nên không bị ảnh hưởng.",
+            "why_wrong": {
+              "A": "Không nói tắt thiết bị.",
+              "B": "Thời gian ngắn không phải lý do.",
+              "D": "Không nói máy phát mới."
+            },
+            "translation_vi": "Vì thiết bị chạy trên mạch riêng."
+          }
+        },
+        {
+          "no": 15,
+          "type": "p4_implied_meaning",
+          "difficulty": 4,
+          "stem": "What does the speaker mean when she says, \"If you hear a short alarm, don't jump out of your skin; it is just part of the test.\"?",
+          "options": [
+            {
+              "key": "A",
+              "text": "There is a real fire"
+            },
+            {
+              "key": "B",
+              "text": "There is no need to panic"
+            },
+            {
+              "key": "C",
+              "text": "The building is closing"
+            },
+            {
+              "key": "D",
+              "text": "Everyone must leave"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Cụm 'don't jump out of your skin' ngụ ý không cần hoảng sợ vì chuông chỉ là thử nghiệm.",
+            "why_wrong": {
+              "A": "Không có cháy thật.",
+              "C": "Tòa nhà không đóng.",
+              "D": "Không yêu cầu rời đi."
+            },
+            "translation_vi": "Cô ấy ngụ ý không cần hoảng sợ."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g06",
+      "part": 4,
+      "audio": "audio/g06.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 16 through 18 refer to the following announcement and graphic.",
+          "vi": "Câu 16 đến 18 dựa vào thông báo và bảng sau."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "Attention, staff. The annual service awards will be presented at the end of this month, and we would like to recognise our long-serving colleagues. The award for fifteen years of service comes with a special gift, which will be presented by the director at the ceremony. Other milestones also receive gifts of different values, so please check the list on the portal. If you have reached a milestone this year, make sure your name is on the list before Friday. The ceremony will be held in the main hall, and light refreshments will follow. Thank you.",
+          "vi": "Xin nhân viên chú ý. Giải thưởng phục vụ hằng năm sẽ được trao vào cuối tháng này, và chúng tôi muốn vinh danh các đồng nghiệp gắn bó lâu năm. Giải cho mười lăm năm phục vụ đi kèm một món quà đặc biệt, do giám đốc trao tại buổi lễ. Các mốc khác cũng nhận quà có giá trị khác nhau, hãy xem danh sách trên cổng thông tin. Nếu bạn đạt mốc trong năm nay, hãy đảm bảo tên có trong danh sách trước thứ Sáu. Buổi lễ diễn ra ở hội trường chính, sau đó có tiệc nhẹ. Cảm ơn."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "Please wear your staff badge to the ceremony.",
+          "vi": "Hãy đeo thẻ nhân viên đến buổi lễ."
+        }
+      ],
+      "questions": [
+        {
+          "no": 16,
+          "type": "p4_graphic",
+          "difficulty": 4,
+          "stem": "Look at the graphic. What is the gift value for the award the speaker mentions?",
+          "options": [
+            {
+              "key": "A",
+              "text": "$100"
+            },
+            {
+              "key": "B",
+              "text": "$200"
+            },
+            {
+              "key": "C",
+              "text": "$500"
+            },
+            {
+              "key": "D",
+              "text": "$300"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Giải cho mười lăm năm phục vụ có giá trị quà $300.",
+            "why_wrong": {
+              "A": "$100 là 5 years.",
+              "B": "$200 là 10 years.",
+              "C": "$500 là 20 years."
+            },
+            "translation_vi": "Giá trị quà của giải được nhắc đến là 300 đô."
+          }
+        },
+        {
+          "no": 17,
+          "type": "p4_purpose_topic",
+          "difficulty": 2,
+          "stem": "What is the purpose of the talk?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To announce the service awards ceremony"
+            },
+            {
+              "key": "B",
+              "text": "To sell gifts"
+            },
+            {
+              "key": "C",
+              "text": "To hire staff"
+            },
+            {
+              "key": "D",
+              "text": "To close the main hall"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Người nói thông báo buổi lễ trao giải phục vụ hằng năm.",
+            "why_wrong": {
+              "B": "Không bán quà.",
+              "C": "Không tuyển người.",
+              "D": "Không đóng hội trường."
+            },
+            "translation_vi": "Mục đích là thông báo buổi lễ trao giải."
+          }
+        },
+        {
+          "no": 18,
+          "type": "p4_speaker_audience",
+          "difficulty": 2,
+          "stem": "Who most likely is the audience?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Visitors"
+            },
+            {
+              "key": "B",
+              "text": "Employees"
+            },
+            {
+              "key": "C",
+              "text": "Directors only"
+            },
+            {
+              "key": "D",
+              "text": "Event planners"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Người nói thông báo cho nhân viên về giải thưởng phục vụ.",
+            "why_wrong": {
+              "A": "Không phải khách.",
+              "C": "Không chỉ riêng giám đốc.",
+              "D": "Không phải nhà tổ chức sự kiện."
+            },
+            "translation_vi": "Người nghe là nhân viên."
+          }
+        }
+      ],
+      "graphic": {
+        "kind": "table",
+        "title": "Service award gifts",
+        "columns": [
+          "Award",
+          "Years",
+          "Gift",
+          "Value"
+        ],
+        "rows": [
+          [
+            "5 years",
+            "5",
+            "Gift card",
+            "$100"
+          ],
+          [
+            "10 years",
+            "10",
+            "Watch",
+            "$200"
+          ],
+          [
+            "15 years",
+            "15",
+            "Tablet",
+            "$300"
+          ],
+          [
+            "20 years",
+            "20",
+            "Travel voucher",
+            "$500"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "g07",
+      "part": 4,
+      "audio": "audio/g07.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 19 through 21 refer to the following announcement.",
+          "vi": "Câu 19 đến 21 dựa vào thông báo sau."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "Hello, everyone. The quarterly all-hands meeting will be held next Thursday at two in the main auditorium. Please arrive ten minutes early so we can start on time. The meeting will begin with a short update from each department head, followed by a question-and-answer session. If you would like to submit a question in advance, you can do so through the online form by Wednesday. The presentation slides will be shared by email after the meeting for those who cannot attend. Thank you.",
+          "vi": "Xin chào mọi người. Cuộc họp toàn công ty quý sẽ diễn ra thứ Năm tuần sau lúc hai giờ tại hội trường chính. Hãy đến sớm mười phút để ta bắt đầu đúng giờ. Buổi họp bắt đầu với cập nhật ngắn từ từng trưởng phòng, sau đó là phần hỏi đáp. Nếu muốn gửi câu hỏi trước, bạn có thể dùng biểu mẫu trực tuyến trước thứ Tư. Slide thuyết trình sẽ được gửi qua email sau buổi họp cho người không tham dự được. Cảm ơn."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "The meeting is expected to last about one hour.",
+          "vi": "Buổi họp dự kiến kéo dài khoảng một giờ."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "Please bring a notebook if you wish to take notes.",
+          "vi": "Hãy mang sổ nếu muốn ghi chú."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "We look forward to seeing everyone there.",
+          "vi": "Mong được gặp mọi người ở đó."
+        }
+      ],
+      "questions": [
+        {
+          "no": 19,
+          "type": "p4_detail",
+          "difficulty": 3,
+          "stem": "When will the all-hands meeting be held?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Next Wednesday morning"
+            },
+            {
+              "key": "B",
+              "text": "This Friday at noon"
+            },
+            {
+              "key": "C",
+              "text": "Next Thursday at two"
+            },
+            {
+              "key": "D",
+              "text": "Next Monday at nine"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Cuộc họp diễn ra thứ Năm tuần sau lúc hai giờ.",
+            "why_wrong": {
+              "A": "Thứ Tư là hạn gửi câu hỏi.",
+              "B": "Không nhắc thứ Sáu.",
+              "D": "Không nhắc thứ Hai."
+            },
+            "translation_vi": "Cuộc họp diễn ra thứ Năm tuần sau lúc hai giờ."
+          }
+        },
+        {
+          "no": 20,
+          "type": "p4_request_suggestion",
+          "difficulty": 3,
+          "stem": "How can employees submit questions in advance?",
+          "options": [
+            {
+              "key": "A",
+              "text": "By phone"
+            },
+            {
+              "key": "B",
+              "text": "By mail"
+            },
+            {
+              "key": "C",
+              "text": "At the meeting only"
+            },
+            {
+              "key": "D",
+              "text": "Through the online form"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Nhân viên có thể gửi câu hỏi qua biểu mẫu trực tuyến trước thứ Tư.",
+            "why_wrong": {
+              "A": "Không nhắc gọi điện.",
+              "B": "Không nhắc gửi thư.",
+              "C": "Có thể gửi trước, không chỉ tại buổi họp."
+            },
+            "translation_vi": "Nhân viên nên dùng biểu mẫu trực tuyến."
+          }
+        },
+        {
+          "no": 21,
+          "type": "p4_inference",
+          "difficulty": 4,
+          "stem": "Why will the slides be shared after the meeting?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The projector is broken"
+            },
+            {
+              "key": "B",
+              "text": "So absent employees can review them"
+            },
+            {
+              "key": "C",
+              "text": "The slides are too long"
+            },
+            {
+              "key": "D",
+              "text": "The meeting is canceled"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Slide được gửi để người không tham dự được có thể xem lại.",
+            "why_wrong": {
+              "A": "Không nói máy chiếu hỏng.",
+              "C": "Không nói slide dài.",
+              "D": "Buổi họp vẫn diễn ra."
+            },
+            "translation_vi": "Vì để người vắng có thể xem lại."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g08",
+      "part": 4,
+      "audio": "audio/g08.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 22 through 24 refer to the following announcement.",
+          "vi": "Câu 22 đến 24 dựa vào thông báo sau."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "Good morning. This is a quick notice about the smoke detectors on the fourth floor. We will test them this Thursday between two and three in the afternoon. When the test begins, you will hear a series of short beeps. Do not leave your desk; it is only a drill. The fire doors on that floor will close automatically, so please keep the stairwell clear. The test should take about thirty minutes. After it is finished, the system will return to normal by itself. If the alarm continues for more than five minutes, call the security desk. There is no need to evacuate during this test. Thank you.",
+          "vi": "Chào buổi sáng. Thông báo nhanh về các máy báo khói tầng bốn. Chúng tôi sẽ kiểm tra thứ Năm này từ hai đến ba giờ chiều. Khi bắt đầu, bạn sẽ nghe một chuỗi tiếng bíp ngắn. Đừng rời bàn; đó chỉ là diễn tập. Cửa chống cháy tầng đó sẽ tự đóng, nên hãy giữ cầu thang thông thoáng. Việc kiểm tra mất khoảng ba mươi phút. Sau khi xong, hệ thống sẽ tự trở lại bình thường. Nếu chuông kéo dài hơn năm phút, hãy gọi bàn an ninh. Không cần sơ tán trong lúc kiểm tra. Cảm ơn."
+        }
+      ],
+      "questions": [
+        {
+          "no": 22,
+          "type": "p4_next_action",
+          "difficulty": 3,
+          "stem": "What will happen when the test begins?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Staff will hear short beeps"
+            },
+            {
+              "key": "B",
+              "text": "The building will evacuate"
+            },
+            {
+              "key": "C",
+              "text": "The stairwell will close"
+            },
+            {
+              "key": "D",
+              "text": "The system will stop"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Khi bắt đầu, nhân viên sẽ nghe một chuỗi tiếng bíp ngắn.",
+            "why_wrong": {
+              "B": "Không cần sơ tán.",
+              "C": "Cầu thang vẫn mở.",
+              "D": "Hệ thống vẫn chạy."
+            },
+            "translation_vi": "Nhân viên sẽ nghe tiếng bíp ngắn."
+          }
+        },
+        {
+          "no": 23,
+          "type": "p4_implied_meaning",
+          "difficulty": 4,
+          "stem": "What does the speaker mean when he says, \"Do not leave your desk; it is only a drill\"?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The desks are locked"
+            },
+            {
+              "key": "B",
+              "text": "Everyone must go outside"
+            },
+            {
+              "key": "C",
+              "text": "The alarm is real"
+            },
+            {
+              "key": "D",
+              "text": "There is no need to evacuate"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Anh ấy ngụ ý không cần rời bàn vì đây chỉ là diễn tập.",
+            "why_wrong": {
+              "A": "Không nói bàn bị khóa.",
+              "B": "Không yêu cầu ra ngoài.",
+              "C": "Chuông không phải báo thật."
+            },
+            "translation_vi": "Anh ấy ngụ ý không cần sơ tán."
+          }
+        },
+        {
+          "no": 24,
+          "type": "p4_next_action",
+          "difficulty": 3,
+          "stem": "What will happen after the test is finished?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The fire doors will stay closed"
+            },
+            {
+              "key": "B",
+              "text": "The building will close"
+            },
+            {
+              "key": "C",
+              "text": "The system will return to normal"
+            },
+            {
+              "key": "D",
+              "text": "Staff will be tested again"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Sau khi xong, hệ thống sẽ tự trở lại bình thường.",
+            "why_wrong": {
+              "A": "Cửa chống cháy mở lại.",
+              "B": "Tòa nhà không đóng.",
+              "D": "Không kiểm tra lại."
+            },
+            "translation_vi": "Hệ thống sẽ trở lại bình thường."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g09",
+      "part": 4,
+      "audio": "audio/g09.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 25 through 27 refer to the following announcement.",
+          "vi": "Câu 25 đến 27 dựa vào thông báo sau."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "Attention, team. The mailroom has introduced a new pickup system for packages. From now on, you will receive an email when your package arrives. Do not let your deliveries gather dust. Please collect them within two days. Packages left longer than that will be sent packing. If you are away, ask a colleague to pick up your package. The mailroom window is open from nine to four, and you will need your staff badge to sign for items. Large deliveries should be collected from the loading bay instead. Thank you.",
+          "vi": "Xin nhóm chú ý. Phòng thư đã triển khai hệ thống nhận gói mới. Từ giờ, bạn sẽ nhận email khi gói hàng đến. Đừng để gói hàng phủ bụi. Hãy nhận trong vòng hai ngày. Gói để lâu hơn sẽ bị trả lại người gửi. Nếu đi vắng, hãy nhờ đồng nghiệp nhận hộ. Cửa sổ phòng thư mở từ chín đến bốn giờ, và bạn cần thẻ nhân viên để ký nhận. Gói lớn nên nhận ở bến bốc xếp. Cảm ơn."
+        }
+      ],
+      "questions": [
+        {
+          "no": 25,
+          "type": "p4_implied_meaning",
+          "difficulty": 4,
+          "stem": "What does the speaker mean when he says, \"Do not let your deliveries gather dust\"?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The packages are dirty"
+            },
+            {
+              "key": "B",
+              "text": "Collect your packages promptly"
+            },
+            {
+              "key": "C",
+              "text": "Dust will damage the items"
+            },
+            {
+              "key": "D",
+              "text": "Packages must stay in the mailroom"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Anh ấy ngụ ý nên nhận gói kịp thời, không để quá lâu.",
+            "why_wrong": {
+              "A": "Không nói gói bẩn.",
+              "C": "Không nói bụi làm hỏng.",
+              "D": "Không bắt để lại phòng thư."
+            },
+            "translation_vi": "Anh ấy ngụ ý nên nhận gói kịp thời."
+          }
+        },
+        {
+          "no": 26,
+          "type": "p4_next_action",
+          "difficulty": 3,
+          "stem": "What should staff do if they are away?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Return the package"
+            },
+            {
+              "key": "B",
+              "text": "Wait until they return"
+            },
+            {
+              "key": "C",
+              "text": "Call the sender"
+            },
+            {
+              "key": "D",
+              "text": "Ask a colleague to pick up the package"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Nếu đi vắng, hãy nhờ đồng nghiệp nhận hộ.",
+            "why_wrong": {
+              "A": "Không trả gói.",
+              "B": "Không chờ đến khi về.",
+              "C": "Không gọi người gửi."
+            },
+            "translation_vi": "Họ nên nhờ đồng nghiệp nhận hộ."
+          }
+        },
+        {
+          "no": 27,
+          "type": "p4_implied_meaning",
+          "difficulty": 4,
+          "stem": "What does the speaker mean when he says, \"Packages left longer than that will be sent packing.\"?",
+          "options": [
+            {
+              "key": "A",
+              "text": "There is a strict deadline for pickup"
+            },
+            {
+              "key": "B",
+              "text": "The sender will pay a fee"
+            },
+            {
+              "key": "C",
+              "text": "Packages are never returned"
+            },
+            {
+              "key": "D",
+              "text": "Staff can keep packages longer"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Cụm 'sent packing' ngụ ý gói quá hạn sẽ bị trả lại, tức có hạn nhận nghiêm ngặt.",
+            "why_wrong": {
+              "B": "Không nói phí.",
+              "C": "Gói quá hạn bị trả lại.",
+              "D": "Không được giữ lâu."
+            },
+            "translation_vi": "Anh ấy ngụ ý có hạn nhận gói nghiêm ngặt."
+          }
+        }
+      ]
+    }
+  ]
+}

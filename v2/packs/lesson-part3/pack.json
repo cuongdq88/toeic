@@ -1,0 +1,66 @@
+{
+  "id": "lesson-part3",
+  "kind": "lesson",
+  "title": "Chiến thuật Part 3 – Conversations",
+  "topic": "part3",
+  "parts": [
+    3
+  ],
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "Bài chiến thuật Part 3, thông số theo README mục 4-5.",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 0
+    }
+  },
+  "sections": [
+    {
+      "heading": "Part này thi gì",
+      "body": "Part 3 có **39 câu = 13 đoạn hội thoại × 3 câu**, khoảng **15 phút**. Mỗi đoạn dài 80–150 từ, có 2 hoặc 3 người nói, nghe **một lần**. Một số đoạn kèm bảng/biểu đồ (graphic). Câu hỏi đi theo thứ tự thông tin trong bài."
+    },
+    {
+      "heading": "Các dạng câu hỏi",
+      "body": "- Chủ đề, mục đích hội thoại\n- Người nói là ai / ở đâu\n- Thông tin chi tiết\n- Vấn đề, lý do\n- Yêu cầu, đề nghị của người nói\n- Việc sẽ làm tiếp theo\n- Suy luận\n- Ý định người nói (câu trích trong ngoặc kép)\n- Câu hỏi kèm bảng / biểu đồ"
+    },
+    {
+      "heading": "Chiến thuật làm bài",
+      "body": "1. Tranh thủ thời gian đọc trước **3 câu hỏi và đáp án** của đoạn.\n2. Đánh dấu loại câu hỏi: chủ đề, chi tiết, số liệu, ý định, graphic.\n3. Nghe theo **thứ tự thông tin**; câu hỏi thường khớp thứ tự trong bài.\n4. Ghi nhanh con số, giờ, tên vào giấy nháp.\n5. Với câu graphic: đọc bảng trước khi nghe để biết cần tìm dòng nào.\n6. Câu ý định: nghe cả câu trước và sau câu được trích."
+    },
+    {
+      "heading": "Bẫy thường gặp",
+      "body": "- **Số liệu nhiễu**: nhiều con số được nhắc, chỉ một con số đúng với câu hỏi.\n- **Đồng nghĩa/paraphrase**: đáp án dùng từ khác với transcript.\n- **Thứ tự hành động**: hỏi việc sẽ làm tiếp theo, không phải việc vừa nói.\n- **Graphic**: đáp án có thể là dòng trong bảng cần kết hợp với lời nói.\n- **Ý định**: câu trả lời không lặp lại nguyên văn câu được trích."
+    },
+    {
+      "heading": "Phân bổ thời gian",
+      "body": "39 câu trong khoảng **15 phút**, trung bình khoảng **23 giây/câu**. Audio đọc câu hỏi và có khoảng nghỉ nên chủ yếu tận dụng lúc đọc hướng dẫn để xem trước câu hỏi; không nghe lại được."
+    }
+  ],
+  "examples": [
+    {
+      "en": "W: Twenty-two? I thought it was fifteen.",
+      "vi": "Nữ: Hai mươi hai? Tôi tưởng là mười lăm.",
+      "note": "Câu hỏi ý định: người nói ngạc nhiên vì số người đông hơn dự kiến."
+    },
+    {
+      "en": "M: Let's ask the AV team to stay late.",
+      "vi": "Nam: Hãy đề nghị nhóm âm thanh ở lại muộn.",
+      "note": "Câu hỏi hành động tiếp theo: đáp án là 'ask the AV team'."
+    },
+    {
+      "en": "W: The room is booked at two, but three works.",
+      "vi": "Nữ: Phòng đã được đặt lúc hai giờ, nhưng ba giờ thì được.",
+      "note": "Bẫy số liệu: hai giờ bị từ chối, ba giờ mới là phương án chọn."
+    },
+    {
+      "en": "M: I'll call the café around the corner.",
+      "vi": "Nam: Tôi sẽ gọi quán cà phê ở góc phố.",
+      "note": "Paraphrase: 'call the café' = liên hệ một nhà hàng gần đó."
+    }
+  ],
+  "practice_pack": null
+}

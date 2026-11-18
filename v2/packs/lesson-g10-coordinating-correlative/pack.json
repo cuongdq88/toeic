@@ -1,0 +1,57 @@
+{
+  "id": "lesson-g10-coordinating-correlative",
+  "kind": "lesson",
+  "title": "Liên từ kết hợp và cặp liên từ",
+  "topic": "g10_coordinating_correlative",
+  "parts": [
+    5
+  ],
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "Bài ngữ pháp g10 kèm gói luyện practice-p5-coordinating-conjunction-01.",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 0
+    }
+  },
+  "sections": [
+    {
+      "heading": "Bảy liên từ kết hợp",
+      "body": "FANBOYS: **for, and, nor, but, or, yet, so**. Chúng nối hai mệnh đề hoặc hai thành phần ngang hàng. Trước liên từ nối hai mệnh đề độc lập thường có dấu phẩy."
+    },
+    {
+      "heading": "Cặp liên từ tương quan",
+      "body": "| Cặp | Ý nghĩa |\n|---|---|\n| both ... and | cả ... và (số nhiều) |\n| either ... or | hoặc ... hoặc |\n| neither ... nor | không ... cũng không |\n| not only ... but also | không chỉ ... mà còn |\n| whether ... or | dù ... hay |"
+    },
+    {
+      "heading": "Mẹo nhận diện trong đề TOEIC",
+      "body": "Nếu thấy nửa đầu của cặp liên từ, tìm đúng nửa còn lại: *both* → *and*, *neither* → *nor*, *not only* → *but also*. Kiểm tra cả hai vế có cùng loại từ không. Với 'neither ... nor', động từ chia theo chủ ngữ gần nhất."
+    },
+    {
+      "heading": "Bẫy thường gặp",
+      "body": "Không dùng 'both ... or' hay 'neither ... or'. 'Not only' đứng đầu câu thường gây đảo ngữ: *Not only did sales fall...*. Phân biệt 'nor' (bổ sung phủ định) với 'or' (lựa chọn). Đừng nhầm 'yet' với 'already'."
+    }
+  ],
+  "examples": [
+    {
+      "en": "Both the manager and the assistant signed the form.",
+      "vi": "Cả quản lý và trợ lý đều ký mẫu.",
+      "note": "Cặp 'both ... and'."
+    },
+    {
+      "en": "Neither the printer nor the scanner is working.",
+      "vi": "Cả máy in và máy quét đều không hoạt động.",
+      "note": "'Neither ... nor', động từ theo chủ ngữ gần nhất."
+    },
+    {
+      "en": "Not only did costs rise, but profits also fell.",
+      "vi": "Không chỉ chi phí tăng mà lợi nhuận cũng giảm.",
+      "note": "'Not only' đầu câu gây đảo ngữ."
+    }
+  ],
+  "practice_pack": "practice-p5-coordinating-conjunction-01"
+}

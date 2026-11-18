@@ -1,0 +1,666 @@
+{
+  "id": "practice-p5-conditional-01",
+  "kind": "practice",
+  "title": "Luyện Part 5 – Câu điều kiện 01",
+  "level": "medium",
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "15 câu điều kiện, 5 câu mức 4-5.",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 0
+    }
+  },
+  "groups": [
+    {
+      "id": "g01",
+      "part": 5,
+      "questions": [
+        {
+          "no": 1,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 3,
+          "stem": "If the order ____ before noon, it will ship today.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is placed"
+            },
+            {
+              "key": "B",
+              "text": "will be placed"
+            },
+            {
+              "key": "C",
+              "text": "placed"
+            },
+            {
+              "key": "D",
+              "text": "was placed"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Mệnh đề If loại 1 dùng hiện tại đơn, không dùng 'will'.",
+            "why_wrong": {
+              "B": "'Will be placed' không dùng trong mệnh đề If.",
+              "C": "'Placed' thiếu trợ động từ bị động.",
+              "D": "'Was placed' sai thì."
+            },
+            "translation_vi": "Nếu đơn hàng được đặt trước trưa, hôm nay sẽ gửi."
+          },
+          "tags": [
+            "g18_conditionals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "part": 5,
+      "questions": [
+        {
+          "no": 2,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 4,
+          "stem": "If I ____ the manager, I would approve the budget.",
+          "options": [
+            {
+              "key": "A",
+              "text": "am"
+            },
+            {
+              "key": "B",
+              "text": "were"
+            },
+            {
+              "key": "C",
+              "text": "was"
+            },
+            {
+              "key": "D",
+              "text": "will be"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Điều kiện loại 2 dùng 'were' cho mọi ngôi.",
+            "why_wrong": {
+              "A": "'Am' sai loại điều kiện.",
+              "C": "'Was' kém chuẩn trong văn phong trang trọng.",
+              "D": "'Will be' không dùng trong mệnh đề If loại 2."
+            },
+            "translation_vi": "Nếu tôi là quản lý, tôi sẽ duyệt ngân sách."
+          },
+          "tags": [
+            "g18_conditionals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "part": 5,
+      "questions": [
+        {
+          "no": 3,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 4,
+          "stem": "If they had booked earlier, they ____ a discount.",
+          "options": [
+            {
+              "key": "A",
+              "text": "would receive"
+            },
+            {
+              "key": "B",
+              "text": "received"
+            },
+            {
+              "key": "C",
+              "text": "would have received"
+            },
+            {
+              "key": "D",
+              "text": "will receive"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Điều kiện loại 3 dùng 'would have + V3'.",
+            "why_wrong": {
+              "A": "'Would receive' là loại 2.",
+              "B": "'Received' thiếu 'would have'.",
+              "D": "'Will receive' sai loại."
+            },
+            "translation_vi": "Nếu họ đặt sớm hơn, họ đã được giảm giá."
+          },
+          "tags": [
+            "g18_conditionals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "part": 5,
+      "questions": [
+        {
+          "no": 4,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 3,
+          "stem": "Unless the client ____ by five, we will cancel the booking.",
+          "options": [
+            {
+              "key": "A",
+              "text": "will call"
+            },
+            {
+              "key": "B",
+              "text": "called"
+            },
+            {
+              "key": "C",
+              "text": "calling"
+            },
+            {
+              "key": "D",
+              "text": "calls"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Sau 'unless' dùng hiện tại đơn.",
+            "why_wrong": {
+              "A": "'Will call' không dùng sau 'unless'.",
+              "B": "'Called' sai thì.",
+              "C": "'Calling' sai dạng."
+            },
+            "translation_vi": "Trừ khi khách gọi trước năm giờ, chúng tôi sẽ hủy đặt chỗ."
+          },
+          "tags": [
+            "g18_conditionals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "part": 5,
+      "questions": [
+        {
+          "no": 5,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 3,
+          "stem": "If the weather ____ fine, the event will be held outdoors.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is"
+            },
+            {
+              "key": "B",
+              "text": "will be"
+            },
+            {
+              "key": "C",
+              "text": "was"
+            },
+            {
+              "key": "D",
+              "text": "were"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Điều kiện loại 1 dùng hiện tại đơn.",
+            "why_wrong": {
+              "B": "'Will be' không dùng trong mệnh đề If.",
+              "C": "'Was' sai thì.",
+              "D": "'Were' dùng cho loại 2."
+            },
+            "translation_vi": "Nếu thời tiết đẹp, sự kiện sẽ tổ chức ngoài trời."
+          },
+          "tags": [
+            "g18_conditionals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g06",
+      "part": 5,
+      "questions": [
+        {
+          "no": 6,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 4,
+          "stem": "If she ____ harder, she would have passed the exam.",
+          "options": [
+            {
+              "key": "A",
+              "text": "studied"
+            },
+            {
+              "key": "B",
+              "text": "had studied"
+            },
+            {
+              "key": "C",
+              "text": "would study"
+            },
+            {
+              "key": "D",
+              "text": "studies"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Mệnh đề chính có 'would have' nên If dùng quá khứ hoàn thành.",
+            "why_wrong": {
+              "A": "'Studied' là loại 2.",
+              "C": "'Would study' không dùng trong mệnh đề If.",
+              "D": "'Studies' sai thì."
+            },
+            "translation_vi": "Nếu cô ấy học chăm hơn, cô ấy đã đỗ kỳ thi."
+          },
+          "tags": [
+            "g18_conditionals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g07",
+      "part": 5,
+      "questions": [
+        {
+          "no": 7,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 3,
+          "stem": "We will start the meeting ____ the team is ready.",
+          "options": [
+            {
+              "key": "A",
+              "text": "as soon"
+            },
+            {
+              "key": "B",
+              "text": "so soon"
+            },
+            {
+              "key": "C",
+              "text": "as soon as"
+            },
+            {
+              "key": "D",
+              "text": "soon"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'As soon as' + mệnh đề chỉ thời điểm.",
+            "why_wrong": {
+              "A": "'As soon' thiếu 'as'.",
+              "B": "'So soon' không nối mệnh đề.",
+              "D": "'Soon' không nối mệnh đề."
+            },
+            "translation_vi": "Chúng tôi sẽ bắt đầu họp ngay khi nhóm sẵn sàng."
+          },
+          "tags": [
+            "g18_conditionals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g08",
+      "part": 5,
+      "questions": [
+        {
+          "no": 8,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 2,
+          "stem": "If you ____ the form, please send it back by Friday.",
+          "options": [
+            {
+              "key": "A",
+              "text": "will complete"
+            },
+            {
+              "key": "B",
+              "text": "completed"
+            },
+            {
+              "key": "C",
+              "text": "completing"
+            },
+            {
+              "key": "D",
+              "text": "complete"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Mệnh đề If loại 1 dùng hiện tại đơn.",
+            "why_wrong": {
+              "A": "'Will complete' không dùng trong mệnh đề If.",
+              "B": "'Completed' sai thì.",
+              "C": "'Completing' sai dạng."
+            },
+            "translation_vi": "Nếu bạn hoàn thành mẫu, hãy gửi lại trước thứ Sáu."
+          },
+          "tags": [
+            "g18_conditionals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g09",
+      "part": 5,
+      "questions": [
+        {
+          "no": 9,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 5,
+          "stem": "Should you need help, ____ the support desk.",
+          "options": [
+            {
+              "key": "A",
+              "text": "contact"
+            },
+            {
+              "key": "B",
+              "text": "contacting"
+            },
+            {
+              "key": "C",
+              "text": "to contact"
+            },
+            {
+              "key": "D",
+              "text": "contacted"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Đảo ngữ điều kiện dùng động từ nguyên mẫu ở mệnh đề chính.",
+            "why_wrong": {
+              "B": "'Contacting' sai dạng.",
+              "C": "'To contact' không đúng.",
+              "D": "'Contacted' là quá khứ."
+            },
+            "translation_vi": "Nếu bạn cần giúp, hãy liên hệ quầy hỗ trợ."
+          },
+          "tags": [
+            "g18_conditionals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g10",
+      "part": 5,
+      "questions": [
+        {
+          "no": 10,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 3,
+          "stem": "If the shipment ____ delayed, we will inform the client.",
+          "options": [
+            {
+              "key": "A",
+              "text": "will be"
+            },
+            {
+              "key": "B",
+              "text": "is"
+            },
+            {
+              "key": "C",
+              "text": "was"
+            },
+            {
+              "key": "D",
+              "text": "were"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Điều kiện loại 1 dùng hiện tại đơn.",
+            "why_wrong": {
+              "A": "'Will be' không dùng trong mệnh đề If.",
+              "C": "'Was' sai thì.",
+              "D": "'Were' dùng cho loại 2."
+            },
+            "translation_vi": "Nếu lô hàng bị trễ, chúng tôi sẽ thông báo khách."
+          },
+          "tags": [
+            "g18_conditionals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g11",
+      "part": 5,
+      "questions": [
+        {
+          "no": 11,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 5,
+          "stem": "Were I in your position, I ____ the offer.",
+          "options": [
+            {
+              "key": "A",
+              "text": "will accept"
+            },
+            {
+              "key": "B",
+              "text": "accepted"
+            },
+            {
+              "key": "C",
+              "text": "would accept"
+            },
+            {
+              "key": "D",
+              "text": "would have accepted"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Đảo ngữ loại 2 dùng 'would + V'.",
+            "why_wrong": {
+              "A": "'Will accept' sai loại.",
+              "B": "'Accepted' thiếu 'would'.",
+              "D": "'Would have accepted' là loại 3."
+            },
+            "translation_vi": "Nếu tôi ở vị trí của bạn, tôi sẽ nhận lời đề nghị."
+          },
+          "tags": [
+            "g18_conditionals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g12",
+      "part": 5,
+      "questions": [
+        {
+          "no": 12,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 3,
+          "stem": "If the machine breaks down, the line ____ stopped.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is"
+            },
+            {
+              "key": "B",
+              "text": "was"
+            },
+            {
+              "key": "C",
+              "text": "were"
+            },
+            {
+              "key": "D",
+              "text": "will be"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Mệnh đề chính loại 1 dùng 'will + V'.",
+            "why_wrong": {
+              "A": "'Is' sai thì.",
+              "B": "'Was' sai thì.",
+              "C": "'Were' sai thì."
+            },
+            "translation_vi": "Nếu máy hỏng, dây chuyền sẽ bị dừng."
+          },
+          "tags": [
+            "g18_conditionals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g13",
+      "part": 5,
+      "questions": [
+        {
+          "no": 13,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 3,
+          "stem": "Unless we ____ costs, the project will lose money.",
+          "options": [
+            {
+              "key": "A",
+              "text": "reduce"
+            },
+            {
+              "key": "B",
+              "text": "will reduce"
+            },
+            {
+              "key": "C",
+              "text": "reduced"
+            },
+            {
+              "key": "D",
+              "text": "reducing"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Sau 'unless' dùng hiện tại đơn.",
+            "why_wrong": {
+              "B": "'Will reduce' không dùng sau 'unless'.",
+              "C": "'Reduced' sai thì.",
+              "D": "'Reducing' sai dạng."
+            },
+            "translation_vi": "Trừ khi chúng ta giảm chi phí, dự án sẽ lỗ."
+          },
+          "tags": [
+            "g18_conditionals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g14",
+      "part": 5,
+      "questions": [
+        {
+          "no": 14,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 5,
+          "stem": "Had we known about the strike, we ____ another carrier.",
+          "options": [
+            {
+              "key": "A",
+              "text": "would use"
+            },
+            {
+              "key": "B",
+              "text": "would have used"
+            },
+            {
+              "key": "C",
+              "text": "used"
+            },
+            {
+              "key": "D",
+              "text": "will use"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Đảo ngữ loại 3 dùng 'would have + V3'.",
+            "why_wrong": {
+              "A": "'Would use' là loại 2.",
+              "C": "'Used' thiếu 'would have'.",
+              "D": "'Will use' sai loại."
+            },
+            "translation_vi": "Nếu chúng tôi biết về cuộc đình công, chúng tôi đã dùng đơn vị khác."
+          },
+          "tags": [
+            "g18_conditionals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g15",
+      "part": 5,
+      "questions": [
+        {
+          "no": 15,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 4,
+          "stem": "If the contract ____ by Friday, the new branch will open in July.",
+          "options": [
+            {
+              "key": "A",
+              "text": "will be signed"
+            },
+            {
+              "key": "B",
+              "text": "signed"
+            },
+            {
+              "key": "C",
+              "text": "is signed"
+            },
+            {
+              "key": "D",
+              "text": "was signed"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Mệnh đề If loại 1 dùng hiện tại đơn bị động.",
+            "why_wrong": {
+              "A": "'Will be signed' không dùng trong mệnh đề If.",
+              "B": "'Signed' thiếu trợ động từ.",
+              "D": "'Was signed' sai thì."
+            },
+            "translation_vi": "Nếu hợp đồng được ký trước thứ Sáu, công việc sẽ bắt đầu thứ Hai."
+          },
+          "tags": [
+            "g18_conditionals"
+          ],
+          "tr": "Nếu hợp đồng được ký trước thứ Sáu, chi nhánh mới sẽ mở vào tháng Bảy."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,543 @@
+{
+  "id": "vocab-v13-manufacturing",
+  "kind": "vocab",
+  "title": "Từ vựng V13 – Sản xuất",
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "24 từ chủ đề sản xuất, tự chọn theo tần suất công sở, tự soạn ví dụ.",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 0
+    }
+  },
+  "words": [
+    {
+      "id": "w0001",
+      "word": "factory",
+      "pos": "n",
+      "ipa": "/ˈfæktəri/",
+      "meaning_vi": "nhà máy",
+      "definition_en": "a building where goods are made",
+      "examples": [
+        {
+          "en": "The factory runs three shifts a day.",
+          "vi": "Nhà máy chạy ba ca mỗi ngày."
+        }
+      ],
+      "collocations": [
+        "factory floor",
+        "factory worker"
+      ],
+      "family": [],
+      "topic": "v13_manufacturing",
+      "level": 1
+    },
+    {
+      "id": "w0002",
+      "word": "production",
+      "pos": "n",
+      "ipa": "/prəˈdʌkʃn/",
+      "meaning_vi": "sản xuất",
+      "definition_en": "the process of making goods",
+      "examples": [
+        {
+          "en": "Production stopped for two hours after the fault.",
+          "vi": "Sản xuất dừng hai giờ sau sự cố."
+        }
+      ],
+      "collocations": [
+        "production line",
+        "increase production"
+      ],
+      "family": [
+        "produce (v)"
+      ],
+      "topic": "v13_manufacturing",
+      "level": 2
+    },
+    {
+      "id": "w0003",
+      "word": "assembly",
+      "pos": "n",
+      "ipa": "/əˈsembli/",
+      "meaning_vi": "lắp ráp",
+      "definition_en": "the process of putting parts together",
+      "examples": [
+        {
+          "en": "The assembly line was redesigned last year.",
+          "vi": "Dây chuyền lắp ráp được thiết kế lại năm ngoái."
+        }
+      ],
+      "collocations": [
+        "assembly line",
+        "assembly plant"
+      ],
+      "family": [
+        "assemble (v)"
+      ],
+      "topic": "v13_manufacturing",
+      "level": 3
+    },
+    {
+      "id": "w0004",
+      "word": "conveyor",
+      "pos": "n",
+      "ipa": "/kənˈveɪər/",
+      "meaning_vi": "băng tải",
+      "definition_en": "a moving belt that carries goods or materials",
+      "examples": [
+        {
+          "en": "Boxes move along the conveyor to the packing area.",
+          "vi": "Các thùng di chuyển trên băng tải đến khu đóng gói."
+        }
+      ],
+      "collocations": [
+        "conveyor belt",
+        "conveyor system"
+      ],
+      "family": [],
+      "topic": "v13_manufacturing",
+      "level": 3
+    },
+    {
+      "id": "w0005",
+      "word": "machinery",
+      "pos": "n",
+      "ipa": "/məˈʃiːnəri/",
+      "meaning_vi": "máy móc",
+      "definition_en": "machines used in production",
+      "examples": [
+        {
+          "en": "The new machinery reduced energy use by fifteen percent.",
+          "vi": "Máy móc mới giảm mười lăm phần trăm năng lượng."
+        }
+      ],
+      "collocations": [
+        "heavy machinery",
+        "operate machinery"
+      ],
+      "family": [
+        "machine (n)"
+      ],
+      "topic": "v13_manufacturing",
+      "level": 3
+    },
+    {
+      "id": "w0006",
+      "word": "operator",
+      "pos": "n",
+      "ipa": "/ˈɑːpəreɪtər/",
+      "meaning_vi": "người vận hành",
+      "definition_en": "a person who controls a machine",
+      "examples": [
+        {
+          "en": "The operator stopped the press immediately.",
+          "vi": "Người vận hành dừng máy ép ngay lập tức."
+        }
+      ],
+      "collocations": [
+        "machine operator",
+        "forklift operator"
+      ],
+      "family": [
+        "operate (v)"
+      ],
+      "topic": "v13_manufacturing",
+      "level": 3
+    },
+    {
+      "id": "w0007",
+      "word": "shift",
+      "pos": "n",
+      "ipa": "/ʃɪft/",
+      "meaning_vi": "ca làm việc",
+      "definition_en": "a period of work in a factory or workplace",
+      "examples": [
+        {
+          "en": "The night shift starts at ten.",
+          "vi": "Ca đêm bắt đầu lúc mười giờ."
+        }
+      ],
+      "collocations": [
+        "night shift",
+        "shift schedule"
+      ],
+      "family": [],
+      "topic": "v13_manufacturing",
+      "level": 2
+    },
+    {
+      "id": "w0008",
+      "word": "output",
+      "pos": "n",
+      "ipa": "/ˈaʊtpʊt/",
+      "meaning_vi": "sản lượng",
+      "definition_en": "the amount produced by a person, machine, or factory",
+      "examples": [
+        {
+          "en": "Output rose after the line was automated.",
+          "vi": "Sản lượng tăng sau khi dây chuyền được tự động hóa."
+        }
+      ],
+      "collocations": [
+        "increase output",
+        "daily output"
+      ],
+      "family": [],
+      "topic": "v13_manufacturing",
+      "level": 3
+    },
+    {
+      "id": "w0009",
+      "word": "capacity",
+      "pos": "n",
+      "ipa": "/kəˈpæsəti/",
+      "meaning_vi": "công suất",
+      "definition_en": "the maximum amount a factory or machine can produce",
+      "examples": [
+        {
+          "en": "The plant is running at full capacity.",
+          "vi": "Nhà máy đang chạy hết công suất."
+        }
+      ],
+      "collocations": [
+        "full capacity",
+        "production capacity"
+      ],
+      "family": [],
+      "topic": "v13_manufacturing",
+      "level": 3
+    },
+    {
+      "id": "w0010",
+      "word": "raw material",
+      "pos": "n",
+      "ipa": "/rɔː məˈtɪriəl/",
+      "meaning_vi": "nguyên liệu thô",
+      "definition_en": "basic material used to make a product",
+      "examples": [
+        {
+          "en": "Steel is the main raw material for these frames.",
+          "vi": "Thép là nguyên liệu chính cho các khung này."
+        }
+      ],
+      "collocations": [
+        "source raw materials",
+        "raw material cost"
+      ],
+      "family": [],
+      "topic": "v13_manufacturing",
+      "level": 3
+    },
+    {
+      "id": "w0011",
+      "word": "component",
+      "pos": "n",
+      "ipa": "/kəmˈpoʊnənt/",
+      "meaning_vi": "linh kiện",
+      "definition_en": "one part of a larger machine or product",
+      "examples": [
+        {
+          "en": "The component failed during testing.",
+          "vi": "Linh kiện hỏng trong lúc thử nghiệm."
+        }
+      ],
+      "collocations": [
+        "electronic component",
+        "replace a component"
+      ],
+      "family": [],
+      "topic": "v13_manufacturing",
+      "level": 3
+    },
+    {
+      "id": "w0012",
+      "word": "fabricate",
+      "pos": "v",
+      "ipa": "/ˈfæbrɪkeɪt/",
+      "meaning_vi": "chế tạo",
+      "definition_en": "to make or build something from parts or material",
+      "examples": [
+        {
+          "en": "The parts are fabricated on site.",
+          "vi": "Các bộ phận được chế tạo tại chỗ."
+        }
+      ],
+      "collocations": [
+        "fabricate parts",
+        "fabricate steel"
+      ],
+      "family": [
+        "fabrication (n)"
+      ],
+      "topic": "v13_manufacturing",
+      "level": 4
+    },
+    {
+      "id": "w0013",
+      "word": "weld",
+      "pos": "v",
+      "ipa": "/weld/",
+      "meaning_vi": "hàn",
+      "definition_en": "to join metal parts by heating them",
+      "examples": [
+        {
+          "en": "Workers weld the frame before painting it.",
+          "vi": "Công nhân hàn khung trước khi sơn."
+        }
+      ],
+      "collocations": [
+        "weld metal",
+        "weld a joint"
+      ],
+      "family": [
+        "welder (n)"
+      ],
+      "topic": "v13_manufacturing",
+      "level": 4
+    },
+    {
+      "id": "w0014",
+      "word": "mold",
+      "pos": "n",
+      "ipa": "/moʊld/",
+      "meaning_vi": "khuôn đúc",
+      "definition_en": "a container that shapes hot liquid material as it cools",
+      "examples": [
+        {
+          "en": "The plastic is poured into a steel mold.",
+          "vi": "Nhựa được rót vào khuôn thép."
+        }
+      ],
+      "collocations": [
+        "injection mold",
+        "remove from the mold"
+      ],
+      "family": [
+        "mold (v)"
+      ],
+      "topic": "v13_manufacturing",
+      "level": 3
+    },
+    {
+      "id": "w0015",
+      "word": "plant",
+      "pos": "n",
+      "ipa": "/plænt/",
+      "meaning_vi": "nhà máy",
+      "definition_en": "a factory or industrial site",
+      "examples": [
+        {
+          "en": "The company opened a new plant in Ohio.",
+          "vi": "Công ty mở nhà máy mới ở Ohio."
+        }
+      ],
+      "collocations": [
+        "manufacturing plant",
+        "plant manager"
+      ],
+      "family": [],
+      "topic": "v13_manufacturing",
+      "level": 3
+    },
+    {
+      "id": "w0016",
+      "word": "downtime",
+      "pos": "n",
+      "ipa": "/ˈdaʊntaɪm/",
+      "meaning_vi": "thời gian ngừng máy",
+      "definition_en": "time when a machine or system is not working",
+      "examples": [
+        {
+          "en": "Unplanned downtime costs the plant thousands each hour.",
+          "vi": "Thời gian ngừng máy ngoài kế hoạch gây thiệt hại hàng nghìn mỗi giờ."
+        }
+      ],
+      "collocations": [
+        "reduce downtime",
+        "planned downtime"
+      ],
+      "family": [],
+      "topic": "v13_manufacturing",
+      "level": 4
+    },
+    {
+      "id": "w0017",
+      "word": "throughput",
+      "pos": "n",
+      "ipa": "/ˈθruːpʊt/",
+      "meaning_vi": "năng suất xử lý",
+      "definition_en": "the amount of material processed in a period",
+      "examples": [
+        {
+          "en": "The upgrade doubled throughput on the line.",
+          "vi": "Nâng cấp giúp tăng gấp đôi năng suất dây chuyền."
+        }
+      ],
+      "collocations": [
+        "high throughput",
+        "increase throughput"
+      ],
+      "family": [],
+      "topic": "v13_manufacturing",
+      "level": 5
+    },
+    {
+      "id": "w0018",
+      "word": "automation",
+      "pos": "n",
+      "ipa": "/ˌɔːtəˈmeɪʃn/",
+      "meaning_vi": "tự động hóa",
+      "definition_en": "the use of machines to do work without people",
+      "examples": [
+        {
+          "en": "Automation reduced the number of manual tasks.",
+          "vi": "Tự động hóa giảm số công việc thủ công."
+        }
+      ],
+      "collocations": [
+        "factory automation",
+        "invest in automation"
+      ],
+      "family": [
+        "automate (v)"
+      ],
+      "topic": "v13_manufacturing",
+      "level": 4
+    },
+    {
+      "id": "w0019",
+      "word": "inspection",
+      "pos": "n",
+      "ipa": "/ɪnˈspekʃn/",
+      "meaning_vi": "kiểm tra",
+      "definition_en": "a careful examination of goods or equipment",
+      "examples": [
+        {
+          "en": "Every unit goes through a final inspection.",
+          "vi": "Mỗi sản phẩm đều qua kiểm tra cuối."
+        }
+      ],
+      "collocations": [
+        "quality inspection",
+        "visual inspection"
+      ],
+      "family": [
+        "inspect (v)"
+      ],
+      "topic": "v13_manufacturing",
+      "level": 3
+    },
+    {
+      "id": "w0020",
+      "word": "yield",
+      "pos": "n",
+      "ipa": "/jiːld/",
+      "meaning_vi": "hiệu suất thu được",
+      "definition_en": "the amount of usable product obtained from a process",
+      "examples": [
+        {
+          "en": "The new process improved yield by eight percent.",
+          "vi": "Quy trình mới cải thiện hiệu suất thêm tám phần trăm."
+        }
+      ],
+      "collocations": [
+        "production yield",
+        "improve yield"
+      ],
+      "family": [],
+      "topic": "v13_manufacturing",
+      "level": 4
+    },
+    {
+      "id": "w0021",
+      "word": "quota",
+      "pos": "n",
+      "ipa": "/ˈkwoʊtə/",
+      "meaning_vi": "chỉ tiêu",
+      "definition_en": "a fixed amount of work that must be completed",
+      "examples": [
+        {
+          "en": "The team met its production quota early.",
+          "vi": "Nhóm đạt chỉ tiêu sản xuất sớm."
+        }
+      ],
+      "collocations": [
+        "meet a quota",
+        "daily quota"
+      ],
+      "family": [],
+      "topic": "v13_manufacturing",
+      "level": 4
+    },
+    {
+      "id": "w0022",
+      "word": "lean",
+      "pos": "adj",
+      "ipa": "/liːn/",
+      "meaning_vi": "tinh gọn",
+      "definition_en": "describing a production method that reduces waste",
+      "examples": [
+        {
+          "en": "The factory adopted lean methods to cut waste.",
+          "vi": "Nhà máy áp dụng phương pháp tinh gọn để giảm lãng phí."
+        }
+      ],
+      "collocations": [
+        "lean manufacturing",
+        "lean process"
+      ],
+      "family": [],
+      "topic": "v13_manufacturing",
+      "level": 5
+    },
+    {
+      "id": "w0023",
+      "word": "blueprint",
+      "pos": "n",
+      "ipa": "/ˈbluːprɪnt/",
+      "meaning_vi": "bản thiết kế kỹ thuật",
+      "definition_en": "a technical drawing showing how something is built",
+      "examples": [
+        {
+          "en": "The engineer checked the blueprint before production.",
+          "vi": "Kỹ sư kiểm tra bản thiết kế trước khi sản xuất."
+        }
+      ],
+      "collocations": [
+        "technical blueprint",
+        "read a blueprint"
+      ],
+      "family": [],
+      "topic": "v13_manufacturing",
+      "level": 3
+    },
+    {
+      "id": "w0024",
+      "word": "calibrate",
+      "pos": "v",
+      "ipa": "/ˈkælɪbreɪt/",
+      "meaning_vi": "hiệu chỉnh",
+      "definition_en": "to adjust a machine so it measures accurately",
+      "examples": [
+        {
+          "en": "The scales must be calibrated every month.",
+          "vi": "Cân phải được hiệu chỉnh hằng tháng."
+        }
+      ],
+      "collocations": [
+        "calibrate equipment",
+        "calibrate a sensor"
+      ],
+      "family": [
+        "calibration (n)"
+      ],
+      "topic": "v13_manufacturing",
+      "level": 5
+    }
+  ]
+}

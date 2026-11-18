@@ -1,0 +1,57 @@
+{
+  "id": "lesson-g19-transition-adverbs",
+  "kind": "lesson",
+  "title": "Trạng từ liên kết",
+  "topic": "g19_transition_adverbs",
+  "parts": [
+    5
+  ],
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "Bài ngữ pháp g19 kèm gói luyện practice-p5-transition-adverb-01.",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 0
+    }
+  },
+  "sections": [
+    {
+      "heading": "Chức năng",
+      "body": "Trạng từ liên kết nối hai câu hoặc hai ý, thể hiện quan hệ: bổ sung, tương phản, kết quả, ví dụ, thay thế. Chúng thường đứng đầu câu, sau dấu chấm hoặc dấu chấm phẩy, và theo sau là dấu phẩy."
+    },
+    {
+      "heading": "Nhóm thường gặp",
+      "body": "| Quan hệ | Trạng từ |\n|---|---|\n| Bổ sung | moreover, furthermore, in addition |\n| Tương phản | however, nevertheless, in contrast |\n| Kết quả | therefore, consequently, as a result |\n| Thay thế | otherwise |\n| Ví dụ | for example, for instance |\n| Tổng kết | in conclusion, overall |"
+    },
+    {
+      "heading": "Mẹo nhận diện trong đề TOEIC",
+      "body": "Đọc quan hệ giữa hai câu trước khi chọn. Nếu câu sau trái ngược câu trước → however/nevertheless. Nếu câu sau là kết quả → therefore/consequently. Nếu câu sau là điều kiện tiêu cực nếu không làm gì → otherwise. Trạng từ liên kết không nối hai mệnh đề bằng dấu phẩy đơn."
+    },
+    {
+      "heading": "Bẫy thường gặp",
+      "body": "'However' khác 'although': however + dấu chấm/phẩy, although + mệnh đề. 'Therefore' không phải liên từ kết hợp nên không dùng như 'so' giữa hai mệnh đề không có dấu chấm. 'Otherwise' mang nghĩa 'nếu không thì', đừng nhầm với 'therefore'."
+    }
+  ],
+  "examples": [
+    {
+      "en": "The proposal was expensive; however, it was approved.",
+      "vi": "Đề xuất đắt; tuy nhiên, nó vẫn được duyệt.",
+      "note": "'However' chỉ tương phản."
+    },
+    {
+      "en": "The team worked overtime; consequently, the project finished early.",
+      "vi": "Nhóm làm thêm giờ; do đó, dự án xong sớm.",
+      "note": "'Consequently' chỉ kết quả."
+    },
+    {
+      "en": "Submit the form by Friday; otherwise, your application will be rejected.",
+      "vi": "Nộp mẫu trước thứ Sáu; nếu không, đơn sẽ bị từ chối.",
+      "note": "'Otherwise' nghĩa là nếu không thì."
+    }
+  ],
+  "practice_pack": "practice-p5-transition-adverb-01"
+}

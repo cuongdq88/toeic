@@ -1,0 +1,57 @@
+{
+  "id": "lesson-g18-conditionals",
+  "kind": "lesson",
+  "title": "Câu điều kiện",
+  "topic": "g18_conditionals",
+  "parts": [
+    5
+  ],
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "Bài ngữ pháp g18 kèm gói luyện practice-p5-conditional-01.",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 0
+    }
+  },
+  "sections": [
+    {
+      "heading": "Ba loại chính",
+      "body": "**Loại 1:** If + hiện tại đơn, will + V (điều kiện có thể xảy ra). **Loại 2:** If + quá khứ đơn, would + V (giả định hiện tại). **Loại 3:** If + had + V3, would have + V3 (giả định quá khứ)."
+    },
+    {
+      "heading": "Bảng công thức",
+      "body": "| Loại | Mệnh đề If | Mệnh đề chính |\n|---|---|---|\n| 1 | hiện tại đơn | will + V |\n| 2 | quá khứ đơn (were cho mọi ngôi) | would + V |\n| 3 | had + V3 | would have + V3 |\n| Đảo | Were / Had / Should + S | ... |"
+    },
+    {
+      "heading": "Mẹo nhận diện trong đề TOEIC",
+      "body": "Nhìn mệnh đề còn lại để chọn thì: nếu có 'will' → If dùng hiện tại; nếu có 'would' → If dùng quá khứ; nếu có 'would have' → If dùng had + V3. Nếu câu bắt đầu bằng 'Were/Had/Should' đảo lên trước chủ ngữ, đó là điều kiện không có 'if'."
+    },
+    {
+      "heading": "Bẫy thường gặp",
+      "body": "Không dùng 'will' trong mệnh đề If loại 1. Với loại 2, dùng 'were' cho mọi ngôi trong văn phong trang trọng. 'Unless' = if not, nên không thêm 'not' phía sau. Đừng trộn 'would have' với mệnh đề If ở quá khứ đơn."
+    }
+  ],
+  "examples": [
+    {
+      "en": "If the order arrives before noon, we will ship it today.",
+      "vi": "Nếu đơn hàng đến trước trưa, chúng tôi sẽ gửi hôm nay.",
+      "note": "Điều kiện loại 1."
+    },
+    {
+      "en": "If I were the manager, I would approve the budget.",
+      "vi": "Nếu tôi là quản lý, tôi sẽ duyệt ngân sách.",
+      "note": "Điều kiện loại 2 với 'were'."
+    },
+    {
+      "en": "Had we known about the strike, we would have used another carrier.",
+      "vi": "Nếu chúng tôi biết về cuộc đình công, chúng tôi đã dùng đơn vị khác.",
+      "note": "Đảo ngữ loại 3."
+    }
+  ],
+  "practice_pack": "practice-p5-conditional-01"
+}

@@ -1,0 +1,665 @@
+{
+  "id": "practice-p5-noun-clause-01",
+  "kind": "practice",
+  "title": "Luyện Part 5 – Mệnh đề danh từ 01",
+  "level": "medium",
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "15 câu mệnh đề danh từ, 4 câu mức 4.",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 0
+    }
+  },
+  "groups": [
+    {
+      "id": "g01",
+      "part": 5,
+      "questions": [
+        {
+          "no": 1,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 2,
+          "stem": "Please tell me ____ the next train leaves.",
+          "options": [
+            {
+              "key": "A",
+              "text": "when"
+            },
+            {
+              "key": "B",
+              "text": "that"
+            },
+            {
+              "key": "C",
+              "text": "which"
+            },
+            {
+              "key": "D",
+              "text": "whose"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'When' dẫn mệnh đề danh từ chỉ thời gian.",
+            "why_wrong": {
+              "B": "'That' không hợp nghĩa hỏi giờ.",
+              "C": "'Which' cần danh từ chỉ lựa chọn.",
+              "D": "'Whose' chỉ sở hữu."
+            },
+            "translation_vi": "Vui lòng cho tôi biết chuyến tàu tiếp theo rời đi khi nào."
+          },
+          "tags": [
+            "g20_noun_clauses"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "part": 5,
+      "questions": [
+        {
+          "no": 2,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 3,
+          "stem": "Do you know ____ designed the new company logo?",
+          "options": [
+            {
+              "key": "A",
+              "text": "which"
+            },
+            {
+              "key": "B",
+              "text": "who"
+            },
+            {
+              "key": "C",
+              "text": "whose"
+            },
+            {
+              "key": "D",
+              "text": "whom"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'Who' làm chủ ngữ trong mệnh đề danh từ.",
+            "why_wrong": {
+              "A": "'Which' chỉ vật.",
+              "C": "'Whose' chỉ sở hữu.",
+              "D": "'Whom' là tân ngữ."
+            },
+            "translation_vi": "Bạn có biết ai thiết kế logo mới của công ty không?"
+          },
+          "tags": [
+            "g20_noun_clauses"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "part": 5,
+      "questions": [
+        {
+          "no": 3,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 3,
+          "stem": "Could you tell me where ____?",
+          "options": [
+            {
+              "key": "A",
+              "text": "is the office"
+            },
+            {
+              "key": "B",
+              "text": "the office"
+            },
+            {
+              "key": "C",
+              "text": "the office is"
+            },
+            {
+              "key": "D",
+              "text": "does the office"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Mệnh đề danh từ dùng trật tự chủ ngữ + động từ.",
+            "why_wrong": {
+              "A": "'Is the office' là trật tự câu hỏi.",
+              "B": "'The office' thiếu động từ.",
+              "D": "'Does the office' sai trật tự."
+            },
+            "translation_vi": "Bạn có thể cho tôi biết văn phòng ở đâu không?"
+          },
+          "tags": [
+            "g20_noun_clauses"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "part": 5,
+      "questions": [
+        {
+          "no": 4,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 3,
+          "stem": "I wonder when ____.",
+          "options": [
+            {
+              "key": "A",
+              "text": "leaves the train"
+            },
+            {
+              "key": "B",
+              "text": "does the train leave"
+            },
+            {
+              "key": "C",
+              "text": "the train leave"
+            },
+            {
+              "key": "D",
+              "text": "the train leaves"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Mệnh đề danh từ không đảo trợ động từ.",
+            "why_wrong": {
+              "A": "'Leaves the train' sai trật tự.",
+              "B": "'Does the train leave' là câu hỏi trực tiếp.",
+              "C": "'The train leave' sai chia động từ."
+            },
+            "translation_vi": "Tôi tự hỏi khi nào tàu rời đi."
+          },
+          "tags": [
+            "g20_noun_clauses"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "part": 5,
+      "questions": [
+        {
+          "no": 5,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 3,
+          "stem": "Do you know where ____?",
+          "options": [
+            {
+              "key": "A",
+              "text": "he works"
+            },
+            {
+              "key": "B",
+              "text": "does he work"
+            },
+            {
+              "key": "C",
+              "text": "he work"
+            },
+            {
+              "key": "D",
+              "text": "works he"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Trật tự đúng là chủ ngữ + động từ.",
+            "why_wrong": {
+              "B": "'Does he work' là câu hỏi trực tiếp.",
+              "C": "'He work' sai chia.",
+              "D": "'Works he' sai trật tự."
+            },
+            "translation_vi": "Bạn có biết anh ấy làm ở đâu không?"
+          },
+          "tags": [
+            "g20_noun_clauses"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g06",
+      "part": 5,
+      "questions": [
+        {
+          "no": 6,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 3,
+          "stem": "The report explains ____ the delay occurred, step by step.",
+          "options": [
+            {
+              "key": "A",
+              "text": "that"
+            },
+            {
+              "key": "B",
+              "text": "how"
+            },
+            {
+              "key": "C",
+              "text": "which"
+            },
+            {
+              "key": "D",
+              "text": "whose"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'How' chỉ cách thức, phù hợp với 'step by step'.",
+            "why_wrong": {
+              "A": "'That' không diễn tả cách thức.",
+              "C": "'Which' cần danh từ lựa chọn.",
+              "D": "'Whose' chỉ sở hữu."
+            },
+            "translation_vi": "Báo cáo giải thích sự chậm trễ xảy ra như thế nào, từng bước."
+          },
+          "tags": [
+            "g20_noun_clauses"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g07",
+      "part": 5,
+      "questions": [
+        {
+          "no": 7,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 4,
+          "stem": "____ surprised us was the low price of the office.",
+          "options": [
+            {
+              "key": "A",
+              "text": "That"
+            },
+            {
+              "key": "B",
+              "text": "Which"
+            },
+            {
+              "key": "C",
+              "text": "What"
+            },
+            {
+              "key": "D",
+              "text": "Whose"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'What' làm chủ ngữ trong mệnh đề danh từ.",
+            "why_wrong": {
+              "A": "'That' không làm thành phần câu ở đây.",
+              "B": "'Which' cần danh từ chỉ lựa chọn.",
+              "D": "'Whose' chỉ sở hữu."
+            },
+            "translation_vi": "Điều làm chúng tôi bất ngờ là giá văn phòng thấp."
+          },
+          "tags": [
+            "g20_noun_clauses"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g08",
+      "part": 5,
+      "questions": [
+        {
+          "no": 8,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 4,
+          "stem": "The question is ____ we can meet the deadline.",
+          "options": [
+            {
+              "key": "A",
+              "text": "that"
+            },
+            {
+              "key": "B",
+              "text": "which"
+            },
+            {
+              "key": "C",
+              "text": "whose"
+            },
+            {
+              "key": "D",
+              "text": "whether"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "'Whether' sau 'the question is' diễn tả hai khả năng.",
+            "why_wrong": {
+              "A": "'That' không phù hợp sau 'the question is'.",
+              "B": "'Which' cần lựa chọn cụ thể.",
+              "C": "'Whose' chỉ sở hữu."
+            },
+            "translation_vi": "Câu hỏi là liệu chúng ta có kịp hạn hay không."
+          },
+          "tags": [
+            "g20_noun_clauses"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g09",
+      "part": 5,
+      "questions": [
+        {
+          "no": 9,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 3,
+          "stem": "Please explain ____ you chose this supplier rather than the cheaper one.",
+          "options": [
+            {
+              "key": "A",
+              "text": "why"
+            },
+            {
+              "key": "B",
+              "text": "that"
+            },
+            {
+              "key": "C",
+              "text": "which"
+            },
+            {
+              "key": "D",
+              "text": "whose"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'Why' hỏi lý do, phù hợp với 'rather than'.",
+            "why_wrong": {
+              "B": "'That' không hỏi lý do.",
+              "C": "'Which' cần danh từ lựa chọn.",
+              "D": "'Whose' chỉ sở hữu."
+            },
+            "translation_vi": "Hãy giải thích vì sao bạn chọn nhà cung cấp này thay vì bên rẻ hơn."
+          },
+          "tags": [
+            "g20_noun_clauses"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g10",
+      "part": 5,
+      "questions": [
+        {
+          "no": 10,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 3,
+          "stem": "It is unclear ____ the strike will end, so we cannot plan.",
+          "options": [
+            {
+              "key": "A",
+              "text": "that"
+            },
+            {
+              "key": "B",
+              "text": "when"
+            },
+            {
+              "key": "C",
+              "text": "which"
+            },
+            {
+              "key": "D",
+              "text": "whose"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'When' chỉ thời điểm cần biết để lập kế hoạch.",
+            "why_wrong": {
+              "A": "'That' không hỏi thời điểm.",
+              "C": "'Which' cần lựa chọn.",
+              "D": "'Whose' chỉ sở hữu."
+            },
+            "translation_vi": "Không rõ cuộc đình công sẽ kết thúc khi nào nên chúng tôi không thể lập kế hoạch."
+          },
+          "tags": [
+            "g20_noun_clauses"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g11",
+      "part": 5,
+      "questions": [
+        {
+          "no": 11,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 3,
+          "stem": "We need to find out ____ caused the delay.",
+          "options": [
+            {
+              "key": "A",
+              "text": "that"
+            },
+            {
+              "key": "B",
+              "text": "which"
+            },
+            {
+              "key": "C",
+              "text": "what"
+            },
+            {
+              "key": "D",
+              "text": "whose"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'What' làm chủ ngữ trong mệnh đề danh từ.",
+            "why_wrong": {
+              "A": "'That' không làm thành phần câu.",
+              "B": "'Which' cần lựa chọn.",
+              "D": "'Whose' chỉ sở hữu."
+            },
+            "translation_vi": "Chúng ta cần tìm ra điều gì gây ra sự chậm trễ."
+          },
+          "tags": [
+            "g20_noun_clauses"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g12",
+      "part": 5,
+      "questions": [
+        {
+          "no": 12,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 3,
+          "stem": "The manager wants to know ____ the project will cost.",
+          "options": [
+            {
+              "key": "A",
+              "text": "how many"
+            },
+            {
+              "key": "B",
+              "text": "that"
+            },
+            {
+              "key": "C",
+              "text": "which"
+            },
+            {
+              "key": "D",
+              "text": "how much"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "'How much' hỏi chi phí không đếm được.",
+            "why_wrong": {
+              "A": "'How many' dùng cho đếm được.",
+              "B": "'That' không hỏi số tiền.",
+              "C": "'Which' cần lựa chọn."
+            },
+            "translation_vi": "Quản lý muốn biết dự án sẽ tốn bao nhiêu."
+          },
+          "tags": [
+            "g20_noun_clauses"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g13",
+      "part": 5,
+      "questions": [
+        {
+          "no": 13,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 4,
+          "stem": "I am not sure ____ the meeting has been canceled.",
+          "options": [
+            {
+              "key": "A",
+              "text": "whether"
+            },
+            {
+              "key": "B",
+              "text": "that"
+            },
+            {
+              "key": "C",
+              "text": "which"
+            },
+            {
+              "key": "D",
+              "text": "whose"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'Whether' diễn tả sự không chắc chắn giữa hai khả năng.",
+            "why_wrong": {
+              "B": "'That' không phù hợp với 'not sure'.",
+              "C": "'Which' cần lựa chọn.",
+              "D": "'Whose' chỉ sở hữu."
+            },
+            "translation_vi": "Tôi không chắc cuộc họp đã bị hủy hay chưa."
+          },
+          "tags": [
+            "g20_noun_clauses"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g14",
+      "part": 5,
+      "questions": [
+        {
+          "no": 14,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 4,
+          "stem": "____ the company needs is a clearer strategy.",
+          "options": [
+            {
+              "key": "A",
+              "text": "That"
+            },
+            {
+              "key": "B",
+              "text": "What"
+            },
+            {
+              "key": "C",
+              "text": "Which"
+            },
+            {
+              "key": "D",
+              "text": "Whose"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'What' làm tân ngữ trong mệnh đề chủ ngữ.",
+            "why_wrong": {
+              "A": "'That' không làm thành phần câu.",
+              "C": "'Which' cần lựa chọn.",
+              "D": "'Whose' chỉ sở hữu."
+            },
+            "translation_vi": "Điều công ty cần là một chiến lược rõ ràng hơn."
+          },
+          "tags": [
+            "g20_noun_clauses"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g15",
+      "part": 5,
+      "questions": [
+        {
+          "no": 15,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 3,
+          "stem": "Do you know how long ____?",
+          "options": [
+            {
+              "key": "A",
+              "text": "will the interview take"
+            },
+            {
+              "key": "B",
+              "text": "the interview takes will"
+            },
+            {
+              "key": "C",
+              "text": "the interview will take"
+            },
+            {
+              "key": "D",
+              "text": "does the interview take"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Mệnh đề danh từ dùng trật tự chủ ngữ + động từ.",
+            "why_wrong": {
+              "A": "'Will the interview take' là câu hỏi trực tiếp.",
+              "B": "'The interview takes will' sai trật tự.",
+              "D": "'Does the interview take' sai trật tự."
+            },
+            "translation_vi": "Bạn có biết buổi phỏng vấn sẽ kéo dài bao lâu không?"
+          },
+          "tags": [
+            "g20_noun_clauses"
+          ]
+        }
+      ]
+    }
+  ]
+}

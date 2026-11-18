@@ -1,0 +1,539 @@
+{
+  "id": "vocab-v17-travel",
+  "kind": "vocab",
+  "title": "Từ vựng V17 – Du lịch, công tác",
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "24 từ chủ đề du lịch, công tác, tự chọn theo tần suất công sở, tự soạn ví dụ.",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 0
+    }
+  },
+  "words": [
+    {
+      "id": "w0001",
+      "word": "itinerary",
+      "pos": "n",
+      "ipa": "/aɪˈtɪnərəri/",
+      "meaning_vi": "lịch trình chuyến đi",
+      "definition_en": "a detailed plan of a journey",
+      "examples": [
+        {
+          "en": "The itinerary includes two days in Tokyo.",
+          "vi": "Lịch trình gồm hai ngày ở Tokyo."
+        }
+      ],
+      "collocations": [
+        "travel itinerary",
+        "detailed itinerary"
+      ],
+      "family": [],
+      "topic": "v17_travel",
+      "level": 3
+    },
+    {
+      "id": "w0002",
+      "word": "destination",
+      "pos": "n",
+      "ipa": "/ˌdestɪˈneɪʃn/",
+      "meaning_vi": "điểm đến",
+      "definition_en": "the place someone is travelling to",
+      "examples": [
+        {
+          "en": "The conference destination is Singapore.",
+          "vi": "Điểm đến của hội nghị là Singapore."
+        }
+      ],
+      "collocations": [
+        "popular destination",
+        "final destination"
+      ],
+      "family": [],
+      "topic": "v17_travel",
+      "level": 2
+    },
+    {
+      "id": "w0003",
+      "word": "accommodation",
+      "pos": "n",
+      "ipa": "/əˌkɑːməˈdeɪʃn/",
+      "meaning_vi": "chỗ ở",
+      "definition_en": "a place to stay while travelling",
+      "examples": [
+        {
+          "en": "The price includes accommodation and breakfast.",
+          "vi": "Giá gồm chỗ ở và bữa sáng."
+        }
+      ],
+      "collocations": [
+        "book accommodation",
+        "budget accommodation"
+      ],
+      "family": [
+        "accommodate (v)"
+      ],
+      "topic": "v17_travel",
+      "level": 3
+    },
+    {
+      "id": "w0004",
+      "word": "reservation",
+      "pos": "n",
+      "ipa": "/ˌrezərˈveɪʃn/",
+      "meaning_vi": "việc đặt chỗ",
+      "definition_en": "an arrangement to keep a seat or room for someone",
+      "examples": [
+        {
+          "en": "I made a reservation for three nights.",
+          "vi": "Tôi đặt chỗ cho ba đêm."
+        }
+      ],
+      "collocations": [
+        "make a reservation",
+        "confirm a reservation"
+      ],
+      "family": [
+        "reserve (v)"
+      ],
+      "topic": "v17_travel",
+      "level": 2
+    },
+    {
+      "id": "w0005",
+      "word": "passport",
+      "pos": "n",
+      "ipa": "/ˈpæspɔːrt/",
+      "meaning_vi": "hộ chiếu",
+      "definition_en": "an official document needed to travel abroad",
+      "examples": [
+        {
+          "en": "Check that your passport is still valid.",
+          "vi": "Kiểm tra hộ chiếu còn hiệu lực không."
+        }
+      ],
+      "collocations": [
+        "renew a passport",
+        "passport number"
+      ],
+      "family": [],
+      "topic": "v17_travel",
+      "level": 1
+    },
+    {
+      "id": "w0006",
+      "word": "visa",
+      "pos": "n",
+      "ipa": "/ˈviːzə/",
+      "meaning_vi": "thị thực",
+      "definition_en": "official permission to enter a country",
+      "examples": [
+        {
+          "en": "She applied for a business visa.",
+          "vi": "Cô ấy xin thị thực công tác."
+        }
+      ],
+      "collocations": [
+        "apply for a visa",
+        "visa requirement"
+      ],
+      "family": [],
+      "topic": "v17_travel",
+      "level": 2
+    },
+    {
+      "id": "w0007",
+      "word": "luggage",
+      "pos": "n",
+      "ipa": "/ˈlʌɡɪdʒ/",
+      "meaning_vi": "hành lý",
+      "definition_en": "bags and cases taken on a journey",
+      "examples": [
+        {
+          "en": "The airline lost his luggage.",
+          "vi": "Hãng bay làm mất hành lý của anh ấy."
+        }
+      ],
+      "collocations": [
+        "hand luggage",
+        "collect luggage"
+      ],
+      "family": [],
+      "topic": "v17_travel",
+      "level": 2
+    },
+    {
+      "id": "w0008",
+      "word": "layover",
+      "pos": "n",
+      "ipa": "/ˈleɪoʊvər/",
+      "meaning_vi": "thời gian dừng quá cảnh",
+      "definition_en": "a short stop between flights",
+      "examples": [
+        {
+          "en": "We have a two-hour layover in Dubai.",
+          "vi": "Chúng ta dừng quá cảnh hai giờ ở Dubai."
+        }
+      ],
+      "collocations": [
+        "short layover",
+        "overnight layover"
+      ],
+      "family": [],
+      "topic": "v17_travel",
+      "level": 5
+    },
+    {
+      "id": "w0009",
+      "word": "excursion",
+      "pos": "n",
+      "ipa": "/ɪkˈskɜːrʒn/",
+      "meaning_vi": "chuyến tham quan ngắn",
+      "definition_en": "a short organized trip for pleasure",
+      "examples": [
+        {
+          "en": "The hotel offers a day excursion to the falls.",
+          "vi": "Khách sạn có chuyến tham quan một ngày đến thác."
+        }
+      ],
+      "collocations": [
+        "day excursion",
+        "guided excursion"
+      ],
+      "family": [],
+      "topic": "v17_travel",
+      "level": 4
+    },
+    {
+      "id": "w0010",
+      "word": "souvenir",
+      "pos": "n",
+      "ipa": "/ˌsuːvəˈnɪr/",
+      "meaning_vi": "quà lưu niệm",
+      "definition_en": "something bought to remember a place",
+      "examples": [
+        {
+          "en": "She bought a small souvenir at the airport.",
+          "vi": "Cô ấy mua một món quà lưu niệm nhỏ ở sân bay."
+        }
+      ],
+      "collocations": [
+        "souvenir shop",
+        "buy a souvenir"
+      ],
+      "family": [],
+      "topic": "v17_travel",
+      "level": 2
+    },
+    {
+      "id": "w0011",
+      "word": "tour guide",
+      "pos": "n",
+      "ipa": "/tʊr ɡaɪd/",
+      "meaning_vi": "hướng dẫn viên du lịch",
+      "definition_en": "a person who shows visitors around a place",
+      "examples": [
+        {
+          "en": "The tour guide spoke excellent English.",
+          "vi": "Hướng dẫn viên nói tiếng Anh rất tốt."
+        }
+      ],
+      "collocations": [
+        "hire a tour guide",
+        "local tour guide"
+      ],
+      "family": [],
+      "topic": "v17_travel",
+      "level": 2
+    },
+    {
+      "id": "w0012",
+      "word": "travel agency",
+      "pos": "n",
+      "ipa": "/ˈtrævl ˈeɪdʒənsi/",
+      "meaning_vi": "đại lý du lịch",
+      "definition_en": "a business that arranges trips for customers",
+      "examples": [
+        {
+          "en": "The travel agency booked our flights and hotel.",
+          "vi": "Đại lý du lịch đặt vé và khách sạn cho chúng tôi."
+        }
+      ],
+      "collocations": [
+        "use a travel agency",
+        "travel agency fee"
+      ],
+      "family": [],
+      "topic": "v17_travel",
+      "level": 2
+    },
+    {
+      "id": "w0013",
+      "word": "book",
+      "pos": "v",
+      "ipa": "/bʊk/",
+      "meaning_vi": "đặt chỗ",
+      "definition_en": "to arrange a seat, room, or ticket in advance",
+      "examples": [
+        {
+          "en": "We booked the hotel two months early.",
+          "vi": "Chúng tôi đặt khách sạn sớm hai tháng."
+        }
+      ],
+      "collocations": [
+        "book a flight",
+        "book in advance"
+      ],
+      "family": [
+        "booking (n)"
+      ],
+      "topic": "v17_travel",
+      "level": 2
+    },
+    {
+      "id": "w0014",
+      "word": "check in",
+      "pos": "phr",
+      "ipa": "/tʃek ɪn/",
+      "meaning_vi": "làm thủ tục nhận phòng",
+      "definition_en": "to register at a hotel or airport",
+      "examples": [
+        {
+          "en": "We can check in online before the flight.",
+          "vi": "Chúng ta có thể làm thủ tục trực tuyến trước chuyến bay."
+        }
+      ],
+      "collocations": [
+        "check in online",
+        "check in at the desk"
+      ],
+      "family": [
+        "check-in (n)"
+      ],
+      "topic": "v17_travel",
+      "level": 2
+    },
+    {
+      "id": "w0015",
+      "word": "jet lag",
+      "pos": "n",
+      "ipa": "/ˈdʒet læɡ/",
+      "meaning_vi": "mệt mỏi do lệch múi giờ",
+      "definition_en": "tiredness caused by travelling across time zones",
+      "examples": [
+        {
+          "en": "He slept badly because of jet lag.",
+          "vi": "Anh ấy ngủ kém vì lệch múi giờ."
+        }
+      ],
+      "collocations": [
+        "suffer from jet lag",
+        "jet lag symptoms"
+      ],
+      "family": [],
+      "topic": "v17_travel",
+      "level": 3
+    },
+    {
+      "id": "w0016",
+      "word": "insurance",
+      "pos": "n",
+      "ipa": "/ɪnˈʃʊrəns/",
+      "meaning_vi": "bảo hiểm",
+      "definition_en": "an agreement that pays for loss or damage",
+      "examples": [
+        {
+          "en": "Travel insurance is included in the package.",
+          "vi": "Bảo hiểm du lịch được gồm trong gói."
+        }
+      ],
+      "collocations": [
+        "travel insurance",
+        "take out insurance"
+      ],
+      "family": [
+        "insure (v)"
+      ],
+      "topic": "v17_travel",
+      "level": 3
+    },
+    {
+      "id": "w0017",
+      "word": "sightseeing",
+      "pos": "n",
+      "ipa": "/ˈsaɪtsiːɪŋ/",
+      "meaning_vi": "việc tham quan",
+      "definition_en": "visiting interesting places as a tourist",
+      "examples": [
+        {
+          "en": "We spent the afternoon sightseeing.",
+          "vi": "Chúng tôi dành buổi chiều tham quan."
+        }
+      ],
+      "collocations": [
+        "go sightseeing",
+        "sightseeing tour"
+      ],
+      "family": [],
+      "topic": "v17_travel",
+      "level": 3
+    },
+    {
+      "id": "w0018",
+      "word": "backpack",
+      "pos": "n",
+      "ipa": "/ˈbækpæk/",
+      "meaning_vi": "ba lô",
+      "definition_en": "a bag carried on the back",
+      "examples": [
+        {
+          "en": "He travelled with only a backpack.",
+          "vi": "Anh ấy đi du lịch chỉ với một ba lô."
+        }
+      ],
+      "collocations": [
+        "carry a backpack",
+        "backpack trip"
+      ],
+      "family": [],
+      "topic": "v17_travel",
+      "level": 2
+    },
+    {
+      "id": "w0019",
+      "word": "route",
+      "pos": "n",
+      "ipa": "/ruːt/",
+      "meaning_vi": "tuyến đường",
+      "definition_en": "the way from one place to another",
+      "examples": [
+        {
+          "en": "The driver chose a shorter route.",
+          "vi": "Tài xế chọn tuyến đường ngắn hơn."
+        }
+      ],
+      "collocations": [
+        "direct route",
+        "change the route"
+      ],
+      "family": [],
+      "topic": "v17_travel",
+      "level": 2
+    },
+    {
+      "id": "w0020",
+      "word": "fare",
+      "pos": "n",
+      "ipa": "/fer/",
+      "meaning_vi": "giá vé",
+      "definition_en": "the money paid for a journey",
+      "examples": [
+        {
+          "en": "The bus fare increased last month.",
+          "vi": "Giá vé xe buýt tăng tháng trước."
+        }
+      ],
+      "collocations": [
+        "air fare",
+        "pay the fare"
+      ],
+      "family": [],
+      "topic": "v17_travel",
+      "level": 3
+    },
+    {
+      "id": "w0021",
+      "word": "departure",
+      "pos": "n",
+      "ipa": "/dɪˈpɑːrtʃər/",
+      "meaning_vi": "sự khởi hành",
+      "definition_en": "the act of leaving a place",
+      "examples": [
+        {
+          "en": "The departure time was moved to seven.",
+          "vi": "Giờ khởi hành được dời sang bảy giờ."
+        }
+      ],
+      "collocations": [
+        "departure time",
+        "departure gate"
+      ],
+      "family": [
+        "depart (v)"
+      ],
+      "topic": "v17_travel",
+      "level": 3
+    },
+    {
+      "id": "w0022",
+      "word": "arrival",
+      "pos": "n",
+      "ipa": "/əˈraɪvl/",
+      "meaning_vi": "sự đến",
+      "definition_en": "the act of reaching a place",
+      "examples": [
+        {
+          "en": "The arrival was delayed by bad weather.",
+          "vi": "Việc đến bị trễ do thời tiết xấu."
+        }
+      ],
+      "collocations": [
+        "arrival time",
+        "on arrival"
+      ],
+      "family": [
+        "arrive (v)"
+      ],
+      "topic": "v17_travel",
+      "level": 2
+    },
+    {
+      "id": "w0023",
+      "word": "abroad",
+      "pos": "adv",
+      "ipa": "/əˈbrɔːd/",
+      "meaning_vi": "ở nước ngoài",
+      "definition_en": "in or to a foreign country",
+      "examples": [
+        {
+          "en": "She often travels abroad for work.",
+          "vi": "Cô ấy thường ra nước ngoài công tác."
+        }
+      ],
+      "collocations": [
+        "travel abroad",
+        "study abroad"
+      ],
+      "family": [],
+      "topic": "v17_travel",
+      "level": 3
+    },
+    {
+      "id": "w0024",
+      "word": "commute",
+      "pos": "v",
+      "ipa": "/kəˈmjuːt/",
+      "meaning_vi": "đi làm hằng ngày",
+      "definition_en": "to travel regularly between home and work",
+      "examples": [
+        {
+          "en": "He commutes by train every morning.",
+          "vi": "Anh ấy đi tàu đi làm mỗi sáng."
+        }
+      ],
+      "collocations": [
+        "commute to work",
+        "daily commute"
+      ],
+      "family": [
+        "commuter (n)"
+      ],
+      "topic": "v17_travel",
+      "level": 3
+    }
+  ]
+}

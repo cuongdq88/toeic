@@ -1,0 +1,28 @@
+{
+  "id": "lesson-g05-passive-voice",
+  "kind": "lesson",
+  "title": "Câu bị động (Passive voice)",
+  "topic": "g05_passive_voice",
+  "parts": [5, 6],
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "Bài ngữ pháp g05 kèm gói luyện practice-p5-passive-voice-01.",
+    "ai_check": {"date": "2026-11-12", "fixed": 0}
+  },
+  "sections": [
+    {"heading": "Công thức chung", "body": "**S + be + V-ed/PII (+ by + tác nhân).**\n\nThì của câu bị động nằm ở động từ `be`, còn động từ chính luôn ở dạng quá khứ phân từ."},
+    {"heading": "Bảng bị động theo thì", "body": "| Thì | Công thức |\n|---|---|\n| Hiện tại đơn | is/are + V-ed |\n| Quá khứ đơn | was/were + V-ed |\n| Hiện tại tiếp diễn | is/are being + V-ed |\n| Quá khứ tiếp diễn | was/were being + V-ed |\n| Hiện tại hoàn thành | has/have been + V-ed |\n| Quá khứ hoàn thành | had been + V-ed |\n| Tương lai | will be + V-ed |\n| Động từ khuyết thiếu | must/can/should + be + V-ed |"},
+    {"heading": "Khi nào dùng bị động", "body": "- Không biết hoặc không cần nêu người thực hiện.\n- Người/vật thực hiện không quan trọng bằng hành động.\n- Trong văn bản công sở, thông báo, quy trình: *All forms must be submitted by Friday.*"},
+    {"heading": "Mẹo và bẫy TOEIC", "body": "- Nhìn chủ ngữ: nếu chủ ngữ **nhận** hành động thì dùng bị động.\n- Sau `must`, `can`, `should` dùng `be + V-ed`.\n- Cấu trúc tường thuật: `is/are said/believed to have + V-ed`.\n- Bị động với `make`: `be made to + V`.\n- Điều kiện loại 3 đảo ngữ: `Had + S + been + V-ed, S + would have been + V-ed`."}
+  ],
+  "examples": [
+    {"en": "The report is prepared by the finance team every month.", "vi": "Báo cáo được nhóm tài chính chuẩn bị mỗi tháng.", "note": "Bị động hiện tại đơn: is + V-ed."},
+    {"en": "The proposal is being reviewed at the moment.", "vi": "Đề xuất đang được xem xét lúc này.", "note": "Bị động tiếp diễn: is being + V-ed."},
+    {"en": "The staff were made to watch the safety video.", "vi": "Nhân viên được yêu cầu xem video an toàn.", "note": "Bị động với 'make' dùng 'to + V'."}
+  ],
+  "practice_pack": "practice-p5-passive-voice-01"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "lesson-g02-present-tenses",
+  "kind": "lesson",
+  "title": "Thì hiện tại",
+  "topic": "g02_present_tenses",
+  "parts": [5, 6],
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "Bài ngữ pháp g02 kèm gói luyện practice-p5-present-tenses-01.",
+    "ai_check": {"date": "2026-11-12", "fixed": 0}
+  },
+  "sections": [
+    {"heading": "Hiện tại đơn", "body": "**Công thức:** S + V(s/es) với chủ ngữ số ít; S + V với số nhiều.\n\n**Dùng khi:** thói quen, lịch trình cố định, sự thật hiển nhiên. Dấu hiệu: `every day`, `usually`, `always`, `on Mondays`."},
+    {"heading": "Hiện tại tiếp diễn", "body": "**Công thức:** S + am/is/are + V-ing.\n\n**Dùng khi:** hành động đang diễn ra hoặc kế hoạch đã chốt trong tương lai gần. Dấu hiệu: `now`, `at the moment`, `currently`, `this week`."},
+    {"heading": "Hiện tại hoàn thành", "body": "**Công thức:** S + have/has + V-ed/PII.\n\n**Dùng khi:** hành động bắt đầu trong quá khứ và còn liên quan đến hiện tại, hoặc trải nghiệm. Dấu hiệu: `since`, `for`, `already`, `yet`, `ever`, `so far`, `this is the first time`."},
+    {"heading": "Mẹo và bẫy TOEIC", "body": "- Thấy `since + mốc` hoặc `for + khoảng thời gian` → nghĩ ngay đến hiện tại hoàn thành.\n- `This is the first time ...` luôn đi với hiện tại hoàn thành.\n- Cẩn thận chủ ngữ có cụm xen giữa: *The manager, along with two assistants, ___* chia theo 'The manager' (số ít).\n- Đảo ngữ với `Hardly`, `No sooner` ở đầu câu cần trợ động từ đứng trước chủ ngữ."}
+  ],
+  "examples": [
+    {"en": "The office opens at nine every morning.", "vi": "Văn phòng mở cửa lúc chín giờ mỗi sáng.", "note": "Thói quen hằng ngày dùng hiện tại đơn."},
+    {"en": "She has worked here since 2019.", "vi": "Cô ấy đã làm việc ở đây từ năm 2019.", "note": "'Since + mốc' dùng hiện tại hoàn thành."},
+    {"en": "The technicians are testing the machine at the moment.", "vi": "Các kỹ thuật viên đang kiểm tra máy lúc này.", "note": "'At the moment' dùng hiện tại tiếp diễn."}
+  ],
+  "practice_pack": "practice-p5-present-tenses-01"
+}

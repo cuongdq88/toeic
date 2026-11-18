@@ -1,0 +1,529 @@
+{
+  "id": "vocab-v19-hotels",
+  "kind": "vocab",
+  "title": "Từ vựng V19 – Khách sạn",
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "24 từ chủ đề khách sạn, tự chọn theo tần suất công sở, tự soạn ví dụ.",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 0
+    }
+  },
+  "words": [
+    {
+      "id": "w0001",
+      "word": "lobby",
+      "pos": "n",
+      "ipa": "/ˈlɑːbi/",
+      "meaning_vi": "sảnh khách sạn",
+      "definition_en": "the large entrance area of a hotel",
+      "examples": [
+        {
+          "en": "Guests gathered in the lobby before the tour.",
+          "vi": "Khách tập trung ở sảnh trước chuyến tham quan."
+        }
+      ],
+      "collocations": [
+        "hotel lobby",
+        "wait in the lobby"
+      ],
+      "family": [],
+      "topic": "v19_hotels",
+      "level": 2
+    },
+    {
+      "id": "w0002",
+      "word": "suite",
+      "pos": "n",
+      "ipa": "/swiːt/",
+      "meaning_vi": "phòng dãy cao cấp",
+      "definition_en": "a set of rooms in a hotel rented as one unit",
+      "examples": [
+        {
+          "en": "They upgraded us to a suite with a sea view.",
+          "vi": "Họ nâng chúng tôi lên phòng dãy nhìn ra biển."
+        }
+      ],
+      "collocations": [
+        "deluxe suite",
+        "book a suite"
+      ],
+      "family": [],
+      "topic": "v19_hotels",
+      "level": 3
+    },
+    {
+      "id": "w0003",
+      "word": "housekeeping",
+      "pos": "n",
+      "ipa": "/ˈhaʊskiːpɪŋ/",
+      "meaning_vi": "bộ phận buồng phòng",
+      "definition_en": "the department that cleans and maintains hotel rooms",
+      "examples": [
+        {
+          "en": "Housekeeping cleaned the room while we were out.",
+          "vi": "Buồng phòng dọn trong lúc chúng tôi ra ngoài."
+        }
+      ],
+      "collocations": [
+        "housekeeping staff",
+        "call housekeeping"
+      ],
+      "family": [],
+      "topic": "v19_hotels",
+      "level": 3
+    },
+    {
+      "id": "w0004",
+      "word": "concierge",
+      "pos": "n",
+      "ipa": "/ˌkɑːnsiˈerʒ/",
+      "meaning_vi": "nhân viên hỗ trợ khách",
+      "definition_en": "a hotel employee who helps guests with travel and tickets",
+      "examples": [
+        {
+          "en": "The concierge booked theatre tickets for us.",
+          "vi": "Nhân viên hỗ trợ khách đặt vé nhà hát cho chúng tôi."
+        }
+      ],
+      "collocations": [
+        "ask the concierge",
+        "concierge desk"
+      ],
+      "family": [],
+      "topic": "v19_hotels",
+      "level": 5
+    },
+    {
+      "id": "w0005",
+      "word": "amenities",
+      "pos": "n",
+      "ipa": "/əˈmenətiz/",
+      "meaning_vi": "tiện nghi",
+      "definition_en": "useful facilities offered by a hotel",
+      "examples": [
+        {
+          "en": "The hotel's amenities include a pool and a gym.",
+          "vi": "Tiện nghi của khách sạn gồm hồ bơi và phòng gym."
+        }
+      ],
+      "collocations": [
+        "hotel amenities",
+        "modern amenities"
+      ],
+      "family": [],
+      "topic": "v19_hotels",
+      "level": 4
+    },
+    {
+      "id": "w0006",
+      "word": "room service",
+      "pos": "n",
+      "ipa": "/ruːm ˈsɜːrvɪs/",
+      "meaning_vi": "dịch vụ tại phòng",
+      "definition_en": "food and drinks delivered to a hotel room",
+      "examples": [
+        {
+          "en": "We ordered dinner from room service.",
+          "vi": "Chúng tôi gọi bữa tối qua dịch vụ tại phòng."
+        }
+      ],
+      "collocations": [
+        "order room service",
+        "room service menu"
+      ],
+      "family": [],
+      "topic": "v19_hotels",
+      "level": 2
+    },
+    {
+      "id": "w0007",
+      "word": "minibar",
+      "pos": "n",
+      "ipa": "/ˈmɪnibɑːr/",
+      "meaning_vi": "tủ lạnh mini",
+      "definition_en": "a small fridge in a hotel room with drinks and snacks",
+      "examples": [
+        {
+          "en": "The minibar is checked at checkout.",
+          "vi": "Tủ lạnh mini được kiểm tra khi trả phòng."
+        }
+      ],
+      "collocations": [
+        "use the minibar",
+        "minibar charges"
+      ],
+      "family": [],
+      "topic": "v19_hotels",
+      "level": 2
+    },
+    {
+      "id": "w0008",
+      "word": "front desk",
+      "pos": "n",
+      "ipa": "/frʌnt desk/",
+      "meaning_vi": "quầy lễ tân",
+      "definition_en": "the main desk where guests check in and ask for help",
+      "examples": [
+        {
+          "en": "Leave your key at the front desk when you go out.",
+          "vi": "Hãy để chìa khóa ở quầy lễ tân khi ra ngoài."
+        }
+      ],
+      "collocations": [
+        "call the front desk",
+        "front desk staff"
+      ],
+      "family": [],
+      "topic": "v19_hotels",
+      "level": 1
+    },
+    {
+      "id": "w0009",
+      "word": "bellhop",
+      "pos": "n",
+      "ipa": "/ˈbelhɑːp/",
+      "meaning_vi": "nhân viên khuân hành lý",
+      "definition_en": "a hotel employee who carries guests' bags",
+      "examples": [
+        {
+          "en": "The bellhop took our bags to the room.",
+          "vi": "Nhân viên khuân hành lý mang túi của chúng tôi lên phòng."
+        }
+      ],
+      "collocations": [
+        "call a bellhop",
+        "tip the bellhop"
+      ],
+      "family": [],
+      "topic": "v19_hotels",
+      "level": 4
+    },
+    {
+      "id": "w0010",
+      "word": "occupancy",
+      "pos": "n",
+      "ipa": "/ˈɑːkjəpənsi/",
+      "meaning_vi": "tỷ lệ lấp phòng",
+      "definition_en": "the percentage of rooms that are being used",
+      "examples": [
+        {
+          "en": "Occupancy rises sharply in the summer.",
+          "vi": "Tỷ lệ lấp phòng tăng mạnh vào mùa hè."
+        }
+      ],
+      "collocations": [
+        "room occupancy",
+        "high occupancy"
+      ],
+      "family": [
+        "occupy (v)"
+      ],
+      "topic": "v19_hotels",
+      "level": 5
+    },
+    {
+      "id": "w0011",
+      "word": "hospitality",
+      "pos": "n",
+      "ipa": "/ˌhɑːspɪˈtæləti/",
+      "meaning_vi": "ngành khách sạn – dịch vụ",
+      "definition_en": "the business of providing food, drink, and accommodation",
+      "examples": [
+        {
+          "en": "She has a degree in hospitality management.",
+          "vi": "Cô ấy có bằng quản lý ngành khách sạn."
+        }
+      ],
+      "collocations": [
+        "hospitality industry",
+        "hospitality sector"
+      ],
+      "family": [],
+      "topic": "v19_hotels",
+      "level": 4
+    },
+    {
+      "id": "w0012",
+      "word": "complimentary",
+      "pos": "adj",
+      "ipa": "/ˌkɑːmplɪˈmentri/",
+      "meaning_vi": "miễn phí",
+      "definition_en": "given free of charge",
+      "examples": [
+        {
+          "en": "Complimentary breakfast is served until ten.",
+          "vi": "Bữa sáng miễn phí được phục vụ đến mười giờ."
+        }
+      ],
+      "collocations": [
+        "complimentary breakfast",
+        "complimentary service"
+      ],
+      "family": [],
+      "topic": "v19_hotels",
+      "level": 4
+    },
+    {
+      "id": "w0013",
+      "word": "upgrade",
+      "pos": "v",
+      "ipa": "/ˈʌpɡreɪd/",
+      "meaning_vi": "nâng hạng",
+      "definition_en": "to give someone a better room or service than booked",
+      "examples": [
+        {
+          "en": "The hotel upgraded us because the room was unavailable.",
+          "vi": "Khách sạn nâng hạng cho chúng tôi vì phòng không còn."
+        }
+      ],
+      "collocations": [
+        "upgrade a room",
+        "free upgrade"
+      ],
+      "family": [
+        "upgrade (n)"
+      ],
+      "topic": "v19_hotels",
+      "level": 2
+    },
+    {
+      "id": "w0014",
+      "word": "room key",
+      "pos": "n",
+      "ipa": "/ruːm kiː/",
+      "meaning_vi": "chìa khóa phòng",
+      "definition_en": "a card or key that opens a hotel room",
+      "examples": [
+        {
+          "en": "The room key stopped working after midnight.",
+          "vi": "Chìa khóa phòng ngừng hoạt động sau nửa đêm."
+        }
+      ],
+      "collocations": [
+        "collect a room key",
+        "return the room key"
+      ],
+      "family": [],
+      "topic": "v19_hotels",
+      "level": 2
+    },
+    {
+      "id": "w0015",
+      "word": "linen",
+      "pos": "n",
+      "ipa": "/ˈlɪnɪn/",
+      "meaning_vi": "chăn ga gối",
+      "definition_en": "sheets, towels, and similar fabric items",
+      "examples": [
+        {
+          "en": "Fresh linen is delivered every morning.",
+          "vi": "Chăn ga gối sạch được giao mỗi sáng."
+        }
+      ],
+      "collocations": [
+        "clean linen",
+        "change the linen"
+      ],
+      "family": [],
+      "topic": "v19_hotels",
+      "level": 4
+    },
+    {
+      "id": "w0016",
+      "word": "valet",
+      "pos": "n",
+      "ipa": "/ˈvæleɪ/",
+      "meaning_vi": "nhân viên đỗ xe",
+      "definition_en": "a person who parks guests' cars",
+      "examples": [
+        {
+          "en": "The valet brought the car to the entrance.",
+          "vi": "Nhân viên đỗ xe mang xe đến lối vào."
+        }
+      ],
+      "collocations": [
+        "valet parking",
+        "call the valet"
+      ],
+      "family": [],
+      "topic": "v19_hotels",
+      "level": 4
+    },
+    {
+      "id": "w0017",
+      "word": "ballroom",
+      "pos": "n",
+      "ipa": "/ˈbɔːlruːm/",
+      "meaning_vi": "phòng khiêu vũ lớn",
+      "definition_en": "a large room used for dances and formal events",
+      "examples": [
+        {
+          "en": "The wedding reception was held in the ballroom.",
+          "vi": "Tiệc cưới được tổ chức ở phòng lớn."
+        }
+      ],
+      "collocations": [
+        "hotel ballroom",
+        "ballroom dance"
+      ],
+      "family": [],
+      "topic": "v19_hotels",
+      "level": 3
+    },
+    {
+      "id": "w0018",
+      "word": "wake-up call",
+      "pos": "n",
+      "ipa": "/ˈweɪk ʌp kɔːl/",
+      "meaning_vi": "cuộc gọi báo thức",
+      "definition_en": "a phone call from the hotel at a requested time",
+      "examples": [
+        {
+          "en": "I asked for a wake-up call at six.",
+          "vi": "Tôi yêu cầu cuộc gọi báo thức lúc sáu giờ."
+        }
+      ],
+      "collocations": [
+        "request a wake-up call",
+        "morning wake-up call"
+      ],
+      "family": [],
+      "topic": "v19_hotels",
+      "level": 3
+    },
+    {
+      "id": "w0019",
+      "word": "booking",
+      "pos": "n",
+      "ipa": "/ˈbʊkɪŋ/",
+      "meaning_vi": "việc đặt phòng",
+      "definition_en": "an arrangement made in advance for a room or service",
+      "examples": [
+        {
+          "en": "The booking was made under her company name.",
+          "vi": "Việc đặt phòng được thực hiện dưới tên công ty cô ấy."
+        }
+      ],
+      "collocations": [
+        "confirm a booking",
+        "cancel a booking"
+      ],
+      "family": [
+        "book (v)"
+      ],
+      "topic": "v19_hotels",
+      "level": 2
+    },
+    {
+      "id": "w0020",
+      "word": "guest",
+      "pos": "n",
+      "ipa": "/ɡest/",
+      "meaning_vi": "khách lưu trú",
+      "definition_en": "a person staying at a hotel",
+      "examples": [
+        {
+          "en": "Guests may use the pool until nine.",
+          "vi": "Khách lưu trú được dùng hồ bơi đến chín giờ."
+        }
+      ],
+      "collocations": [
+        "hotel guest",
+        "guest room"
+      ],
+      "family": [],
+      "topic": "v19_hotels",
+      "level": 1
+    },
+    {
+      "id": "w0021",
+      "word": "lounge",
+      "pos": "n",
+      "ipa": "/laʊndʒ/",
+      "meaning_vi": "phòng chờ",
+      "definition_en": "a comfortable room where guests can relax",
+      "examples": [
+        {
+          "en": "Business guests can use the lounge on the top floor.",
+          "vi": "Khách doanh nhân được dùng phòng chờ ở tầng trên cùng."
+        }
+      ],
+      "collocations": [
+        "hotel lounge",
+        "executive lounge"
+      ],
+      "family": [],
+      "topic": "v19_hotels",
+      "level": 3
+    },
+    {
+      "id": "w0022",
+      "word": "double room",
+      "pos": "n",
+      "ipa": "/ˈdʌbl ruːm/",
+      "meaning_vi": "phòng đôi",
+      "definition_en": "a hotel room with one large bed for two people",
+      "examples": [
+        {
+          "en": "We reserved a double room for two nights.",
+          "vi": "Chúng tôi đặt phòng đôi cho hai đêm."
+        }
+      ],
+      "collocations": [
+        "book a double room",
+        "double room rate"
+      ],
+      "family": [],
+      "topic": "v19_hotels",
+      "level": 2
+    },
+    {
+      "id": "w0023",
+      "word": "sea view",
+      "pos": "n",
+      "ipa": "/siː vjuː/",
+      "meaning_vi": "tầm nhìn ra biển",
+      "definition_en": "a view of the sea from a room",
+      "examples": [
+        {
+          "en": "The suite has a balcony and a sea view.",
+          "vi": "Phòng dãy có ban công và tầm nhìn ra biển."
+        }
+      ],
+      "collocations": [
+        "room with a sea view",
+        "sea view suite"
+      ],
+      "family": [],
+      "topic": "v19_hotels",
+      "level": 2
+    },
+    {
+      "id": "w0024",
+      "word": "shuttle",
+      "pos": "n",
+      "ipa": "/ˈʃʌtl/",
+      "meaning_vi": "xe đưa đón",
+      "definition_en": "a vehicle that carries people between two places regularly",
+      "examples": [
+        {
+          "en": "The hotel shuttle leaves every half hour.",
+          "vi": "Xe đưa đón của khách sạn rời đi mỗi nửa giờ."
+        }
+      ],
+      "collocations": [
+        "airport shuttle",
+        "shuttle service"
+      ],
+      "family": [],
+      "topic": "v19_hotels",
+      "level": 3
+    }
+  ]
+}

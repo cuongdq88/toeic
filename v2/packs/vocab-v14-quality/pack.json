@@ -1,0 +1,559 @@
+{
+  "id": "vocab-v14-quality",
+  "kind": "vocab",
+  "title": "Từ vựng V14 – Chất lượng",
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "24 từ chủ đề chất lượng, tự chọn theo tần suất công sở, tự soạn ví dụ.",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 0
+    }
+  },
+  "words": [
+    {
+      "id": "w0001",
+      "word": "quality",
+      "pos": "n",
+      "ipa": "/ˈkwɑːləti/",
+      "meaning_vi": "chất lượng",
+      "definition_en": "how good or bad something is",
+      "examples": [
+        {
+          "en": "The client checks the quality of every batch.",
+          "vi": "Khách kiểm tra chất lượng từng lô hàng."
+        }
+      ],
+      "collocations": [
+        "high quality",
+        "quality control"
+      ],
+      "family": [],
+      "topic": "v14_quality",
+      "level": 2
+    },
+    {
+      "id": "w0002",
+      "word": "standard",
+      "pos": "n",
+      "ipa": "/ˈstændərd/",
+      "meaning_vi": "tiêu chuẩn",
+      "definition_en": "a level of quality that is expected or required",
+      "examples": [
+        {
+          "en": "The product meets all safety standards.",
+          "vi": "Sản phẩm đáp ứng mọi tiêu chuẩn an toàn."
+        }
+      ],
+      "collocations": [
+        "meet a standard",
+        "industry standard"
+      ],
+      "family": [
+        "standardize (v)"
+      ],
+      "topic": "v14_quality",
+      "level": 1
+    },
+    {
+      "id": "w0003",
+      "word": "defect",
+      "pos": "n",
+      "ipa": "/ˈdiːfekt/",
+      "meaning_vi": "khuyết điểm",
+      "definition_en": "a fault that makes a product imperfect",
+      "examples": [
+        {
+          "en": "A small defect was found on the surface.",
+          "vi": "Một khuyết điểm nhỏ được phát hiện trên bề mặt."
+        }
+      ],
+      "collocations": [
+        "manufacturing defect",
+        "detect a defect"
+      ],
+      "family": [
+        "defective (adj)"
+      ],
+      "topic": "v14_quality",
+      "level": 3
+    },
+    {
+      "id": "w0004",
+      "word": "compliance",
+      "pos": "n",
+      "ipa": "/kəmˈplaɪəns/",
+      "meaning_vi": "sự tuân thủ",
+      "definition_en": "the act of following rules or standards",
+      "examples": [
+        {
+          "en": "The factory passed its safety compliance check.",
+          "vi": "Nhà máy đạt kiểm tra tuân thủ an toàn."
+        }
+      ],
+      "collocations": [
+        "regulatory compliance",
+        "in compliance with"
+      ],
+      "family": [
+        "comply (v)"
+      ],
+      "topic": "v14_quality",
+      "level": 4
+    },
+    {
+      "id": "w0005",
+      "word": "specification",
+      "pos": "n",
+      "ipa": "/ˌspesɪfɪˈkeɪʃn/",
+      "meaning_vi": "đặc điểm kỹ thuật",
+      "definition_en": "a detailed description of how something should be made",
+      "examples": [
+        {
+          "en": "The parts were made to our exact specifications.",
+          "vi": "Các bộ phận được làm đúng đặc điểm kỹ thuật của chúng tôi."
+        }
+      ],
+      "collocations": [
+        "technical specifications",
+        "meet specifications"
+      ],
+      "family": [
+        "specify (v)"
+      ],
+      "topic": "v14_quality",
+      "level": 4
+    },
+    {
+      "id": "w0006",
+      "word": "tolerance",
+      "pos": "n",
+      "ipa": "/ˈtɑːlərəns/",
+      "meaning_vi": "dung sai kỹ thuật",
+      "definition_en": "the amount by which a measurement may vary without causing a problem",
+      "examples": [
+        {
+          "en": "The hole must be drilled within a narrow tolerance.",
+          "vi": "Lỗ phải được khoan trong dung sai hẹp."
+        }
+      ],
+      "collocations": [
+        "tight tolerance",
+        "within tolerance"
+      ],
+      "family": [
+        "tolerate (v)"
+      ],
+      "topic": "v14_quality",
+      "level": 5
+    },
+    {
+      "id": "w0007",
+      "word": "assurance",
+      "pos": "n",
+      "ipa": "/əˈʃʊrəns/",
+      "meaning_vi": "sự đảm bảo",
+      "definition_en": "a promise or confidence that something is true or will happen",
+      "examples": [
+        {
+          "en": "The supplier gave us written assurance of delivery.",
+          "vi": "Nhà cung cấp đảm bảo bằng văn bản về việc giao hàng."
+        }
+      ],
+      "collocations": [
+        "quality assurance",
+        "give assurance"
+      ],
+      "family": [
+        "assure (v)"
+      ],
+      "topic": "v14_quality",
+      "level": 4
+    },
+    {
+      "id": "w0008",
+      "word": "certify",
+      "pos": "v",
+      "ipa": "/ˈsɜːrtɪfaɪ/",
+      "meaning_vi": "chứng nhận",
+      "definition_en": "to state officially that something meets a standard",
+      "examples": [
+        {
+          "en": "An independent lab certified the equipment.",
+          "vi": "Một phòng lab độc lập chứng nhận thiết bị."
+        }
+      ],
+      "collocations": [
+        "certify a product",
+        "officially certified"
+      ],
+      "family": [
+        "certification (n)"
+      ],
+      "topic": "v14_quality",
+      "level": 4
+    },
+    {
+      "id": "w0009",
+      "word": "benchmark",
+      "pos": "n",
+      "ipa": "/ˈbentʃmɑːrk/",
+      "meaning_vi": "chuẩn đối sánh",
+      "definition_en": "a standard used to compare quality or performance",
+      "examples": [
+        {
+          "en": "Their service is a benchmark for the industry.",
+          "vi": "Dịch vụ của họ là chuẩn đối sánh cho ngành."
+        }
+      ],
+      "collocations": [
+        "industry benchmark",
+        "set a benchmark"
+      ],
+      "family": [],
+      "topic": "v14_quality",
+      "level": 4
+    },
+    {
+      "id": "w0010",
+      "word": "faulty",
+      "pos": "adj",
+      "ipa": "/ˈfɔːlti/",
+      "meaning_vi": "bị lỗi",
+      "definition_en": "not working correctly or not made properly",
+      "examples": [
+        {
+          "en": "The faulty switch was replaced at no charge.",
+          "vi": "Công tắc bị lỗi được thay miễn phí."
+        }
+      ],
+      "collocations": [
+        "faulty product",
+        "faulty wiring"
+      ],
+      "family": [
+        "fault (n)"
+      ],
+      "topic": "v14_quality",
+      "level": 3
+    },
+    {
+      "id": "w0011",
+      "word": "flawless",
+      "pos": "adj",
+      "ipa": "/ˈflɔːləs/",
+      "meaning_vi": "hoàn hảo",
+      "definition_en": "without any mistakes or defects",
+      "examples": [
+        {
+          "en": "The final samples were flawless.",
+          "vi": "Các mẫu cuối cùng hoàn hảo."
+        }
+      ],
+      "collocations": [
+        "flawless finish",
+        "flawless performance"
+      ],
+      "family": [
+        "flaw (n)"
+      ],
+      "topic": "v14_quality",
+      "level": 5
+    },
+    {
+      "id": "w0012",
+      "word": "durable",
+      "pos": "adj",
+      "ipa": "/ˈdʊrəbl/",
+      "meaning_vi": "bền",
+      "definition_en": "strong enough to last a long time",
+      "examples": [
+        {
+          "en": "The bag is made of durable waterproof material.",
+          "vi": "Túi được làm từ chất liệu chống nước bền."
+        }
+      ],
+      "collocations": [
+        "durable material",
+        "durable design"
+      ],
+      "family": [
+        "durability (n)"
+      ],
+      "topic": "v14_quality",
+      "level": 3
+    },
+    {
+      "id": "w0013",
+      "word": "reliability",
+      "pos": "n",
+      "ipa": "/rɪˌlaɪəˈbɪləti/",
+      "meaning_vi": "độ tin cậy",
+      "definition_en": "the quality of being dependable and working well",
+      "examples": [
+        {
+          "en": "Customers value the reliability of the product.",
+          "vi": "Khách hàng coi trọng độ tin cậy của sản phẩm."
+        }
+      ],
+      "collocations": [
+        "high reliability",
+        "test reliability"
+      ],
+      "family": [
+        "reliable (adj)"
+      ],
+      "topic": "v14_quality",
+      "level": 4
+    },
+    {
+      "id": "w0014",
+      "word": "consistency",
+      "pos": "n",
+      "ipa": "/kənˈsɪstənsi/",
+      "meaning_vi": "sự nhất quán",
+      "definition_en": "the quality of always being the same or similar",
+      "examples": [
+        {
+          "en": "Consistency is essential in food production.",
+          "vi": "Sự nhất quán rất quan trọng trong sản xuất thực phẩm."
+        }
+      ],
+      "collocations": [
+        "maintain consistency",
+        "consistency check"
+      ],
+      "family": [
+        "consistent (adj)"
+      ],
+      "topic": "v14_quality",
+      "level": 4
+    },
+    {
+      "id": "w0015",
+      "word": "sampling",
+      "pos": "n",
+      "ipa": "/ˈsæmplɪŋ/",
+      "meaning_vi": "việc lấy mẫu",
+      "definition_en": "the process of testing a small part of a larger group",
+      "examples": [
+        {
+          "en": "Random sampling showed no contamination.",
+          "vi": "Lấy mẫu ngẫu nhiên cho thấy không có nhiễm bẩn."
+        }
+      ],
+      "collocations": [
+        "random sampling",
+        "sampling procedure"
+      ],
+      "family": [
+        "sample (n)"
+      ],
+      "topic": "v14_quality",
+      "level": 5
+    },
+    {
+      "id": "w0016",
+      "word": "rework",
+      "pos": "v",
+      "ipa": "/ˌriːˈwɜːrk/",
+      "meaning_vi": "làm lại",
+      "definition_en": "to repair or redo something that is not acceptable",
+      "examples": [
+        {
+          "en": "The team had to rework fifty units.",
+          "vi": "Nhóm phải làm lại năm mươi sản phẩm."
+        }
+      ],
+      "collocations": [
+        "rework a product",
+        "rework costs"
+      ],
+      "family": [],
+      "topic": "v14_quality",
+      "level": 4
+    },
+    {
+      "id": "w0017",
+      "word": "scrap",
+      "pos": "n",
+      "ipa": "/skræp/",
+      "meaning_vi": "phế liệu",
+      "definition_en": "material or products that are thrown away",
+      "examples": [
+        {
+          "en": "The damaged parts were sold as scrap.",
+          "vi": "Các bộ phận hỏng được bán làm phế liệu."
+        }
+      ],
+      "collocations": [
+        "scrap metal",
+        "scrap rate"
+      ],
+      "family": [
+        "scrap (v)"
+      ],
+      "topic": "v14_quality",
+      "level": 4
+    },
+    {
+      "id": "w0018",
+      "word": "recall",
+      "pos": "n",
+      "ipa": "/ˈriːkɔːl/",
+      "meaning_vi": "việc thu hồi sản phẩm",
+      "definition_en": "an official request to return a product because of a problem",
+      "examples": [
+        {
+          "en": "The company announced a recall of the batteries.",
+          "vi": "Công ty công bố thu hồi pin."
+        }
+      ],
+      "collocations": [
+        "product recall",
+        "issue a recall"
+      ],
+      "family": [
+        "recall (v)"
+      ],
+      "topic": "v14_quality",
+      "level": 4
+    },
+    {
+      "id": "w0019",
+      "word": "accreditation",
+      "pos": "n",
+      "ipa": "/əˌkredɪˈteɪʃn/",
+      "meaning_vi": "sự công nhận",
+      "definition_en": "official approval of an organization or course",
+      "examples": [
+        {
+          "en": "The lab received accreditation last year.",
+          "vi": "Phòng lab được công nhận năm ngoái."
+        }
+      ],
+      "collocations": [
+        "obtain accreditation",
+        "accreditation body"
+      ],
+      "family": [
+        "accredit (v)"
+      ],
+      "topic": "v14_quality",
+      "level": 5
+    },
+    {
+      "id": "w0020",
+      "word": "checklist",
+      "pos": "n",
+      "ipa": "/ˈtʃeklɪst/",
+      "meaning_vi": "danh sách kiểm tra",
+      "definition_en": "a list of items to check or tasks to complete",
+      "examples": [
+        {
+          "en": "The inspector followed a ten-point checklist.",
+          "vi": "Thanh tra làm theo danh sách kiểm tra mười mục."
+        }
+      ],
+      "collocations": [
+        "safety checklist",
+        "complete a checklist"
+      ],
+      "family": [],
+      "topic": "v14_quality",
+      "level": 2
+    },
+    {
+      "id": "w0021",
+      "word": "traceability",
+      "pos": "n",
+      "ipa": "/ˌtreɪsəˈbɪləti/",
+      "meaning_vi": "khả năng truy xuất",
+      "definition_en": "the ability to track a product through each stage of production",
+      "examples": [
+        {
+          "en": "Traceability helps us find the source of a fault.",
+          "vi": "Khả năng truy xuất giúp tìm nguồn gốc lỗi."
+        }
+      ],
+      "collocations": [
+        "product traceability",
+        "traceability system"
+      ],
+      "family": [
+        "trace (v)"
+      ],
+      "topic": "v14_quality",
+      "level": 5
+    },
+    {
+      "id": "w0022",
+      "word": "nonconforming",
+      "pos": "adj",
+      "ipa": "/ˌnɑːnkənˈfɔːrmɪŋ/",
+      "meaning_vi": "không đạt yêu cầu",
+      "definition_en": "not meeting a required standard or specification",
+      "examples": [
+        {
+          "en": "Nonconforming items are kept in a separate area.",
+          "vi": "Hàng không đạt yêu cầu được để ở khu riêng."
+        }
+      ],
+      "collocations": [
+        "nonconforming product",
+        "nonconforming material"
+      ],
+      "family": [],
+      "topic": "v14_quality",
+      "level": 5
+    },
+    {
+      "id": "w0023",
+      "word": "corrective",
+      "pos": "adj",
+      "ipa": "/kəˈrektɪv/",
+      "meaning_vi": "nhằm khắc phục",
+      "definition_en": "intended to fix a problem that has been found",
+      "examples": [
+        {
+          "en": "A corrective action was taken after the audit.",
+          "vi": "Hành động khắc phục được thực hiện sau kiểm toán."
+        }
+      ],
+      "collocations": [
+        "corrective action",
+        "corrective measure"
+      ],
+      "family": [
+        "correct (v)"
+      ],
+      "topic": "v14_quality",
+      "level": 4
+    },
+    {
+      "id": "w0024",
+      "word": "stringent",
+      "pos": "adj",
+      "ipa": "/ˈstrɪndʒənt/",
+      "meaning_vi": "nghiêm ngặt",
+      "definition_en": "very strict and carefully controlled",
+      "examples": [
+        {
+          "en": "The product must pass stringent safety tests.",
+          "vi": "Sản phẩm phải vượt qua các bài kiểm tra an toàn nghiêm ngặt."
+        }
+      ],
+      "collocations": [
+        "stringent rules",
+        "stringent testing"
+      ],
+      "family": [],
+      "topic": "v14_quality",
+      "level": 5
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": "lesson-g20-noun-clauses",
+  "kind": "lesson",
+  "title": "Mệnh đề danh từ",
+  "topic": "g20_noun_clauses",
+  "parts": [
+    5
+  ],
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "Bài ngữ pháp g20 kèm gói luyện practice-p5-noun-clause-01.",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 0
+    }
+  },
+  "sections": [
+    {
+      "heading": "Mệnh đề danh từ là gì",
+      "body": "Một mệnh đề đóng vai trò danh từ: chủ ngữ, tân ngữ của động từ, tân ngữ của giới từ, hoặc bổ ngữ sau 'be'. Nó thường bắt đầu bằng **that, whether, if, what, who, when, where, why, how**."
+    },
+    {
+      "heading": "Vị trí và trật tự",
+      "body": "| Vai trò | Ví dụ |\n|---|---|---|\n| Chủ ngữ | What she said surprised us. |\n| Tân ngữ động từ | I know where he works. |\n| Tân ngữ giới từ | We talked about what to do. |\n| Bổ ngữ | The question is whether we can go. |\n\nTrong mệnh đề danh từ, **trật tự là chủ ngữ + động từ**, không đảo như câu hỏi."
+    },
+    {
+      "heading": "Mẹo nhận diện trong đề TOEIC",
+      "body": "Nếu chỗ trống mở đầu một mệnh đề làm chủ ngữ hoặc tân ngữ, chọn từ nối phù hợp nghĩa. Kiểm tra trật tự từ: sau 'where/when/what/how' phải là chủ ngữ rồi động từ, không phải trợ động từ đứng trước. 'Whether' dùng khi có hai khả năng; 'that' dùng cho mệnh đề khẳng định."
+    },
+    {
+      "heading": "Bẫy thường gặp",
+      "body": "Không dùng 'if' làm chủ ngữ đầu câu; dùng 'whether'. Không đảo trợ động từ: *I know where he works*, không phải *where does he work*. 'What' có thể làm chủ ngữ hoặc tân ngữ trong mệnh đề; 'that' chỉ là từ nối, không làm thành phần câu. Sau 'the question is' thường dùng 'whether'."
+    }
+  ],
+  "examples": [
+    {
+      "en": "What the client requested was a full refund.",
+      "vi": "Điều khách yêu cầu là hoàn tiền toàn bộ.",
+      "note": "Mệnh đề 'What ... requested' làm chủ ngữ."
+    },
+    {
+      "en": "I don't know when the next train leaves.",
+      "vi": "Tôi không biết chuyến tàu tiếp theo rời đi khi nào.",
+      "note": "Trật tự chủ ngữ + động từ trong mệnh đề."
+    },
+    {
+      "en": "The question is whether we can meet the deadline.",
+      "vi": "Câu hỏi là liệu chúng ta có kịp hạn hay không.",
+      "note": "'Whether' sau 'the question is'."
+    }
+  ],
+  "practice_pack": "practice-p5-noun-clause-01"
+}

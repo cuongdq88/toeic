@@ -1,0 +1,977 @@
+{
+  "id": "practice-p4-speaker-audience-01",
+  "kind": "practice",
+  "title": "Luyện Part 4 – Người nói / người nghe 01",
+  "level": "medium",
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "7 bài nói viết tay, mỗi bài 3 câu; đủ 4 giọng; không trùng tình huống/tên với gói khác.",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 0
+    }
+  },
+  "groups": [
+    {
+      "id": "g01",
+      "part": 4,
+      "audio": "audio/g01.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 1 through 3 refer to the following announcement.",
+          "vi": "Câu 1 đến 3 dựa vào thông báo sau."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Attention, all staff. Starting next month, we will use a new online system for booking meeting rooms. You will no longer be able to reserve a room by email or by calling reception. Instead, please log in to the staff portal and choose a room from the calendar. Each booking must include the expected number of attendees and any equipment you need. Rooms can be reserved up to two weeks in advance, and you will receive a confirmation by email. If you need help using the new system, a training session will be held on Friday. Thank you for your cooperation.",
+          "vi": "Xin nhân viên chú ý. Từ tháng sau, ta sẽ dùng hệ thống trực tuyến mới để đặt phòng họp. Bạn sẽ không thể đặt phòng qua email hay gọi lễ tân nữa. Thay vào đó, hãy đăng nhập cổng nhân viên và chọn phòng trên lịch. Mỗi lần đặt phải ghi số người tham dự dự kiến và thiết bị cần dùng. Có thể đặt trước tối đa hai tuần, và bạn sẽ nhận email xác nhận. Nếu cần trợ giúp, sẽ có buổi hướng dẫn vào thứ Sáu. Cảm ơn sự hợp tác."
+        }
+      ],
+      "questions": [
+        {
+          "no": 1,
+          "type": "p4_purpose_topic",
+          "difficulty": 2,
+          "stem": "What is the purpose of the announcement?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To close the meeting rooms"
+            },
+            {
+              "key": "B",
+              "text": "To hire reception staff"
+            },
+            {
+              "key": "C",
+              "text": "To introduce a new room-booking system"
+            },
+            {
+              "key": "D",
+              "text": "To cancel all bookings"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Người nói giới thiệu hệ thống đặt phòng họp trực tuyến mới.",
+            "why_wrong": {
+              "A": "Không đóng phòng họp.",
+              "B": "Không tuyển lễ tân.",
+              "D": "Không hủy đặt phòng."
+            },
+            "translation_vi": "Mục đích là giới thiệu hệ thống đặt phòng mới."
+          }
+        },
+        {
+          "no": 2,
+          "type": "p4_speaker_audience",
+          "difficulty": 2,
+          "stem": "Who most likely is the audience?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Visitors"
+            },
+            {
+              "key": "B",
+              "text": "Employees"
+            },
+            {
+              "key": "C",
+              "text": "Receptionists"
+            },
+            {
+              "key": "D",
+              "text": "IT staff only"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Người nói hướng dẫn nhân viên cách đặt phòng họp.",
+            "why_wrong": {
+              "A": "Không phải khách.",
+              "C": "Lễ tân không còn nhận đặt phòng.",
+              "D": "Không chỉ riêng nhân viên IT."
+            },
+            "translation_vi": "Người nghe là nhân viên."
+          }
+        },
+        {
+          "no": 3,
+          "type": "p4_detail",
+          "difficulty": 3,
+          "stem": "How far in advance can rooms be reserved?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Up to two weeks"
+            },
+            {
+              "key": "B",
+              "text": "Up to one month"
+            },
+            {
+              "key": "C",
+              "text": "Up to three days"
+            },
+            {
+              "key": "D",
+              "text": "No limit"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Có thể đặt phòng trước tối đa hai tuần.",
+            "why_wrong": {
+              "B": "Không nhắc một tháng.",
+              "C": "Không nhắc ba ngày.",
+              "D": "Có giới hạn rõ ràng."
+            },
+            "translation_vi": "Có thể đặt trước tối đa hai tuần."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "part": 4,
+      "audio": "audio/g02.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 4 through 6 refer to the following telephone message.",
+          "vi": "Câu 4 đến 6 dựa vào tin nhắn điện thoại sau."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "Hello, this is Barnaby from the accounts department. I'm calling about the cheque we received for invoice number forty-two. Unfortunately, the amount written on the cheque does not match the amount on the invoice, so we are unable to process it. Could you please check your records and send us a replacement for the correct amount? You can also pay by bank transfer if that is easier. If you have already sent a new payment, please ignore this message and forward the reference number. We will hold the original cheque until we hear from you. Thank you.",
+          "vi": "Xin chào, tôi là Barnaby từ phòng kế toán. Tôi gọi về tấm séc chúng tôi nhận cho hóa đơn số bốn mươi hai. Rất tiếc, số tiền trên séc không khớp với số tiền trên hóa đơn nên chúng tôi không thể xử lý. Bạn vui lòng kiểm tra hồ sơ và gửi séc thay thế đúng số tiền? Bạn cũng có thể thanh toán bằng chuyển khoản nếu thuận tiện hơn. Nếu đã gửi khoản mới, hãy bỏ qua tin này và gửi mã tham chiếu. Chúng tôi sẽ giữ séc gốc cho đến khi nhận được phản hồi. Cảm ơn."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "We appreciate your prompt attention to this matter.",
+          "vi": "Chúng tôi cảm ơn sự chú ý kịp thời của bạn."
+        }
+      ],
+      "questions": [
+        {
+          "no": 4,
+          "type": "p4_request_suggestion",
+          "difficulty": 3,
+          "stem": "What does the speaker ask the listener to do?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Ignore the invoice"
+            },
+            {
+              "key": "B",
+              "text": "Visit the accounts office"
+            },
+            {
+              "key": "C",
+              "text": "Return the invoice"
+            },
+            {
+              "key": "D",
+              "text": "Send a replacement payment"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Người nói yêu cầu gửi séc thay thế đúng số tiền.",
+            "why_wrong": {
+              "A": "Không bảo bỏ qua hóa đơn.",
+              "B": "Không yêu cầu đến văn phòng.",
+              "C": "Không yêu cầu trả hóa đơn."
+            },
+            "translation_vi": "Người nói yêu cầu gửi khoản thanh toán thay thế."
+          }
+        },
+        {
+          "no": 5,
+          "type": "p4_next_action",
+          "difficulty": 3,
+          "stem": "What will the speaker do until he hears back?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Cash the cheque"
+            },
+            {
+              "key": "B",
+              "text": "Cancel the invoice"
+            },
+            {
+              "key": "C",
+              "text": "Hold the original cheque"
+            },
+            {
+              "key": "D",
+              "text": "Return the cheque"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Người nói nói sẽ giữ séc gốc cho đến khi nhận phản hồi.",
+            "why_wrong": {
+              "A": "Không rút séc.",
+              "B": "Không hủy hóa đơn.",
+              "D": "Không trả séc."
+            },
+            "translation_vi": "Người nói sẽ giữ séc gốc."
+          }
+        },
+        {
+          "no": 6,
+          "type": "p4_inference",
+          "difficulty": 4,
+          "stem": "Why is the cheque being returned?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The amount is incorrect"
+            },
+            {
+              "key": "B",
+              "text": "The invoice is missing"
+            },
+            {
+              "key": "C",
+              "text": "The bank is closed"
+            },
+            {
+              "key": "D",
+              "text": "The cheque expired"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Số tiền trên séc không khớp hóa đơn nên không xử lý được.",
+            "why_wrong": {
+              "B": "Không nói thiếu hóa đơn.",
+              "C": "Không nói ngân hàng đóng.",
+              "D": "Không nói séc hết hạn."
+            },
+            "translation_vi": "Vì số tiền trên séc sai."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "part": 4,
+      "audio": "audio/g03.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 7 through 9 refer to the following announcement and graphic.",
+          "vi": "Câu 7 đến 9 dựa vào thông báo và bảng sau."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "Good afternoon, everyone. The company has updated its staff discount program with several local partners. The discount that applies to office furniture has the longest shelf life, so it is a good option if you are furnishing a home office. The other offers expire earlier, so please check the dates carefully. To use a discount, show your staff badge at the partner's checkout and mention the program. The full list is available on the staff portal, and new partners will be added each quarter. If you have questions, contact the benefits team. Thank you.",
+          "vi": "Chào buổi chiều. Công ty đã cập nhật chương trình giảm giá nhân viên với vài đối tác địa phương. Mức giảm áp dụng cho nội thất văn phòng có thời hạn dài nhất, nên rất hợp nếu bạn sắm đồ cho văn phòng tại nhà. Các ưu đãi khác hết hạn sớm hơn, hãy kiểm tra ngày cẩn thận. Để dùng ưu đãi, hãy xuất trình thẻ nhân viên tại quầy thanh toán và nhắc chương trình. Danh sách đầy đủ có trên cổng nhân viên, mỗi quý sẽ thêm đối tác mới. Nếu có câu hỏi, hãy liên hệ nhóm phúc lợi. Cảm ơn."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "Please check the portal regularly for the latest offers.",
+          "vi": "Hãy thường xuyên kiểm tra cổng thông tin để biết ưu đãi mới."
+        }
+      ],
+      "questions": [
+        {
+          "no": 7,
+          "type": "p4_implied_meaning",
+          "difficulty": 4,
+          "stem": "What does the speaker mean when she says, \"The discount that applies to office furniture has the longest shelf life, so it is a good option if you are furnishing a home office.\"?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Home offices are being closed"
+            },
+            {
+              "key": "B",
+              "text": "The discount is only for the office"
+            },
+            {
+              "key": "C",
+              "text": "Furniture is not discounted"
+            },
+            {
+              "key": "D",
+              "text": "The furniture discount is valid the longest"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Cụm 'longest shelf life' ngụ ý ưu đãi nội thất có thời hạn dài nhất.",
+            "why_wrong": {
+              "A": "Không nói đóng văn phòng tại nhà.",
+              "B": "Ưu đãi dùng được cả nhà riêng.",
+              "C": "Nội thất có giảm giá."
+            },
+            "translation_vi": "Cô ấy ngụ ý ưu đãi nội thất có thời hạn dài nhất."
+          }
+        },
+        {
+          "no": 8,
+          "type": "p4_graphic",
+          "difficulty": 4,
+          "stem": "Look at the graphic. What is the discount for the offer the speaker mentions?",
+          "options": [
+            {
+              "key": "A",
+              "text": "10%"
+            },
+            {
+              "key": "B",
+              "text": "15%"
+            },
+            {
+              "key": "C",
+              "text": "20%"
+            },
+            {
+              "key": "D",
+              "text": "25%"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Ưu đãi nội thất văn phòng là 15%.",
+            "why_wrong": {
+              "A": "10% là electronics.",
+              "C": "20% là fitness.",
+              "D": "25% là travel."
+            },
+            "translation_vi": "Mức giảm của ưu đãi được nhắc đến là 15%."
+          }
+        },
+        {
+          "no": 9,
+          "type": "p4_purpose_topic",
+          "difficulty": 2,
+          "stem": "What is the purpose of the talk?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To sell office furniture"
+            },
+            {
+              "key": "B",
+              "text": "To recruit new partners"
+            },
+            {
+              "key": "C",
+              "text": "To explain the staff discount program"
+            },
+            {
+              "key": "D",
+              "text": "To cancel a benefit"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Người nói giới thiệu chương trình giảm giá nhân viên đã cập nhật.",
+            "why_wrong": {
+              "A": "Không bán nội thất.",
+              "B": "Không tuyển đối tác.",
+              "D": "Không hủy phúc lợi."
+            },
+            "translation_vi": "Mục đích là giải thích chương trình giảm giá nhân viên."
+          }
+        }
+      ],
+      "graphic": {
+        "kind": "table",
+        "title": "Staff discount offers",
+        "columns": [
+          "Category",
+          "Discount",
+          "Partner",
+          "Expires"
+        ],
+        "rows": [
+          [
+            "Electronics",
+            "10%",
+            "TechMart",
+            "30 June"
+          ],
+          [
+            "Office furniture",
+            "15%",
+            "DeskWorks",
+            "31 December"
+          ],
+          [
+            "Fitness",
+            "20%",
+            "FitClub",
+            "30 September"
+          ],
+          [
+            "Travel",
+            "25%",
+            "FlyEasy",
+            "31 August"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "g04",
+      "part": 4,
+      "audio": "audio/g04.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 10 through 12 refer to the following announcement.",
+          "vi": "Câu 10 đến 12 dựa vào thông báo sau."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "Good morning. This is a reminder about building security. Starting next week, all employees must wear their security badge visibly at all times while on the premises. The badge is required to enter the building, the parking garage, and the secure floors. If you have lost your badge, please report it to security immediately so it can be deactivated. Replacement badges are available at the security desk, and the first replacement is free. Visitors must be signed in at the front desk and accompanied by a staff member at all times. Thank you for helping us keep the building safe.",
+          "vi": "Chào buổi sáng. Xin nhắc về an ninh tòa nhà. Từ tuần sau, mọi nhân viên phải đeo thẻ an ninh rõ ràng mọi lúc khi ở trong tòa nhà. Thẻ cần để vào tòa nhà, gara đỗ xe và các tầng bảo mật. Nếu mất thẻ, hãy báo ngay cho bộ phận an ninh để khóa thẻ. Thẻ thay thế có ở bàn an ninh, lần thay đầu tiên miễn phí. Khách phải đăng ký tại lễ tân và luôn có nhân viên đi cùng. Cảm ơn đã giúp giữ an toàn cho tòa nhà."
+        }
+      ],
+      "questions": [
+        {
+          "no": 10,
+          "type": "p4_speaker_audience",
+          "difficulty": 2,
+          "stem": "Who most likely is the audience?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Employees"
+            },
+            {
+              "key": "B",
+              "text": "Security guards"
+            },
+            {
+              "key": "C",
+              "text": "Visitors"
+            },
+            {
+              "key": "D",
+              "text": "Building managers"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Người nói nhắc nhân viên đeo thẻ an ninh và quy định vào tòa nhà.",
+            "why_wrong": {
+              "B": "Không phải bảo vệ.",
+              "C": "Khách chỉ là một phần quy định.",
+              "D": "Không phải quản lý tòa nhà."
+            },
+            "translation_vi": "Người nghe là nhân viên."
+          }
+        },
+        {
+          "no": 11,
+          "type": "p4_detail",
+          "difficulty": 3,
+          "stem": "What must employees do if they lose a badge?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Buy a new badge"
+            },
+            {
+              "key": "B",
+              "text": "Wait until the next day"
+            },
+            {
+              "key": "C",
+              "text": "Sign in as a visitor"
+            },
+            {
+              "key": "D",
+              "text": "Report it to security immediately"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Nhân viên phải báo ngay cho an ninh để khóa thẻ.",
+            "why_wrong": {
+              "A": "Thay thẻ đầu tiên miễn phí, không mua.",
+              "B": "Phải báo ngay, không chờ.",
+              "C": "Không đăng ký như khách."
+            },
+            "translation_vi": "Phải báo ngay cho bộ phận an ninh."
+          }
+        },
+        {
+          "no": 12,
+          "type": "p4_request_suggestion",
+          "difficulty": 3,
+          "stem": "What should visitors do?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Wear a staff badge"
+            },
+            {
+              "key": "B",
+              "text": "Sign in and stay with a staff member"
+            },
+            {
+              "key": "C",
+              "text": "Report to security"
+            },
+            {
+              "key": "D",
+              "text": "Enter through the garage"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Khách phải đăng ký tại lễ tân và luôn có nhân viên đi cùng.",
+            "why_wrong": {
+              "A": "Khách không đeo thẻ nhân viên.",
+              "C": "Không yêu cầu khách báo an ninh.",
+              "D": "Không vào qua gara."
+            },
+            "translation_vi": "Khách nên đăng ký và đi cùng nhân viên."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "part": 4,
+      "audio": "audio/g05.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 13 through 15 refer to the following announcement.",
+          "vi": "Câu 13 đến 15 dựa vào thông báo sau."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Attention, team. Because of the rain forecast for Saturday, the company picnic will move indoors to the community centre. The start time remains the same at eleven thirty, and the activities will be held in the main hall instead of the park. The barbecue will be replaced by a buffet lunch, and the games will be set up in the smaller side rooms. Please bring your name badge for entry, and be ready to double up in cars because the centre's parking lot is tight. If you have already registered, no further action is needed. We look forward to seeing everyone there. Thank you.",
+          "vi": "Xin nhóm chú ý. Do dự báo mưa thứ Bảy, buổi dã ngoại công ty sẽ chuyển vào trong nhà tại trung tâm cộng đồng. Giờ bắt đầu vẫn là mười một giờ ba mươi, và các hoạt động diễn ra ở hội trường chính thay vì công viên. Tiệc nướng được thay bằng bữa trưa buffet, và trò chơi bố trí ở các phòng nhỏ bên cạnh. Hãy mang thẻ tên để vào, và lưu ý chỗ đỗ xe ở trung tâm có hạn nên nên đi chung xe. Nếu đã đăng ký, không cần làm gì thêm. Mong gặp mọi người. Cảm ơn."
+        }
+      ],
+      "questions": [
+        {
+          "no": 13,
+          "type": "p4_next_action",
+          "difficulty": 3,
+          "stem": "What will happen to the barbecue?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It will be canceled entirely"
+            },
+            {
+              "key": "B",
+              "text": "It will move to the park"
+            },
+            {
+              "key": "C",
+              "text": "It will be held outdoors"
+            },
+            {
+              "key": "D",
+              "text": "It will be replaced by a buffet"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Tiệc nướng được thay bằng bữa trưa buffet.",
+            "why_wrong": {
+              "A": "Chỉ thay đổi, không hủy hoàn toàn.",
+              "B": "Không chuyển ra công viên.",
+              "C": "Không tổ chức ngoài trời."
+            },
+            "translation_vi": "Tiệc nướng sẽ được thay bằng buffet."
+          }
+        },
+        {
+          "no": 14,
+          "type": "p4_inference",
+          "difficulty": 4,
+          "stem": "Why is the picnic moving indoors?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The park is closed permanently"
+            },
+            {
+              "key": "B",
+              "text": "Rain is forecast for Saturday"
+            },
+            {
+              "key": "C",
+              "text": "The community centre is cheaper"
+            },
+            {
+              "key": "D",
+              "text": "Too many people registered"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Dự báo mưa thứ Bảy nên dã ngoại chuyển vào trong nhà.",
+            "why_wrong": {
+              "A": "Không nói công viên đóng vĩnh viễn.",
+              "C": "Không nói rẻ hơn.",
+              "D": "Không nói quá đông."
+            },
+            "translation_vi": "Vì dự báo có mưa thứ Bảy."
+          }
+        },
+        {
+          "no": 15,
+          "type": "p4_implied_meaning",
+          "difficulty": 4,
+          "stem": "What does the speaker mean when she says, \"Please bring your name badge for entry, and be ready to double up in cars because the centre's parking lot is tight.\"?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Parking at the centre is limited"
+            },
+            {
+              "key": "B",
+              "text": "The road is closed"
+            },
+            {
+              "key": "C",
+              "text": "Everyone must walk"
+            },
+            {
+              "key": "D",
+              "text": "The centre has no parking"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Cụm 'double up in cars' và 'tight' ngụ ý chỗ đỗ xe có hạn nên nên đi chung.",
+            "why_wrong": {
+              "B": "Không nói đường đóng.",
+              "C": "Không bắt đi bộ.",
+              "D": "Có chỗ đỗ nhưng hạn chế."
+            },
+            "translation_vi": "Cô ấy ngụ ý chỗ đỗ xe có hạn."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g06",
+      "part": 4,
+      "audio": "audio/g06.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 16 through 18 refer to the following announcement and graphic.",
+          "vi": "Câu 16 đến 18 dựa vào thông báo và bảng sau."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "Attention, meeting organisers. We have updated the audiovisual equipment available in our conference rooms. The room with a 4K projector and seating for at least twenty people is now the best choice for large presentations. The smaller rooms are fine for team meetings but have standard projectors and fewer seats. Please book the equipment at the same time as the room, and note that a technician can assist with setup on request. All rooms now include video conferencing at no extra charge. If you have questions about the new setup, contact the facilities team. Thank you.",
+          "vi": "Xin các nhà tổ chức họp chú ý. Chúng tôi đã cập nhật thiết bị nghe nhìn ở các phòng hội nghị. Phòng có máy chiếu 4K và chỗ ngồi cho ít nhất hai mươi người giờ là lựa chọn tốt nhất cho thuyết trình lớn. Các phòng nhỏ hợp cho họp nhóm nhưng có máy chiếu tiêu chuẩn và ít chỗ hơn. Hãy đặt thiết bị cùng lúc với phòng, và có kỹ thuật viên hỗ trợ lắp đặt nếu yêu cầu. Mọi phòng giờ đều có họp video không phụ phí. Nếu có câu hỏi, hãy liên hệ nhóm cơ sở vật chất. Cảm ơn."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "We hope this makes planning your meetings easier.",
+          "vi": "Chúng tôi hy vọng điều này giúp việc lên kế hoạch họp dễ hơn."
+        }
+      ],
+      "questions": [
+        {
+          "no": 16,
+          "type": "p4_graphic",
+          "difficulty": 4,
+          "stem": "Look at the graphic. What is the daily rate of the room the speaker mentions?",
+          "options": [
+            {
+              "key": "A",
+              "text": "$150"
+            },
+            {
+              "key": "B",
+              "text": "$200"
+            },
+            {
+              "key": "C",
+              "text": "$300"
+            },
+            {
+              "key": "D",
+              "text": "$400"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Phòng có máy chiếu 4K và ít nhất 20 chỗ là Maple Hall, giá $300.",
+            "why_wrong": {
+              "A": "$150 là Pine Room.",
+              "B": "$200 là Cedar Room.",
+              "D": "$400 là Oak Hall."
+            },
+            "translation_vi": "Giá theo ngày của phòng được nhắc đến là 300 đô."
+          }
+        },
+        {
+          "no": 17,
+          "type": "p4_purpose_topic",
+          "difficulty": 2,
+          "stem": "What is the purpose of the talk?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To sell projectors"
+            },
+            {
+              "key": "B",
+              "text": "To explain updated conference room equipment"
+            },
+            {
+              "key": "C",
+              "text": "To hire technicians"
+            },
+            {
+              "key": "D",
+              "text": "To close the conference rooms"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Người nói thông báo thiết bị nghe nhìn mới ở các phòng hội nghị.",
+            "why_wrong": {
+              "A": "Không bán máy chiếu.",
+              "C": "Không tuyển kỹ thuật viên.",
+              "D": "Không đóng phòng họp."
+            },
+            "translation_vi": "Mục đích là giải thích thiết bị phòng họp đã cập nhật."
+          }
+        },
+        {
+          "no": 18,
+          "type": "p4_speaker_audience",
+          "difficulty": 2,
+          "stem": "Who most likely is the audience?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Technicians"
+            },
+            {
+              "key": "B",
+              "text": "Visitors"
+            },
+            {
+              "key": "C",
+              "text": "Meeting organisers"
+            },
+            {
+              "key": "D",
+              "text": "Suppliers"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Người nói hướng dẫn người tổ chức họp cách đặt phòng và thiết bị.",
+            "why_wrong": {
+              "A": "Kỹ thuật viên chỉ hỗ trợ.",
+              "B": "Không phải khách.",
+              "D": "Không phải nhà cung cấp."
+            },
+            "translation_vi": "Người nghe là người tổ chức họp."
+          }
+        }
+      ],
+      "graphic": {
+        "kind": "table",
+        "title": "Conference room equipment",
+        "columns": [
+          "Room",
+          "Daily rate",
+          "Projector",
+          "Seats"
+        ],
+        "rows": [
+          [
+            "Pine Room",
+            "$150",
+            "Standard",
+            "10"
+          ],
+          [
+            "Cedar Room",
+            "$200",
+            "Standard",
+            "15"
+          ],
+          [
+            "Maple Hall",
+            "$300",
+            "4K",
+            "20"
+          ],
+          [
+            "Oak Hall",
+            "$400",
+            "4K",
+            "30"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "g07",
+      "part": 4,
+      "audio": "audio/g07.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 19 through 21 refer to the following announcement.",
+          "vi": "Câu 19 đến 21 dựa vào thông báo sau."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "Hello, everyone. The annual health screening will take place next Wednesday and Thursday in the first-floor clinic. All full-time employees are required to attend, and the screening takes about twenty minutes. Please book a time slot using the online scheduler, and bring your staff ID and health insurance card. Fasting is not required, but please avoid heavy meals for two hours before your appointment. Results will be sent to your personal email within five working days. If you are unable to attend on either day, contact the wellness team to arrange an alternative. Thank you.",
+          "vi": "Xin chào mọi người. Đợt khám sức khỏe hằng năm diễn ra thứ Tư và thứ Năm tuần sau tại phòng khám tầng một. Mọi nhân viên toàn thời gian bắt buộc tham gia, và mỗi lượt khám mất khoảng hai mươi phút. Hãy đặt khung giờ bằng công cụ trực tuyến, và mang thẻ nhân viên cùng thẻ bảo hiểm y tế. Không cần nhịn ăn, nhưng hãy tránh ăn quá no trong hai giờ trước giờ hẹn. Kết quả sẽ gửi vào email cá nhân trong vòng năm ngày làm việc. Nếu không thể đến vào hai ngày đó, hãy liên hệ nhóm chăm sóc sức khỏe để sắp xếp phương án khác. Cảm ơn."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "Please book early as slots fill quickly.",
+          "vi": "Hãy đặt sớm vì các khung giờ nhanh hết."
+        }
+      ],
+      "questions": [
+        {
+          "no": 19,
+          "type": "p4_detail",
+          "difficulty": 3,
+          "stem": "How long does the screening take?",
+          "options": [
+            {
+              "key": "A",
+              "text": "About twenty minutes"
+            },
+            {
+              "key": "B",
+              "text": "About one hour"
+            },
+            {
+              "key": "C",
+              "text": "About two hours"
+            },
+            {
+              "key": "D",
+              "text": "All day"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Mỗi lượt khám mất khoảng hai mươi phút.",
+            "why_wrong": {
+              "B": "Không nhắc một giờ.",
+              "C": "Không nhắc hai giờ.",
+              "D": "Không kéo dài cả ngày."
+            },
+            "translation_vi": "Mỗi lượt khám mất khoảng hai mươi phút."
+          }
+        },
+        {
+          "no": 20,
+          "type": "p4_request_suggestion",
+          "difficulty": 3,
+          "stem": "What should employees bring?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Only a photo"
+            },
+            {
+              "key": "B",
+              "text": "A medical report"
+            },
+            {
+              "key": "C",
+              "text": "A fasting certificate"
+            },
+            {
+              "key": "D",
+              "text": "Their staff ID and insurance card"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Nhân viên cần mang thẻ nhân viên và thẻ bảo hiểm y tế.",
+            "why_wrong": {
+              "A": "Không nói chỉ cần ảnh.",
+              "B": "Không nói mang báo cáo y tế.",
+              "C": "Không cần giấy nhịn ăn."
+            },
+            "translation_vi": "Nhân viên nên mang thẻ nhân viên và thẻ bảo hiểm."
+          }
+        },
+        {
+          "no": 21,
+          "type": "p4_inference",
+          "difficulty": 4,
+          "stem": "Why should employees avoid heavy meals before the appointment?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It may affect the screening"
+            },
+            {
+              "key": "B",
+              "text": "The clinic has no food"
+            },
+            {
+              "key": "C",
+              "text": "The test requires fasting"
+            },
+            {
+              "key": "D",
+              "text": "The results are delayed"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Tránh ăn quá no trước giờ hẹn vì có thể ảnh hưởng kết quả khám.",
+            "why_wrong": {
+              "B": "Không nói phòng khám không có đồ ăn.",
+              "C": "Không yêu cầu nhịn ăn.",
+              "D": "Không nói kết quả bị trễ."
+            },
+            "translation_vi": "Vì ăn quá no có thể ảnh hưởng đến việc khám."
+          }
+        }
+      ]
+    }
+  ]
+}

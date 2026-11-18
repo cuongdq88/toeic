@@ -1,0 +1,587 @@
+{
+  "id": "vocab-v03-office",
+  "kind": "vocab",
+  "title": "Từ vựng V03 – Văn phòng",
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "24 từ chủ đề văn phòng, tự chọn theo tần suất công sở, tự soạn ví dụ.",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 0
+    }
+  },
+  "words": [
+    {
+      "id": "w0001",
+      "word": "stationery",
+      "pos": "n",
+      "ipa": "/ˈsteɪʃəneri/",
+      "meaning_vi": "văn phòng phẩm",
+      "definition_en": "materials such as paper, pens, and envelopes used in an office",
+      "examples": [
+        {
+          "en": "We order stationery at the start of every quarter.",
+          "vi": "Chúng tôi đặt văn phòng phẩm vào đầu mỗi quý."
+        }
+      ],
+      "collocations": [
+        "office stationery",
+        "order stationery",
+        "a stationery cupboard"
+      ],
+      "family": [],
+      "topic": "v03_office",
+      "level": 2
+    },
+    {
+      "id": "w0002",
+      "word": "photocopy",
+      "pos": "v",
+      "ipa": "/ˈfoʊtoʊkɑːpi/",
+      "meaning_vi": "sao chụp",
+      "definition_en": "to make a copy of a document using a machine",
+      "examples": [
+        {
+          "en": "Could you photocopy the contract for the client?",
+          "vi": "Bạn có thể sao chụp hợp đồng cho khách không?"
+        }
+      ],
+      "collocations": [
+        "photocopy a document",
+        "photocopy a form"
+      ],
+      "family": [
+        "photocopier (n)"
+      ],
+      "topic": "v03_office",
+      "level": 1
+    },
+    {
+      "id": "w0003",
+      "word": "schedule",
+      "pos": "n",
+      "ipa": "/ˈskedʒuːl/",
+      "meaning_vi": "lịch làm việc",
+      "definition_en": "a plan that lists times and dates for activities",
+      "examples": [
+        {
+          "en": "Her schedule is full until Wednesday afternoon.",
+          "vi": "Lịch của cô ấy kín đến chiều thứ Tư."
+        }
+      ],
+      "collocations": [
+        "a busy schedule",
+        "adjust the schedule",
+        "a meeting schedule"
+      ],
+      "family": [
+        "reschedule (v)"
+      ],
+      "topic": "v03_office",
+      "level": 1
+    },
+    {
+      "id": "w0004",
+      "word": "colleague",
+      "pos": "n",
+      "ipa": "/ˈkɑːliːɡ/",
+      "meaning_vi": "đồng nghiệp",
+      "definition_en": "a person you work with in the same organization",
+      "examples": [
+        {
+          "en": "A colleague from the finance team helped me check the figures.",
+          "vi": "Một đồng nghiệp ở nhóm tài chính đã giúp tôi kiểm tra số liệu."
+        }
+      ],
+      "collocations": [
+        "a close colleague",
+        "ask a colleague",
+        "a former colleague"
+      ],
+      "family": [],
+      "topic": "v03_office",
+      "level": 1
+    },
+    {
+      "id": "w0005",
+      "word": "memo",
+      "pos": "n",
+      "ipa": "/ˈmemoʊ/",
+      "meaning_vi": "bản ghi nhớ",
+      "definition_en": "a short written message sent to people within a company",
+      "examples": [
+        {
+          "en": "The director sent a memo about the new expense policy.",
+          "vi": "Giám đốc gửi bản ghi nhớ về chính sách chi phí mới."
+        }
+      ],
+      "collocations": [
+        "write a memo",
+        "circulate a memo",
+        "an internal memo"
+      ],
+      "family": [],
+      "topic": "v03_office",
+      "level": 2
+    },
+    {
+      "id": "w0006",
+      "word": "appoint",
+      "pos": "v",
+      "ipa": "/əˈpɔɪnt/",
+      "meaning_vi": "bổ nhiệm",
+      "definition_en": "to choose someone officially for a job or position",
+      "examples": [
+        {
+          "en": "The board appointed her as the new regional manager.",
+          "vi": "Hội đồng đã bổ nhiệm cô ấy làm quản lý khu vực mới."
+        }
+      ],
+      "collocations": [
+        "appoint a manager",
+        "appoint a committee"
+      ],
+      "family": [
+        "appointment (n)"
+      ],
+      "topic": "v03_office",
+      "level": 3
+    },
+    {
+      "id": "w0007",
+      "word": "arrange",
+      "pos": "v",
+      "ipa": "/əˈreɪndʒ/",
+      "meaning_vi": "sắp xếp",
+      "definition_en": "to plan or organize something so that it can happen",
+      "examples": [
+        {
+          "en": "I will arrange a meeting with the suppliers for next week.",
+          "vi": "Tôi sẽ sắp xếp một cuộc họp với các nhà cung cấp vào tuần sau."
+        }
+      ],
+      "collocations": [
+        "arrange a meeting",
+        "arrange for someone",
+        "arrange a visit"
+      ],
+      "family": [
+        "arrangement (n)"
+      ],
+      "topic": "v03_office",
+      "level": 1
+    },
+    {
+      "id": "w0008",
+      "word": "reminder",
+      "pos": "n",
+      "ipa": "/rɪˈmaɪndər/",
+      "meaning_vi": "lời nhắc",
+      "definition_en": "a message that helps someone remember something",
+      "examples": [
+        {
+          "en": "I set a reminder to submit the report by Friday.",
+          "vi": "Tôi đặt lời nhắc nộp báo cáo trước thứ Sáu."
+        }
+      ],
+      "collocations": [
+        "send a reminder",
+        "a friendly reminder",
+        "a payment reminder"
+      ],
+      "family": [
+        "remind (v)"
+      ],
+      "topic": "v03_office",
+      "level": 2
+    },
+    {
+      "id": "w0009",
+      "word": "archive",
+      "pos": "v",
+      "ipa": "/ˈɑːrkaɪv/",
+      "meaning_vi": "lưu trữ",
+      "definition_en": "to store documents or records for future use",
+      "examples": [
+        {
+          "en": "Please archive the old invoices in the shared folder.",
+          "vi": "Vui lòng lưu trữ các hóa đơn cũ trong thư mục chung."
+        }
+      ],
+      "collocations": [
+        "archive files",
+        "archive documents",
+        "digitally archive"
+      ],
+      "family": [
+        "archive (n)",
+        "archival (adj)"
+      ],
+      "topic": "v03_office",
+      "level": 3
+    },
+    {
+      "id": "w0010",
+      "word": "mailbox",
+      "pos": "n",
+      "ipa": "/ˈmeɪlbɑːks/",
+      "meaning_vi": "hộp thư",
+      "definition_en": "a box where letters or messages are delivered",
+      "examples": [
+        {
+          "en": "Check the mailbox for the signed forms this afternoon.",
+          "vi": "Chiều nay hãy kiểm tra hộp thư để lấy các mẫu đơn đã ký."
+        }
+      ],
+      "collocations": [
+        "check the mailbox",
+        "a company mailbox",
+        "an electronic mailbox"
+      ],
+      "family": [
+        "mail (n)"
+      ],
+      "topic": "v03_office",
+      "level": 1
+    },
+    {
+      "id": "w0011",
+      "word": "errand",
+      "pos": "n",
+      "ipa": "/ˈerənd/",
+      "meaning_vi": "việc vặt",
+      "definition_en": "a short trip to do a small task, often outside the office",
+      "examples": [
+        {
+          "en": "He ran an errand to pick up the printed brochures.",
+          "vi": "Anh ấy đi một việc vặt là lấy các tờ rơi đã in."
+        }
+      ],
+      "collocations": [
+        "run an errand",
+        "a personal errand",
+        "office errands"
+      ],
+      "family": [],
+      "topic": "v03_office",
+      "level": 2
+    },
+    {
+      "id": "w0012",
+      "word": "organize",
+      "pos": "v",
+      "ipa": "/ˈɔːrɡənaɪz/",
+      "meaning_vi": "tổ chức, sắp xếp",
+      "definition_en": "to plan and arrange an event or set of things",
+      "examples": [
+        {
+          "en": "She organized the files by client name.",
+          "vi": "Cô ấy sắp xếp hồ sơ theo tên khách hàng."
+        }
+      ],
+      "collocations": [
+        "organize a meeting",
+        "organize files",
+        "well organized"
+      ],
+      "family": [
+        "organization (n)"
+      ],
+      "topic": "v03_office",
+      "level": 1
+    },
+    {
+      "id": "w0013",
+      "word": "supplies",
+      "pos": "n",
+      "ipa": "/səˈplaɪz/",
+      "meaning_vi": "vật tư, nhu yếu phẩm",
+      "definition_en": "materials and goods needed for daily work",
+      "examples": [
+        {
+          "en": "The office needs more printer paper and other supplies.",
+          "vi": "Văn phòng cần thêm giấy in và các vật tư khác."
+        }
+      ],
+      "collocations": [
+        "office supplies",
+        "order supplies",
+        "cleaning supplies"
+      ],
+      "family": [
+        "supply (v)",
+        "supply (n)"
+      ],
+      "topic": "v03_office",
+      "level": 2
+    },
+    {
+      "id": "w0014",
+      "word": "attend",
+      "pos": "v",
+      "ipa": "/əˈtend/",
+      "meaning_vi": "tham dự",
+      "definition_en": "to be present at an event such as a meeting or class",
+      "examples": [
+        {
+          "en": "All team leaders must attend the safety briefing.",
+          "vi": "Mọi trưởng nhóm phải tham dự buổi phổ biến an toàn."
+        }
+      ],
+      "collocations": [
+        "attend a meeting",
+        "attend training",
+        "attend an event"
+      ],
+      "family": [
+        "attendance (n)",
+        "attendee (n)"
+      ],
+      "topic": "v03_office",
+      "level": 1
+    },
+    {
+      "id": "w0015",
+      "word": "postpone",
+      "pos": "v",
+      "ipa": "/poʊstˈpoʊn/",
+      "meaning_vi": "hoãn",
+      "definition_en": "to change an event to a later time or date",
+      "examples": [
+        {
+          "en": "They postponed the interview until the manager returns.",
+          "vi": "Họ hoãn buổi phỏng vấn cho đến khi người quản lý trở lại."
+        }
+      ],
+      "collocations": [
+        "postpone a meeting",
+        "postpone until",
+        "postpone indefinitely"
+      ],
+      "family": [
+        "postponement (n)"
+      ],
+      "topic": "v03_office",
+      "level": 2
+    },
+    {
+      "id": "w0016",
+      "word": "briefing",
+      "pos": "n",
+      "ipa": "/ˈbriːfɪŋ/",
+      "meaning_vi": "buổi phổ biến thông tin",
+      "definition_en": "a short meeting where people are given information about a task",
+      "examples": [
+        {
+          "en": "The morning briefing covers the day's deliveries.",
+          "vi": "Buổi phổ biến buổi sáng tóm tắt các chuyến giao hàng trong ngày."
+        }
+      ],
+      "collocations": [
+        "a morning briefing",
+        "attend a briefing",
+        "a press briefing"
+      ],
+      "family": [
+        "brief (v)",
+        "brief (adj)"
+      ],
+      "topic": "v03_office",
+      "level": 3
+    },
+    {
+      "id": "w0017",
+      "word": "tidy",
+      "pos": "adj",
+      "ipa": "/ˈtaɪdi/",
+      "meaning_vi": "gọn gàng",
+      "definition_en": "neat and arranged in an orderly way",
+      "examples": [
+        {
+          "en": "A tidy desk helps you find documents more quickly.",
+          "vi": "Bàn làm việc gọn gàng giúp bạn tìm tài liệu nhanh hơn."
+        }
+      ],
+      "collocations": [
+        "a tidy desk",
+        "keep the office tidy",
+        "a tidy workspace"
+      ],
+      "family": [
+        "tidy (v)"
+      ],
+      "topic": "v03_office",
+      "level": 1
+    },
+    {
+      "id": "w0018",
+      "word": "promptly",
+      "pos": "adv",
+      "ipa": "/ˈprɑːmptli/",
+      "meaning_vi": "ngay lập tức, đúng giờ",
+      "definition_en": "quickly and without delay",
+      "examples": [
+        {
+          "en": "Please reply promptly to all customer requests.",
+          "vi": "Vui lòng phản hồi ngay mọi yêu cầu của khách hàng."
+        }
+      ],
+      "collocations": [
+        "reply promptly",
+        "arrive promptly",
+        "promptly at"
+      ],
+      "family": [
+        "prompt (adj)"
+      ],
+      "topic": "v03_office",
+      "level": 3
+    },
+    {
+      "id": "w0019",
+      "word": "extension",
+      "pos": "n",
+      "ipa": "/ɪkˈstenʃn/",
+      "meaning_vi": "sự gia hạn; số nhánh",
+      "definition_en": "extra time allowed, or an additional phone line in an office",
+      "examples": [
+        {
+          "en": "She asked for an extension on the application deadline.",
+          "vi": "Cô ấy xin gia hạn hạn nộp đơn."
+        }
+      ],
+      "collocations": [
+        "request an extension",
+        "a phone extension",
+        "grant an extension"
+      ],
+      "family": [
+        "extend (v)"
+      ],
+      "topic": "v03_office",
+      "level": 3
+    },
+    {
+      "id": "w0020",
+      "word": "circulate",
+      "pos": "v",
+      "ipa": "/ˈsɜːrkjəleɪt/",
+      "meaning_vi": "chuyển vòng, lưu hành",
+      "definition_en": "to send something to a group of people so that each can see it",
+      "examples": [
+        {
+          "en": "Please circulate the agenda before the meeting.",
+          "vi": "Vui lòng chuyển chương trình họp trước buổi họp."
+        }
+      ],
+      "collocations": [
+        "circulate a memo",
+        "circulate a document",
+        "widely circulated"
+      ],
+      "family": [
+        "circulation (n)"
+      ],
+      "topic": "v03_office",
+      "level": 4
+    },
+    {
+      "id": "w0021",
+      "word": "equipment",
+      "pos": "n",
+      "ipa": "/ɪˈkwɪpmənt/",
+      "meaning_vi": "thiết bị",
+      "definition_en": "the tools and machines needed for a particular activity",
+      "examples": [
+        {
+          "en": "The new office equipment was installed on Monday.",
+          "vi": "Thiết bị văn phòng mới đã được lắp đặt vào thứ Hai."
+        }
+      ],
+      "collocations": [
+        "office equipment",
+        "install equipment",
+        "safety equipment"
+      ],
+      "family": [
+        "equip (v)"
+      ],
+      "topic": "v03_office",
+      "level": 2
+    },
+    {
+      "id": "w0022",
+      "word": "convenient",
+      "pos": "adj",
+      "ipa": "/kənˈviːniənt/",
+      "meaning_vi": "thuận tiện",
+      "definition_en": "easy to use or suitable for your needs",
+      "examples": [
+        {
+          "en": "Let's choose a time that is convenient for everyone.",
+          "vi": "Hãy chọn thời điểm thuận tiện cho mọi người."
+        }
+      ],
+      "collocations": [
+        "a convenient time",
+        "a convenient location",
+        "convenient for"
+      ],
+      "family": [
+        "convenience (n)"
+      ],
+      "topic": "v03_office",
+      "level": 2
+    },
+    {
+      "id": "w0023",
+      "word": "notice",
+      "pos": "n",
+      "ipa": "/ˈnoʊtɪs/",
+      "meaning_vi": "thông báo",
+      "definition_en": "a written statement that gives information to people",
+      "examples": [
+        {
+          "en": "A notice about the fire drill was posted by the elevator.",
+          "vi": "Một thông báo về buổi diễn tập cháy đã được dán cạnh thang máy."
+        }
+      ],
+      "collocations": [
+        "post a notice",
+        "give notice",
+        "a notice board"
+      ],
+      "family": [
+        "notice (v)"
+      ],
+      "topic": "v03_office",
+      "level": 1
+    },
+    {
+      "id": "w0024",
+      "word": "workplace",
+      "pos": "n",
+      "ipa": "/ˈwɜːrkpleɪs/",
+      "meaning_vi": "nơi làm việc",
+      "definition_en": "the building or environment where people work",
+      "examples": [
+        {
+          "en": "The company wants to create a safer workplace.",
+          "vi": "Công ty muốn tạo ra một nơi làm việc an toàn hơn."
+        }
+      ],
+      "collocations": [
+        "a safe workplace",
+        "workplace culture",
+        "a modern workplace"
+      ],
+      "family": [],
+      "topic": "v03_office",
+      "level": 2
+    }
+  ]
+}

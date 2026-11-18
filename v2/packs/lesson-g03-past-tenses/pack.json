@@ -1,0 +1,28 @@
+{
+  "id": "lesson-g03-past-tenses",
+  "kind": "lesson",
+  "title": "Thì quá khứ",
+  "topic": "g03_past_tenses",
+  "parts": [5, 6],
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "Bài ngữ pháp g03 kèm gói luyện practice-p5-past-tenses-01.",
+    "ai_check": {"date": "2026-11-12", "fixed": 0}
+  },
+  "sections": [
+    {"heading": "Quá khứ đơn", "body": "**Công thức:** S + V-ed/bất quy tắc.\n\n**Dùng khi:** hành động đã xong tại một mốc quá khứ xác định. Dấu hiệu: `yesterday`, `last week`, `in 2005`, `two days ago`."},
+    {"heading": "Quá khứ tiếp diễn", "body": "**Công thức:** S + was/were + V-ing.\n\n**Dùng khi:** hành động đang diễn ra tại một thời điểm quá khứ, hoặc bị hành động khác xen vào. Dấu hiệu: `at 8 p.m. yesterday`, `while`, `when`."},
+    {"heading": "Quá khứ hoàn thành", "body": "**Công thức:** S + had + V-ed/PII.\n\n**Dùng khi:** hành động xảy ra và hoàn tất trước một mốc hoặc hành động quá khứ khác. Dấu hiệu: `by the time`, `before`, `after`, `no sooner ... than`, `hardly ... when`."},
+    {"heading": "Mẹo và bẫy TOEIC", "body": "- `By the time + quá khứ`, mệnh đề còn lại thường dùng quá khứ hoàn thành.\n- `No sooner`/`Hardly` đứng đầu câu phải đảo trợ động từ: *Had he left...*, *No sooner had we...*\n- Phân biệt rõ hành động nào xảy ra trước để chọn quá khứ đơn hay quá khứ hoàn thành.\n- Câu bị động quá khứ hoàn thành: `had been + V-ed`."}
+  ],
+  "examples": [
+    {"en": "They signed the contract last Friday.", "vi": "Họ đã ký hợp đồng thứ Sáu tuần trước.", "note": "Mốc quá khứ xác định dùng quá khứ đơn."},
+    {"en": "She was waiting when the client called.", "vi": "Cô ấy đang chờ thì khách gọi đến.", "note": "Hành động đang diễn ra dùng quá khứ tiếp diễn."},
+    {"en": "The records had been prepared before the audit began.", "vi": "Hồ sơ đã được chuẩn bị xong trước khi đợt kiểm toán bắt đầu.", "note": "Hành động xong trước dùng quá khứ hoàn thành bị động."}
+  ],
+  "practice_pack": "practice-p5-past-tenses-01"
+}

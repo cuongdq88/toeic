@@ -1,0 +1,665 @@
+{
+  "id": "practice-p5-transition-adverb-01",
+  "kind": "practice",
+  "title": "Luyện Part 5 – Trạng từ liên kết 01",
+  "level": "medium",
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "15 câu trạng từ liên kết, 5 câu mức 4-5.",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 0
+    }
+  },
+  "groups": [
+    {
+      "id": "g01",
+      "part": 5,
+      "questions": [
+        {
+          "no": 1,
+          "type": "p5_conjunction",
+          "difficulty": 3,
+          "stem": "The proposal was expensive; ____, it was approved.",
+          "options": [
+            {
+              "key": "A",
+              "text": "however"
+            },
+            {
+              "key": "B",
+              "text": "therefore"
+            },
+            {
+              "key": "C",
+              "text": "moreover"
+            },
+            {
+              "key": "D",
+              "text": "otherwise"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Hai ý tương phản nên dùng 'however'.",
+            "why_wrong": {
+              "B": "'Therefore' chỉ kết quả.",
+              "C": "'Moreover' chỉ bổ sung.",
+              "D": "'Otherwise' nghĩa là nếu không."
+            },
+            "translation_vi": "Đề xuất đắt; tuy nhiên, nó vẫn được duyệt."
+          },
+          "tags": [
+            "g19_transition_adverbs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "part": 5,
+      "questions": [
+        {
+          "no": 2,
+          "type": "p5_conjunction",
+          "difficulty": 4,
+          "stem": "Sales fell sharply. ____, the company hired more staff.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Therefore"
+            },
+            {
+              "key": "B",
+              "text": "Nevertheless"
+            },
+            {
+              "key": "C",
+              "text": "Moreover"
+            },
+            {
+              "key": "D",
+              "text": "For example"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Hành động trái ngược với xu hướng nên dùng 'Nevertheless'.",
+            "why_wrong": {
+              "A": "'Therefore' chỉ kết quả.",
+              "C": "'Moreover' chỉ bổ sung.",
+              "D": "'For example' chỉ ví dụ."
+            },
+            "translation_vi": "Doanh số giảm mạnh. Tuy vậy, công ty vẫn tuyển thêm nhân viên."
+          },
+          "tags": [
+            "g19_transition_adverbs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "part": 5,
+      "questions": [
+        {
+          "no": 3,
+          "type": "p5_conjunction",
+          "difficulty": 3,
+          "stem": "The team worked overtime; ____, the project was finished early.",
+          "options": [
+            {
+              "key": "A",
+              "text": "however"
+            },
+            {
+              "key": "B",
+              "text": "otherwise"
+            },
+            {
+              "key": "C",
+              "text": "consequently"
+            },
+            {
+              "key": "D",
+              "text": "in contrast"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Câu sau là kết quả nên dùng 'consequently'.",
+            "why_wrong": {
+              "A": "'However' chỉ tương phản.",
+              "B": "'Otherwise' nghĩa là nếu không.",
+              "D": "'In contrast' chỉ đối chiếu."
+            },
+            "translation_vi": "Nhóm làm thêm giờ; do đó, dự án hoàn thành sớm."
+          },
+          "tags": [
+            "g19_transition_adverbs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "part": 5,
+      "questions": [
+        {
+          "no": 4,
+          "type": "p5_conjunction",
+          "difficulty": 3,
+          "stem": "Please submit the form by Friday. ____, your application will be rejected.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Therefore"
+            },
+            {
+              "key": "B",
+              "text": "Moreover"
+            },
+            {
+              "key": "C",
+              "text": "Similarly"
+            },
+            {
+              "key": "D",
+              "text": "Otherwise"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "'Otherwise' nghĩa là nếu không làm vậy.",
+            "why_wrong": {
+              "A": "'Therefore' chỉ kết quả.",
+              "B": "'Moreover' chỉ bổ sung.",
+              "C": "'Similarly' chỉ tương đồng."
+            },
+            "translation_vi": "Vui lòng nộp mẫu trước thứ Sáu. Nếu không, đơn sẽ bị từ chối."
+          },
+          "tags": [
+            "g19_transition_adverbs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "part": 5,
+      "questions": [
+        {
+          "no": 5,
+          "type": "p5_conjunction",
+          "difficulty": 2,
+          "stem": "The new system is faster. ____, it is easier to use.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Moreover"
+            },
+            {
+              "key": "B",
+              "text": "However"
+            },
+            {
+              "key": "C",
+              "text": "Otherwise"
+            },
+            {
+              "key": "D",
+              "text": "Therefore"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Câu sau bổ sung thêm ưu điểm nên dùng 'Moreover'.",
+            "why_wrong": {
+              "B": "'However' chỉ tương phản.",
+              "C": "'Otherwise' nghĩa là nếu không.",
+              "D": "'Therefore' chỉ kết quả."
+            },
+            "translation_vi": "Hệ thống mới nhanh hơn. Hơn nữa, nó dễ dùng hơn."
+          },
+          "tags": [
+            "g19_transition_adverbs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g06",
+      "part": 5,
+      "questions": [
+        {
+          "no": 6,
+          "type": "p5_conjunction",
+          "difficulty": 3,
+          "stem": "The office is small; ____, it is very close to the station.",
+          "options": [
+            {
+              "key": "A",
+              "text": "therefore"
+            },
+            {
+              "key": "B",
+              "text": "however"
+            },
+            {
+              "key": "C",
+              "text": "moreover"
+            },
+            {
+              "key": "D",
+              "text": "thus"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Hai ý tương phản nhẹ nên dùng 'however'.",
+            "why_wrong": {
+              "A": "'Therefore' chỉ kết quả.",
+              "C": "'Moreover' chỉ bổ sung.",
+              "D": "'Thus' chỉ kết quả."
+            },
+            "translation_vi": "Văn phòng nhỏ; tuy nhiên, nó rất gần ga."
+          },
+          "tags": [
+            "g19_transition_adverbs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g07",
+      "part": 5,
+      "questions": [
+        {
+          "no": 7,
+          "type": "p5_conjunction",
+          "difficulty": 4,
+          "stem": "Sales rose in Asia. ____, profits fell in Europe.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Therefore"
+            },
+            {
+              "key": "B",
+              "text": "Moreover"
+            },
+            {
+              "key": "C",
+              "text": "In contrast"
+            },
+            {
+              "key": "D",
+              "text": "Otherwise"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Hai xu hướng trái ngược nên dùng 'In contrast'.",
+            "why_wrong": {
+              "A": "'Therefore' chỉ kết quả.",
+              "B": "'Moreover' chỉ bổ sung.",
+              "D": "'Otherwise' nghĩa là nếu không."
+            },
+            "translation_vi": "Doanh số tăng ở châu Á. Ngược lại, lợi nhuận giảm ở châu Âu."
+          },
+          "tags": [
+            "g19_transition_adverbs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g08",
+      "part": 5,
+      "questions": [
+        {
+          "no": 8,
+          "type": "p5_conjunction",
+          "difficulty": 3,
+          "stem": "He missed the deadline; ____, the client canceled the order.",
+          "options": [
+            {
+              "key": "A",
+              "text": "however"
+            },
+            {
+              "key": "B",
+              "text": "for example"
+            },
+            {
+              "key": "C",
+              "text": "otherwise"
+            },
+            {
+              "key": "D",
+              "text": "as a result"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Câu sau là kết quả nên dùng 'as a result'.",
+            "why_wrong": {
+              "A": "'However' chỉ tương phản.",
+              "B": "'For example' chỉ ví dụ.",
+              "C": "'Otherwise' nghĩa là nếu không."
+            },
+            "translation_vi": "Anh ấy lỡ hạn; kết quả là khách hủy đơn."
+          },
+          "tags": [
+            "g19_transition_adverbs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g09",
+      "part": 5,
+      "questions": [
+        {
+          "no": 9,
+          "type": "p5_conjunction",
+          "difficulty": 4,
+          "stem": "We must cut costs. ____, we will not survive the year.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Otherwise"
+            },
+            {
+              "key": "B",
+              "text": "Moreover"
+            },
+            {
+              "key": "C",
+              "text": "Therefore"
+            },
+            {
+              "key": "D",
+              "text": "Similarly"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'Otherwise' chỉ hậu quả nếu không làm vậy.",
+            "why_wrong": {
+              "B": "'Moreover' chỉ bổ sung.",
+              "C": "'Therefore' chỉ kết quả trực tiếp.",
+              "D": "'Similarly' chỉ tương đồng."
+            },
+            "translation_vi": "Chúng ta phải cắt chi phí. Nếu không, chúng ta không trụ nổi đến cuối năm."
+          },
+          "tags": [
+            "g19_transition_adverbs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g10",
+      "part": 5,
+      "questions": [
+        {
+          "no": 10,
+          "type": "p5_conjunction",
+          "difficulty": 3,
+          "stem": "The product is durable. ____, it comes with a five-year warranty.",
+          "options": [
+            {
+              "key": "A",
+              "text": "However"
+            },
+            {
+              "key": "B",
+              "text": "In addition"
+            },
+            {
+              "key": "C",
+              "text": "Otherwise"
+            },
+            {
+              "key": "D",
+              "text": "Therefore"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Câu sau bổ sung thông tin nên dùng 'In addition'.",
+            "why_wrong": {
+              "A": "'However' chỉ tương phản.",
+              "C": "'Otherwise' nghĩa là nếu không.",
+              "D": "'Therefore' chỉ kết quả."
+            },
+            "translation_vi": "Sản phẩm bền. Ngoài ra, nó có bảo hành năm năm."
+          },
+          "tags": [
+            "g19_transition_adverbs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g11",
+      "part": 5,
+      "questions": [
+        {
+          "no": 11,
+          "type": "p5_conjunction",
+          "difficulty": 3,
+          "stem": "The first option is cheaper. ____, the second offers better service.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Therefore"
+            },
+            {
+              "key": "B",
+              "text": "Moreover"
+            },
+            {
+              "key": "C",
+              "text": "However"
+            },
+            {
+              "key": "D",
+              "text": "Otherwise"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Hai lựa chọn có ưu điểm trái ngược nên dùng 'However'.",
+            "why_wrong": {
+              "A": "'Therefore' chỉ kết quả.",
+              "B": "'Moreover' chỉ bổ sung.",
+              "D": "'Otherwise' nghĩa là nếu không."
+            },
+            "translation_vi": "Lựa chọn đầu rẻ hơn. Tuy nhiên, lựa chọn thứ hai có dịch vụ tốt hơn."
+          },
+          "tags": [
+            "g19_transition_adverbs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g12",
+      "part": 5,
+      "questions": [
+        {
+          "no": 12,
+          "type": "p5_conjunction",
+          "difficulty": 5,
+          "stem": "The shipment was delayed; ____, the client was informed immediately.",
+          "options": [
+            {
+              "key": "A",
+              "text": "otherwise"
+            },
+            {
+              "key": "B",
+              "text": "moreover"
+            },
+            {
+              "key": "C",
+              "text": "for instance"
+            },
+            {
+              "key": "D",
+              "text": "accordingly"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "'Accordingly' chỉ hành động phù hợp với tình huống trước.",
+            "why_wrong": {
+              "A": "'Otherwise' nghĩa là nếu không.",
+              "B": "'Moreover' chỉ bổ sung.",
+              "C": "'For instance' chỉ ví dụ."
+            },
+            "translation_vi": "Lô hàng bị trễ; theo đó, khách được thông báo ngay."
+          },
+          "tags": [
+            "g19_transition_adverbs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g13",
+      "part": 5,
+      "questions": [
+        {
+          "no": 13,
+          "type": "p5_conjunction",
+          "difficulty": 4,
+          "stem": "Many staff work remotely. ____, the office was redesigned with fewer desks.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Consequently"
+            },
+            {
+              "key": "B",
+              "text": "However"
+            },
+            {
+              "key": "C",
+              "text": "Otherwise"
+            },
+            {
+              "key": "D",
+              "text": "In contrast"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Câu sau là kết quả nên dùng 'Consequently'.",
+            "why_wrong": {
+              "B": "'However' chỉ tương phản.",
+              "C": "'Otherwise' nghĩa là nếu không.",
+              "D": "'In contrast' chỉ đối chiếu."
+            },
+            "translation_vi": "Nhiều nhân viên làm từ xa. Do đó, văn phòng được thiết kế lại với ít bàn hơn."
+          },
+          "tags": [
+            "g19_transition_adverbs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g14",
+      "part": 5,
+      "questions": [
+        {
+          "no": 14,
+          "type": "p5_conjunction",
+          "difficulty": 4,
+          "stem": "The report was detailed. ____, it lacked a clear conclusion.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Therefore"
+            },
+            {
+              "key": "B",
+              "text": "Nevertheless"
+            },
+            {
+              "key": "C",
+              "text": "Moreover"
+            },
+            {
+              "key": "D",
+              "text": "For instance"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Câu sau tương phản nên dùng 'Nevertheless'.",
+            "why_wrong": {
+              "A": "'Therefore' chỉ kết quả.",
+              "C": "'Moreover' chỉ bổ sung.",
+              "D": "'For instance' chỉ ví dụ."
+            },
+            "translation_vi": "Báo cáo chi tiết. Tuy vậy, nó thiếu kết luận rõ ràng."
+          },
+          "tags": [
+            "g19_transition_adverbs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g15",
+      "part": 5,
+      "questions": [
+        {
+          "no": 15,
+          "type": "p5_conjunction",
+          "difficulty": 4,
+          "stem": "Prices rose by ten percent. ____, demand remained stable.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Therefore"
+            },
+            {
+              "key": "B",
+              "text": "Moreover"
+            },
+            {
+              "key": "C",
+              "text": "Even so"
+            },
+            {
+              "key": "D",
+              "text": "Otherwise"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'Even so' chỉ sự tương phản với điều vừa nêu.",
+            "why_wrong": {
+              "A": "'Therefore' chỉ kết quả.",
+              "B": "'Moreover' chỉ bổ sung.",
+              "D": "'Otherwise' nghĩa là nếu không."
+            },
+            "translation_vi": "Giá tăng mười phần trăm. Dù vậy, nhu cầu vẫn ổn định."
+          },
+          "tags": [
+            "g19_transition_adverbs"
+          ]
+        }
+      ]
+    }
+  ]
+}

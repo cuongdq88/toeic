@@ -1,0 +1,769 @@
+{
+  "id": "practice-p7-single-02",
+  "kind": "practice",
+  "title": "Luyện Part 7 – Bài đơn 02",
+  "level": "medium",
+  "version": 1,
+  "meta": {
+    "author": "claude",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "ai_check": {
+      "date": "2026-11-17",
+      "fixed": 0
+    }
+  },
+  "groups": [
+    {
+      "id": "g01",
+      "part": 7,
+      "passages": [
+        {
+          "type": "letter",
+          "title": "Letter to a supplier",
+          "text": "Kestrel Outdoor Gear\n18 Mill Lane, Ashford\n\n9 October\n\nMr. Ben Adeyemi\nAdeyemi Textiles\n\nDear Mr. Adeyemi,\n\nI am writing about our order of 400 waterproof jackets (order no. 5512), which arrived on 6 October. [1] When our warehouse staff opened the boxes, they found that about sixty jackets had broken zippers.\n\nWe have sold your jackets for four years and have rarely had any problems. [2] However, the winter season begins in three weeks, and we cannot sell damaged stock.\n\nI would therefore be grateful if you could send sixty replacement jackets by 20 October. [3] We will return the damaged items once the new ones arrive. Please confirm by e-mail whether this date is possible. [4]\n\nYours sincerely,\nHanna Kovač\nPurchasing Manager",
+          "vi": "Thư của bà Hanna Kovač, Trưởng phòng Mua hàng Kestrel Outdoor Gear, gửi ông Ben Adeyemi (Adeyemi Textiles), ngày 9/10. Đơn 400 áo khoác chống nước (số 5512) đến ngày 6/10; khi mở thùng, nhân viên kho thấy khoảng sáu mươi áo hỏng khóa kéo. Chúng tôi đã bán áo của quý công ty bốn năm, hiếm khi gặp vấn đề và luôn hài lòng với chất lượng. Tuy nhiên mùa đông bắt đầu sau ba tuần và chúng tôi không thể bán hàng lỗi. Vì vậy mong ông gửi sáu mươi áo thay thế trước 20/10; chúng tôi sẽ trả lại hàng lỗi khi nhận hàng mới. Vui lòng xác nhận qua email."
+        }
+      ],
+      "questions": [
+        {
+          "no": 1,
+          "type": "p7_main_idea_purpose",
+          "difficulty": 1,
+          "stem": "Why did Ms. Kovač write the letter?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To place a first order"
+            },
+            {
+              "key": "B",
+              "text": "To cancel a contract"
+            },
+            {
+              "key": "C",
+              "text": "To request replacement products"
+            },
+            {
+              "key": "D",
+              "text": "To thank a supplier for a fast delivery"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Bà Kovač yêu cầu gửi sáu mươi chiếc áo thay thế cho hàng bị hỏng.",
+            "why_wrong": {
+              "A": "Đây không phải đơn đầu tiên; họ đã bán hàng bốn năm.",
+              "B": "Không hủy hợp đồng.",
+              "D": "Thư phản ánh hàng lỗi, không cảm ơn."
+            },
+            "translation_vi": "Mục đích thư? – Yêu cầu gửi hàng thay thế."
+          }
+        },
+        {
+          "no": 2,
+          "type": "p7_detail",
+          "difficulty": 2,
+          "stem": "What was wrong with some of the jackets?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Their zippers did not work"
+            },
+            {
+              "key": "B",
+              "text": "They were the wrong color"
+            },
+            {
+              "key": "C",
+              "text": "They arrived late"
+            },
+            {
+              "key": "D",
+              "text": "They were too small"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Nhân viên kho phát hiện khoảng sáu mươi áo bị hỏng khóa kéo.",
+            "why_wrong": {
+              "B": "Không nhắc màu.",
+              "C": "Hàng đến 6/10, không bị nói là trễ.",
+              "D": "Không nhắc kích cỡ."
+            },
+            "translation_vi": "Vấn đề của một số áo? – Khóa kéo bị hỏng."
+          }
+        },
+        {
+          "no": 3,
+          "type": "p7_inference",
+          "difficulty": 4,
+          "stem": "What is suggested about Kestrel Outdoor Gear?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It plans to stop selling jackets"
+            },
+            {
+              "key": "B",
+              "text": "It has had a good relationship with Adeyemi Textiles"
+            },
+            {
+              "key": "C",
+              "text": "It received the order in September"
+            },
+            {
+              "key": "D",
+              "text": "It has its own clothing factory"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Đã bán áo của nhà cung cấp bốn năm và hiếm khi có vấn đề → quan hệ tốt.",
+            "why_wrong": {
+              "A": "Họ cần áo cho mùa đông sắp tới.",
+              "C": "Hàng đến ngày 6/10.",
+              "D": "Họ mua áo từ nhà cung cấp, không tự sản xuất."
+            },
+            "translation_vi": "Có thể suy ra gì về Kestrel? – Có quan hệ tốt với Adeyemi Textiles."
+          }
+        },
+        {
+          "no": 4,
+          "type": "p7_sentence_insertion",
+          "difficulty": 3,
+          "stem": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"We have always been satisfied with their quality.\" Where does it best belong?",
+          "options": [
+            {
+              "key": "A",
+              "text": "[1]"
+            },
+            {
+              "key": "B",
+              "text": "[2]"
+            },
+            {
+              "key": "C",
+              "text": "[3]"
+            },
+            {
+              "key": "D",
+              "text": "[4]"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Câu 'We have always been satisfied with their quality' nhấn mạnh quan hệ tốt, đặt sau câu về bốn năm hợp tác ở [2], trước 'However'.",
+            "why_wrong": {
+              "A": "[1] đang mô tả đơn hàng, chưa nhắc lịch sử hợp tác.",
+              "C": "[3] đang nói yêu cầu thay thế.",
+              "D": "[4] đang đề nghị xác nhận qua email."
+            },
+            "translation_vi": "Chúng tôi luôn hài lòng với chất lượng sản phẩm."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "part": 7,
+      "passages": [
+        {
+          "type": "web_page",
+          "title": "Brightdesk FAQ",
+          "text": "Brightdesk Standing Desks – Frequently Asked Questions\n\nHow long does delivery take?\nMost orders arrive within five business days. [1] Orders to islands and remote areas may take up to two weeks.\n\nDo I need tools to assemble the desk?\nNo. Every desk comes with a small key that is all you need. [2] Assembly usually takes about twenty minutes.\n\nWhat if the desk does not suit me?\nYou may return any desk within sixty days for a full refund. [3] We will arrange collection from your home at no cost.\n\nIs there a warranty?\nThe frame is guaranteed for ten years, and the motor for five. [4]",
+          "vi": "Bàn đứng Brightdesk – câu hỏi thường gặp. Giao hàng mất bao lâu? Phần lớn đơn đến trong năm ngày làm việc; bạn nhận mã theo dõi qua email khi bàn được gửi đi. Đơn tới đảo và vùng xa có thể mất tới hai tuần. Cần dụng cụ để lắp không? Không, mỗi bàn kèm một chìa nhỏ là đủ; lắp khoảng hai mươi phút. Nếu bàn không hợp? Bạn có thể trả trong sáu mươi ngày để được hoàn tiền đầy đủ; chúng tôi tới nhà lấy miễn phí. Có bảo hành không? Khung bảo hành mười năm, động cơ năm năm."
+        }
+      ],
+      "questions": [
+        {
+          "no": 5,
+          "type": "p7_main_idea_purpose",
+          "difficulty": 1,
+          "stem": "What is the purpose of the Web page?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To announce a price increase"
+            },
+            {
+              "key": "B",
+              "text": "To recruit delivery drivers"
+            },
+            {
+              "key": "C",
+              "text": "To compare desks from several companies"
+            },
+            {
+              "key": "D",
+              "text": "To answer common customer questions"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Trang web là phần câu hỏi thường gặp về giao hàng, lắp ráp, đổi trả, bảo hành.",
+            "why_wrong": {
+              "A": "Không nhắc giá.",
+              "B": "Không tuyển tài xế.",
+              "C": "Chỉ nói về bàn Brightdesk."
+            },
+            "translation_vi": "Mục đích trang web? – Trả lời các câu hỏi thường gặp."
+          }
+        },
+        {
+          "no": 6,
+          "type": "p7_not_true",
+          "difficulty": 3,
+          "stem": "What is NOT true about Brightdesk desks?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The motor has a five-year guarantee"
+            },
+            {
+              "key": "B",
+              "text": "Assembly takes around twenty minutes"
+            },
+            {
+              "key": "C",
+              "text": "Customers must pay to return a desk"
+            },
+            {
+              "key": "D",
+              "text": "Some deliveries take two weeks"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Công ty thu hồi bàn miễn phí → 'khách phải trả phí trả hàng' là sai.",
+            "why_wrong": {
+              "A": "Đúng: động cơ bảo hành năm năm.",
+              "B": "Đúng: lắp khoảng hai mươi phút.",
+              "D": "Đúng: vùng xa có thể tới hai tuần."
+            },
+            "translation_vi": "Điều gì KHÔNG đúng? – Khách phải trả tiền khi trả bàn."
+          }
+        },
+        {
+          "no": 7,
+          "type": "p7_vocabulary_synonym",
+          "difficulty": 3,
+          "stem": "On the Web page, the word \"suit\" in paragraph 3 is closest in meaning to",
+          "options": [
+            {
+              "key": "A",
+              "text": "follow"
+            },
+            {
+              "key": "B",
+              "text": "dress"
+            },
+            {
+              "key": "C",
+              "text": "meet"
+            },
+            {
+              "key": "D",
+              "text": "fit"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "'does not suit me' = không phù hợp với tôi → 'fit'.",
+            "why_wrong": {
+              "A": "'follow' là đi theo.",
+              "B": "'dress' là mặc đồ.",
+              "C": "'meet' là gặp/đáp ứng (yêu cầu), không dùng với 'me' theo nghĩa này."
+            },
+            "translation_vi": "Từ 'suit' gần nghĩa nhất với 'fit'."
+          }
+        },
+        {
+          "no": 8,
+          "type": "p7_sentence_insertion",
+          "difficulty": 4,
+          "stem": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"You will receive a tracking number by e-mail when your desk is shipped.\" Where does it best belong?",
+          "options": [
+            {
+              "key": "A",
+              "text": "[1]"
+            },
+            {
+              "key": "B",
+              "text": "[2]"
+            },
+            {
+              "key": "C",
+              "text": "[3]"
+            },
+            {
+              "key": "D",
+              "text": "[4]"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Câu 'You will receive a tracking number by e-mail when your desk is shipped' thuộc phần giao hàng, vị trí [1].",
+            "why_wrong": {
+              "B": "[2] thuộc phần lắp ráp.",
+              "C": "[3] thuộc phần đổi trả.",
+              "D": "[4] thuộc phần bảo hành."
+            },
+            "translation_vi": "Bạn sẽ nhận mã theo dõi qua email khi bàn được gửi đi."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "part": 7,
+      "passages": [
+        {
+          "type": "article",
+          "title": "Harbourline Ferries adds evening service",
+          "text": "PORT LINDEN (2 August) – Harbourline Ferries will begin running an evening service between Port Linden and Castle Island on 1 September. [1] Until now, the last ferry has left Port Linden at 6:15 P.M., which has made it difficult for island residents who work late on the mainland to get home.\n\nThe new 9:30 P.M. sailing will operate Monday to Friday. [2] Tickets will cost the same as on daytime ferries, and monthly passes will also be valid.\n\nHarbourline spokesperson Ayumi Sato said the service would be reviewed after six months. \"If enough passengers use it, we may add a weekend sailing as well,\" she said. [3] The company carried just over 410,000 passengers last year. [4]",
+          "vi": "PORT LINDEN (2/8) – Harbourline Ferries sẽ chạy chuyến phà buổi tối giữa Port Linden và đảo Castle từ 1/9. Trước nay chuyến cuối rời Port Linden lúc 6:15 tối, khiến cư dân đảo làm muộn trên đất liền khó về nhà. Chuyến 9:30 tối sẽ chạy từ thứ Hai đến thứ Sáu, mỗi chuyến khoảng bốn mươi phút. Giá vé như chuyến ban ngày, vé tháng vẫn dùng được. Người phát ngôn Ayumi Sato cho biết dịch vụ sẽ được đánh giá lại sau sáu tháng: \"Nếu đủ khách, chúng tôi có thể thêm chuyến cuối tuần.\" Năm ngoái công ty chở hơn 410.000 lượt khách."
+        }
+      ],
+      "questions": [
+        {
+          "no": 9,
+          "type": "p7_main_idea_purpose",
+          "difficulty": 2,
+          "stem": "What is the article mainly about?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A change in ticket prices"
+            },
+            {
+              "key": "B",
+              "text": "A new ferry sailing"
+            },
+            {
+              "key": "C",
+              "text": "The opening of a new port"
+            },
+            {
+              "key": "D",
+              "text": "A shortage of ferry staff"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Bài báo về chuyến phà buổi tối mới.",
+            "why_wrong": {
+              "A": "Giá vé không đổi.",
+              "C": "Không có cảng mới.",
+              "D": "Không nhắc thiếu nhân viên."
+            },
+            "translation_vi": "Bài báo chủ yếu về gì? – Một chuyến phà mới."
+          }
+        },
+        {
+          "no": 10,
+          "type": "p7_detail",
+          "difficulty": 2,
+          "stem": "When will the new ferry leave Port Linden?",
+          "options": [
+            {
+              "key": "A",
+              "text": "At 9:30 P.M."
+            },
+            {
+              "key": "B",
+              "text": "At 6:15 P.M."
+            },
+            {
+              "key": "C",
+              "text": "At 4:10 P.M."
+            },
+            {
+              "key": "D",
+              "text": "At 1:00 P.M."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Chuyến mới khởi hành lúc 9:30 tối.",
+            "why_wrong": {
+              "B": "6:15 là chuyến cuối hiện nay.",
+              "C": "Không có giờ này.",
+              "D": "Không có giờ này."
+            },
+            "translation_vi": "Chuyến mới khởi hành lúc mấy giờ? – 9:30 tối."
+          }
+        },
+        {
+          "no": 11,
+          "type": "p7_not_true",
+          "difficulty": 3,
+          "stem": "What is NOT true about the new service?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It will run every day of the week"
+            },
+            {
+              "key": "B",
+              "text": "It will begin in September"
+            },
+            {
+              "key": "C",
+              "text": "Monthly passes can be used on it"
+            },
+            {
+              "key": "D",
+              "text": "It costs the same as daytime ferries"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Chuyến tối chỉ chạy thứ Hai tới thứ Sáu → 'chạy mọi ngày' là sai.",
+            "why_wrong": {
+              "B": "Đúng: bắt đầu 1/9.",
+              "C": "Đúng: vé tháng dùng được.",
+              "D": "Đúng: giá như ban ngày."
+            },
+            "translation_vi": "Điều gì KHÔNG đúng về chuyến mới? – Chạy tất cả các ngày trong tuần."
+          }
+        },
+        {
+          "no": 12,
+          "type": "p7_sentence_insertion",
+          "difficulty": 4,
+          "stem": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"The crossing will take about forty minutes.\" Where does it best belong?",
+          "options": [
+            {
+              "key": "A",
+              "text": "[1]"
+            },
+            {
+              "key": "B",
+              "text": "[2]"
+            },
+            {
+              "key": "C",
+              "text": "[3]"
+            },
+            {
+              "key": "D",
+              "text": "[4]"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Câu 'The crossing will take about forty minutes' mô tả chuyến 9:30 tối, đặt ngay sau câu giới thiệu chuyến ở [2].",
+            "why_wrong": {
+              "A": "[1] đã kết thúc ý mở bài, câu tiếp theo nói về chuyến cuối hiện tại.",
+              "C": "[3] nằm sau lời phát ngôn về chuyến cuối tuần.",
+              "D": "[4] nằm sau số liệu hành khách năm ngoái."
+            },
+            "translation_vi": "Chuyến đi mất khoảng bốn mươi phút."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "part": 7,
+      "passages": [
+        {
+          "type": "invoice",
+          "title": "Invoice – Clearview Window Cleaning",
+          "text": "CLEARVIEW WINDOW CLEANING\nInvoice no. CV-2087          Date: 28 May\n\nBill to: Oakridge Dental Clinic, 44 Elm Street\n\nExterior windows, ground and first floor ........ $180.00\nInterior windows, waiting room ........ $45.00\nSkylight cleaning (requested 21 May) ........ $60.00\nSubtotal ........ $285.00\nRegular customer discount (10%) ........ -$28.50\nTotal due ........ $256.50\n\nPayment is due within 14 days. [1] Please write the invoice number on your bank transfer. [2]\n\nNote: Our team noticed a cracked pane in the upstairs office window. [3] We recommend having it repaired before our next visit on 27 August. [4]",
+          "vi": "Hóa đơn số CV-2087 của Clearview Window Cleaning, ngày 28/5, gửi phòng khám nha Oakridge. Lau kính ngoài tầng trệt và tầng một 180 đô; kính trong phòng chờ 45 đô; lau giếng trời (yêu cầu ngày 21/5) 60 đô; tạm tính 285 đô; giảm giá khách quen 10%: −28,50 đô; tổng cần trả 256,50 đô. Thanh toán trong 14 ngày, ghi số hóa đơn khi chuyển khoản. Ghi chú: đội chúng tôi thấy một tấm kính nứt ở cửa sổ văn phòng tầng trên; vết nứt có vẻ không nguy hiểm nhưng có thể làm nước lọt vào. Nên sửa trước lần làm tiếp theo ngày 27/8."
+        }
+      ],
+      "questions": [
+        {
+          "no": 13,
+          "type": "p7_detail",
+          "difficulty": 3,
+          "stem": "What did the clinic specially request to be cleaned?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The waiting room"
+            },
+            {
+              "key": "B",
+              "text": "The upstairs office"
+            },
+            {
+              "key": "C",
+              "text": "The ground floor"
+            },
+            {
+              "key": "D",
+              "text": "The skylight"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Hạng mục làm sạch giếng trời được yêu cầu thêm ngày 21/5.",
+            "why_wrong": {
+              "A": "Phòng chờ nằm trong dịch vụ thường.",
+              "B": "Văn phòng tầng trên là nơi có kính nứt.",
+              "C": "Tầng trệt thuộc dịch vụ cửa ngoài."
+            },
+            "translation_vi": "Phần nào được phòng khám yêu cầu thêm? – Giếng trời."
+          }
+        },
+        {
+          "no": 14,
+          "type": "p7_inference",
+          "difficulty": 4,
+          "stem": "What is suggested about Oakridge Dental Clinic?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The clinic paid the invoice in advance"
+            },
+            {
+              "key": "B",
+              "text": "Clearview repairs broken windows"
+            },
+            {
+              "key": "C",
+              "text": "The clinic has used Clearview before"
+            },
+            {
+              "key": "D",
+              "text": "The next cleaning is in June"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Hóa đơn có 'giảm giá khách quen 10%' → phòng khám đã dùng dịch vụ trước đó.",
+            "why_wrong": {
+              "A": "Hóa đơn vẫn còn phải trả trong 14 ngày.",
+              "B": "Công ty chỉ khuyên sửa, không nói tự sửa.",
+              "D": "Lần tới là 27/8."
+            },
+            "translation_vi": "Có thể suy ra gì? – Phòng khám từng thuê Clearview."
+          }
+        },
+        {
+          "no": 15,
+          "type": "p7_detail",
+          "difficulty": 2,
+          "stem": "How much does the clinic owe?",
+          "options": [
+            {
+              "key": "A",
+              "text": "$285.00"
+            },
+            {
+              "key": "B",
+              "text": "$256.50"
+            },
+            {
+              "key": "C",
+              "text": "$28.50"
+            },
+            {
+              "key": "D",
+              "text": "$180.00"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Tổng cần trả là $256.50 sau giảm giá.",
+            "why_wrong": {
+              "A": "$285 là tạm tính trước giảm giá.",
+              "C": "$28.50 là số tiền giảm.",
+              "D": "$180 là một hạng mục."
+            },
+            "translation_vi": "Phòng khám phải trả bao nhiêu? – $256.50."
+          }
+        },
+        {
+          "no": 16,
+          "type": "p7_sentence_insertion",
+          "difficulty": 3,
+          "stem": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"It does not appear to be dangerous, but it may let in water.\" Where does it best belong?",
+          "options": [
+            {
+              "key": "A",
+              "text": "[1]"
+            },
+            {
+              "key": "B",
+              "text": "[2]"
+            },
+            {
+              "key": "C",
+              "text": "[3]"
+            },
+            {
+              "key": "D",
+              "text": "[4]"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Câu 'It does not appear to be dangerous, but it may let in water' mô tả tấm kính nứt, đặt ngay sau câu đó ở [3].",
+            "why_wrong": {
+              "A": "[1] đang nói hạn thanh toán.",
+              "B": "[2] đang nói cách ghi số hóa đơn.",
+              "D": "[4] đứng sau lời khuyên sửa, chi tiết về vết nứt nên đến trước lời khuyên."
+            },
+            "translation_vi": "Vết nứt có vẻ không nguy hiểm nhưng có thể làm nước lọt vào."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "part": 7,
+      "passages": [
+        {
+          "type": "email",
+          "title": "Office move",
+          "text": "To: All Sales Staff\nFrom: Marco Bellini\nDate: 14 November\nSubject: Move to the fourth floor\n\nHi everyone,\n\nAs you know, the sales team will move from the second floor to the newly renovated fourth floor next week. [1] The movers will arrive on Friday at 5 P.M., so please pack the contents of your desks into the boxes provided by Friday at noon.\n\nLabel each box with your name and new desk number, which you can find on the floor plan attached to this e-mail. [2] Computers and phones will be moved by the IT team, so do not pack them. [3]\n\nWe will be fully set up by Monday morning. The new space has two extra meeting rooms and a much larger kitchen. [4] Thanks for your help in making the move go smoothly.\n\nMarco",
+          "vi": "Email của Marco Bellini gửi nhóm Kinh doanh, ngày 14/11, về việc chuyển lên tầng bốn. Tuần tới nhóm sẽ chuyển từ tầng hai lên tầng bốn mới cải tạo. Người chuyển đồ đến lúc 5 giờ chiều thứ Sáu, nên hãy đóng đồ trên bàn vào thùng được phát trước trưa thứ Sáu. Ghi tên và số bàn mới (xem sơ đồ đính kèm) lên mỗi thùng. Máy tính và điện thoại do nhóm IT chuyển nên đừng đóng gói; màn hình và bàn phím cũng để lại trên bàn. Sáng thứ Hai mọi thứ sẽ sắp xếp xong. Không gian mới có thêm hai phòng họp và bếp rộng hơn nhiều."
+        }
+      ],
+      "questions": [
+        {
+          "no": 17,
+          "type": "p7_main_idea_purpose",
+          "difficulty": 1,
+          "stem": "What is the purpose of the e-mail?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To invite staff to a party"
+            },
+            {
+              "key": "B",
+              "text": "To give instructions about an office move"
+            },
+            {
+              "key": "C",
+              "text": "To announce new sales targets"
+            },
+            {
+              "key": "D",
+              "text": "To request computer repairs"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Email hướng dẫn chuẩn bị chuyển văn phòng lên tầng bốn.",
+            "why_wrong": {
+              "A": "Không mời dự tiệc.",
+              "C": "Không nhắc chỉ tiêu bán hàng.",
+              "D": "Không yêu cầu sửa máy tính."
+            },
+            "translation_vi": "Mục đích email? – Hướng dẫn việc chuyển văn phòng."
+          }
+        },
+        {
+          "no": 18,
+          "type": "p7_detail",
+          "difficulty": 2,
+          "stem": "Where can staff find their new desk numbers?",
+          "options": [
+            {
+              "key": "A",
+              "text": "On the attached floor plan"
+            },
+            {
+              "key": "B",
+              "text": "On the boxes"
+            },
+            {
+              "key": "C",
+              "text": "From the IT team"
+            },
+            {
+              "key": "D",
+              "text": "In the kitchen"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Số bàn mới có trên sơ đồ tầng đính kèm email.",
+            "why_wrong": {
+              "B": "Hộp là nơi ghi số bàn, không phải nơi tìm.",
+              "C": "IT chỉ chuyển máy tính và điện thoại.",
+              "D": "Bếp không liên quan."
+            },
+            "translation_vi": "Nhân viên tìm số bàn mới ở đâu? – Trên sơ đồ tầng đính kèm."
+          }
+        },
+        {
+          "no": 19,
+          "type": "p7_vocabulary_synonym",
+          "difficulty": 2,
+          "stem": "In the e-mail, the word \"fully\" in paragraph 3 is closest in meaning to",
+          "options": [
+            {
+              "key": "A",
+              "text": "partly"
+            },
+            {
+              "key": "B",
+              "text": "quickly"
+            },
+            {
+              "key": "C",
+              "text": "completely"
+            },
+            {
+              "key": "D",
+              "text": "finally"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'fully set up' = sắp xếp xong hoàn toàn → 'completely'.",
+            "why_wrong": {
+              "A": "'partly' là một phần, ngược nghĩa.",
+              "B": "'quickly' là nhanh.",
+              "D": "'finally' là cuối cùng."
+            },
+            "translation_vi": "Từ 'fully' gần nghĩa nhất với 'completely'."
+          }
+        },
+        {
+          "no": 20,
+          "type": "p7_sentence_insertion",
+          "difficulty": 4,
+          "stem": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"Monitors and keyboards should also be left on your desks.\" Where does it best belong?",
+          "options": [
+            {
+              "key": "A",
+              "text": "[1]"
+            },
+            {
+              "key": "B",
+              "text": "[2]"
+            },
+            {
+              "key": "C",
+              "text": "[3]"
+            },
+            {
+              "key": "D",
+              "text": "[4]"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Câu 'Monitors and keyboards should also be left on your desks' bổ sung cho ý không đóng gói máy tính, điện thoại ở [3].",
+            "why_wrong": {
+              "A": "[1] chưa nói chuyện đóng gói.",
+              "B": "[2] đang nói dán nhãn hộp.",
+              "D": "[4] đang giới thiệu không gian mới."
+            },
+            "translation_vi": "Màn hình và bàn phím cũng nên để lại trên bàn."
+          }
+        }
+      ]
+    }
+  ]
+}

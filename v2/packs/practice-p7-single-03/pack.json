@@ -1,0 +1,769 @@
+{
+  "id": "practice-p7-single-03",
+  "kind": "practice",
+  "title": "Luyện Part 7 – Bài đơn 03",
+  "level": "medium",
+  "version": 1,
+  "meta": {
+    "author": "claude",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "ai_check": {
+      "date": "2026-11-17",
+      "fixed": 0
+    }
+  },
+  "groups": [
+    {
+      "id": "g01",
+      "part": 7,
+      "passages": [
+        {
+          "type": "review",
+          "title": "Review: Arlo X2 portable projector",
+          "text": "Arlo X2 Portable Projector – reviewed by Teresa Lim, sales trainer\n★★★★☆\n\nI travel to client offices three or four times a week, and the Arlo X2 has become an essential part of my kit. [1] It weighs less than a kilogram and fits easily into my laptop bag.\n\nThe picture is bright enough for small meeting rooms, even with the lights on. [2] In larger rooms, however, I have had to close the blinds. The built-in speaker is weak, so I usually connect an external one.\n\nThe battery lasts about two and a half hours, which is enough for most of my training sessions. [3] My only real complaint is the remote control, which stopped working after a month. [4] Even so, I would recommend the X2 to anyone who presents on the move.",
+          "vi": "Đánh giá máy chiếu mini Arlo X2 – Teresa Lim, giảng viên bán hàng, 4 sao. Tôi tới văn phòng khách hàng ba bốn lần mỗi tuần, và Arlo X2 đã thành món không thể thiếu. Máy nặng dưới một ký, vừa túi laptop. Hình đủ sáng cho phòng họp nhỏ, kể cả khi bật đèn; ở phòng lớn tôi phải kéo rèm. Loa tích hợp yếu nên tôi thường nối loa ngoài. Pin dùng khoảng hai tiếng rưỡi, đủ cho phần lớn buổi đào tạo. Phàn nàn duy nhất là điều khiển hỏng sau một tháng; nhà sản xuất thay nhanh nhưng vẫn bất tiện. Dù vậy tôi vẫn giới thiệu X2 cho ai hay thuyết trình lưu động."
+        }
+      ],
+      "questions": [
+        {
+          "no": 1,
+          "type": "p7_inference",
+          "difficulty": 3,
+          "stem": "What is suggested about Ms. Lim?",
+          "options": [
+            {
+              "key": "A",
+              "text": "She works for the company that makes the projector"
+            },
+            {
+              "key": "B",
+              "text": "She often gives presentations away from her own office"
+            },
+            {
+              "key": "C",
+              "text": "She mainly presents in large halls"
+            },
+            {
+              "key": "D",
+              "text": "She bought the projector a year ago"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Bà đi tới văn phòng khách hàng nhiều lần mỗi tuần và gợi ý máy cho người 'presents on the move'.",
+            "why_wrong": {
+              "A": "Không có thông tin bà làm cho hãng.",
+              "C": "Bà nói phòng lớn phải kéo rèm, chủ yếu dùng phòng nhỏ.",
+              "D": "Điều khiển hỏng sau một tháng; không nói mua một năm trước."
+            },
+            "translation_vi": "Có thể suy ra gì về bà Lim? – Thường thuyết trình ở nơi khác."
+          }
+        },
+        {
+          "no": 2,
+          "type": "p7_not_true",
+          "difficulty": 3,
+          "stem": "What is NOT mentioned as a feature of the Arlo X2?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The projector is light"
+            },
+            {
+              "key": "B",
+              "text": "The battery lasts over two hours"
+            },
+            {
+              "key": "C",
+              "text": "The remote control broke"
+            },
+            {
+              "key": "D",
+              "text": "The speaker is very loud"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Loa tích hợp yếu → 'loa rất to' là sai.",
+            "why_wrong": {
+              "A": "Đúng: nặng dưới 1 kg.",
+              "B": "Đúng: pin khoảng 2,5 giờ.",
+              "C": "Đúng: điều khiển hỏng sau một tháng."
+            },
+            "translation_vi": "Điều gì KHÔNG được nhắc như đặc điểm của máy? – Loa rất to."
+          }
+        },
+        {
+          "no": 3,
+          "type": "p7_vocabulary_synonym",
+          "difficulty": 3,
+          "stem": "In the review, the word \"essential\" in paragraph 1 is closest in meaning to",
+          "options": [
+            {
+              "key": "A",
+              "text": "expensive"
+            },
+            {
+              "key": "B",
+              "text": "original"
+            },
+            {
+              "key": "C",
+              "text": "necessary"
+            },
+            {
+              "key": "D",
+              "text": "optional"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'an essential part of my kit' = phần không thể thiếu → 'necessary'.",
+            "why_wrong": {
+              "A": "'expensive' là đắt.",
+              "B": "'original' là nguyên bản.",
+              "D": "'optional' là tùy chọn, ngược nghĩa."
+            },
+            "translation_vi": "Từ 'essential' gần nghĩa nhất với 'necessary'."
+          }
+        },
+        {
+          "no": 4,
+          "type": "p7_sentence_insertion",
+          "difficulty": 4,
+          "stem": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"The manufacturer replaced it quickly, but it was still an inconvenience.\" Where does it best belong?",
+          "options": [
+            {
+              "key": "A",
+              "text": "[1]"
+            },
+            {
+              "key": "B",
+              "text": "[2]"
+            },
+            {
+              "key": "C",
+              "text": "[3]"
+            },
+            {
+              "key": "D",
+              "text": "[4]"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Câu 'The manufacturer replaced it quickly, but it was still an inconvenience' nói tiếp về chiếc điều khiển hỏng ở [4].",
+            "why_wrong": {
+              "A": "[1] đang nói máy gọn nhẹ.",
+              "B": "[2] đang nói độ sáng.",
+              "C": "[3] đang nói pin, chưa nhắc điều khiển."
+            },
+            "translation_vi": "Nhà sản xuất đã thay nhanh, nhưng vẫn gây bất tiện."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "part": 7,
+      "passages": [
+        {
+          "type": "notice",
+          "title": "Road works on Bexley Avenue",
+          "text": "NOTICE TO RESIDENTS AND BUSINESSES\n\nThe city will replace the water pipes under Bexley Avenue between Grant Street and the river bridge from 2 to 27 June. [1] During this time, the avenue will be closed to through traffic from 7 A.M. to 6 P.M. on weekdays.\n\nResidents will still be able to reach their homes, and deliveries to shops will be allowed before 7 A.M. [2] The number 14 bus will follow a temporary route along Fern Road. [3]\n\nWater supply may be interrupted for short periods. Affected addresses will receive a written notice at least 48 hours in advance. [4] We apologize for any inconvenience.",
+          "vi": "Thông báo tới cư dân và doanh nghiệp. Thành phố sẽ thay ống nước dưới đại lộ Bexley, đoạn từ phố Grant tới cầu sông, từ 2 đến 27/6. Trong thời gian này, đại lộ cấm xe đi qua từ 7 giờ sáng tới 6 giờ chiều các ngày thường. Cư dân vẫn về nhà được, và cửa hàng nhận hàng trước 7 giờ sáng. Xe buýt số 14 đi lộ trình tạm qua đường Fern; các điểm dừng tạm sẽ được đánh dấu rõ. Nguồn nước có thể bị gián đoạn ngắn; địa chỉ bị ảnh hưởng sẽ được báo bằng văn bản trước ít nhất 48 giờ. Xin lỗi vì sự bất tiện."
+        }
+      ],
+      "questions": [
+        {
+          "no": 5,
+          "type": "p7_main_idea_purpose",
+          "difficulty": 2,
+          "stem": "Why was the notice written?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To inform people about planned road works"
+            },
+            {
+              "key": "B",
+              "text": "To announce a new bus line"
+            },
+            {
+              "key": "C",
+              "text": "To ask residents to save water"
+            },
+            {
+              "key": "D",
+              "text": "To advertise shops on Bexley Avenue"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Thông báo về việc thay ống nước và đóng đường.",
+            "why_wrong": {
+              "B": "Tuyến 14 chỉ đổi lộ trình tạm.",
+              "C": "Không yêu cầu tiết kiệm nước.",
+              "D": "Không quảng cáo cửa hàng."
+            },
+            "translation_vi": "Mục đích thông báo? – Báo về việc thi công đường."
+          }
+        },
+        {
+          "no": 6,
+          "type": "p7_detail",
+          "difficulty": 2,
+          "stem": "When can shops receive deliveries?",
+          "options": [
+            {
+              "key": "A",
+              "text": "After 6 P.M."
+            },
+            {
+              "key": "B",
+              "text": "At noon"
+            },
+            {
+              "key": "C",
+              "text": "Before 7 A.M."
+            },
+            {
+              "key": "D",
+              "text": "On weekends only"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Giao hàng cho cửa hàng được phép trước 7 giờ sáng.",
+            "why_wrong": {
+              "A": "Không nhắc sau 6 giờ tối.",
+              "B": "Không nhắc buổi trưa.",
+              "D": "Không nói chỉ cuối tuần."
+            },
+            "translation_vi": "Khi nào cửa hàng được nhận hàng? – Trước 7 giờ sáng."
+          }
+        },
+        {
+          "no": 7,
+          "type": "p7_not_true",
+          "difficulty": 4,
+          "stem": "What is NOT true about the work?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The work will last most of June"
+            },
+            {
+              "key": "B",
+              "text": "The avenue will be closed at all times"
+            },
+            {
+              "key": "C",
+              "text": "A bus will change its route"
+            },
+            {
+              "key": "D",
+              "text": "Residents will be warned before water is cut"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Đường chỉ đóng 7 giờ sáng – 6 giờ chiều các ngày thường → 'đóng mọi lúc' là sai.",
+            "why_wrong": {
+              "A": "Đúng: 2–27/6.",
+              "C": "Đúng: tuyến 14 đi đường Fern.",
+              "D": "Đúng: báo trước 48 giờ."
+            },
+            "translation_vi": "Điều gì KHÔNG đúng? – Đường bị đóng suốt ngày đêm."
+          }
+        },
+        {
+          "no": 8,
+          "type": "p7_sentence_insertion",
+          "difficulty": 3,
+          "stem": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"Temporary stops will be clearly marked.\" Where does it best belong?",
+          "options": [
+            {
+              "key": "A",
+              "text": "[1]"
+            },
+            {
+              "key": "B",
+              "text": "[2]"
+            },
+            {
+              "key": "C",
+              "text": "[3]"
+            },
+            {
+              "key": "D",
+              "text": "[4]"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Câu 'Temporary stops will be clearly marked' bổ sung cho lộ trình xe buýt tạm thời ở [3].",
+            "why_wrong": {
+              "A": "[1] chưa nhắc xe buýt.",
+              "B": "[2] đang nói cư dân và giao hàng.",
+              "D": "[4] đang nói cắt nước."
+            },
+            "translation_vi": "Các điểm dừng tạm sẽ được đánh dấu rõ."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "part": 7,
+      "passages": [
+        {
+          "type": "letter",
+          "title": "Rent adjustment",
+          "text": "Hollins Property Management\n\n3 January\n\nDear Ms. Petrova,\n\nWe are writing to inform you that the monthly rent for Unit 6B at 210 Canal Street will increase from $1,450 to $1,520 when your lease is renewed on 1 March. [1] This increase reflects higher property taxes and insurance costs for the building.\n\nWe are pleased to report that the improvements promised last year have now been completed. [2] The lobby has been repainted, new lighting has been installed in the parking garage, and the elevator has been upgraded. [3]\n\nIf you wish to renew, please sign the enclosed lease and return it by 1 February. [4] We value you as a tenant and hope you will stay with us.\n\nSincerely,\nOwen Fitzgerald",
+          "vi": "Thư của Hollins Property Management gửi bà Petrova, ngày 3/1. Tiền thuê căn 6B, số 210 phố Canal sẽ tăng từ 1.450 lên 1.520 đô/tháng khi gia hạn hợp đồng ngày 1/3; mức tăng phản ánh thuế bất động sản và phí bảo hiểm tăng. Các hạng mục cải tạo hứa năm ngoái đã hoàn thành: sảnh được sơn lại, hầm xe lắp đèn mới và thang máy được nâng cấp; hệ thống camera an ninh mới cũng sẽ được lắp vào tháng 4. Nếu muốn gia hạn, vui lòng ký hợp đồng kèm theo và gửi lại trước 1/2. Chúng tôi trân trọng bà và mong bà tiếp tục ở lại. Owen Fitzgerald."
+        }
+      ],
+      "questions": [
+        {
+          "no": 9,
+          "type": "p7_detail",
+          "difficulty": 2,
+          "stem": "What will the new monthly rent be?",
+          "options": [
+            {
+              "key": "A",
+              "text": "$1,450"
+            },
+            {
+              "key": "B",
+              "text": "$70"
+            },
+            {
+              "key": "C",
+              "text": "$210"
+            },
+            {
+              "key": "D",
+              "text": "$1,520"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Tiền thuê mới là $1,520 mỗi tháng.",
+            "why_wrong": {
+              "A": "$1,450 là giá cũ.",
+              "B": "$70 là mức tăng, không phải tiền thuê.",
+              "C": "210 là số nhà."
+            },
+            "translation_vi": "Tiền thuê mới là bao nhiêu? – $1,520."
+          }
+        },
+        {
+          "no": 10,
+          "type": "p7_detail",
+          "difficulty": 2,
+          "stem": "According to the letter, why is the rent increasing?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Rising taxes and insurance costs"
+            },
+            {
+              "key": "B",
+              "text": "A larger apartment"
+            },
+            {
+              "key": "C",
+              "text": "New furniture in the unit"
+            },
+            {
+              "key": "D",
+              "text": "A change of building owner"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Mức tăng phản ánh thuế bất động sản và phí bảo hiểm tăng.",
+            "why_wrong": {
+              "B": "Căn hộ không đổi.",
+              "C": "Không nhắc nội thất mới.",
+              "D": "Không đổi chủ sở hữu."
+            },
+            "translation_vi": "Vì sao tiền thuê tăng? – Thuế và phí bảo hiểm tăng."
+          }
+        },
+        {
+          "no": 11,
+          "type": "p7_vocabulary_synonym",
+          "difficulty": 3,
+          "stem": "In the letter, the word \"reflects\" in paragraph 1 is closest in meaning to",
+          "options": [
+            {
+              "key": "A",
+              "text": "replaces"
+            },
+            {
+              "key": "B",
+              "text": "shows"
+            },
+            {
+              "key": "C",
+              "text": "copies"
+            },
+            {
+              "key": "D",
+              "text": "returns"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'This increase reflects higher property taxes' = phản ánh/cho thấy → 'shows'.",
+            "why_wrong": {
+              "A": "'replaces' là thay thế.",
+              "C": "'copies' là sao chép (nghĩa đen của phản chiếu).",
+              "D": "'returns' là trả lại."
+            },
+            "translation_vi": "Từ 'reflects' gần nghĩa nhất với 'shows'."
+          }
+        },
+        {
+          "no": 12,
+          "type": "p7_sentence_insertion",
+          "difficulty": 4,
+          "stem": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"A new security camera system will also be added in April.\" Where does it best belong?",
+          "options": [
+            {
+              "key": "A",
+              "text": "[1]"
+            },
+            {
+              "key": "B",
+              "text": "[2]"
+            },
+            {
+              "key": "C",
+              "text": "[3]"
+            },
+            {
+              "key": "D",
+              "text": "[4]"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Câu 'A new security camera system will also be added in April' tiếp nối danh sách cải tạo ở [3].",
+            "why_wrong": {
+              "A": "[1] đang nói tiền thuê.",
+              "B": "[2] mới mở đầu ý cải tạo, danh sách cụ thể nằm sau.",
+              "D": "[4] đang nói gia hạn hợp đồng."
+            },
+            "translation_vi": "Hệ thống camera an ninh mới cũng sẽ được lắp vào tháng 4."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "part": 7,
+      "passages": [
+        {
+          "type": "article",
+          "title": "Fieldstone Coffee opens training school",
+          "text": "MAPLEWOOD (19 February) – Fieldstone Coffee, which runs eleven cafés across the region, has opened a training school for baristas above its flagship café on Duke Street. [1] The school offers a four-week course covering coffee preparation, customer service, and food safety.\n\nOwner Lucas Brandt said the company had struggled to find experienced staff as it expanded. [2] \"Rather than compete with other cafés for the same people, we decided to train our own,\" he said.\n\nThe course is free for anyone who agrees to work at a Fieldstone café for at least one year after finishing. [3] Others may join for a fee of $600. The first group of twelve students began classes on Monday. [4]",
+          "vi": "MAPLEWOOD (19/2) – Fieldstone Coffee, chuỗi mười một quán trong vùng, mở trường đào tạo pha chế trên tầng quán chính ở phố Duke. Khóa học bốn tuần gồm pha cà phê, phục vụ khách và an toàn thực phẩm. Chủ quán Lucas Brandt cho biết công ty khó tìm nhân viên có kinh nghiệm khi mở rộng; nhiều ứng viên chưa từng làm ở quán cà phê. \"Thay vì tranh người với các quán khác, chúng tôi tự đào tạo,\" ông nói. Khóa học miễn phí cho ai cam kết làm cho Fieldstone ít nhất một năm sau khi học xong; người khác học phí 600 đô. Nhóm đầu tiên mười hai học viên bắt đầu học hôm thứ Hai."
+        }
+      ],
+      "questions": [
+        {
+          "no": 13,
+          "type": "p7_main_idea_purpose",
+          "difficulty": 2,
+          "stem": "What is the article mainly about?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The opening of a training program"
+            },
+            {
+              "key": "B",
+              "text": "The sale of a café chain"
+            },
+            {
+              "key": "C",
+              "text": "A shortage of coffee beans"
+            },
+            {
+              "key": "D",
+              "text": "A new café on Duke Street"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Bài báo về trường đào tạo pha chế mới mở.",
+            "why_wrong": {
+              "B": "Không bán chuỗi café.",
+              "C": "Không thiếu hạt cà phê.",
+              "D": "Quán trên phố Duke đã có sẵn (flagship)."
+            },
+            "translation_vi": "Bài báo chủ yếu về gì? – Việc mở một chương trình đào tạo."
+          }
+        },
+        {
+          "no": 14,
+          "type": "p7_inference",
+          "difficulty": 4,
+          "stem": "What is suggested about Fieldstone Coffee?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The company plans to close some cafés"
+            },
+            {
+              "key": "B",
+              "text": "Most students will pay $600"
+            },
+            {
+              "key": "C",
+              "text": "The course lasts one year"
+            },
+            {
+              "key": "D",
+              "text": "The company has grown recently"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Ông Brandt nói khó tìm nhân viên 'khi mở rộng' → công ty đã phát triển gần đây.",
+            "why_wrong": {
+              "A": "Không nhắc đóng quán.",
+              "B": "Học miễn phí nếu cam kết làm việc; không nói đa số trả phí.",
+              "C": "Khóa học bốn tuần; một năm là thời gian cam kết làm việc."
+            },
+            "translation_vi": "Có thể suy ra gì về Fieldstone? – Công ty đã mở rộng gần đây."
+          }
+        },
+        {
+          "no": 15,
+          "type": "p7_not_true",
+          "difficulty": 3,
+          "stem": "What is NOT true about the course?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The course includes food safety"
+            },
+            {
+              "key": "B",
+              "text": "Some students study for free"
+            },
+            {
+              "key": "C",
+              "text": "Students must already have café experience"
+            },
+            {
+              "key": "D",
+              "text": "The first class has twelve students"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Bài không yêu cầu kinh nghiệm; mục đích là đào tạo người mới → sai.",
+            "why_wrong": {
+              "A": "Đúng: có an toàn thực phẩm.",
+              "B": "Đúng: miễn phí nếu cam kết làm một năm.",
+              "D": "Đúng: nhóm đầu mười hai người."
+            },
+            "translation_vi": "Điều gì KHÔNG đúng về khóa học? – Học viên phải có kinh nghiệm."
+          }
+        },
+        {
+          "no": 16,
+          "type": "p7_sentence_insertion",
+          "difficulty": 3,
+          "stem": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"Many applicants had never worked in a café before.\" Where does it best belong?",
+          "options": [
+            {
+              "key": "A",
+              "text": "[1]"
+            },
+            {
+              "key": "B",
+              "text": "[2]"
+            },
+            {
+              "key": "C",
+              "text": "[3]"
+            },
+            {
+              "key": "D",
+              "text": "[4]"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Câu 'Many applicants had never worked in a café before' giải thích khó khăn tuyển người, đặt sau câu đó ở [2].",
+            "why_wrong": {
+              "A": "[1] đang giới thiệu trường.",
+              "C": "[3] đang nói học phí.",
+              "D": "[4] đang nói lớp đầu tiên."
+            },
+            "translation_vi": "Nhiều ứng viên chưa từng làm việc ở quán cà phê."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "part": 7,
+      "passages": [
+        {
+          "type": "agenda",
+          "title": "Quarterly planning meeting",
+          "text": "QUARTERLY PLANNING MEETING – MARKETING DEPARTMENT\nThursday, 10 April, Conference Room C\n\n9:00 Welcome and review of first-quarter results (Lena Hartmann)\n9:30 Customer survey findings (Rahul Mehta) [1]\n10:15 Break\n10:30 Plans for the summer campaign (Ines Duarte) [2]\n11:30 Budget requests for the third quarter (all team leaders)\n12:00 Lunch (provided)\n\nNotes:\nPlease send any slides to Lena Hartmann by Tuesday, 8 April. [3] Team leaders should bring printed copies of their budget requests. [4]",
+          "vi": "Chương trình họp kế hoạch quý – phòng Marketing, thứ Năm 10/4, phòng họp C. 9:00 chào mừng và xem lại kết quả quý một (Lena Hartmann); 9:30 kết quả khảo sát khách hàng (Rahul Mehta); 10:15 giải lao; 10:30 kế hoạch chiến dịch hè (Ines Duarte), có ý tưởng từ nhóm thiết kế; 11:30 đề xuất ngân sách quý ba (các trưởng nhóm); 12:00 ăn trưa (được cung cấp). Ghi chú: gửi slide cho Lena Hartmann trước thứ Ba 8/4; trưởng nhóm mang bản in đề xuất ngân sách."
+        }
+      ],
+      "questions": [
+        {
+          "no": 17,
+          "type": "p7_detail",
+          "difficulty": 1,
+          "stem": "Who will present the survey results?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Lena Hartmann"
+            },
+            {
+              "key": "B",
+              "text": "Ines Duarte"
+            },
+            {
+              "key": "C",
+              "text": "All team leaders"
+            },
+            {
+              "key": "D",
+              "text": "Rahul Mehta"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Rahul Mehta trình bày kết quả khảo sát khách hàng.",
+            "why_wrong": {
+              "A": "Lena Hartmann nói phần mở đầu.",
+              "B": "Ines Duarte nói về chiến dịch hè.",
+              "C": "Trưởng nhóm nói về ngân sách."
+            },
+            "translation_vi": "Ai trình bày kết quả khảo sát? – Rahul Mehta."
+          }
+        },
+        {
+          "no": 18,
+          "type": "p7_detail",
+          "difficulty": 2,
+          "stem": "What are team leaders asked to bring?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Their laptops"
+            },
+            {
+              "key": "B",
+              "text": "Printed budget requests"
+            },
+            {
+              "key": "C",
+              "text": "A lunch order"
+            },
+            {
+              "key": "D",
+              "text": "Survey forms"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Trưởng nhóm cần mang bản in đề xuất ngân sách.",
+            "why_wrong": {
+              "A": "Không nhắc laptop.",
+              "C": "Bữa trưa được cung cấp.",
+              "D": "Không yêu cầu mẫu khảo sát."
+            },
+            "translation_vi": "Trưởng nhóm cần mang gì? – Bản in đề xuất ngân sách."
+          }
+        },
+        {
+          "no": 19,
+          "type": "p7_vocabulary_synonym",
+          "difficulty": 3,
+          "stem": "In the agenda, the word \"findings\" is closest in meaning to",
+          "options": [
+            {
+              "key": "A",
+              "text": "discoveries"
+            },
+            {
+              "key": "B",
+              "text": "purchases"
+            },
+            {
+              "key": "C",
+              "text": "results"
+            },
+            {
+              "key": "D",
+              "text": "locations"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'survey findings' = kết quả khảo sát → 'results'.",
+            "why_wrong": {
+              "A": "'discoveries' là khám phá, không dùng cho khảo sát.",
+              "B": "'purchases' là món mua.",
+              "D": "'locations' là địa điểm."
+            },
+            "translation_vi": "Từ 'findings' gần nghĩa nhất với 'results'."
+          }
+        },
+        {
+          "no": 20,
+          "type": "p7_sentence_insertion",
+          "difficulty": 4,
+          "stem": "In which of the positions marked [1], [2], [3], and [4] does the following sentence best belong? \"This session will include ideas from the design team.\" Where does it best belong?",
+          "options": [
+            {
+              "key": "A",
+              "text": "[1]"
+            },
+            {
+              "key": "B",
+              "text": "[2]"
+            },
+            {
+              "key": "C",
+              "text": "[3]"
+            },
+            {
+              "key": "D",
+              "text": "[4]"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Câu 'This session will include ideas from the design team' thuộc phần kế hoạch chiến dịch hè ở [2].",
+            "why_wrong": {
+              "A": "[1] thuộc phần khảo sát khách hàng.",
+              "C": "[3] đang nói hạn gửi slide.",
+              "D": "[4] đang nói bản in ngân sách."
+            },
+            "translation_vi": "Phần này sẽ có ý tưởng từ nhóm thiết kế."
+          }
+        }
+      ]
+    }
+  ]
+}

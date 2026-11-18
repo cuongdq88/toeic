@@ -1,0 +1,556 @@
+{
+  "id": "vocab-v06-meetings",
+  "kind": "vocab",
+  "title": "Từ vựng V06 – Họp hành",
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "24 từ chủ đề họp hành, tự chọn theo tần suất công sở, tự soạn ví dụ.",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 0
+    }
+  },
+  "words": [
+    {
+      "id": "w0001",
+      "word": "agenda",
+      "pos": "n",
+      "ipa": "/əˈdʒendə/",
+      "meaning_vi": "chương trình nghị sự",
+      "definition_en": "a list of topics to be discussed at a meeting",
+      "examples": [
+        {
+          "en": "Please add the budget review to the agenda.",
+          "vi": "Vui lòng thêm phần xem xét ngân sách vào chương trình nghị sự."
+        }
+      ],
+      "collocations": [
+        "set the agenda",
+        "on the agenda"
+      ],
+      "family": [
+        "agenda item (n)"
+      ],
+      "topic": "v06_meetings",
+      "level": 2
+    },
+    {
+      "id": "w0002",
+      "word": "minutes",
+      "pos": "n",
+      "ipa": "/ˈmɪnɪts/",
+      "meaning_vi": "biên bản cuộc họp",
+      "definition_en": "an official written record of what was said at a meeting",
+      "examples": [
+        {
+          "en": "The secretary sent the minutes to everyone the next morning.",
+          "vi": "Thư ký gửi biên bản cuộc họp cho mọi người vào sáng hôm sau."
+        }
+      ],
+      "collocations": [
+        "take the minutes",
+        "approve the minutes"
+      ],
+      "family": [],
+      "topic": "v06_meetings",
+      "level": 3
+    },
+    {
+      "id": "w0003",
+      "word": "convene",
+      "pos": "v",
+      "ipa": "/kənˈviːn/",
+      "meaning_vi": "triệu tập họp",
+      "definition_en": "to call people together for a formal meeting",
+      "examples": [
+        {
+          "en": "The chair decided to convene an emergency meeting.",
+          "vi": "Chủ tọa quyết định triệu tập một cuộc họp khẩn."
+        }
+      ],
+      "collocations": [
+        "convene a meeting",
+        "convene the board"
+      ],
+      "family": [
+        "convener (n)"
+      ],
+      "topic": "v06_meetings",
+      "level": 4
+    },
+    {
+      "id": "w0004",
+      "word": "adjourn",
+      "pos": "v",
+      "ipa": "/əˈdʒɜːrn/",
+      "meaning_vi": "tạm hoãn (cuộc họp)",
+      "definition_en": "to pause or end a meeting until a later time",
+      "examples": [
+        {
+          "en": "We will adjourn for lunch and resume at one thirty.",
+          "vi": "Chúng ta sẽ tạm hoãn để ăn trưa và tiếp tục lúc một giờ ba mươi."
+        }
+      ],
+      "collocations": [
+        "adjourn the meeting",
+        "adjourn until Monday"
+      ],
+      "family": [
+        "adjournment (n)"
+      ],
+      "topic": "v06_meetings",
+      "level": 5
+    },
+    {
+      "id": "w0005",
+      "word": "attendee",
+      "pos": "n",
+      "ipa": "/əˌtenˈdiː/",
+      "meaning_vi": "người tham dự",
+      "definition_en": "a person who is present at a meeting or event",
+      "examples": [
+        {
+          "en": "Each attendee received a printed copy of the report.",
+          "vi": "Mỗi người tham dự nhận được một bản báo cáo in."
+        }
+      ],
+      "collocations": [
+        "registered attendee",
+        "attendee list"
+      ],
+      "family": [
+        "attend (v)",
+        "attendance (n)"
+      ],
+      "topic": "v06_meetings",
+      "level": 3
+    },
+    {
+      "id": "w0006",
+      "word": "chairperson",
+      "pos": "n",
+      "ipa": "/ˈtʃerpɜːrsn/",
+      "meaning_vi": "chủ tọa",
+      "definition_en": "the person who leads a meeting or organization",
+      "examples": [
+        {
+          "en": "The chairperson opened the meeting at nine sharp.",
+          "vi": "Chủ tọa khai mạc cuộc họp đúng chín giờ."
+        }
+      ],
+      "collocations": [
+        "elect a chairperson",
+        "deputy chairperson"
+      ],
+      "family": [
+        "chair (v)"
+      ],
+      "topic": "v06_meetings",
+      "level": 3
+    },
+    {
+      "id": "w0007",
+      "word": "quorum",
+      "pos": "n",
+      "ipa": "/ˈkwɔːrəm/",
+      "meaning_vi": "số người tối thiểu để họp",
+      "definition_en": "the minimum number of members needed for a meeting to be valid",
+      "examples": [
+        {
+          "en": "We cannot vote because we do not have a quorum.",
+          "vi": "Chúng ta không thể bỏ phiếu vì chưa đủ số người tối thiểu."
+        }
+      ],
+      "collocations": [
+        "lack a quorum",
+        "achieve a quorum"
+      ],
+      "family": [],
+      "topic": "v06_meetings",
+      "level": 5
+    },
+    {
+      "id": "w0008",
+      "word": "handout",
+      "pos": "n",
+      "ipa": "/ˈhændaʊt/",
+      "meaning_vi": "tài liệu phát tay",
+      "definition_en": "a printed sheet given to people at a meeting or class",
+      "examples": [
+        {
+          "en": "The trainer prepared a handout with the key figures.",
+          "vi": "Giảng viên chuẩn bị tài liệu phát tay gồm các số liệu chính."
+        }
+      ],
+      "collocations": [
+        "printed handout",
+        "distribute handouts"
+      ],
+      "family": [],
+      "topic": "v06_meetings",
+      "level": 2
+    },
+    {
+      "id": "w0009",
+      "word": "brainstorm",
+      "pos": "v",
+      "ipa": "/ˈbreɪnstɔːrm/",
+      "meaning_vi": "động não",
+      "definition_en": "to suggest many ideas quickly without judging them",
+      "examples": [
+        {
+          "en": "Let us brainstorm possible names for the new service.",
+          "vi": "Hãy động não những tên khả thi cho dịch vụ mới."
+        }
+      ],
+      "collocations": [
+        "brainstorm ideas",
+        "brainstorm together"
+      ],
+      "family": [
+        "brainstorming (n)"
+      ],
+      "topic": "v06_meetings",
+      "level": 2
+    },
+    {
+      "id": "w0010",
+      "word": "consensus",
+      "pos": "n",
+      "ipa": "/kənˈsensəs/",
+      "meaning_vi": "sự đồng thuận",
+      "definition_en": "general agreement among a group of people",
+      "examples": [
+        {
+          "en": "After a long discussion, the team reached a consensus.",
+          "vi": "Sau thảo luận dài, nhóm đạt được sự đồng thuận."
+        }
+      ],
+      "collocations": [
+        "reach a consensus",
+        "broad consensus"
+      ],
+      "family": [
+        "consensual (adj)"
+      ],
+      "topic": "v06_meetings",
+      "level": 4
+    },
+    {
+      "id": "w0011",
+      "word": "facilitate",
+      "pos": "v",
+      "ipa": "/fəˈsɪlɪteɪt/",
+      "meaning_vi": "điều hành, tạo điều kiện",
+      "definition_en": "to help a discussion or process run smoothly",
+      "examples": [
+        {
+          "en": "An outside consultant will facilitate the workshop.",
+          "vi": "Một chuyên viên bên ngoài sẽ điều hành buổi hội thảo."
+        }
+      ],
+      "collocations": [
+        "facilitate a discussion",
+        "facilitate change"
+      ],
+      "family": [
+        "facilitator (n)"
+      ],
+      "topic": "v06_meetings",
+      "level": 4
+    },
+    {
+      "id": "w0012",
+      "word": "recap",
+      "pos": "n",
+      "ipa": "/ˈriːkæp/",
+      "meaning_vi": "phần tóm tắt lại",
+      "definition_en": "a short summary of what has already been said",
+      "examples": [
+        {
+          "en": "The manager gave a quick recap of last week's decisions.",
+          "vi": "Quản lý tóm tắt nhanh các quyết định tuần trước."
+        }
+      ],
+      "collocations": [
+        "quick recap",
+        "give a recap"
+      ],
+      "family": [
+        "recap (v)"
+      ],
+      "topic": "v06_meetings",
+      "level": 3
+    },
+    {
+      "id": "w0013",
+      "word": "follow-up",
+      "pos": "n",
+      "ipa": "/ˈfɑːloʊ ʌp/",
+      "meaning_vi": "bước theo dõi tiếp",
+      "definition_en": "an action taken to check progress after a meeting or request",
+      "examples": [
+        {
+          "en": "Send a follow-up once the client has read the proposal.",
+          "vi": "Hãy gửi thư theo dõi sau khi khách đọc đề xuất."
+        }
+      ],
+      "collocations": [
+        "follow-up email",
+        "schedule a follow-up"
+      ],
+      "family": [
+        "follow up (phr v)"
+      ],
+      "topic": "v06_meetings",
+      "level": 3
+    },
+    {
+      "id": "w0014",
+      "word": "reschedule",
+      "pos": "v",
+      "ipa": "/ˌriːˈskedʒuːl/",
+      "meaning_vi": "dời lịch",
+      "definition_en": "to arrange a new time for an event",
+      "examples": [
+        {
+          "en": "Could we reschedule the review to Thursday afternoon?",
+          "vi": "Chúng ta có thể dời buổi rà soát sang chiều thứ Năm không?"
+        }
+      ],
+      "collocations": [
+        "reschedule a meeting",
+        "reschedule for Friday"
+      ],
+      "family": [],
+      "topic": "v06_meetings",
+      "level": 2
+    },
+    {
+      "id": "w0015",
+      "word": "breakout",
+      "pos": "adj",
+      "ipa": "/ˈbreɪkaʊt/",
+      "meaning_vi": "chia nhóm nhỏ",
+      "definition_en": "describing a small group session within a larger meeting",
+      "examples": [
+        {
+          "en": "The breakout session on pricing was especially useful.",
+          "vi": "Phiên chia nhóm về định giá đặc biệt hữu ích."
+        }
+      ],
+      "collocations": [
+        "breakout session",
+        "breakout group"
+      ],
+      "family": [],
+      "topic": "v06_meetings",
+      "level": 4
+    },
+    {
+      "id": "w0016",
+      "word": "panel",
+      "pos": "n",
+      "ipa": "/ˈpænl/",
+      "meaning_vi": "nhóm thảo luận",
+      "definition_en": "a group of experts who discuss a topic in front of an audience",
+      "examples": [
+        {
+          "en": "Three industry leaders joined the panel on digital sales.",
+          "vi": "Ba lãnh đạo ngành tham gia nhóm thảo luận về bán hàng số."
+        }
+      ],
+      "collocations": [
+        "panel discussion",
+        "join a panel"
+      ],
+      "family": [
+        "panelist (n)"
+      ],
+      "topic": "v06_meetings",
+      "level": 3
+    },
+    {
+      "id": "w0017",
+      "word": "moderator",
+      "pos": "n",
+      "ipa": "/ˈmɑːdəreɪtər/",
+      "meaning_vi": "người điều phối thảo luận",
+      "definition_en": "a person who guides questions during a discussion",
+      "examples": [
+        {
+          "en": "The moderator kept the panel focused on the main question.",
+          "vi": "Người điều phối giữ nhóm thảo luận tập trung vào câu hỏi chính."
+        }
+      ],
+      "collocations": [
+        "session moderator",
+        "act as moderator"
+      ],
+      "family": [
+        "moderate (v)"
+      ],
+      "topic": "v06_meetings",
+      "level": 4
+    },
+    {
+      "id": "w0018",
+      "word": "unanimous",
+      "pos": "adj",
+      "ipa": "/juˈnænɪməs/",
+      "meaning_vi": "nhất trí",
+      "definition_en": "agreed by everyone in a group",
+      "examples": [
+        {
+          "en": "The board reached a unanimous decision to expand.",
+          "vi": "Hội đồng đi đến quyết định nhất trí mở rộng."
+        }
+      ],
+      "collocations": [
+        "unanimous decision",
+        "unanimous support"
+      ],
+      "family": [
+        "unanimously (adv)"
+      ],
+      "topic": "v06_meetings",
+      "level": 5
+    },
+    {
+      "id": "w0019",
+      "word": "proxy",
+      "pos": "n",
+      "ipa": "/ˈprɑːksi/",
+      "meaning_vi": "người đại diện ủy quyền",
+      "definition_en": "a person allowed to vote or act for someone else",
+      "examples": [
+        {
+          "en": "She attended the vote by proxy because she was abroad.",
+          "vi": "Cô ấy tham gia bỏ phiếu qua người đại diện vì đang ở nước ngoài."
+        }
+      ],
+      "collocations": [
+        "vote by proxy",
+        "act as proxy"
+      ],
+      "family": [],
+      "topic": "v06_meetings",
+      "level": 5
+    },
+    {
+      "id": "w0020",
+      "word": "motion",
+      "pos": "n",
+      "ipa": "/ˈmoʊʃn/",
+      "meaning_vi": "đề nghị (để biểu quyết)",
+      "definition_en": "a formal proposal put to a meeting for a vote",
+      "examples": [
+        {
+          "en": "The treasurer put forward a motion to increase the fee.",
+          "vi": "Thủ quỹ đưa ra đề nghị tăng phí."
+        }
+      ],
+      "collocations": [
+        "propose a motion",
+        "vote on a motion"
+      ],
+      "family": [
+        "move (v)"
+      ],
+      "topic": "v06_meetings",
+      "level": 4
+    },
+    {
+      "id": "w0021",
+      "word": "punctual",
+      "pos": "adj",
+      "ipa": "/ˈpʌŋktʃuəl/",
+      "meaning_vi": "đúng giờ",
+      "definition_en": "arriving or happening at the agreed time",
+      "examples": [
+        {
+          "en": "Please be punctual because the room is booked for one hour.",
+          "vi": "Hãy đến đúng giờ vì phòng chỉ được đặt một giờ."
+        }
+      ],
+      "collocations": [
+        "punctual arrival",
+        "be punctual"
+      ],
+      "family": [
+        "punctuality (n)"
+      ],
+      "topic": "v06_meetings",
+      "level": 3
+    },
+    {
+      "id": "w0022",
+      "word": "videoconference",
+      "pos": "n",
+      "ipa": "/ˈvɪdioʊˌkɑːnfərəns/",
+      "meaning_vi": "hội nghị truyền hình",
+      "definition_en": "a meeting held by video link between distant locations",
+      "examples": [
+        {
+          "en": "The interview will be held by videoconference.",
+          "vi": "Buổi phỏng vấn sẽ được tổ chức qua hội nghị truyền hình."
+        }
+      ],
+      "collocations": [
+        "join a videoconference",
+        "host a videoconference"
+      ],
+      "family": [
+        "videoconferencing (n)"
+      ],
+      "topic": "v06_meetings",
+      "level": 2
+    },
+    {
+      "id": "w0023",
+      "word": "whiteboard",
+      "pos": "n",
+      "ipa": "/ˈwaɪtbɔːrd/",
+      "meaning_vi": "bảng trắng",
+      "definition_en": "a white board used for writing or drawing during a meeting",
+      "examples": [
+        {
+          "en": "He drew the new process on the whiteboard.",
+          "vi": "Anh ấy vẽ quy trình mới lên bảng trắng."
+        }
+      ],
+      "collocations": [
+        "write on the whiteboard",
+        "wipe the whiteboard"
+      ],
+      "family": [],
+      "topic": "v06_meetings",
+      "level": 1
+    },
+    {
+      "id": "w0024",
+      "word": "speak up",
+      "pos": "phr",
+      "ipa": "/spiːk ʌp/",
+      "meaning_vi": "lên tiếng",
+      "definition_en": "to say what you think, especially in a group",
+      "examples": [
+        {
+          "en": "Please speak up if you disagree with the schedule.",
+          "vi": "Hãy lên tiếng nếu bạn không đồng ý với lịch trình."
+        }
+      ],
+      "collocations": [
+        "speak up in a meeting",
+        "speak up clearly"
+      ],
+      "family": [],
+      "topic": "v06_meetings",
+      "level": 2
+    }
+  ]
+}

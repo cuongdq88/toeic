@@ -1,0 +1,1039 @@
+{
+  "id": "placement-01",
+  "kind": "placement",
+  "title": "Placement test 01",
+  "level": "medium",
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "Test đầu vào 20 câu tự soạn, độ khó trải 1-5 để phân loại trình độ.",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 0
+    }
+  },
+  "groups": [
+    {
+      "id": "g01",
+      "part": 1,
+      "image": "img/g01.webp",
+      "image_brief": "Ảnh màu trong siêu thị: một nhân viên nam mặc áo đồng phục đang đặt các hộp sữa lên kệ hàng. Phía sau anh có một xe đẩy hàng chưa ai đẩy. Không có chữ đọc được trên bao bì.",
+      "audio": "audio/g01.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 1. Look at the picture marked number 1 in your test book.",
+          "vi": "Câu 1. Hãy nhìn bức ảnh số 1 trong đề."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "(A) He's pushing a shopping cart.",
+          "vi": "(A) Anh ấy đang đẩy xe hàng."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "(B) He's opening a box of milk.",
+          "vi": "(B) Anh ấy đang mở hộp sữa."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "(C) He's placing items on a shelf.",
+          "vi": "(C) Anh ấy đang đặt hàng lên kệ."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "(D) He's cleaning the floor.",
+          "vi": "(D) Anh ấy đang lau sàn."
+        }
+      ],
+      "questions": [
+        {
+          "no": 1,
+          "type": "p1_single_person",
+          "difficulty": 1,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "He's pushing a shopping cart."
+            },
+            {
+              "key": "B",
+              "text": "He's opening a box of milk."
+            },
+            {
+              "key": "C",
+              "text": "He's placing items on a shelf."
+            },
+            {
+              "key": "D",
+              "text": "He's cleaning the floor."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Người nhân viên đang đặt các hộp sữa lên kệ nên 'placing items on a shelf' mô tả đúng.",
+            "why_wrong": {
+              "A": "Xe đẩy đứng yên phía sau, không có ai đẩy.",
+              "B": "Không có hộp nào đang được mở.",
+              "D": "Không có ai cầm dụng cụ lau sàn."
+            },
+            "translation_vi": "Anh ấy đang đặt hàng lên kệ."
+          },
+          "tags": [
+            "v10_shopping"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "part": 1,
+      "image": "img/g02.webp",
+      "image_brief": "Ảnh ngoài trời lúc trời mưa: một nhóm khoảng năm người đứng chờ dưới mái che của bến xe buýt; một người phụ nữ cầm ô đen; mặt đường ướt và có vũng nước. Không có chữ đọc được.",
+      "audio": "audio/g02.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 2. Look at the picture marked number 2 in your test book.",
+          "vi": "Câu 2. Hãy nhìn bức ảnh số 2 trong đề."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(A) They're boarding a bus.",
+          "vi": "(A) Họ đang lên xe buýt."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(B) They're waiting under a shelter.",
+          "vi": "(B) Họ đang chờ dưới mái che."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(C) They're repairing an umbrella.",
+          "vi": "(C) Họ đang sửa một chiếc ô."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(D) They're crossing the street.",
+          "vi": "(D) Họ đang băng qua đường."
+        }
+      ],
+      "questions": [
+        {
+          "no": 2,
+          "type": "p1_multiple_people",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "They're boarding a bus."
+            },
+            {
+              "key": "B",
+              "text": "They're waiting under a shelter."
+            },
+            {
+              "key": "C",
+              "text": "They're repairing an umbrella."
+            },
+            {
+              "key": "D",
+              "text": "They're crossing the street."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Nhóm người đứng yên dưới mái che của bến xe buýt → 'waiting under a shelter'.",
+            "why_wrong": {
+              "A": "Chưa có xe buýt nào để lên.",
+              "C": "Một người cầm ô, không ai sửa ô.",
+              "D": "Họ đứng chờ, không băng qua đường."
+            },
+            "translation_vi": "Họ đang chờ dưới mái che."
+          },
+          "tags": [
+            "v17_travel"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "part": 2,
+      "audio": "audio/g03.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 3.",
+          "vi": "Câu 3."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Who is in charge of the new project?",
+          "vi": "Ai phụ trách dự án mới?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(A) Ms. Ferreira, I believe.",
+          "vi": "(A) Tôi nghĩ là bà Ferreira."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(B) It starts next week.",
+          "vi": "(B) Nó bắt đầu tuần sau."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(C) In the small office.",
+          "vi": "(C) Trong văn phòng nhỏ."
+        }
+      ],
+      "questions": [
+        {
+          "no": 3,
+          "type": "p2_wh_who",
+          "difficulty": 1,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Ms. Ferreira, I believe."
+            },
+            {
+              "key": "B",
+              "text": "It starts next week."
+            },
+            {
+              "key": "C",
+              "text": "In the small office."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'Who' hỏi người nên 'Ms. Ferreira, I believe' là câu trả lời đúng.",
+            "why_wrong": {
+              "B": "Đây là câu trả lời cho 'When'.",
+              "C": "Đây là câu trả lời cho 'Where'."
+            },
+            "translation_vi": "Hỏi: Ai phụ trách dự án mới? – Đáp: Tôi nghĩ là bà Ferreira."
+          },
+          "tags": [
+            "v03_office"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "part": 2,
+      "audio": "audio/g04.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 4.",
+          "vi": "Câu 4."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "Did you receive the revised schedule?",
+          "vi": "Anh đã nhận được lịch sửa đổi chưa?"
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "(A) At the front desk.",
+          "vi": "(A) Ở quầy lễ tân."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "(B) It's on the table.",
+          "vi": "(B) Nó ở trên bàn."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "(C) No, not yet.",
+          "vi": "(C) Chưa, tôi chưa nhận."
+        }
+      ],
+      "questions": [
+        {
+          "no": 4,
+          "type": "p2_yes_no",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "At the front desk."
+            },
+            {
+              "key": "B",
+              "text": "It's on the table."
+            },
+            {
+              "key": "C",
+              "text": "No, not yet."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Câu hỏi Yes/No 'Did you receive...' được trả lời trực tiếp bằng 'No, not yet'.",
+            "why_wrong": {
+              "A": "Trả lời cho 'Where', không phải câu hỏi Yes/No.",
+              "B": "Nói vị trí tài liệu, không xác nhận đã nhận hay chưa."
+            },
+            "translation_vi": "Hỏi: Anh đã nhận được lịch sửa đổi chưa? – Đáp: Chưa, tôi chưa nhận."
+          },
+          "tags": [
+            "v06_meetings"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "part": 2,
+      "audio": "audio/g05.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 5.",
+          "vi": "Câu 5."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "Could you ask the supplier to confirm the delivery date?",
+          "vi": "Anh có thể đề nghị nhà cung cấp xác nhận ngày giao không?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(A) The delivery was expensive.",
+          "vi": "(A) Việc giao hàng tốn kém."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(B) I'll give them a call right away.",
+          "vi": "(B) Tôi sẽ gọi cho họ ngay."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(C) It arrived on Monday.",
+          "vi": "(C) Nó đã đến vào thứ Hai."
+        }
+      ],
+      "questions": [
+        {
+          "no": 5,
+          "type": "p2_request_suggestion",
+          "difficulty": 3,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The delivery was expensive."
+            },
+            {
+              "key": "B",
+              "text": "I'll give them a call right away."
+            },
+            {
+              "key": "C",
+              "text": "It arrived on Monday."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Lời đề nghị 'Could you...' được đáp lại gián tiếp bằng 'I'll give them a call right away', tức đồng ý và sẽ thực hiện.",
+            "why_wrong": {
+              "A": "Nói chi phí giao hàng, không trả lời yêu cầu.",
+              "C": "Nói hàng đã đến, mâu thuẫn với việc cần xác nhận ngày giao."
+            },
+            "translation_vi": "Hỏi: Anh có thể đề nghị nhà cung cấp xác nhận ngày giao không? – Đáp: Tôi sẽ gọi cho họ ngay."
+          },
+          "tags": [
+            "v11_ordering_shipping"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g06",
+      "part": 3,
+      "audio": "audio/g06.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 6 through 8 refer to the following conversation.",
+          "vi": "Câu 6 đến 8 dựa vào đoạn hội thoại sau."
+        },
+        {
+          "speaker": "W1",
+          "accent": "UK",
+          "text": "Miguel, the client asked whether we can move the product demo to the afternoon.",
+          "vi": "Miguel, khách hỏi liệu chúng ta có thể dời buổi trình diễn sản phẩm sang buổi chiều không."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "That's a problem. The technicians are testing the equipment in the morning, and the room is booked at two.",
+          "vi": "Hơi khó. Kỹ thuật viên kiểm tra thiết bị vào buổi sáng, mà phòng đã được đặt lúc hai giờ."
+        },
+        {
+          "speaker": "W1",
+          "accent": "UK",
+          "text": "What about three o'clock? The client's flight doesn't leave until seven.",
+          "vi": "Ba giờ thì sao? Chuyến bay của khách đến bảy giờ mới khởi hành."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "Three works. I'll call the AV team to make sure someone can stay late.",
+          "vi": "Ba giờ được. Tôi sẽ gọi nhóm âm thanh để chắc có người ở lại muộn."
+        },
+        {
+          "speaker": "W1",
+          "accent": "UK",
+          "text": "Thanks. I'll e-mail the client the new time and ask them to confirm.",
+          "vi": "Cảm ơn. Tôi sẽ email giờ mới cho khách và đề nghị họ xác nhận."
+        }
+      ],
+      "questions": [
+        {
+          "no": 6,
+          "type": "p3_main_topic",
+          "difficulty": 2,
+          "stem": "What are the speakers discussing?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A flight delay"
+            },
+            {
+              "key": "B",
+              "text": "A change to a presentation time"
+            },
+            {
+              "key": "C",
+              "text": "A problem with a booking website"
+            },
+            {
+              "key": "D",
+              "text": "A new technician's schedule"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Cả đoạn bàn việc dời buổi trình diễn sản phẩm sang ba giờ chiều → thay đổi giờ thuyết trình.",
+            "why_wrong": {
+              "A": "Chuyến bay của khách không bị trễ.",
+              "C": "Không nhắc website đặt phòng.",
+              "D": "Lịch kỹ thuật viên chỉ là chi tiết."
+            },
+            "translation_vi": "Những người nói đang bàn về việc gì? – Thay đổi giờ của buổi thuyết trình."
+          },
+          "tags": [
+            "v06_meetings"
+          ]
+        },
+        {
+          "no": 7,
+          "type": "p3_detail",
+          "difficulty": 3,
+          "stem": "Why is the two o'clock time not possible?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The room is already reserved for another event."
+            },
+            {
+              "key": "B",
+              "text": "The client arrives at seven."
+            },
+            {
+              "key": "C",
+              "text": "The equipment has not arrived."
+            },
+            {
+              "key": "D",
+              "text": "The AV team is on holiday."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Người nam nói 'the room is booked at two', diễn đạt lại là phòng đã được đặt cho việc khác.",
+            "why_wrong": {
+              "B": "Bảy giờ là giờ chuyến bay, không phải giờ khách đến.",
+              "C": "Thiết bị đang được kiểm tra, không phải chưa đến.",
+              "D": "Không nhắc nhóm âm thanh nghỉ lễ."
+            },
+            "translation_vi": "Vì sao không thể chọn hai giờ? – Phòng đã được đặt cho việc khác."
+          }
+        },
+        {
+          "no": 8,
+          "type": "p3_next_action",
+          "difficulty": 2,
+          "stem": "What will the man most likely do?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Cancel the demonstration"
+            },
+            {
+              "key": "B",
+              "text": "Rebook the client's flight"
+            },
+            {
+              "key": "C",
+              "text": "Ask the AV team to work later"
+            },
+            {
+              "key": "D",
+              "text": "Move the equipment to another room"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Anh ấy nói sẽ gọi nhóm âm thanh để có người ở lại muộn, tức đề nghị họ làm muộn hơn.",
+            "why_wrong": {
+              "A": "Buổi trình diễn được dời, không bị hủy.",
+              "B": "Không ai đổi chuyến bay của khách.",
+              "D": "Không nhắc chuyển thiết bị sang phòng khác."
+            },
+            "translation_vi": "Người nam nhiều khả năng sẽ làm gì? – Đề nghị nhóm âm thanh làm muộn hơn."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g07",
+      "part": 4,
+      "audio": "audio/g07.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 9 through 11 refer to the following announcement.",
+          "vi": "Câu 9 đến 11 dựa vào thông báo sau."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "Good afternoon, everyone, and welcome to the Westbrook Museum. Before you explore the galleries, I'd like to mention a few things. The special exhibition on ancient pottery is on the second floor and closes at four thirty, so I suggest visiting it first. Photography is allowed in most areas, but please turn off your flash near the paintings. The café on the ground floor offers a discount on coffee for visitors with a ticket, and the gift shop closes fifteen minutes before the museum. If you're looking for a quiet place to rest, the reading room at the end of the east corridor is open to all guests. Finally, please keep your ticket with you, as staff may ask to see it at any time. Enjoy your visit.",
+          "vi": "Chào buổi chiều mọi người, và chào mừng đến Bảo tàng Westbrook. Trước khi tham quan các phòng trưng bày, tôi xin lưu ý vài điều. Triển lãm đặc biệt về đồ gốm cổ ở tầng hai và đóng cửa lúc bốn giờ ba mươi, nên tôi khuyên nên xem trước. Được phép chụp ảnh ở hầu hết khu vực, nhưng vui lòng tắt đèn flash gần các bức tranh. Quán cà phê ở tầng trệt giảm giá cà phê cho khách có vé, và cửa hàng quà tặng đóng cửa trước bảo tàng mười lăm phút. Nếu muốn nơi yên tĩnh nghỉ ngơi, phòng đọc ở cuối hành lang phía đông mở cho mọi khách. Cuối cùng, vui lòng giữ vé bên mình vì nhân viên có thể kiểm tra bất cứ lúc nào. Chúc quý khách tham quan vui vẻ."
+        }
+      ],
+      "questions": [
+        {
+          "no": 9,
+          "type": "p4_purpose_topic",
+          "difficulty": 2,
+          "stem": "What is the purpose of the talk?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To sell museum memberships"
+            },
+            {
+              "key": "B",
+              "text": "To introduce a new exhibition"
+            },
+            {
+              "key": "C",
+              "text": "To train new museum staff"
+            },
+            {
+              "key": "D",
+              "text": "To give visitors information about the museum"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Người nói hướng dẫn khách về triển lãm, quán cà phê, cửa hàng và phòng đọc → cung cấp thông tin cho khách tham quan.",
+            "why_wrong": {
+              "A": "Không bán thẻ hội viên.",
+              "B": "Triển lãm đã có, không phải buổi giới thiệu mới.",
+              "C": "Không đào tạo nhân viên."
+            },
+            "translation_vi": "Mục đích của bài nói là gì? – Cung cấp thông tin về bảo tàng cho khách tham quan."
+          },
+          "tags": [
+            "v21_events"
+          ]
+        },
+        {
+          "no": 10,
+          "type": "p4_inference",
+          "difficulty": 3,
+          "stem": "Why does the speaker suggest visiting the pottery exhibition first?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It is the most popular gallery."
+            },
+            {
+              "key": "B",
+              "text": "It closes earlier than other areas."
+            },
+            {
+              "key": "C",
+              "text": "It is located near the entrance."
+            },
+            {
+              "key": "D",
+              "text": "It contains the newest paintings."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Triển lãm đóng cửa lúc bốn giờ ba mươi nên cần xem trước → nó đóng cửa sớm hơn các khu khác.",
+            "why_wrong": {
+              "A": "Không nói đây là khu được yêu thích nhất.",
+              "C": "Không nhắc vị trí gần lối vào.",
+              "D": "Triển lãm là đồ gốm, không phải tranh mới."
+            },
+            "translation_vi": "Vì sao người nói khuyên xem triển lãm đồ gốm trước? – Vì nó đóng cửa sớm hơn các khu khác."
+          }
+        },
+        {
+          "no": 11,
+          "type": "p4_inference",
+          "difficulty": 4,
+          "stem": "What can visitors infer about the reading room?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It is designed for quiet relaxation."
+            },
+            {
+              "key": "B",
+              "text": "It requires a separate ticket."
+            },
+            {
+              "key": "C",
+              "text": "It closes before the café."
+            },
+            {
+              "key": "D",
+              "text": "It is reserved for staff only."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Người nói giới thiệu phòng đọc là 'a quiet place to rest' mở cho mọi khách → dành cho nghỉ ngơi yên tĩnh.",
+            "why_wrong": {
+              "B": "Không cần vé riêng, chỉ cần vé vào bảo tàng.",
+              "C": "Không nói giờ đóng cửa của phòng đọc.",
+              "D": "Phòng đọc mở cho mọi khách, không riêng nhân viên."
+            },
+            "translation_vi": "Khách có thể suy ra gì về phòng đọc? – Đây là nơi dành cho việc nghỉ ngơi yên tĩnh."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g08",
+      "part": 5,
+      "questions": [
+        {
+          "no": 12,
+          "type": "p5_word_form",
+          "difficulty": 1,
+          "stem": "The receptionist gave me a ____ map of the building.",
+          "options": [
+            {
+              "key": "A",
+              "text": "use"
+            },
+            {
+              "key": "B",
+              "text": "usefully"
+            },
+            {
+              "key": "C",
+              "text": "useful"
+            },
+            {
+              "key": "D",
+              "text": "usefulness"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Trước danh từ 'map' cần tính từ nên chọn 'useful' (hữu ích).",
+            "why_wrong": {
+              "A": "'use' là động từ/danh từ.",
+              "B": "'usefully' là trạng từ.",
+              "D": "'usefulness' là danh từ."
+            },
+            "translation_vi": "Nhân viên lễ tân đưa cho tôi một tấm bản đồ hữu ích về tòa nhà."
+          },
+          "tags": [
+            "g01_word_form",
+            "v03_office"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g09",
+      "part": 5,
+      "questions": [
+        {
+          "no": 13,
+          "type": "p5_preposition",
+          "difficulty": 2,
+          "stem": "The meeting has been moved ____ Tuesday afternoon.",
+          "options": [
+            {
+              "key": "A",
+              "text": "in"
+            },
+            {
+              "key": "B",
+              "text": "to"
+            },
+            {
+              "key": "C",
+              "text": "at"
+            },
+            {
+              "key": "D",
+              "text": "on"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'move something to + thời điểm' nghĩa là dời sang thời điểm khác.",
+            "why_wrong": {
+              "A": "'moved in' chỉ chuyển vào trong, không hợp.",
+              "C": "'moved at' sai giới từ.",
+              "D": "'moved on' mang nghĩa chuyển sang việc khác, không hợp."
+            },
+            "translation_vi": "Cuộc họp đã được dời sang chiều thứ Ba."
+          },
+          "tags": [
+            "g08_prepositions_time_place",
+            "v06_meetings"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g10",
+      "part": 5,
+      "questions": [
+        {
+          "no": 14,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 3,
+          "stem": "If the contract ____ by Friday, the project will start on Monday.",
+          "options": [
+            {
+              "key": "A",
+              "text": "will sign"
+            },
+            {
+              "key": "B",
+              "text": "did sign"
+            },
+            {
+              "key": "C",
+              "text": "has signing"
+            },
+            {
+              "key": "D",
+              "text": "is signed"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Mệnh đề 'if' dùng hiện tại đơn; hợp đồng được ký (bị động) nên cần 'is signed'.",
+            "why_wrong": {
+              "A": "'will sign' sai thì trong mệnh đề if và sai thể.",
+              "B": "'did sign' sai thì và sai thể chủ động.",
+              "C": "'has signing' sai cấu trúc hoàn toàn."
+            },
+            "translation_vi": "Nếu hợp đồng được ký trước thứ Sáu, dự án sẽ khởi động vào thứ Hai."
+          },
+          "tags": [
+            "g18_conditionals",
+            "v01_contracts"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g11",
+      "part": 5,
+      "questions": [
+        {
+          "no": 15,
+          "type": "p5_participle",
+          "difficulty": 4,
+          "stem": "____ in 1998, the company has expanded into twelve countries.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Founded"
+            },
+            {
+              "key": "B",
+              "text": "Founding"
+            },
+            {
+              "key": "C",
+              "text": "To found"
+            },
+            {
+              "key": "D",
+              "text": "Found"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Công ty được thành lập (bị động) nên dùng phân từ quá khứ 'Founded'.",
+            "why_wrong": {
+              "B": "'Founding' mang nghĩa chủ động, sai vì công ty được thành lập.",
+              "C": "'To found' không dùng ở đầu câu rút gọn như vậy.",
+              "D": "'Found' là động từ nguyên mẫu, thiếu dạng phân từ."
+            },
+            "translation_vi": "Được thành lập năm 1998, công ty đã mở rộng ra mười hai quốc gia."
+          },
+          "tags": [
+            "g15_participles",
+            "v05_personnel"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g12",
+      "part": 5,
+      "questions": [
+        {
+          "no": 16,
+          "type": "p5_verb_tense_voice",
+          "difficulty": 5,
+          "stem": "Had the warning been taken seriously, the accident ____ avoided.",
+          "options": [
+            {
+              "key": "A",
+              "text": "could be"
+            },
+            {
+              "key": "B",
+              "text": "can have been"
+            },
+            {
+              "key": "C",
+              "text": "could have been"
+            },
+            {
+              "key": "D",
+              "text": "would be"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Câu điều kiện loại 3 đảo ngữ 'Had...' cần 'could have been + V-ed' để nói điều đã có thể xảy ra trong quá khứ.",
+            "why_wrong": {
+              "A": "'could be' chỉ khả năng hiện tại, sai mốc quá khứ.",
+              "B": "'can have been' không dùng trong cấu trúc này.",
+              "D": "'would be' thiếu dạng hoàn thành, sai nghĩa quá khứ."
+            },
+            "translation_vi": "Nếu cảnh báo được xem trọng, tai nạn đã có thể được tránh."
+          },
+          "tags": [
+            "g18_conditionals",
+            "g05_passive_voice"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g13",
+      "part": 7,
+      "passages": [
+        {
+          "type": "email",
+          "title": "Annual performance reviews",
+          "text": "From: Human Resources\nTo: All staff\nSubject: Annual performance reviews\n\nDear colleagues,\n\nThe annual performance review period will begin on November 3 and end on November 21. During this time, each employee will meet with their direct supervisor to discuss achievements, goals, and training needs. Meetings should last about forty-five minutes and must be scheduled through the online booking system.\n\nBefore the meeting, employees are asked to complete a short self-assessment form and list two professional goals for the coming year. Supervisors will use these forms to prepare individual development plans, which will be shared with each employee by December 5.\n\nEmployees who joined the company after September 1 will have their first review in the next cycle. If you have questions about the process or need to reschedule, please contact your department coordinator.\n\nThank you,\nHuman Resources",
+          "vi": "Từ: Phòng nhân sự. Gửi: Toàn thể nhân viên. Chủ đề: Đánh giá hiệu suất thường niên. Thưa các đồng nghiệp, đợt đánh giá hiệu suất thường niên sẽ bắt đầu ngày 3/11 và kết thúc ngày 21/11. Trong thời gian này, mỗi nhân viên sẽ gặp người quản lý trực tiếp để trao đổi về thành tích, mục tiêu và nhu cầu đào tạo. Buổi gặp kéo dài khoảng bốn mươi lăm phút và phải đặt lịch qua hệ thống trực tuyến. Trước buổi gặp, nhân viên được yêu cầu hoàn thành một mẫu tự đánh giá ngắn và nêu hai mục tiêu nghề nghiệp cho năm tới. Người quản lý sẽ dùng các mẫu này để lập kế hoạch phát triển cá nhân, và chia sẻ với từng nhân viên trước ngày 5/12. Nhân viên vào công ty sau ngày 1/9 sẽ được đánh giá lần đầu trong đợt tiếp theo. Nếu có thắc mắc hoặc cần đổi lịch, vui lòng liên hệ điều phối viên phòng ban. Cảm ơn, Phòng nhân sự."
+        }
+      ],
+      "questions": [
+        {
+          "no": 17,
+          "type": "p7_main_idea_purpose",
+          "difficulty": 2,
+          "stem": "What is the purpose of the e-mail?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To announce a new booking system"
+            },
+            {
+              "key": "B",
+              "text": "To explain the performance review process"
+            },
+            {
+              "key": "C",
+              "text": "To introduce new supervisors"
+            },
+            {
+              "key": "D",
+              "text": "To request training applications"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Email giải thích thời gian, cách đặt lịch và các bước của đợt đánh giá hiệu suất.",
+            "why_wrong": {
+              "A": "Hệ thống đặt lịch đã có, không phải thông báo mới.",
+              "C": "Không giới thiệu quản lý mới.",
+              "D": "Không xin đơn đăng ký đào tạo."
+            },
+            "translation_vi": "Mục đích của email là gì? – Giải thích quy trình đánh giá hiệu suất."
+          },
+          "evidence": "The annual performance review period will begin on November 3 and end on November 21."
+        },
+        {
+          "no": 18,
+          "type": "p7_detail",
+          "difficulty": 3,
+          "stem": "What must employees do before the meeting?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Book a training course"
+            },
+            {
+              "key": "B",
+              "text": "Submit a development plan"
+            },
+            {
+              "key": "C",
+              "text": "Contact the HR director"
+            },
+            {
+              "key": "D",
+              "text": "Complete a self-assessment form"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Email yêu cầu nhân viên 'complete a short self-assessment form' trước buổi gặp.",
+            "why_wrong": {
+              "A": "Không nhắc đặt khóa đào tạo.",
+              "B": "Kế hoạch phát triển do người quản lý lập.",
+              "C": "Chỉ cần liên hệ điều phối viên khi có thắc mắc."
+            },
+            "translation_vi": "Nhân viên phải làm gì trước buổi gặp? – Hoàn thành mẫu tự đánh giá."
+          },
+          "evidence": "employees are asked to complete a short self-assessment form"
+        },
+        {
+          "no": 19,
+          "type": "p7_inference",
+          "difficulty": 3,
+          "stem": "Why will some employees have their review later?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They joined the company recently."
+            },
+            {
+              "key": "B",
+              "text": "They are on leave."
+            },
+            {
+              "key": "C",
+              "text": "They missed the booking deadline."
+            },
+            {
+              "key": "D",
+              "text": "They requested a new supervisor."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Email nêu nhân viên vào công ty sau ngày 1/9 sẽ được đánh giá trong đợt tiếp theo → họ mới vào làm.",
+            "why_wrong": {
+              "B": "Không nhắc nghỉ phép.",
+              "C": "Không nói ai bỏ lỡ hạn đặt lịch.",
+              "D": "Không nhắc đổi người quản lý."
+            },
+            "translation_vi": "Vì sao một số nhân viên được đánh giá muộn hơn? – Vì họ mới vào công ty."
+          },
+          "evidence": "Employees who joined the company after September 1 will have their first review in the next cycle."
+        },
+        {
+          "no": 20,
+          "type": "p7_inference",
+          "difficulty": 4,
+          "stem": "What is suggested about employees hired in October?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They will not receive a development plan."
+            },
+            {
+              "key": "B",
+              "text": "Their first review will take place in the next cycle."
+            },
+            {
+              "key": "C",
+              "text": "They must choose two goals immediately."
+            },
+            {
+              "key": "D",
+              "text": "They are exempt from self-assessment."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Tháng Mười sau mốc 1/9, nên theo email họ sẽ được đánh giá lần đầu trong đợt tiếp theo.",
+            "why_wrong": {
+              "A": "Email không nói họ bị loại khỏi kế hoạch phát triển.",
+              "C": "Việc nêu mục tiêu gắn với đợt đánh giá hiện tại.",
+              "D": "Không có thông tin miễn tự đánh giá."
+            },
+            "translation_vi": "Có thể suy ra gì về nhân viên được tuyển vào tháng Mười? – Lần đánh giá đầu tiên của họ sẽ diễn ra trong đợt tiếp theo."
+          },
+          "evidence": "Employees who joined the company after September 1 will have their first review in the next cycle."
+        }
+      ]
+    }
+  ]
+}

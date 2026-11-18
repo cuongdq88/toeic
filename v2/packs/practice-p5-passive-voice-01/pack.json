@@ -1,0 +1,137 @@
+{
+  "id": "practice-p5-passive-voice-01",
+  "kind": "practice",
+  "title": "Luyện Part 5 – Câu bị động 01",
+  "level": "medium",
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "15 câu Part 5 chủ điểm g05_passive_voice, độ khó 1-5, 7 câu mức 4-5.",
+    "ai_check": {"date": "2026-11-12", "fixed": 0}
+  },
+  "groups": [
+    {"id": "g01", "part": 5, "questions": [{
+      "no": 1, "type": "p5_verb_tense_voice", "difficulty": 1,
+      "stem": "The report ____ by the finance team every month.",
+      "options": [{"key": "A", "text": "prepares"}, {"key": "B", "text": "preparing"}, {"key": "C", "text": "has prepared"}, {"key": "D", "text": "is prepared"}],
+      "answer": "D",
+      "explanation": {"why_correct": "Báo cáo được chuẩn bị bởi nhóm tài chính nên dùng bị động hiện tại đơn 'is prepared'.", "why_wrong": {"A": "'prepares' chủ động, sai nghĩa.", "B": "'preparing' thiếu trợ động từ.", "C": "'has prepared' chủ động, sai nghĩa."}, "translation_vi": "Báo cáo được nhóm tài chính chuẩn bị mỗi tháng."},
+      "tags": ["g05_passive_voice", "v08_accounting"]
+    }]},
+    {"id": "g02", "part": 5, "questions": [{
+      "no": 2, "type": "p5_verb_tense_voice", "difficulty": 2,
+      "stem": "The new bridge ____ next year.",
+      "options": [{"key": "A", "text": "will be built"}, {"key": "B", "text": "will build"}, {"key": "C", "text": "is building"}, {"key": "D", "text": "builds"}],
+      "answer": "A",
+      "explanation": {"why_correct": "Cây cầu được xây trong tương lai nên dùng bị động tương lai 'will be built'.", "why_wrong": {"B": "'will build' chủ động, sai nghĩa.", "C": "'is building' chủ động và sai thì.", "D": "'builds' chủ động."}, "translation_vi": "Cây cầu mới sẽ được xây vào năm sau."},
+      "tags": ["g05_passive_voice", "v23_real_estate"]
+    }]},
+    {"id": "g03", "part": 5, "questions": [{
+      "no": 3, "type": "p5_verb_tense_voice", "difficulty": 2,
+      "stem": "All visitors ____ to sign in at the front desk.",
+      "options": [{"key": "A", "text": "require"}, {"key": "B", "text": "requiring"}, {"key": "C", "text": "are required"}, {"key": "D", "text": "have required"}],
+      "answer": "C",
+      "explanation": {"why_correct": "Khách được yêu cầu ký tên nên dùng bị động 'are required'.", "why_wrong": {"A": "'require' chủ động, sai nghĩa.", "B": "'requiring' thiếu trợ động từ.", "D": "'have required' chủ động."}, "translation_vi": "Mọi khách tham quan được yêu cầu ký tên tại quầy lễ tân."},
+      "tags": ["g05_passive_voice", "v03_office"]
+    }]},
+    {"id": "g04", "part": 5, "questions": [{
+      "no": 4, "type": "p5_verb_tense_voice", "difficulty": 2,
+      "stem": "The package ____ yesterday morning.",
+      "options": [{"key": "A", "text": "delivered"}, {"key": "B", "text": "was delivered"}, {"key": "C", "text": "is delivered"}, {"key": "D", "text": "delivers"}],
+      "answer": "B",
+      "explanation": {"why_correct": "Gói hàng được giao trong quá khứ nên dùng bị động quá khứ 'was delivered'.", "why_wrong": {"A": "'delivered' chủ động, thiếu trợ động từ.", "C": "'is delivered' sai thì.", "D": "'delivers' chủ động."}, "translation_vi": "Gói hàng đã được giao vào sáng hôm qua."},
+      "tags": ["g05_passive_voice", "v11_ordering_shipping"]
+    }]},
+    {"id": "g05", "part": 5, "questions": [{
+      "no": 5, "type": "p5_verb_tense_voice", "difficulty": 3,
+      "stem": "The proposal ____ by the board at the moment.",
+      "options": [{"key": "A", "text": "reviews"}, {"key": "B", "text": "has reviewed"}, {"key": "C", "text": "is reviewing"}, {"key": "D", "text": "is being reviewed"}],
+      "answer": "D",
+      "explanation": {"why_correct": "Đề xuất đang được xem xét nên dùng bị động tiếp diễn 'is being reviewed'.", "why_wrong": {"A": "'reviews' chủ động.", "B": "'has reviewed' chủ động.", "C": "'is reviewing' chủ động, sai nghĩa."}, "translation_vi": "Đề xuất đang được hội đồng xem xét."},
+      "tags": ["g05_passive_voice", "v06_meetings"]
+    }]},
+    {"id": "g06", "part": 5, "questions": [{
+      "no": 6, "type": "p5_verb_tense_voice", "difficulty": 3,
+      "stem": "The old files ____ before the audit began.",
+      "options": [{"key": "A", "text": "had been archived"}, {"key": "B", "text": "archived"}, {"key": "C", "text": "have archived"}, {"key": "D", "text": "were archiving"}],
+      "answer": "A",
+      "explanation": {"why_correct": "Hồ sơ được lưu trữ xong trước khi kiểm toán bắt đầu nên dùng bị động quá khứ hoàn thành 'had been archived'.", "why_wrong": {"B": "'archived' thiếu trợ động từ.", "C": "'have archived' chủ động.", "D": "'were archiving' chủ động, sai nghĩa."}, "translation_vi": "Các hồ sơ cũ đã được lưu trữ trước khi đợt kiểm toán bắt đầu."},
+      "tags": ["g05_passive_voice", "v08_accounting"]
+    }]},
+    {"id": "g07", "part": 5, "questions": [{
+      "no": 7, "type": "p5_verb_tense_voice", "difficulty": 3,
+      "stem": "The agreement ____ by both parties last week.",
+      "options": [{"key": "A", "text": "signed"}, {"key": "B", "text": "signing"}, {"key": "C", "text": "was signed"}, {"key": "D", "text": "has signed"}],
+      "answer": "C",
+      "explanation": {"why_correct": "Thỏa thuận được ký bởi hai bên trong quá khứ nên dùng bị động 'was signed'.", "why_wrong": {"A": "'signed' thiếu trợ động từ.", "B": "'signing' thiếu trợ động từ.", "D": "'has signed' chủ động và sai thì."}, "translation_vi": "Thỏa thuận đã được hai bên ký vào tuần trước."},
+      "tags": ["g05_passive_voice", "v01_contracts"]
+    }]},
+    {"id": "g08", "part": 5, "questions": [{
+      "no": 8, "type": "p5_verb_tense_voice", "difficulty": 3,
+      "stem": "The equipment must ____ before each shift.",
+      "options": [{"key": "A", "text": "check"}, {"key": "B", "text": "be checked"}, {"key": "C", "text": "be checking"}, {"key": "D", "text": "have checked"}],
+      "answer": "B",
+      "explanation": {"why_correct": "Sau 'must' dùng bị động nguyên mẫu 'be checked' vì thiết bị được kiểm tra.", "why_wrong": {"A": "'check' chủ động.", "C": "'be checking' chủ động tiếp diễn.", "D": "'have checked' chủ động hoàn thành."}, "translation_vi": "Thiết bị phải được kiểm tra trước mỗi ca làm."},
+      "tags": ["g05_passive_voice", "v13_manufacturing"]
+    }]},
+    {"id": "g09", "part": 5, "questions": [{
+      "no": 9, "type": "p5_verb_tense_voice", "difficulty": 4,
+      "stem": "The results of the survey ____ in the next issue.",
+      "options": [{"key": "A", "text": "publish"}, {"key": "B", "text": "will publish"}, {"key": "C", "text": "are publishing"}, {"key": "D", "text": "will be published"}],
+      "answer": "D",
+      "explanation": {"why_correct": "Kết quả được công bố trong tương lai nên dùng bị động tương lai 'will be published'.", "why_wrong": {"A": "'publish' chủ động.", "B": "'will publish' chủ động.", "C": "'are publishing' chủ động."}, "translation_vi": "Kết quả khảo sát sẽ được công bố trong số tới."},
+      "tags": ["g05_passive_voice", "v02_marketing"]
+    }]},
+    {"id": "g10", "part": 5, "questions": [{
+      "no": 10, "type": "p5_verb_tense_voice", "difficulty": 4,
+      "stem": "The manager ____ to have approved the request.",
+      "options": [{"key": "A", "text": "is believed"}, {"key": "B", "text": "believes"}, {"key": "C", "text": "is believing"}, {"key": "D", "text": "believed"}],
+      "answer": "A",
+      "explanation": {"why_correct": "Cấu trúc bị động tường thuật 'be believed to have + V-ed' nên chọn 'is believed'.", "why_wrong": {"B": "'believes' chủ động, sai nghĩa.", "C": "'is believing' chủ động tiếp diễn.", "D": "'believed' chủ động hoặc quá khứ."}, "translation_vi": "Người quản lý được cho là đã phê duyệt yêu cầu."},
+      "tags": ["g05_passive_voice", "v05_personnel"]
+    }]},
+    {"id": "g11", "part": 5, "questions": [{
+      "no": 11, "type": "p5_verb_tense_voice", "difficulty": 4,
+      "stem": "The warehouse ____ at the time of the inspection.",
+      "options": [{"key": "A", "text": "expanded"}, {"key": "B", "text": "was expanding"}, {"key": "C", "text": "was being expanded"}, {"key": "D", "text": "has expanded"}],
+      "answer": "C",
+      "explanation": {"why_correct": "Kho đang được mở rộng tại thời điểm kiểm tra nên dùng bị động tiếp diễn quá khứ 'was being expanded'.", "why_wrong": {"A": "'expanded' chủ động/thiếu trợ động từ.", "B": "'was expanding' chủ động.", "D": "'has expanded' chủ động và sai thì."}, "translation_vi": "Kho đang được mở rộng vào thời điểm kiểm tra."},
+      "tags": ["g05_passive_voice", "v12_inventory"]
+    }]},
+    {"id": "g12", "part": 5, "questions": [{
+      "no": 12, "type": "p5_verb_tense_voice", "difficulty": 4,
+      "stem": "No decision ____ until all the reports are received.",
+      "options": [{"key": "A", "text": "makes"}, {"key": "B", "text": "will be made"}, {"key": "C", "text": "will make"}, {"key": "D", "text": "is making"}],
+      "answer": "B",
+      "explanation": {"why_correct": "Quyết định được đưa ra trong tương lai nên dùng bị động 'will be made'.", "why_wrong": {"A": "'makes' chủ động.", "C": "'will make' chủ động.", "D": "'is making' chủ động tiếp diễn."}, "translation_vi": "Sẽ không có quyết định nào cho đến khi nhận đủ báo cáo."},
+      "tags": ["g05_passive_voice", "v06_meetings"]
+    }]},
+    {"id": "g13", "part": 5, "questions": [{
+      "no": 13, "type": "p5_verb_tense_voice", "difficulty": 5,
+      "stem": "The faulty machines are said ____ last year.",
+      "options": [{"key": "A", "text": "to replace"}, {"key": "B", "text": "to be replacing"}, {"key": "C", "text": "to have replaced"}, {"key": "D", "text": "to have been replaced"}],
+      "answer": "D",
+      "explanation": {"why_correct": "Máy được thay thế (bị động) trước hiện tại nên dùng 'to have been replaced'.", "why_wrong": {"A": "'to replace' chủ động và sai thì.", "B": "'to be replacing' chủ động tiếp diễn.", "C": "'to have replaced' chủ động."}, "translation_vi": "Những cỗ máy bị lỗi được cho là đã được thay thế vào năm ngoái."},
+      "tags": ["g05_passive_voice", "v13_manufacturing"]
+    }]},
+    {"id": "g14", "part": 5, "questions": [{
+      "no": 14, "type": "p5_verb_tense_voice", "difficulty": 5,
+      "stem": "Had the forms been submitted earlier, the application ____.",
+      "options": [{"key": "A", "text": "would have been processed"}, {"key": "B", "text": "would process"}, {"key": "C", "text": "was processed"}, {"key": "D", "text": "had processed"}],
+      "answer": "A",
+      "explanation": {"why_correct": "Điều kiện loại 3 đảo ngữ 'Had...' đi với mệnh đề chính 'would have been + V-ed' (bị động).", "why_wrong": {"B": "'would process' chủ động và sai thì.", "C": "'was processed' không hợp điều kiện loại 3.", "D": "'had processed' chủ động."}, "translation_vi": "Nếu các mẫu đơn được nộp sớm hơn, hồ sơ đã được xử lý rồi."},
+      "tags": ["g05_passive_voice", "v04_hiring"]
+    }]},
+    {"id": "g15", "part": 5, "questions": [{
+      "no": 15, "type": "p5_verb_tense_voice", "difficulty": 5,
+      "stem": "The staff were made ____ the safety video twice.",
+      "options": [{"key": "A", "text": "watch"}, {"key": "B", "text": "watching"}, {"key": "C", "text": "to watch"}, {"key": "D", "text": "watched"}],
+      "answer": "C",
+      "explanation": {"why_correct": "Cấu trúc bị động 'be made to + V' nên chọn 'to watch'.", "why_wrong": {"A": "'watch' thiếu 'to' trong cấu trúc bị động.", "B": "'watching' sai cấu trúc.", "D": "'watched' sai cấu trúc."}, "translation_vi": "Nhân viên được yêu cầu xem video an toàn hai lần."},
+      "tags": ["g05_passive_voice", "v13_manufacturing"]
+    }]}
+  ]
+}

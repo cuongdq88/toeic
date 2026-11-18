@@ -1,0 +1,665 @@
+{
+  "id": "practice-p5-participle-01",
+  "kind": "practice",
+  "title": "Luyện Part 5 – Phân từ 01",
+  "level": "medium",
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "15 câu phân từ, 4 câu mức 4-5.",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 0
+    }
+  },
+  "groups": [
+    {
+      "id": "g01",
+      "part": 5,
+      "questions": [
+        {
+          "no": 1,
+          "type": "p5_participle",
+          "difficulty": 2,
+          "stem": "The invoice ____ yesterday has not been paid yet.",
+          "options": [
+            {
+              "key": "A",
+              "text": "issued"
+            },
+            {
+              "key": "B",
+              "text": "issuing"
+            },
+            {
+              "key": "C",
+              "text": "issue"
+            },
+            {
+              "key": "D",
+              "text": "to issue"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Hóa đơn bị phát hành nên dùng phân từ bị động 'issued'.",
+            "why_wrong": {
+              "B": "'Issuing' là chủ động.",
+              "C": "'Issue' là động từ gốc.",
+              "D": "'To issue' không phù hợp."
+            },
+            "translation_vi": "Hóa đơn phát hành hôm qua vẫn chưa được thanh toán."
+          },
+          "tags": [
+            "g15_participles"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "part": 5,
+      "questions": [
+        {
+          "no": 2,
+          "type": "p5_participle",
+          "difficulty": 2,
+          "stem": "The ____ documents must be signed by both parties.",
+          "options": [
+            {
+              "key": "A",
+              "text": "attaching"
+            },
+            {
+              "key": "B",
+              "text": "attached"
+            },
+            {
+              "key": "C",
+              "text": "attach"
+            },
+            {
+              "key": "D",
+              "text": "to attach"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Tài liệu được đính kèm nên dùng 'attached'.",
+            "why_wrong": {
+              "A": "'Attaching' là chủ động.",
+              "C": "'Attach' là động từ gốc.",
+              "D": "'To attach' không phù hợp."
+            },
+            "translation_vi": "Các tài liệu đính kèm phải được hai bên ký."
+          },
+          "tags": [
+            "g15_participles"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "part": 5,
+      "questions": [
+        {
+          "no": 3,
+          "type": "p5_participle",
+          "difficulty": 3,
+          "stem": "____ the warning, the crew stopped the machine immediately.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Heard"
+            },
+            {
+              "key": "B",
+              "text": "To hear"
+            },
+            {
+              "key": "C",
+              "text": "Hearing"
+            },
+            {
+              "key": "D",
+              "text": "Hear"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Crew chủ động nghe nên dùng 'Hearing'.",
+            "why_wrong": {
+              "A": "'Heard' là bị động.",
+              "B": "'To hear' chỉ mục đích.",
+              "D": "'Hear' là động từ gốc."
+            },
+            "translation_vi": "Nghe cảnh báo, tổ vận hành dừng máy ngay."
+          },
+          "tags": [
+            "g15_participles"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "part": 5,
+      "questions": [
+        {
+          "no": 4,
+          "type": "p5_participle",
+          "difficulty": 3,
+          "stem": "The client, ____ by the delay, asked for a refund.",
+          "options": [
+            {
+              "key": "A",
+              "text": "annoying"
+            },
+            {
+              "key": "B",
+              "text": "annoy"
+            },
+            {
+              "key": "C",
+              "text": "to annoy"
+            },
+            {
+              "key": "D",
+              "text": "annoyed"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Khách bị làm phiền nên dùng phân từ bị động 'annoyed'.",
+            "why_wrong": {
+              "A": "'Annoying' là chủ động.",
+              "B": "'Annoy' là động từ gốc.",
+              "C": "'To annoy' không phù hợp."
+            },
+            "translation_vi": "Khách bị sự chậm trễ làm phiền nên yêu cầu hoàn tiền."
+          },
+          "tags": [
+            "g15_participles"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "part": 5,
+      "questions": [
+        {
+          "no": 5,
+          "type": "p5_participle",
+          "difficulty": 3,
+          "stem": "____ in Japan, the device is popular around the world.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Manufactured"
+            },
+            {
+              "key": "B",
+              "text": "Manufacturing"
+            },
+            {
+              "key": "C",
+              "text": "To manufacture"
+            },
+            {
+              "key": "D",
+              "text": "Manufacture"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Thiết bị được sản xuất nên dùng phân từ bị động.",
+            "why_wrong": {
+              "B": "'Manufacturing' là chủ động.",
+              "C": "'To manufacture' chỉ mục đích.",
+              "D": "'Manufacture' là động từ gốc."
+            },
+            "translation_vi": "Được sản xuất tại Nhật, thiết bị phổ biến khắp thế giới."
+          },
+          "tags": [
+            "g15_participles"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g06",
+      "part": 5,
+      "questions": [
+        {
+          "no": 6,
+          "type": "p5_participle",
+          "difficulty": 3,
+          "stem": "The staff ____ for the night shift should arrive by nine.",
+          "options": [
+            {
+              "key": "A",
+              "text": "scheduling"
+            },
+            {
+              "key": "B",
+              "text": "scheduled"
+            },
+            {
+              "key": "C",
+              "text": "schedule"
+            },
+            {
+              "key": "D",
+              "text": "to schedule"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Nhân viên được xếp lịch nên dùng 'scheduled'.",
+            "why_wrong": {
+              "A": "'Scheduling' là chủ động.",
+              "C": "'Schedule' là động từ gốc.",
+              "D": "'To schedule' không phù hợp."
+            },
+            "translation_vi": "Nhân viên được xếp ca đêm nên đến trước chín giờ."
+          },
+          "tags": [
+            "g15_participles"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g07",
+      "part": 5,
+      "questions": [
+        {
+          "no": 7,
+          "type": "p5_participle",
+          "difficulty": 5,
+          "stem": "____ the figures, the director approved the budget.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Check"
+            },
+            {
+              "key": "B",
+              "text": "To check"
+            },
+            {
+              "key": "C",
+              "text": "Having checked"
+            },
+            {
+              "key": "D",
+              "text": "Checked"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Hành động kiểm tra hoàn thành trước khi duyệt, dùng 'Having checked'.",
+            "why_wrong": {
+              "A": "'Check' là mệnh lệnh.",
+              "B": "'To check' chỉ mục đích.",
+              "D": "'Checked' thiếu 'Having'."
+            },
+            "translation_vi": "Sau khi kiểm tra số liệu, giám đốc duyệt ngân sách."
+          },
+          "tags": [
+            "g15_participles"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g08",
+      "part": 5,
+      "questions": [
+        {
+          "no": 8,
+          "type": "p5_participle",
+          "difficulty": 3,
+          "stem": "The service ____ by this company is available online.",
+          "options": [
+            {
+              "key": "A",
+              "text": "offering"
+            },
+            {
+              "key": "B",
+              "text": "offer"
+            },
+            {
+              "key": "C",
+              "text": "to offer"
+            },
+            {
+              "key": "D",
+              "text": "offered"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Dịch vụ được cung cấp nên dùng 'offered'.",
+            "why_wrong": {
+              "A": "'Offering' là chủ động.",
+              "B": "'Offer' là động từ gốc.",
+              "C": "'To offer' không phù hợp."
+            },
+            "translation_vi": "Dịch vụ do công ty này cung cấp có sẵn trực tuyến."
+          },
+          "tags": [
+            "g15_participles"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g09",
+      "part": 5,
+      "questions": [
+        {
+          "no": 9,
+          "type": "p5_participle",
+          "difficulty": 3,
+          "stem": "____ by the noise, the technician left the laboratory.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Distracted"
+            },
+            {
+              "key": "B",
+              "text": "Distracting"
+            },
+            {
+              "key": "C",
+              "text": "Distract"
+            },
+            {
+              "key": "D",
+              "text": "To distract"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Kỹ thuật viên bị phân tâm nên dùng 'Distracted'.",
+            "why_wrong": {
+              "B": "'Distracting' là chủ động.",
+              "C": "'Distract' là động từ gốc.",
+              "D": "'To distract' không phù hợp."
+            },
+            "translation_vi": "Bị tiếng ồn làm phân tâm, kỹ thuật viên rời phòng lab."
+          },
+          "tags": [
+            "g15_participles"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g10",
+      "part": 5,
+      "questions": [
+        {
+          "no": 10,
+          "type": "p5_participle",
+          "difficulty": 2,
+          "stem": "The candidate ____ in the waiting room is next.",
+          "options": [
+            {
+              "key": "A",
+              "text": "sat"
+            },
+            {
+              "key": "B",
+              "text": "sitting"
+            },
+            {
+              "key": "C",
+              "text": "sit"
+            },
+            {
+              "key": "D",
+              "text": "to sit"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Ứng viên đang ngồi nên dùng 'sitting'.",
+            "why_wrong": {
+              "A": "'Sat' là quá khứ.",
+              "C": "'Sit' là động từ gốc.",
+              "D": "'To sit' không phù hợp."
+            },
+            "translation_vi": "Ứng viên đang ngồi ở phòng chờ là người tiếp theo."
+          },
+          "tags": [
+            "g15_participles"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g11",
+      "part": 5,
+      "questions": [
+        {
+          "no": 11,
+          "type": "p5_participle",
+          "difficulty": 4,
+          "stem": "____ the contract, both sides shook hands.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Sign"
+            },
+            {
+              "key": "B",
+              "text": "Signing"
+            },
+            {
+              "key": "C",
+              "text": "Having signed"
+            },
+            {
+              "key": "D",
+              "text": "To sign"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Hành động ký hoàn thành trước khi bắt tay.",
+            "why_wrong": {
+              "A": "'Sign' là mệnh lệnh.",
+              "B": "'Signing' là hành động đồng thời.",
+              "D": "'To sign' chỉ mục đích."
+            },
+            "translation_vi": "Sau khi ký hợp đồng, hai bên bắt tay."
+          },
+          "tags": [
+            "g15_participles"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g12",
+      "part": 5,
+      "questions": [
+        {
+          "no": 12,
+          "type": "p5_participle",
+          "difficulty": 3,
+          "stem": "The goods ____ last week have finally arrived.",
+          "options": [
+            {
+              "key": "A",
+              "text": "dispatching"
+            },
+            {
+              "key": "B",
+              "text": "dispatch"
+            },
+            {
+              "key": "C",
+              "text": "to dispatch"
+            },
+            {
+              "key": "D",
+              "text": "dispatched"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Hàng được gửi đi nên dùng 'dispatched'.",
+            "why_wrong": {
+              "A": "'Dispatching' là chủ động.",
+              "B": "'Dispatch' là động từ gốc.",
+              "C": "'To dispatch' không phù hợp."
+            },
+            "translation_vi": "Hàng gửi tuần trước cuối cùng đã đến."
+          },
+          "tags": [
+            "g15_participles"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g13",
+      "part": 5,
+      "questions": [
+        {
+          "no": 13,
+          "type": "p5_participle",
+          "difficulty": 4,
+          "stem": "____ with last year, profits have doubled.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Compared"
+            },
+            {
+              "key": "B",
+              "text": "Comparing"
+            },
+            {
+              "key": "C",
+              "text": "Compare"
+            },
+            {
+              "key": "D",
+              "text": "To compare"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'Compared with' là phân từ bị động trong cụm so sánh.",
+            "why_wrong": {
+              "B": "'Comparing' là chủ động.",
+              "C": "'Compare' là động từ gốc.",
+              "D": "'To compare' không phù hợp."
+            },
+            "translation_vi": "So với năm ngoái, lợi nhuận đã tăng gấp đôi."
+          },
+          "tags": [
+            "g15_participles"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g14",
+      "part": 5,
+      "questions": [
+        {
+          "no": 14,
+          "type": "p5_participle",
+          "difficulty": 3,
+          "stem": "The firm ____ in 2010 now has offices across Asia.",
+          "options": [
+            {
+              "key": "A",
+              "text": "establishing"
+            },
+            {
+              "key": "B",
+              "text": "established"
+            },
+            {
+              "key": "C",
+              "text": "establish"
+            },
+            {
+              "key": "D",
+              "text": "to establish"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Công ty được thành lập nên dùng 'established'.",
+            "why_wrong": {
+              "A": "'Establishing' là chủ động.",
+              "C": "'Establish' là động từ gốc.",
+              "D": "'To establish' không phù hợp."
+            },
+            "translation_vi": "Công ty thành lập năm 2010 nay có văn phòng khắp châu Á."
+          },
+          "tags": [
+            "g15_participles"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g15",
+      "part": 5,
+      "questions": [
+        {
+          "no": 15,
+          "type": "p5_participle",
+          "difficulty": 4,
+          "stem": "____ the risk, the manager canceled the product launch.",
+          "options": [
+            {
+              "key": "A",
+              "text": "Foreseen"
+            },
+            {
+              "key": "B",
+              "text": "Foresee"
+            },
+            {
+              "key": "C",
+              "text": "Foreseeing"
+            },
+            {
+              "key": "D",
+              "text": "To foresee"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Manager chủ động lường trước nên dùng 'Foreseeing'.",
+            "why_wrong": {
+              "A": "'Foreseen' là bị động.",
+              "B": "'Foresee' là động từ gốc.",
+              "D": "'To foresee' chỉ mục đích."
+            },
+            "translation_vi": "Lường trước rủi ro, quản lý hủy buổi ra mắt sản phẩm."
+          },
+          "tags": [
+            "g15_participles"
+          ]
+        }
+      ]
+    }
+  ]
+}

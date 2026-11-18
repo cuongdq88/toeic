@@ -1,0 +1,794 @@
+{
+  "id": "practice-p5-subject-verb-agreement-02",
+  "kind": "practice",
+  "title": "Luyện Part 5 – Hòa hợp chủ ngữ 02",
+  "level": "medium",
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "18 câu hòa hợp chủ ngữ, 4 câu mức 4-5.",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 0
+    }
+  },
+  "groups": [
+    {
+      "id": "g01",
+      "part": 5,
+      "questions": [
+        {
+          "no": 1,
+          "type": "p5_subject_verb_agreement",
+          "difficulty": 2,
+          "stem": "The list of items ____ on the desk by the door.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is"
+            },
+            {
+              "key": "B",
+              "text": "are"
+            },
+            {
+              "key": "C",
+              "text": "were"
+            },
+            {
+              "key": "D",
+              "text": "have"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Chủ ngữ chính là 'The list' số ít nên dùng 'is'.",
+            "why_wrong": {
+              "B": "'Are' sai số.",
+              "C": "'Were' sai số.",
+              "D": "'Have' sai số."
+            },
+            "translation_vi": "Danh sách các món đồ ở trên bàn cạnh cửa."
+          },
+          "tags": [
+            "g06_subject_verb_agreement"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "part": 5,
+      "questions": [
+        {
+          "no": 2,
+          "type": "p5_subject_verb_agreement",
+          "difficulty": 2,
+          "stem": "Each of the employees ____ a security badge.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have"
+            },
+            {
+              "key": "B",
+              "text": "has"
+            },
+            {
+              "key": "C",
+              "text": "are"
+            },
+            {
+              "key": "D",
+              "text": "were"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'Each of' + danh từ số nhiều đi với động từ số ít.",
+            "why_wrong": {
+              "A": "'Have' sai số.",
+              "C": "'Are' sai số.",
+              "D": "'Were' sai số."
+            },
+            "translation_vi": "Mỗi nhân viên có một thẻ an ninh."
+          },
+          "tags": [
+            "g06_subject_verb_agreement"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "part": 5,
+      "questions": [
+        {
+          "no": 3,
+          "type": "p5_subject_verb_agreement",
+          "difficulty": 3,
+          "stem": "The number of applicants ____ increased sharply this year.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have"
+            },
+            {
+              "key": "B",
+              "text": "are"
+            },
+            {
+              "key": "C",
+              "text": "has"
+            },
+            {
+              "key": "D",
+              "text": "were"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'The number of' đi với động từ số ít.",
+            "why_wrong": {
+              "A": "'Have' sai số.",
+              "B": "'Are' sai số.",
+              "D": "'Were' sai số."
+            },
+            "translation_vi": "Số lượng ứng viên năm nay tăng mạnh."
+          },
+          "tags": [
+            "g06_subject_verb_agreement"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "part": 5,
+      "questions": [
+        {
+          "no": 4,
+          "type": "p5_subject_verb_agreement",
+          "difficulty": 3,
+          "stem": "A number of issues ____ been resolved since the meeting.",
+          "options": [
+            {
+              "key": "A",
+              "text": "has"
+            },
+            {
+              "key": "B",
+              "text": "is"
+            },
+            {
+              "key": "C",
+              "text": "was"
+            },
+            {
+              "key": "D",
+              "text": "have"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "'A number of' + danh từ số nhiều đi với động từ số nhiều.",
+            "why_wrong": {
+              "A": "'Has' sai số.",
+              "B": "'Is' sai số.",
+              "C": "'Was' sai số."
+            },
+            "translation_vi": "Một số vấn đề đã được giải quyết từ cuộc họp."
+          },
+          "tags": [
+            "g06_subject_verb_agreement"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "part": 5,
+      "questions": [
+        {
+          "no": 5,
+          "type": "p5_subject_verb_agreement",
+          "difficulty": 3,
+          "stem": "Neither the manager nor the employees ____ available for comment.",
+          "options": [
+            {
+              "key": "A",
+              "text": "were"
+            },
+            {
+              "key": "B",
+              "text": "was"
+            },
+            {
+              "key": "C",
+              "text": "is"
+            },
+            {
+              "key": "D",
+              "text": "has"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Với 'neither ... nor', động từ hợp với chủ ngữ gần nhất 'employees'.",
+            "why_wrong": {
+              "B": "'Was' hợp với chủ ngữ số ít.",
+              "C": "'Is' sai thì và số.",
+              "D": "'Has' không hợp."
+            },
+            "translation_vi": "Cả quản lý và nhân viên đều không có mặt để bình luận."
+          },
+          "tags": [
+            "g06_subject_verb_agreement"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g06",
+      "part": 5,
+      "questions": [
+        {
+          "no": 6,
+          "type": "p5_subject_verb_agreement",
+          "difficulty": 3,
+          "stem": "Either the printer or the scanner ____ broken again.",
+          "options": [
+            {
+              "key": "A",
+              "text": "are"
+            },
+            {
+              "key": "B",
+              "text": "is"
+            },
+            {
+              "key": "C",
+              "text": "were"
+            },
+            {
+              "key": "D",
+              "text": "have"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Với 'either ... or', động từ hợp với chủ ngữ gần nhất 'the scanner'.",
+            "why_wrong": {
+              "A": "'Are' sai số.",
+              "C": "'Were' sai thì.",
+              "D": "'Have' sai số."
+            },
+            "translation_vi": "Máy in hoặc máy quét lại hỏng."
+          },
+          "tags": [
+            "g06_subject_verb_agreement"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g07",
+      "part": 5,
+      "questions": [
+        {
+          "no": 7,
+          "type": "p5_subject_verb_agreement",
+          "difficulty": 3,
+          "stem": "The news ____ better than we expected.",
+          "options": [
+            {
+              "key": "A",
+              "text": "are"
+            },
+            {
+              "key": "B",
+              "text": "were"
+            },
+            {
+              "key": "C",
+              "text": "is"
+            },
+            {
+              "key": "D",
+              "text": "have"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'News' là danh từ không đếm được, dùng động từ số ít.",
+            "why_wrong": {
+              "A": "'Are' sai số.",
+              "B": "'Were' sai số.",
+              "D": "'Have' sai số."
+            },
+            "translation_vi": "Tin tức tốt hơn chúng tôi mong đợi."
+          },
+          "tags": [
+            "g06_subject_verb_agreement"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g08",
+      "part": 5,
+      "questions": [
+        {
+          "no": 8,
+          "type": "p5_subject_verb_agreement",
+          "difficulty": 3,
+          "stem": "Mathematics ____ a difficult subject for some employees.",
+          "options": [
+            {
+              "key": "A",
+              "text": "are"
+            },
+            {
+              "key": "B",
+              "text": "were"
+            },
+            {
+              "key": "C",
+              "text": "have"
+            },
+            {
+              "key": "D",
+              "text": "is"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Tên môn học 'Mathematics' dùng động từ số ít.",
+            "why_wrong": {
+              "A": "'Are' sai số.",
+              "B": "'Were' sai số.",
+              "C": "'Have' sai số."
+            },
+            "translation_vi": "Toán là môn khó với một số nhân viên."
+          },
+          "tags": [
+            "g06_subject_verb_agreement"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g09",
+      "part": 5,
+      "questions": [
+        {
+          "no": 9,
+          "type": "p5_subject_verb_agreement",
+          "difficulty": 3,
+          "stem": "The furniture in the showroom ____ very expensive.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is"
+            },
+            {
+              "key": "B",
+              "text": "are"
+            },
+            {
+              "key": "C",
+              "text": "were"
+            },
+            {
+              "key": "D",
+              "text": "have"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'Furniture' không đếm được nên dùng động từ số ít.",
+            "why_wrong": {
+              "B": "'Are' sai số.",
+              "C": "'Were' sai số.",
+              "D": "'Have' sai số."
+            },
+            "translation_vi": "Đồ nội thất trong phòng trưng bày rất đắt."
+          },
+          "tags": [
+            "g06_subject_verb_agreement"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g10",
+      "part": 5,
+      "questions": [
+        {
+          "no": 10,
+          "type": "p5_subject_verb_agreement",
+          "difficulty": 4,
+          "stem": "Half of the budget ____ already been spent.",
+          "options": [
+            {
+              "key": "A",
+              "text": "have"
+            },
+            {
+              "key": "B",
+              "text": "has"
+            },
+            {
+              "key": "C",
+              "text": "are"
+            },
+            {
+              "key": "D",
+              "text": "were"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'Half of the budget' với danh từ không đếm được dùng động từ số ít.",
+            "why_wrong": {
+              "A": "'Have' sai số.",
+              "C": "'Are' sai số.",
+              "D": "'Were' sai số."
+            },
+            "translation_vi": "Một nửa ngân sách đã được chi."
+          },
+          "tags": [
+            "g06_subject_verb_agreement"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g11",
+      "part": 5,
+      "questions": [
+        {
+          "no": 11,
+          "type": "p5_subject_verb_agreement",
+          "difficulty": 4,
+          "stem": "Ten kilometers ____ a long distance to walk in one day.",
+          "options": [
+            {
+              "key": "A",
+              "text": "are"
+            },
+            {
+              "key": "B",
+              "text": "were"
+            },
+            {
+              "key": "C",
+              "text": "is"
+            },
+            {
+              "key": "D",
+              "text": "have"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Cụm đo lường được xem là một đơn vị số ít.",
+            "why_wrong": {
+              "A": "'Are' sai số.",
+              "B": "'Were' sai số.",
+              "D": "'Have' sai số."
+            },
+            "translation_vi": "Mười km là quãng đường dài để đi bộ trong một ngày."
+          },
+          "tags": [
+            "g06_subject_verb_agreement"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g12",
+      "part": 5,
+      "questions": [
+        {
+          "no": 12,
+          "type": "p5_subject_verb_agreement",
+          "difficulty": 3,
+          "stem": "The scissors ____ on the shelf beside the printer.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is"
+            },
+            {
+              "key": "B",
+              "text": "was"
+            },
+            {
+              "key": "C",
+              "text": "has"
+            },
+            {
+              "key": "D",
+              "text": "are"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "'Scissors' là danh từ số nhiều nên dùng 'are'.",
+            "why_wrong": {
+              "A": "'Is' sai số.",
+              "B": "'Was' sai số.",
+              "C": "'Has' sai số."
+            },
+            "translation_vi": "Cái kéo ở trên kệ cạnh máy in."
+          },
+          "tags": [
+            "g06_subject_verb_agreement"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g13",
+      "part": 5,
+      "questions": [
+        {
+          "no": 13,
+          "type": "p5_subject_verb_agreement",
+          "difficulty": 2,
+          "stem": "One of the documents ____ missing from the file.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is"
+            },
+            {
+              "key": "B",
+              "text": "are"
+            },
+            {
+              "key": "C",
+              "text": "were"
+            },
+            {
+              "key": "D",
+              "text": "have"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'One of' + danh từ số nhiều đi với động từ số ít.",
+            "why_wrong": {
+              "B": "'Are' sai số.",
+              "C": "'Were' sai số.",
+              "D": "'Have' sai số."
+            },
+            "translation_vi": "Một trong các tài liệu bị thiếu khỏi hồ sơ."
+          },
+          "tags": [
+            "g06_subject_verb_agreement"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g14",
+      "part": 5,
+      "questions": [
+        {
+          "no": 14,
+          "type": "p5_subject_verb_agreement",
+          "difficulty": 3,
+          "stem": "The company's profits ____ risen sharply since the relaunch.",
+          "options": [
+            {
+              "key": "A",
+              "text": "has"
+            },
+            {
+              "key": "B",
+              "text": "have"
+            },
+            {
+              "key": "C",
+              "text": "is"
+            },
+            {
+              "key": "D",
+              "text": "was"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'Profits' số nhiều nên dùng 'have'.",
+            "why_wrong": {
+              "A": "'Has' sai số.",
+              "C": "'Is' sai số.",
+              "D": "'Was' sai số."
+            },
+            "translation_vi": "Lợi nhuận công ty tăng mạnh từ khi tái ra mắt."
+          },
+          "tags": [
+            "g06_subject_verb_agreement"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g15",
+      "part": 5,
+      "questions": [
+        {
+          "no": 15,
+          "type": "p5_subject_verb_agreement",
+          "difficulty": 2,
+          "stem": "There ____ several reasons for the delay in delivery.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is"
+            },
+            {
+              "key": "B",
+              "text": "was"
+            },
+            {
+              "key": "C",
+              "text": "are"
+            },
+            {
+              "key": "D",
+              "text": "has"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'Several reasons' số nhiều nên dùng 'are'.",
+            "why_wrong": {
+              "A": "'Is' sai số.",
+              "B": "'Was' sai số.",
+              "D": "'Has' sai số."
+            },
+            "translation_vi": "Có vài lý do khiến giao hàng bị trễ."
+          },
+          "tags": [
+            "g06_subject_verb_agreement"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g16",
+      "part": 5,
+      "questions": [
+        {
+          "no": 16,
+          "type": "p5_subject_verb_agreement",
+          "difficulty": 4,
+          "stem": "Not only the manager but also the staff ____ agreed to the change.",
+          "options": [
+            {
+              "key": "A",
+              "text": "has"
+            },
+            {
+              "key": "B",
+              "text": "is"
+            },
+            {
+              "key": "C",
+              "text": "was"
+            },
+            {
+              "key": "D",
+              "text": "have"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Với 'not only ... but also', động từ hợp với chủ ngữ gần nhất 'the staff'.",
+            "why_wrong": {
+              "A": "'Has' sai số.",
+              "B": "'Is' sai số.",
+              "C": "'Was' sai số."
+            },
+            "translation_vi": "Không chỉ quản lý mà cả nhân viên đều đồng ý thay đổi."
+          },
+          "tags": [
+            "g06_subject_verb_agreement"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g17",
+      "part": 5,
+      "questions": [
+        {
+          "no": 17,
+          "type": "p5_subject_verb_agreement",
+          "difficulty": 4,
+          "stem": "The percentage of errors ____ decreased since the training.",
+          "options": [
+            {
+              "key": "A",
+              "text": "has"
+            },
+            {
+              "key": "B",
+              "text": "have"
+            },
+            {
+              "key": "C",
+              "text": "are"
+            },
+            {
+              "key": "D",
+              "text": "were"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'The percentage of' đi với động từ số ít.",
+            "why_wrong": {
+              "B": "'Have' sai số.",
+              "C": "'Are' sai số.",
+              "D": "'Were' sai số."
+            },
+            "translation_vi": "Tỉ lệ lỗi đã giảm từ sau khóa đào tạo."
+          },
+          "tags": [
+            "g06_subject_verb_agreement"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g18",
+      "part": 5,
+      "questions": [
+        {
+          "no": 18,
+          "type": "p5_subject_verb_agreement",
+          "difficulty": 3,
+          "stem": "Few of the proposals ____ acceptable in their current form.",
+          "options": [
+            {
+              "key": "A",
+              "text": "is"
+            },
+            {
+              "key": "B",
+              "text": "are"
+            },
+            {
+              "key": "C",
+              "text": "was"
+            },
+            {
+              "key": "D",
+              "text": "has"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'Few of the proposals' số nhiều nên dùng 'are'.",
+            "why_wrong": {
+              "A": "'Is' sai số.",
+              "C": "'Was' sai số.",
+              "D": "'Has' sai số."
+            },
+            "translation_vi": "Ít đề xuất nào chấp nhận được ở dạng hiện tại."
+          },
+          "tags": [
+            "g06_subject_verb_agreement"
+          ]
+        }
+      ]
+    }
+  ]
+}

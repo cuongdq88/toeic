@@ -1,0 +1,1337 @@
+{
+  "id": "practice-p3-next-action-01",
+  "kind": "practice",
+  "title": "Luyện Part 3 – Việc làm tiếp theo 01",
+  "level": "medium",
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "7 hội thoại viết tay, mỗi đoạn 3 câu; 2 hội thoại 3 người, đủ 4 giọng; không trùng tình huống/tên với gói khác.",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 0
+    }
+  },
+  "groups": [
+    {
+      "id": "g01",
+      "part": 3,
+      "audio": "audio/g01.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 1 through 3 refer to the following conversation.",
+          "vi": "Câu 1 đến 3 dựa vào đoạn hội thoại sau."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Boris, the client visit is on Monday, and we still need to prepare the welcome pack.",
+          "vi": "Boris, khách đến thăm vào thứ Hai, mà ta vẫn cần chuẩn bị túi tài liệu chào mừng."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "I'll gather the brochures and the agenda. What else should we include?",
+          "vi": "Tôi sẽ tập hợp tờ rơi và chương trình. Còn cần thêm gì không?"
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Add the visitor badges and a map of the building.",
+          "vi": "Thêm thẻ khách và sơ đồ tòa nhà."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "Good. I'll also print the security instructions.",
+          "vi": "Tốt. Tôi cũng sẽ in hướng dẫn an ninh."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "And let's confirm the lunch reservation for noon.",
+          "vi": "Và hãy xác nhận đặt bữa trưa lúc trưa."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "I'll call the restaurant after I finish the pack.",
+          "vi": "Tôi sẽ gọi nhà hàng sau khi xong túi tài liệu."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Also, add a small gift for the visitors.",
+          "vi": "Ngoài ra, thêm một món quà nhỏ cho khách."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "I'll include a branded notebook and a pen.",
+          "vi": "Tôi sẽ thêm một quyển sổ có logo và một cây bút."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Perfect. That will make a good impression.",
+          "vi": "Tuyệt. Như vậy sẽ gây ấn tượng tốt."
+        }
+      ],
+      "questions": [
+        {
+          "no": 1,
+          "type": "p3_main_topic",
+          "difficulty": 2,
+          "stem": "What are the speakers mainly discussing?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Preparing a client welcome pack"
+            },
+            {
+              "key": "B",
+              "text": "Booking a hotel"
+            },
+            {
+              "key": "C",
+              "text": "Hiring a guide"
+            },
+            {
+              "key": "D",
+              "text": "Designing a brochure"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Họ bàn chuẩn bị túi tài liệu chào mừng cho khách đến thăm.",
+            "why_wrong": {
+              "B": "Không đặt khách sạn.",
+              "C": "Không thuê hướng dẫn.",
+              "D": "Tờ rơi chỉ là một phần."
+            },
+            "translation_vi": "Họ bàn chuẩn bị túi tài liệu chào mừng khách."
+          }
+        },
+        {
+          "no": 2,
+          "type": "p3_speaker_place",
+          "difficulty": 2,
+          "stem": "Where does the conversation most likely take place?",
+          "options": [
+            {
+              "key": "A",
+              "text": "At a restaurant"
+            },
+            {
+              "key": "B",
+              "text": "At a hotel"
+            },
+            {
+              "key": "C",
+              "text": "In a lobby"
+            },
+            {
+              "key": "D",
+              "text": "In an office"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Họ bàn thẻ khách, sơ đồ tòa nhà và hướng dẫn an ninh nên là văn phòng.",
+            "why_wrong": {
+              "A": "Nhà hàng chỉ là nơi đặt bữa trưa.",
+              "B": "Không phải khách sạn.",
+              "C": "Sảnh chỉ là chi tiết."
+            },
+            "translation_vi": "Cuộc nói chuyện diễn ra ở văn phòng."
+          }
+        },
+        {
+          "no": 3,
+          "type": "p3_detail",
+          "difficulty": 3,
+          "stem": "What will the man do after finishing the pack?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Print the security instructions"
+            },
+            {
+              "key": "B",
+              "text": "Confirm the badges"
+            },
+            {
+              "key": "C",
+              "text": "Call the restaurant"
+            },
+            {
+              "key": "D",
+              "text": "Update the agenda"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Người nam nói sẽ gọi nhà hàng sau khi xong túi tài liệu.",
+            "why_wrong": {
+              "A": "In hướng dẫn an ninh làm trước.",
+              "B": "Không xác nhận thẻ.",
+              "D": "Chương trình đã có."
+            },
+            "translation_vi": "Người nam sẽ gọi nhà hàng sau khi xong túi tài liệu."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "part": 3,
+      "audio": "audio/g02.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 4 through 6 refer to the following conversation.",
+          "vi": "Câu 4 đến 6 dựa vào đoạn hội thoại sau."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Dante, the elevator in the west wing is stuck on the third floor, and people are waiting.",
+          "vi": "Dante, thang máy cánh tây bị kẹt ở tầng ba, và mọi người đang chờ."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "I'll call the building maintenance right away and post a notice.",
+          "vi": "Tôi sẽ gọi bảo trì tòa nhà ngay và dán thông báo."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Should we also alert the fire department?",
+          "vi": "Ta có nên báo cứu hỏa không?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "Only if someone is trapped inside. Let me check that first.",
+          "vi": "Chỉ khi có người kẹt bên trong. Để tôi kiểm tra trước đã."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Good. In the meantime, I'll direct people to the stairs.",
+          "vi": "Tốt. Trong lúc đó, tôi sẽ hướng mọi người đi cầu thang."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "And I'll ask reception to make an announcement.",
+          "vi": "Và tôi sẽ nhờ lễ tân thông báo."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "I'll also ask security to guide people away from the area.",
+          "vi": "Tôi cũng sẽ nhờ bảo vệ hướng mọi người tránh xa khu vực."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "Good. Let's meet at the third floor in five minutes.",
+          "vi": "Tốt. Năm phút nữa ta gặp nhau ở tầng ba."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "I'll be there.",
+          "vi": "Tôi sẽ có mặt."
+        }
+      ],
+      "questions": [
+        {
+          "no": 4,
+          "type": "p3_problem_reason",
+          "difficulty": 3,
+          "stem": "What is the problem?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The stairs are closed"
+            },
+            {
+              "key": "B",
+              "text": "The elevator is stuck"
+            },
+            {
+              "key": "C",
+              "text": "The fire alarm is on"
+            },
+            {
+              "key": "D",
+              "text": "The west wing is locked"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Thang máy cánh tây bị kẹt ở tầng ba.",
+            "why_wrong": {
+              "A": "Cầu thang vẫn dùng được.",
+              "C": "Không nói báo cháy.",
+              "D": "Cánh tây không bị khóa."
+            },
+            "translation_vi": "Thang máy bị kẹt."
+          }
+        },
+        {
+          "no": 5,
+          "type": "p3_request_suggestion",
+          "difficulty": 3,
+          "stem": "What does the woman ask about the fire department?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Whether to alert them"
+            },
+            {
+              "key": "B",
+              "text": "Whether to close the wing"
+            },
+            {
+              "key": "C",
+              "text": "Whether to evacuate"
+            },
+            {
+              "key": "D",
+              "text": "Whether to repair the elevator"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Người nữ hỏi có nên báo cứu hỏa không.",
+            "why_wrong": {
+              "B": "Không hỏi đóng cánh.",
+              "C": "Không hỏi sơ tán.",
+              "D": "Không hỏi sửa thang máy."
+            },
+            "translation_vi": "Cô ấy hỏi có nên báo cứu hỏa không."
+          }
+        },
+        {
+          "no": 6,
+          "type": "p3_next_action",
+          "difficulty": 3,
+          "stem": "What will the man do first?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Call the fire department"
+            },
+            {
+              "key": "B",
+              "text": "Direct people to the stairs"
+            },
+            {
+              "key": "C",
+              "text": "Ask reception to make an announcement"
+            },
+            {
+              "key": "D",
+              "text": "Check if anyone is trapped"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Người nam nói sẽ kiểm tra xem có ai kẹt bên trong trước.",
+            "why_wrong": {
+              "A": "Chỉ báo cứu hỏa nếu có người kẹt.",
+              "B": "Người nữ hướng dẫn cầu thang.",
+              "C": "Nhờ lễ tân làm sau."
+            },
+            "translation_vi": "Người nam sẽ kiểm tra có ai kẹt bên trong trước."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "part": 3,
+      "audio": "audio/g03.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 7 through 9 refer to the following conversation with three speakers and graphic.",
+          "vi": "Câu 7 đến 9 dựa vào đoạn hội thoại ba người và bảng sau."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "Flora, Gael, we need a video platform for the monthly all-hands meeting with fifty staff.",
+          "vi": "Flora, Gael, ta cần nền tảng họp video cho buổi họp toàn công ty hằng tháng với năm mươi nhân viên."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "The free plan allows only ten participants, so it is not enough.",
+          "vi": "Gói miễn phí chỉ cho mười người tham gia nên không đủ."
+        },
+        {
+          "speaker": "M2",
+          "accent": "UK",
+          "text": "We also want to record the meeting so nobody has to miss out.",
+          "vi": "Ta cũng muốn ghi lại buổi họp cho nhân viên không tham dự được."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "Then let's choose the plan that supports fifty participants and includes recording.",
+          "vi": "Vậy chọn gói hỗ trợ năm mươi người tham gia và có ghi hình."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "I'll confirm the monthly fee and the set-up time.",
+          "vi": "Tôi sẽ xác nhận phí hằng tháng và thời gian thiết lập."
+        },
+        {
+          "speaker": "M2",
+          "accent": "UK",
+          "text": "I'll send the invitation links to the team.",
+          "vi": "Tôi sẽ gửi liên kết mời cho nhóm."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "We should also test the screen sharing before the meeting.",
+          "vi": "Ta cũng nên kiểm tra chia sẻ màn hình trước buổi họp."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "I'll run a quick test with the IT team.",
+          "vi": "Tôi sẽ chạy thử nhanh với nhóm IT."
+        },
+        {
+          "speaker": "M2",
+          "accent": "UK",
+          "text": "And I'll prepare the agenda slides.",
+          "vi": "Và tôi sẽ chuẩn bị các slide chương trình."
+        }
+      ],
+      "questions": [
+        {
+          "no": 7,
+          "type": "p3_inference",
+          "difficulty": 4,
+          "stem": "Why is the free plan unsuitable?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It has no recording"
+            },
+            {
+              "key": "B",
+              "text": "It allows too few participants"
+            },
+            {
+              "key": "C",
+              "text": "It is too expensive"
+            },
+            {
+              "key": "D",
+              "text": "It requires a contract"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Gói miễn phí chỉ cho mười người, không đủ năm mươi nhân viên.",
+            "why_wrong": {
+              "A": "Chưa nói gói miễn phí không ghi hình.",
+              "C": "Gói miễn phí không đắt.",
+              "D": "Không nói yêu cầu hợp đồng."
+            },
+            "translation_vi": "Vì gói miễn phí cho quá ít người tham gia."
+          }
+        },
+        {
+          "no": 8,
+          "type": "p3_implied_meaning",
+          "difficulty": 4,
+          "stem": "What does Gael mean when he says, \"We also want to record the meeting so nobody has to miss out.\"?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The meeting will be canceled"
+            },
+            {
+              "key": "B",
+              "text": "Staff must attend in person"
+            },
+            {
+              "key": "C",
+              "text": "Recording lets absent staff watch later"
+            },
+            {
+              "key": "D",
+              "text": "The recording is only for managers"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Cụm 'so nobody has to miss out' ngụ ý ghi hình để người vắng xem lại.",
+            "why_wrong": {
+              "A": "Buổi họp vẫn diễn ra.",
+              "B": "Không bắt buộc có mặt.",
+              "D": "Ghi hình cho mọi người."
+            },
+            "translation_vi": "Anh ấy ngụ ý ghi hình để người vắng xem lại."
+          }
+        },
+        {
+          "no": 9,
+          "type": "p3_graphic",
+          "difficulty": 4,
+          "stem": "Look at the graphic. What is the monthly fee of the plan the speakers will likely choose?",
+          "options": [
+            {
+              "key": "A",
+              "text": "$0"
+            },
+            {
+              "key": "B",
+              "text": "$20"
+            },
+            {
+              "key": "C",
+              "text": "$40"
+            },
+            {
+              "key": "D",
+              "text": "$60"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Gói hỗ trợ năm mươi người và có ghi hình là Business, giá $40.",
+            "why_wrong": {
+              "A": "$0 là Free.",
+              "B": "$20 là Starter.",
+              "D": "$60 là Enterprise."
+            },
+            "translation_vi": "Phí hằng tháng của gói phù hợp là 40 đô."
+          }
+        }
+      ],
+      "graphic": {
+        "kind": "table",
+        "title": "Video meeting plans",
+        "columns": [
+          "Plan",
+          "Monthly fee",
+          "Participants",
+          "Recording"
+        ],
+        "rows": [
+          [
+            "Free",
+            "$0",
+            "10",
+            "No"
+          ],
+          [
+            "Starter",
+            "$20",
+            "25",
+            "No"
+          ],
+          [
+            "Business",
+            "$40",
+            "50",
+            "Yes"
+          ],
+          [
+            "Enterprise",
+            "$60",
+            "200",
+            "Yes"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "g04",
+      "part": 3,
+      "audio": "audio/g04.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 10 through 12 refer to the following conversation.",
+          "vi": "Câu 10 đến 12 dựa vào đoạn hội thoại sau."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Ivo, we are organizing the annual charity drive, and we need volunteers for Friday.",
+          "vi": "Ivo, ta đang tổ chức đợt quyên góp từ thiện hằng năm, và cần tình nguyện viên cho thứ Sáu."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "I can put a sign-up sheet in the break room.",
+          "vi": "Tôi có thể đặt bảng đăng ký ở phòng nghỉ."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Good. We also need boxes to collect the donations.",
+          "vi": "Tốt. Ta cũng cần thùng để thu đồ quyên góp."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "I'll ask the warehouse for spare boxes.",
+          "vi": "Tôi sẽ xin kho một số thùng dư."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "And let's send a reminder email to all staff today.",
+          "vi": "Và hôm nay hãy gửi email nhắc cho toàn nhân viên."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "I'll draft it and include the drop-off times.",
+          "vi": "Tôi sẽ soạn và ghi giờ tiếp nhận đồ."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "We should also thank the volunteers with a small note.",
+          "vi": "Ta cũng nên cảm ơn tình nguyện viên bằng một tấm thiệp nhỏ."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "I'll print the thank-you cards this afternoon.",
+          "vi": "Chiều nay tôi sẽ in thiệp cảm ơn."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "And let's set a goal for the number of boxes.",
+          "vi": "Và hãy đặt mục tiêu số thùng quyên góp."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "I'll put the target on the sign-up sheet.",
+          "vi": "Tôi sẽ ghi mục tiêu lên bảng đăng ký."
+        }
+      ],
+      "questions": [
+        {
+          "no": 10,
+          "type": "p3_main_topic",
+          "difficulty": 2,
+          "stem": "What are the speakers mainly discussing?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Hiring volunteers"
+            },
+            {
+              "key": "B",
+              "text": "Organizing a charity drive"
+            },
+            {
+              "key": "C",
+              "text": "Buying office supplies"
+            },
+            {
+              "key": "D",
+              "text": "Planning a party"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Họ bàn tổ chức đợt quyên góp từ thiện hằng năm.",
+            "why_wrong": {
+              "A": "Tình nguyện viên là một phần.",
+              "C": "Không mua văn phòng phẩm.",
+              "D": "Không bàn tiệc."
+            },
+            "translation_vi": "Họ bàn tổ chức đợt quyên góp từ thiện."
+          }
+        },
+        {
+          "no": 11,
+          "type": "p3_speaker_place",
+          "difficulty": 2,
+          "stem": "Who most likely are the speakers?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Charity workers"
+            },
+            {
+              "key": "B",
+              "text": "Warehouse staff"
+            },
+            {
+              "key": "C",
+              "text": "Volunteers only"
+            },
+            {
+              "key": "D",
+              "text": "Office colleagues"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Họ bàn nội bộ công ty, bảng đăng ký và email nhân viên nên là đồng nghiệp.",
+            "why_wrong": {
+              "A": "Không phải nhân viên từ thiện bên ngoài.",
+              "B": "Không chỉ là nhân viên kho.",
+              "C": "Không chỉ là tình nguyện viên."
+            },
+            "translation_vi": "Họ là đồng nghiệp văn phòng."
+          }
+        },
+        {
+          "no": 12,
+          "type": "p3_detail",
+          "difficulty": 3,
+          "stem": "What will the man do today?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Draft a reminder email"
+            },
+            {
+              "key": "B",
+              "text": "Ask the warehouse for boxes"
+            },
+            {
+              "key": "C",
+              "text": "Put up a sign-up sheet"
+            },
+            {
+              "key": "D",
+              "text": "Send the drop-off times"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Người nam nói sẽ soạn email nhắc hôm nay.",
+            "why_wrong": {
+              "B": "Xin thùng làm riêng.",
+              "C": "Đặt bảng đăng ký là việc khác.",
+              "D": "Gửi giờ tiếp nhận nằm trong email."
+            },
+            "translation_vi": "Người nam sẽ soạn email nhắc hôm nay."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "part": 3,
+      "audio": "audio/g05.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 13 through 15 refer to the following conversation with three speakers.",
+          "vi": "Câu 13 đến 15 dựa vào đoạn hội thoại ba người sau."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "Lara, Miron, the conference materials for tomorrow's event have not arrived.",
+          "vi": "Lara, Miron, tài liệu hội nghị cho sự kiện mai chưa đến."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "The courier said the boxes were sent to the wrong address.",
+          "vi": "Đơn vị vận chuyển nói các thùng bị gửi sai địa chỉ."
+        },
+        {
+          "speaker": "M2",
+          "accent": "CA",
+          "text": "We could print a small batch in-house as a backup.",
+          "vi": "Ta có thể in một mẻ nhỏ nội bộ để dự phòng."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "That is a good idea. I'll ask the print room to run a hundred copies.",
+          "vi": "Ý hay. Tôi sẽ nhờ phòng in chạy một trăm bản."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "I'll chase the courier for a new delivery time.",
+          "vi": "Tôi sẽ đốc đơn vị vận chuyển về giờ giao mới."
+        },
+        {
+          "speaker": "M2",
+          "accent": "CA",
+          "text": "And I'll update the event schedule in case of delay.",
+          "vi": "Và tôi sẽ cập nhật lịch sự kiện phòng khi trễ."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "Let's also inform the speakers about the change.",
+          "vi": "Hãy cũng báo cho các diễn giả về thay đổi."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "I'll send them a quick update.",
+          "vi": "Tôi sẽ gửi họ cập nhật nhanh."
+        },
+        {
+          "speaker": "M2",
+          "accent": "CA",
+          "text": "And I'll double-check the on-site printers.",
+          "vi": "Và tôi sẽ kiểm tra lại máy in tại chỗ."
+        }
+      ],
+      "questions": [
+        {
+          "no": 13,
+          "type": "p3_problem_reason",
+          "difficulty": 3,
+          "stem": "What is the problem?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The event is canceled"
+            },
+            {
+              "key": "B",
+              "text": "The conference materials were sent to the wrong address"
+            },
+            {
+              "key": "C",
+              "text": "The printer is broken"
+            },
+            {
+              "key": "D",
+              "text": "The courier lost the order"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Các thùng tài liệu bị gửi sai địa chỉ.",
+            "why_wrong": {
+              "A": "Sự kiện vẫn diễn ra.",
+              "C": "Máy in vẫn hoạt động.",
+              "D": "Không nói mất đơn."
+            },
+            "translation_vi": "Tài liệu hội nghị bị gửi sai địa chỉ."
+          }
+        },
+        {
+          "no": 14,
+          "type": "p3_request_suggestion",
+          "difficulty": 3,
+          "stem": "What does Miron suggest?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Printing a small batch in-house"
+            },
+            {
+              "key": "B",
+              "text": "Canceling the event"
+            },
+            {
+              "key": "C",
+              "text": "Delaying the event"
+            },
+            {
+              "key": "D",
+              "text": "Returning the materials"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Miron đề nghị in một mẻ nhỏ nội bộ để dự phòng.",
+            "why_wrong": {
+              "B": "Không hủy sự kiện.",
+              "C": "Không hoãn sự kiện.",
+              "D": "Không trả tài liệu."
+            },
+            "translation_vi": "Miron đề nghị in một mẻ nhỏ nội bộ."
+          }
+        },
+        {
+          "no": 15,
+          "type": "p3_next_action",
+          "difficulty": 3,
+          "stem": "What will Lara do next?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Print a hundred copies"
+            },
+            {
+              "key": "B",
+              "text": "Update the schedule"
+            },
+            {
+              "key": "C",
+              "text": "Chase the courier for a new delivery time"
+            },
+            {
+              "key": "D",
+              "text": "Call the wrong address"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Lara nói sẽ đốc đơn vị vận chuyển về giờ giao mới.",
+            "why_wrong": {
+              "A": "Người nam nhờ phòng in.",
+              "B": "Miron cập nhật lịch.",
+              "D": "Không gọi địa chỉ sai."
+            },
+            "translation_vi": "Lara sẽ đốc đơn vị vận chuyển."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g06",
+      "part": 3,
+      "audio": "audio/g06.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 16 through 18 refer to the following conversation and graphic.",
+          "vi": "Câu 16 đến 18 dựa vào đoạn hội thoại và bảng sau."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "Odile, we lost some files when the server crashed, and the recovery is taking too long.",
+          "vi": "Odile, ta mất vài tệp khi máy chủ sập, và việc khôi phục mất quá lâu."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "We need a backup plan with automatic daily saves.",
+          "vi": "Ta cần gói sao lưu có lưu tự động hằng ngày."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "The current plan only backs up weekly, which is not enough.",
+          "vi": "Gói hiện tại chỉ sao lưu hằng tuần, không đủ."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Let's choose the plan with automatic daily backup and the largest storage.",
+          "vi": "Hãy chọn gói sao lưu tự động hằng ngày và dung lượng lớn nhất."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "I'll confirm the monthly fee and the setup time.",
+          "vi": "Tôi sẽ xác nhận phí hằng tháng và thời gian thiết lập."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "And make sure it restores files quickly.",
+          "vi": "Và đảm bảo khôi phục tệp nhanh."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "We should also test a full restore this week.",
+          "vi": "Ta cũng nên thử khôi phục toàn bộ trong tuần này."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "I'll schedule the test for Thursday night.",
+          "vi": "Tôi sẽ lên lịch thử vào tối thứ Năm."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "Good. That will show if the system is reliable.",
+          "vi": "Tốt. Việc đó sẽ cho thấy hệ thống có đáng tin không."
+        }
+      ],
+      "questions": [
+        {
+          "no": 16,
+          "type": "p3_inference",
+          "difficulty": 4,
+          "stem": "Why is the current backup plan inadequate?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It is too expensive"
+            },
+            {
+              "key": "B",
+              "text": "It has no storage"
+            },
+            {
+              "key": "C",
+              "text": "It restores too quickly"
+            },
+            {
+              "key": "D",
+              "text": "It only saves weekly"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Gói hiện tại chỉ sao lưu hằng tuần nên dễ mất dữ liệu.",
+            "why_wrong": {
+              "A": "Không nói đắt.",
+              "B": "Không nói không có dung lượng.",
+              "C": "Khôi phục nhanh là điều mong muốn."
+            },
+            "translation_vi": "Vì gói hiện tại chỉ sao lưu hằng tuần."
+          }
+        },
+        {
+          "no": 17,
+          "type": "p3_implied_meaning",
+          "difficulty": 4,
+          "stem": "What does the man mean when he says, \"Odile, we lost some files when the server crashed, and the recovery is taking too long.\"?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The files are too large"
+            },
+            {
+              "key": "B",
+              "text": "The server is new"
+            },
+            {
+              "key": "C",
+              "text": "The current system is unreliable"
+            },
+            {
+              "key": "D",
+              "text": "She wants to stop backing up"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Anh ấy ngụ ý hệ thống hiện tại không đáng tin cậy, khôi phục chậm.",
+            "why_wrong": {
+              "A": "Không nói tệp quá lớn.",
+              "B": "Không nói máy chủ mới.",
+              "D": "Không muốn dừng sao lưu."
+            },
+            "translation_vi": "Anh ấy ngụ ý hệ thống hiện tại không đáng tin cậy."
+          }
+        },
+        {
+          "no": 18,
+          "type": "p3_graphic",
+          "difficulty": 4,
+          "stem": "Look at the graphic. What is the monthly fee of the plan the speakers will likely choose?",
+          "options": [
+            {
+              "key": "A",
+              "text": "$10"
+            },
+            {
+              "key": "B",
+              "text": "$50"
+            },
+            {
+              "key": "C",
+              "text": "$20"
+            },
+            {
+              "key": "D",
+              "text": "$30"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Gói sao lưu hằng ngày và dung lượng lớn nhất là Premium, giá $50.",
+            "why_wrong": {
+              "A": "$10 là Basic.",
+              "C": "$20 là Standard.",
+              "D": "$30 là Business."
+            },
+            "translation_vi": "Phí hằng tháng của gói phù hợp là 50 đô."
+          }
+        }
+      ],
+      "graphic": {
+        "kind": "table",
+        "title": "Data backup plans",
+        "columns": [
+          "Plan",
+          "Monthly fee",
+          "Storage",
+          "Automatic backup"
+        ],
+        "rows": [
+          [
+            "Basic",
+            "$10",
+            "50 GB",
+            "Weekly"
+          ],
+          [
+            "Standard",
+            "$20",
+            "200 GB",
+            "Weekly"
+          ],
+          [
+            "Business",
+            "$30",
+            "500 GB",
+            "Daily"
+          ],
+          [
+            "Premium",
+            "$50",
+            "2 TB",
+            "Daily"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "g07",
+      "part": 3,
+      "audio": "audio/g07.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 19 through 21 refer to the following conversation and graphic.",
+          "vi": "Câu 19 đến 21 dựa vào đoạn hội thoại và bảng sau."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "Silas, our customer service team is short-staffed during the holiday rush.",
+          "vi": "Silas, đội dịch vụ khách hàng thiếu người trong mùa cao điểm nghỉ lễ."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "We could bring in temporary staff from an agency.",
+          "vi": "Ta có thể thuê nhân viên tạm thời từ một công ty."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "We need a plan with the fastest response time and a same-day replacement.",
+          "vi": "Ta cần gói có thời gian phản hồi nhanh nhất và thay người trong ngày."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "Then let's choose that plan and confirm the hourly rate.",
+          "vi": "Vậy chọn gói đó và xác nhận giá theo giờ."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "I'll contact the agency and check availability.",
+          "vi": "Tôi sẽ liên hệ công ty và kiểm tra tình trạng sẵn sàng."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "I'll prepare the training checklist for the temp workers.",
+          "vi": "Tôi sẽ chuẩn bị danh sách đào tạo cho nhân viên tạm thời."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "We also need people who know the billing software.",
+          "vi": "Ta cũng cần người biết phần mềm thanh toán."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "I'll add that to the requirements for the agency.",
+          "vi": "Tôi sẽ thêm điều đó vào yêu cầu cho công ty."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "And confirm they can start on Monday.",
+          "vi": "Và xác nhận họ có thể bắt đầu thứ Hai."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "I'll ask about the start date too.",
+          "vi": "Tôi cũng sẽ hỏi ngày bắt đầu."
+        }
+      ],
+      "questions": [
+        {
+          "no": 19,
+          "type": "p3_speaker_place",
+          "difficulty": 2,
+          "stem": "Who most likely are the speakers?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Office colleagues"
+            },
+            {
+              "key": "B",
+              "text": "Agency recruiters"
+            },
+            {
+              "key": "C",
+              "text": "Customer service reps"
+            },
+            {
+              "key": "D",
+              "text": "Trainers"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Họ bàn thuê nhân viên tạm thời cho đội nội bộ nên là đồng nghiệp.",
+            "why_wrong": {
+              "B": "Không phải nhà tuyển dụng của công ty.",
+              "C": "Không chỉ là nhân viên chăm sóc khách hàng.",
+              "D": "Không chỉ là người đào tạo."
+            },
+            "translation_vi": "Họ là đồng nghiệp văn phòng."
+          }
+        },
+        {
+          "no": 20,
+          "type": "p3_inference",
+          "difficulty": 4,
+          "stem": "Why do they need a same-day replacement?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The agency is closed"
+            },
+            {
+              "key": "B",
+              "text": "The staff are on holiday"
+            },
+            {
+              "key": "C",
+              "text": "The service is free"
+            },
+            {
+              "key": "D",
+              "text": "The team is short-staffed during a busy period"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Đội thiếu người trong mùa cao điểm nên cần thay người nhanh.",
+            "why_wrong": {
+              "A": "Không nói công ty đóng.",
+              "B": "Nghỉ lễ là nguyên nhân chung.",
+              "C": "Không nói miễn phí."
+            },
+            "translation_vi": "Vì đội thiếu người trong giai đoạn bận."
+          }
+        },
+        {
+          "no": 21,
+          "type": "p3_graphic",
+          "difficulty": 4,
+          "stem": "Look at the graphic. What is the hourly rate of the plan the speakers will likely choose?",
+          "options": [
+            {
+              "key": "A",
+              "text": "$18"
+            },
+            {
+              "key": "B",
+              "text": "$22"
+            },
+            {
+              "key": "C",
+              "text": "$25"
+            },
+            {
+              "key": "D",
+              "text": "$30"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Gói phản hồi nhanh nhất và thay người trong ngày là Rapid, giá $25/giờ.",
+            "why_wrong": {
+              "A": "$18 là Basic.",
+              "B": "$22 là Standard.",
+              "D": "$30 là Premium."
+            },
+            "translation_vi": "Giá theo giờ của gói phù hợp là 25 đô."
+          }
+        }
+      ],
+      "graphic": {
+        "kind": "table",
+        "title": "Temp staffing plans",
+        "columns": [
+          "Plan",
+          "Hourly rate",
+          "Response time",
+          "Replacement"
+        ],
+        "rows": [
+          [
+            "Basic",
+            "$18",
+            "48 hours",
+            "3 days"
+          ],
+          [
+            "Standard",
+            "$22",
+            "24 hours",
+            "Next day"
+          ],
+          [
+            "Rapid",
+            "$25",
+            "2 hours",
+            "Same day"
+          ],
+          [
+            "Premium",
+            "$30",
+            "1 hour",
+            "Same day"
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,655 @@
+{
+  "id": "practice-p6-03",
+  "kind": "practice",
+  "title": "Luyện Part 6 – Bộ 03",
+  "level": "medium",
+  "version": 1,
+  "meta": {
+    "author": "claude",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "ai_check": {
+      "date": "2026-11-17",
+      "fixed": 0
+    }
+  },
+  "groups": [
+    {
+      "id": "g01",
+      "part": 6,
+      "passages": [
+        {
+          "type": "email",
+          "title": "Price adjustment",
+          "text": "To: Purchasing Department, Orion Print Works\nFrom: Kenji Mori, Sales Manager, Delta Paper Supply\nSubject: Price adjustment\n\nDear Purchasing Team,\n\nI am writing to let you know about a change to our prices. Because the cost of wood pulp has risen sharply this year, we {{1}} to increase the price of all copy paper by six percent from August 1. {{2}}\n\nAs a long-standing customer, Orion Print Works may lock in the current price for any order placed before July 20. {{3}}, orders of more than 500 boxes will continue to receive free delivery. If you have any questions, please do not {{4}} to contact me directly.",
+          "vi": "Thư của ông Kenji Mori, Trưởng phòng Kinh doanh Delta Paper Supply, gửi phòng Mua hàng Orion Print Works. Do giá bột gỗ tăng mạnh năm nay, chúng tôi buộc phải tăng giá mọi loại giấy photo thêm sáu phần trăm từ 1/8. Đây là lần tăng giá đầu tiên trong ba năm. Là khách hàng lâu năm, Orion có thể giữ giá hiện tại cho mọi đơn đặt trước 20/7. Tương tự, đơn trên 500 thùng vẫn được giao miễn phí. Nếu có câu hỏi, xin đừng ngần ngại liên hệ trực tiếp với tôi."
+        }
+      ],
+      "questions": [
+        {
+          "no": 1,
+          "type": "p6_grammar",
+          "difficulty": 3,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "are forcing"
+            },
+            {
+              "key": "B",
+              "text": "had forced"
+            },
+            {
+              "key": "C",
+              "text": "force"
+            },
+            {
+              "key": "D",
+              "text": "have been forced"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Công ty bị buộc phải tăng giá (bị động) và việc này có liên quan hiện tại → 'have been forced'.",
+            "why_wrong": {
+              "A": "Chủ động 'are forcing' sai nghĩa (công ty không ép ai).",
+              "B": "Quá khứ hoàn thành cần một mốc quá khứ khác.",
+              "C": "Chủ động hiện tại đơn sai nghĩa và sai thì."
+            },
+            "translation_vi": "...chúng tôi buộc phải tăng giá giấy photo thêm sáu phần trăm từ ngày 1/8."
+          },
+          "tags": [
+            "g05_passive_voice"
+          ]
+        },
+        {
+          "no": 2,
+          "type": "p6_sentence_insertion",
+          "difficulty": 4,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "This is the first increase we have made in three years."
+            },
+            {
+              "key": "B",
+              "text": "Wood pulp prices have fallen steadily since January."
+            },
+            {
+              "key": "C",
+              "text": "All orders will be delivered from our new warehouse in July."
+            },
+            {
+              "key": "D",
+              "text": "We have decided to stop selling copy paper next year."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Sau khi báo tăng giá, câu nhấn mạnh đây là lần tăng đầu tiên sau ba năm giúp làm dịu thông báo — mạch văn tự nhiên.",
+            "why_wrong": {
+              "B": "Mâu thuẫn: giá bột gỗ tăng mạnh.",
+              "C": "Thông tin kho mới không liên quan tới việc tăng giá.",
+              "D": "Mâu thuẫn: vẫn khuyến khích đặt hàng giấy."
+            },
+            "translation_vi": "Đây là lần tăng giá đầu tiên của chúng tôi trong ba năm."
+          }
+        },
+        {
+          "no": 3,
+          "type": "p6_connector",
+          "difficulty": 3,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "In other words"
+            },
+            {
+              "key": "B",
+              "text": "Likewise"
+            },
+            {
+              "key": "C",
+              "text": "Nevertheless"
+            },
+            {
+              "key": "D",
+              "text": "Instead"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Câu trước nêu một ưu đãi giữ giá; câu này nêu ưu đãi tương tự tiếp tục được giữ (giao miễn phí) → 'Likewise'.",
+            "why_wrong": {
+              "A": "Không phải diễn giải lại câu trước.",
+              "C": "Không có ý nhượng bộ.",
+              "D": "Không thay thế ưu đãi trước."
+            },
+            "translation_vi": "Tương tự, đơn hàng trên 500 thùng vẫn được giao miễn phí."
+          },
+          "tags": [
+            "g19_transition_adverbs"
+          ]
+        },
+        {
+          "no": 4,
+          "type": "p6_vocabulary",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "delay"
+            },
+            {
+              "key": "B",
+              "text": "pause"
+            },
+            {
+              "key": "C",
+              "text": "hesitate"
+            },
+            {
+              "key": "D",
+              "text": "wait"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Cụm cố định 'please do not hesitate to contact me' = đừng ngần ngại liên hệ.",
+            "why_wrong": {
+              "A": "'do not delay to contact' sai cấu trúc.",
+              "B": "'pause' không dùng trong cụm này.",
+              "D": "'do not wait to contact me' khác nghĩa và không phải cụm thư tín."
+            },
+            "translation_vi": "Nếu có câu hỏi, xin đừng ngần ngại liên hệ trực tiếp với tôi."
+          },
+          "tags": [
+            "v24_customer_service"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "part": 6,
+      "passages": [
+        {
+          "type": "notice",
+          "title": "Parking permit renewal",
+          "text": "PARKING PERMIT RENEWAL\n\nAll employee parking permits for the Westfield office expire on December 31. To {{5}} your permit for next year, complete the online form on the facilities page of the intranet before December 15. {{6}}\n\nNew permits will be mailed to your desk during the first week of January. Until you receive {{7}}, you may continue to display your current permit. {{8}}, vehicles without a valid permit after January 10 may be asked to leave the lot.",
+          "vi": "Gia hạn giấy phép đỗ xe. Mọi giấy phép đỗ xe của nhân viên văn phòng Westfield hết hạn ngày 31/12. Để gia hạn cho năm tới, hãy điền mẫu trực tuyến trên trang cơ sở vật chất của intranet trước 15/12. Ai đổi xe trong năm tới nên nhập biển số mới. Giấy phép mới sẽ được gửi tới bàn làm việc trong tuần đầu tháng 1. Cho tới khi nhận được, bạn có thể tiếp tục để giấy phép hiện tại. Tuy nhiên, xe không có giấy phép hợp lệ sau 10/1 có thể bị yêu cầu rời bãi."
+        }
+      ],
+      "questions": [
+        {
+          "no": 5,
+          "type": "p6_vocabulary",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "renew"
+            },
+            {
+              "key": "B",
+              "text": "repeat"
+            },
+            {
+              "key": "C",
+              "text": "restore"
+            },
+            {
+              "key": "D",
+              "text": "return"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'renew a permit' = gia hạn giấy phép.",
+            "why_wrong": {
+              "B": "'repeat' là lặp lại.",
+              "C": "'restore' là khôi phục cái đã hỏng/mất.",
+              "D": "'return' là trả lại, ngược ý."
+            },
+            "translation_vi": "Để gia hạn giấy phép cho năm sau, hãy điền mẫu trực tuyến trước ngày 15/12."
+          },
+          "tags": [
+            "v03_office"
+          ]
+        },
+        {
+          "no": 6,
+          "type": "p6_sentence_insertion",
+          "difficulty": 3,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Paper forms are available at the front desk only."
+            },
+            {
+              "key": "B",
+              "text": "Permits will be mailed to your home in December."
+            },
+            {
+              "key": "C",
+              "text": "Employees who drive a different car next year should enter the new license plate number."
+            },
+            {
+              "key": "D",
+              "text": "The parking lot will be closed for the whole of January."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Câu này hướng dẫn thêm cách điền mẫu (biển số xe mới), nối tiếp câu yêu cầu điền mẫu trực tuyến.",
+            "why_wrong": {
+              "A": "Mâu thuẫn: chỉ có mẫu trực tuyến.",
+              "B": "Mâu thuẫn: giấy phép gửi tới bàn làm việc vào tháng 1.",
+              "D": "Mâu thuẫn: nhân viên vẫn đỗ xe bằng giấy phép cũ."
+            },
+            "translation_vi": "Nhân viên đổi xe trong năm tới nên nhập biển số mới."
+          }
+        },
+        {
+          "no": 7,
+          "type": "p6_grammar",
+          "difficulty": 3,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "them"
+            },
+            {
+              "key": "B",
+              "text": "its"
+            },
+            {
+              "key": "C",
+              "text": "they"
+            },
+            {
+              "key": "D",
+              "text": "it"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Đại từ thay cho 'your new permit' (số ít, làm tân ngữ) → 'it'.",
+            "why_wrong": {
+              "A": "'them' thay cho danh từ số nhiều; ở đây mỗi người nhận một giấy phép.",
+              "B": "'its' là tính từ sở hữu, cần danh từ theo sau.",
+              "C": "'they' là chủ ngữ, không làm tân ngữ."
+            },
+            "translation_vi": "Cho tới khi nhận được giấy phép mới, bạn có thể tiếp tục để giấy phép hiện tại."
+          },
+          "tags": [
+            "g07_pronouns"
+          ]
+        },
+        {
+          "no": 8,
+          "type": "p6_connector",
+          "difficulty": 3,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "For instance"
+            },
+            {
+              "key": "B",
+              "text": "However"
+            },
+            {
+              "key": "C",
+              "text": "Similarly"
+            },
+            {
+              "key": "D",
+              "text": "As a result"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Câu trước cho phép dùng giấy phép cũ; câu này nêu giới hạn (sau 10/1 sẽ bị yêu cầu rời bãi) → đối lập 'However'.",
+            "why_wrong": {
+              "A": "Không phải ví dụ.",
+              "C": "Không có sự tương tự.",
+              "D": "Việc bị yêu cầu rời bãi không phải kết quả của việc được dùng giấy phép cũ."
+            },
+            "translation_vi": "Tuy nhiên, xe không có giấy phép hợp lệ sau ngày 10/1 có thể bị yêu cầu rời bãi."
+          },
+          "tags": [
+            "g19_transition_adverbs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "part": 6,
+      "passages": [
+        {
+          "type": "article",
+          "title": "Local bakery wins regional award",
+          "text": "Millbrook's Corner Loaf Bakery has been named Small Business of the Year by the Eastvale Chamber of Commerce. The bakery, which opened in 2016 with just two employees, now {{9}} eighteen people and supplies bread to more than forty local cafés.\n\nOwner Grace Mbeki credits the bakery's success to its focus on {{10}} ingredients from nearby farms. {{11}} \"Our customers can taste the difference,\" she said. The award includes a grant of $5,000, which Ms. Mbeki plans to spend on a second oven. {{12}}, the bakery will be able to double its morning production.",
+          "vi": "Tiệm bánh Corner Loaf ở Millbrook được Phòng Thương mại Eastvale bình chọn là Doanh nghiệp nhỏ của năm. Mở năm 2016 với hai nhân viên, tiệm nay có mười tám người và cung cấp bánh mì cho hơn bốn mươi quán cà phê địa phương. Chủ tiệm Grace Mbeki cho rằng thành công đến từ việc tập trung thu mua nguyên liệu từ các trang trại lân cận. Tiệm còn nướng từng ổ bằng tay trước khi trời sáng. \"Khách hàng nếm được sự khác biệt,\" bà nói. Giải thưởng kèm khoản tài trợ 5.000 đô, bà dự định dùng để mua lò thứ hai. Có thêm lò này, tiệm sẽ tăng gấp đôi sản lượng buổi sáng."
+        }
+      ],
+      "questions": [
+        {
+          "no": 9,
+          "type": "p6_vocabulary",
+          "difficulty": 3,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "applies"
+            },
+            {
+              "key": "B",
+              "text": "assigns"
+            },
+            {
+              "key": "C",
+              "text": "employs"
+            },
+            {
+              "key": "D",
+              "text": "recruits"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'now employs eighteen people' = hiện có mười tám nhân viên.",
+            "why_wrong": {
+              "A": "'applies' (nộp đơn/áp dụng) sai nghĩa.",
+              "B": "'assigns' (phân công) cần thêm đối tượng công việc.",
+              "D": "'recruits' là đang tuyển, không mô tả quy mô hiện có."
+            },
+            "translation_vi": "Tiệm bánh nay có mười tám nhân viên."
+          },
+          "tags": [
+            "v04_hiring"
+          ]
+        },
+        {
+          "no": 10,
+          "type": "p6_grammar",
+          "difficulty": 3,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "source"
+            },
+            {
+              "key": "B",
+              "text": "sourcing"
+            },
+            {
+              "key": "C",
+              "text": "to source"
+            },
+            {
+              "key": "D",
+              "text": "sources"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Sau giới từ 'on' cần danh động từ → 'sourcing ingredients' (thu mua nguyên liệu).",
+            "why_wrong": {
+              "A": "Động từ nguyên mẫu không đứng sau giới từ.",
+              "C": "'to source' không đứng sau giới từ 'on'.",
+              "D": "Động từ chia không đứng sau giới từ."
+            },
+            "translation_vi": "Bà cho rằng thành công đến từ việc tập trung thu mua nguyên liệu từ các trang trại lân cận."
+          },
+          "tags": [
+            "g16_gerund_infinitive"
+          ]
+        },
+        {
+          "no": 11,
+          "type": "p6_sentence_insertion",
+          "difficulty": 4,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The bakery also bakes every loaf by hand before sunrise."
+            },
+            {
+              "key": "B",
+              "text": "Most of its flour is imported from overseas."
+            },
+            {
+              "key": "C",
+              "text": "Ms. Mbeki plans to sell the bakery next year."
+            },
+            {
+              "key": "D",
+              "text": "The bakery closed its doors in 2016."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Câu bổ sung thêm một yếu tố tạo chất lượng (làm thủ công) trước lời trích 'khách nếm được sự khác biệt'.",
+            "why_wrong": {
+              "B": "Mâu thuẫn: nguyên liệu lấy từ trang trại gần.",
+              "C": "Mâu thuẫn: bà dự định mua thêm lò để mở rộng.",
+              "D": "Mâu thuẫn: tiệm khai trương năm 2016."
+            },
+            "translation_vi": "Tiệm còn nướng từng ổ bánh bằng tay trước khi trời sáng."
+          }
+        },
+        {
+          "no": 12,
+          "type": "p6_connector",
+          "difficulty": 3,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Instead"
+            },
+            {
+              "key": "B",
+              "text": "Nevertheless"
+            },
+            {
+              "key": "C",
+              "text": "On the contrary"
+            },
+            {
+              "key": "D",
+              "text": "With this addition"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Nhờ có thêm lò (vừa nhắc) → sản lượng tăng gấp đôi: 'With this addition'.",
+            "why_wrong": {
+              "A": "Không thay thế điều gì.",
+              "B": "Không có ý nhượng bộ.",
+              "C": "Không có ý phản bác."
+            },
+            "translation_vi": "Có thêm lò này, tiệm sẽ tăng gấp đôi sản lượng buổi sáng."
+          },
+          "tags": [
+            "g19_transition_adverbs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "part": 6,
+      "passages": [
+        {
+          "type": "memo",
+          "title": "Office recycling program",
+          "text": "MEMO\nTo: All Staff\nFrom: Green Office Committee\n\nOur new recycling program begins on Monday. Blue bins for paper and green bins for plastic and cans have been placed near every printer and in the kitchen. Please do not put food waste in either bin, {{13}} it can spoil an entire load of recycling. {{14}}\n\nLast year the office {{15}} almost four tons of paper. Our goal is to recycle at least {{16}} of that amount by the end of this year.",
+          "vi": "Bản ghi nhớ của Ủy ban Văn phòng Xanh. Chương trình tái chế mới bắt đầu từ thứ Hai. Thùng xanh dương cho giấy và thùng xanh lá cho nhựa, lon đã đặt cạnh mọi máy in và trong bếp. Đừng bỏ rác thức ăn vào thùng nào, vì nó có thể làm hỏng cả mẻ rác tái chế. Thùng riêng cho thức ăn thừa đặt cạnh bồn rửa trong bếp. Năm ngoái văn phòng dùng gần bốn tấn giấy. Mục tiêu là tái chế ít nhất một nửa lượng đó trước cuối năm nay."
+        }
+      ],
+      "questions": [
+        {
+          "no": 13,
+          "type": "p6_grammar",
+          "difficulty": 3,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "despite"
+            },
+            {
+              "key": "B",
+              "text": "because"
+            },
+            {
+              "key": "C",
+              "text": "unless"
+            },
+            {
+              "key": "D",
+              "text": "so that"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Vế sau giải thích lý do không bỏ rác thức ăn → liên từ chỉ nguyên nhân 'because'.",
+            "why_wrong": {
+              "A": "'despite' là giới từ, không đi với mệnh đề.",
+              "C": "'unless' (trừ khi) sai nghĩa.",
+              "D": "'so that' chỉ mục đích, sai nghĩa."
+            },
+            "translation_vi": "Đừng bỏ rác thức ăn vào thùng nào, vì nó có thể làm hỏng cả mẻ rác tái chế."
+          },
+          "tags": [
+            "g11_subordinating_conjunctions"
+          ]
+        },
+        {
+          "no": 14,
+          "type": "p6_sentence_insertion",
+          "difficulty": 3,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Each employee must bring a bin from home."
+            },
+            {
+              "key": "B",
+              "text": "The committee has decided to stop collecting plastic."
+            },
+            {
+              "key": "C",
+              "text": "A separate container for food scraps is located next to the kitchen sink."
+            },
+            {
+              "key": "D",
+              "text": "Printers will be removed from all floors next week."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Vừa dặn không bỏ rác thức ăn vào thùng tái chế → chỉ chỗ bỏ rác thức ăn là câu nối hợp lý.",
+            "why_wrong": {
+              "A": "Mâu thuẫn: thùng đã được đặt sẵn.",
+              "B": "Mâu thuẫn: thùng xanh lá nhận nhựa.",
+              "D": "Mâu thuẫn: thùng được đặt gần máy in."
+            },
+            "translation_vi": "Thùng riêng cho thức ăn thừa đặt cạnh bồn rửa trong bếp."
+          }
+        },
+        {
+          "no": 15,
+          "type": "p6_vocabulary",
+          "difficulty": 3,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "spent"
+            },
+            {
+              "key": "B",
+              "text": "applied"
+            },
+            {
+              "key": "C",
+              "text": "occupied"
+            },
+            {
+              "key": "D",
+              "text": "used"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "'used four tons of paper' = đã dùng bốn tấn giấy.",
+            "why_wrong": {
+              "A": "'spent' đi với tiền/thời gian.",
+              "B": "'applied' (áp dụng/bôi) sai nghĩa.",
+              "C": "'occupied' (chiếm chỗ) sai nghĩa."
+            },
+            "translation_vi": "Năm ngoái văn phòng đã dùng gần bốn tấn giấy."
+          },
+          "tags": [
+            "v03_office"
+          ]
+        },
+        {
+          "no": 16,
+          "type": "p6_vocabulary",
+          "difficulty": 4,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "half"
+            },
+            {
+              "key": "B",
+              "text": "halves"
+            },
+            {
+              "key": "C",
+              "text": "halving"
+            },
+            {
+              "key": "D",
+              "text": "halved"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'at least half of that amount' = ít nhất một nửa lượng đó.",
+            "why_wrong": {
+              "B": "'halves' là số nhiều, không đi với 'of that amount' ở đây.",
+              "C": "'halving' là danh động từ (việc giảm một nửa).",
+              "D": "'halved' là động từ/quá khứ phân từ."
+            },
+            "translation_vi": "Mục tiêu là tái chế ít nhất một nửa lượng đó trước cuối năm."
+          },
+          "tags": [
+            "g01_word_form"
+          ]
+        }
+      ]
+    }
+  ]
+}

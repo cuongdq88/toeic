@@ -1,0 +1,886 @@
+{
+  "id": "sample-00",
+  "kind": "practice",
+  "title": "Gói mẫu chuẩn (1 nhóm mỗi Part)",
+  "level": "medium",
+  "version": 1,
+  "meta": {
+    "author": "claude",
+    "reviewer": null,
+    "status": "draft",
+    "license": "original",
+    "notes": "Ví dụ chuẩn định dạng cho người/agent sinh dữ liệu. Không phát hành."
+  },
+  "groups": [
+    {
+      "id": "g01",
+      "part": 1,
+      "image": "img/g01.webp",
+      "image_brief": "Ảnh thật trong văn phòng: một phụ nữ đứng cạnh máy photocopy, đang đặt xấp giấy vào khay giấy. Phía sau có bàn làm việc và cửa sổ.",
+      "audio": "audio/g01.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 1. Look at the picture marked number 1 in your test book.",
+          "vi": "Câu 1. Hãy nhìn bức ảnh số 1 trong đề."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(A) She's typing on a keyboard.",
+          "vi": "(A) Cô ấy đang gõ bàn phím."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(B) She's loading paper into a machine.",
+          "vi": "(B) Cô ấy đang cho giấy vào máy."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(C) She's opening a window.",
+          "vi": "(C) Cô ấy đang mở cửa sổ."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(D) She's carrying a stack of boxes.",
+          "vi": "(D) Cô ấy đang bê một chồng thùng."
+        }
+      ],
+      "questions": [
+        {
+          "no": 1,
+          "type": "p1_single_person",
+          "difficulty": 1,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "She's typing on a keyboard."
+            },
+            {
+              "key": "B",
+              "text": "She's loading paper into a machine."
+            },
+            {
+              "key": "C",
+              "text": "She's opening a window."
+            },
+            {
+              "key": "D",
+              "text": "She's carrying a stack of boxes."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Người phụ nữ đang đặt giấy vào khay máy photocopy → 'loading paper into a machine'.",
+            "why_wrong": {
+              "A": "Có bàn làm việc nhưng cô ấy không gõ phím.",
+              "C": "Cửa sổ chỉ là bối cảnh phía sau, không có hành động mở.",
+              "D": "Cô ấy cầm giấy, không bê thùng."
+            },
+            "translation_vi": "Đáp án đúng: Cô ấy đang cho giấy vào máy."
+          },
+          "tags": [
+            "v03_office"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "part": 2,
+      "audio": "audio/g02.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 2.",
+          "vi": "Câu 2."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "When will the new printer be delivered?",
+          "vi": "Khi nào máy in mới được giao?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(A) Yes, it prints in color.",
+          "vi": "(A) Vâng, nó in màu."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(B) By Thursday afternoon.",
+          "vi": "(B) Trước chiều thứ Năm."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(C) To the second floor.",
+          "vi": "(C) Lên tầng hai."
+        }
+      ],
+      "questions": [
+        {
+          "no": 2,
+          "type": "p2_wh_when",
+          "difficulty": 1,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Yes, it prints in color."
+            },
+            {
+              "key": "B",
+              "text": "By Thursday afternoon."
+            },
+            {
+              "key": "C",
+              "text": "To the second floor."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Câu hỏi 'When' cần thời gian → 'By Thursday afternoon'.",
+            "why_wrong": {
+              "A": "Câu hỏi Wh- không trả lời bằng Yes; 'prints' là bẫy lặp âm với 'printer'.",
+              "C": "Trả lời cho 'Where', không phải 'When'."
+            },
+            "translation_vi": "Hỏi: Khi nào máy in mới được giao? – Đáp: Trước chiều thứ Năm."
+          },
+          "tags": [
+            "v11_ordering_shipping"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "part": 3,
+      "audio": "audio/g03.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 3 through 5 refer to the following conversation with three speakers and graphic.",
+          "vi": "Câu 3–5 dựa vào đoạn hội thoại ba người và bảng sau."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Kevin, Daniel, have you two decided where we're ordering lunch for Friday's training session?",
+          "vi": "Kevin, Daniel, hai anh đã chọn được chỗ đặt bữa trưa cho buổi đào tạo thứ Sáu chưa?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "We were thinking of Green Table Catering. Their sandwich platters got great reviews last time.",
+          "vi": "Bọn tôi định chọn Green Table Catering. Lần trước khay bánh mì của họ được khen nhiều."
+        },
+        {
+          "speaker": "M2",
+          "accent": "UK",
+          "text": "The only thing is, we'll have twenty-two people this time, and the budget is tight.",
+          "vi": "Chỉ có điều lần này có hai mươi hai người, mà ngân sách thì eo hẹp."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Twenty-two? I thought it was fifteen.",
+          "vi": "Hai mươi hai? Tôi tưởng là mười lăm."
+        },
+        {
+          "speaker": "M2",
+          "accent": "UK",
+          "text": "Three people from the Boston office are joining us, plus the new interns.",
+          "vi": "Có thêm ba người từ văn phòng Boston, cộng với các thực tập sinh mới."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "Then let's skip the platters and go with the box lunches. They're the cheapest option for big groups.",
+          "vi": "Vậy bỏ khay bánh mì, chọn suất cơm hộp đi. Đó là lựa chọn rẻ nhất cho nhóm đông."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Fine. I'll place the order this afternoon.",
+          "vi": "Được. Chiều nay tôi sẽ đặt."
+        }
+      ],
+      "graphic": {
+        "kind": "table",
+        "title": "Green Table Catering – Group Orders",
+        "columns": [
+          "Option",
+          "Price per person"
+        ],
+        "rows": [
+          [
+            "Sandwich platter",
+            "$14"
+          ],
+          [
+            "Pasta tray",
+            "$12"
+          ],
+          [
+            "Salad bar",
+            "$11"
+          ],
+          [
+            "Box lunch",
+            "$9"
+          ]
+        ]
+      },
+      "questions": [
+        {
+          "no": 3,
+          "type": "p3_main_topic",
+          "difficulty": 2,
+          "stem": "What are the speakers mainly discussing?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A training schedule"
+            },
+            {
+              "key": "B",
+              "text": "A lunch order"
+            },
+            {
+              "key": "C",
+              "text": "A new office"
+            },
+            {
+              "key": "D",
+              "text": "A job interview"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Ngay câu đầu người phụ nữ hỏi đặt bữa trưa ở đâu, cả đoạn bàn về việc đặt đồ ăn.",
+            "why_wrong": {
+              "A": "'Training session' chỉ là sự kiện cần đặt bữa trưa, không phải chủ đề chính.",
+              "C": "Văn phòng Boston chỉ được nhắc qua.",
+              "D": "Không có phỏng vấn; 'interns' là bẫy từ ngữ."
+            },
+            "translation_vi": "Những người nói chủ yếu bàn về việc gì? – Một đơn đặt bữa trưa."
+          },
+          "tags": [
+            "v20_restaurants"
+          ]
+        },
+        {
+          "no": 4,
+          "type": "p3_implied_meaning",
+          "difficulty": 3,
+          "stem": "Why does the woman say, \"Twenty-two? I thought it was fifteen\"?",
+          "options": [
+            {
+              "key": "A",
+              "text": "She is surprised that the group is larger."
+            },
+            {
+              "key": "B",
+              "text": "She wants to cancel the session."
+            },
+            {
+              "key": "C",
+              "text": "She found a mistake on an invoice."
+            },
+            {
+              "key": "D",
+              "text": "She needs to reserve more chairs."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Cô ấy nhắc lại con số và nói tưởng chỉ có 15 → ngạc nhiên vì số người đông hơn dự kiến.",
+            "why_wrong": {
+              "B": "Không có ý hủy buổi đào tạo.",
+              "C": "Không nhắc tới hóa đơn.",
+              "D": "Ghế không được đề cập."
+            },
+            "translation_vi": "Vì sao người phụ nữ nói 'Hai mươi hai? Tôi tưởng là mười lăm'? – Cô ấy ngạc nhiên vì nhóm đông hơn."
+          }
+        },
+        {
+          "no": 5,
+          "type": "p3_graphic",
+          "difficulty": 3,
+          "stem": "Look at the graphic. How much will the speakers most likely pay per person?",
+          "options": [
+            {
+              "key": "A",
+              "text": "$14"
+            },
+            {
+              "key": "B",
+              "text": "$12"
+            },
+            {
+              "key": "C",
+              "text": "$11"
+            },
+            {
+              "key": "D",
+              "text": "$9"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Họ chọn 'box lunches'; trong bảng, Box lunch giá $9 mỗi người.",
+            "why_wrong": {
+              "A": "$14 là khay bánh mì – đã bị bỏ.",
+              "B": "$12 là khay mì Ý, không được chọn.",
+              "C": "$11 là quầy salad, không được nhắc tới."
+            },
+            "translation_vi": "Nhìn bảng. Họ nhiều khả năng sẽ trả bao nhiêu mỗi người? – $9."
+          },
+          "tags": [
+            "v07_finance"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "part": 4,
+      "audio": "audio/g04.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 6 through 8 refer to the following telephone message.",
+          "vi": "Câu 6–8 dựa vào tin nhắn thoại sau."
+        },
+        {
+          "speaker": "W1",
+          "accent": "UK",
+          "text": "Hello, this is Priya from Lakeside Dental Clinic, calling for Mr. Thomas Reed. I'm calling to remind you of your appointment tomorrow at ten a.m. Unfortunately, Dr. Moreno will be away at a conference, so Dr. Lin will see you instead. If that's a problem, please call us back before five today and we'll find another time. Also, please bring your new insurance card, since our records still show your old one. Thank you.",
+          "vi": "Xin chào, tôi là Priya từ Phòng khám Nha khoa Lakeside, gọi cho ông Thomas Reed. Tôi gọi để nhắc lịch hẹn của ông lúc 10 giờ sáng mai. Tiếc là bác sĩ Moreno đi hội nghị nên bác sĩ Lin sẽ khám thay. Nếu ông thấy bất tiện, vui lòng gọi lại trước 5 giờ hôm nay để đổi giờ khác. Ngoài ra, xin mang thẻ bảo hiểm mới vì hồ sơ của chúng tôi vẫn ghi thẻ cũ. Cảm ơn ông."
+        }
+      ],
+      "questions": [
+        {
+          "no": 6,
+          "type": "p4_purpose_topic",
+          "difficulty": 1,
+          "stem": "What is the purpose of the call?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To confirm a payment"
+            },
+            {
+              "key": "B",
+              "text": "To remind a patient about an appointment"
+            },
+            {
+              "key": "C",
+              "text": "To advertise a new clinic"
+            },
+            {
+              "key": "D",
+              "text": "To request medical records"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Người gọi nói rõ 'I'm calling to remind you of your appointment'.",
+            "why_wrong": {
+              "A": "Không nói tới thanh toán.",
+              "C": "Phòng khám đã có sẵn, không quảng cáo.",
+              "D": "Chỉ nhắc mang thẻ bảo hiểm, không xin hồ sơ bệnh án."
+            },
+            "translation_vi": "Mục đích cuộc gọi là gì? – Nhắc bệnh nhân về lịch hẹn."
+          },
+          "tags": [
+            "v22_health"
+          ]
+        },
+        {
+          "no": 7,
+          "type": "p4_detail",
+          "difficulty": 2,
+          "stem": "What has changed about the appointment?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The time"
+            },
+            {
+              "key": "B",
+              "text": "The location"
+            },
+            {
+              "key": "C",
+              "text": "The dentist"
+            },
+            {
+              "key": "D",
+              "text": "The date"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Bác sĩ Moreno vắng nên bác sĩ Lin khám thay → đổi nha sĩ.",
+            "why_wrong": {
+              "A": "Giờ vẫn là 10 giờ sáng.",
+              "B": "Không nhắc đổi địa điểm.",
+              "D": "Vẫn là ngày mai."
+            },
+            "translation_vi": "Điều gì đã thay đổi về lịch hẹn? – Nha sĩ."
+          }
+        },
+        {
+          "no": 8,
+          "type": "p4_request_suggestion",
+          "difficulty": 2,
+          "stem": "What is the listener asked to bring?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A new insurance card"
+            },
+            {
+              "key": "B",
+              "text": "A payment receipt"
+            },
+            {
+              "key": "C",
+              "text": "A referral letter"
+            },
+            {
+              "key": "D",
+              "text": "A list of medications"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'Please bring your new insurance card' – mang thẻ bảo hiểm mới.",
+            "why_wrong": {
+              "B": "Không nhắc biên lai.",
+              "C": "Không nhắc giấy giới thiệu.",
+              "D": "Không nhắc danh sách thuốc."
+            },
+            "translation_vi": "Người nghe được yêu cầu mang theo gì? – Thẻ bảo hiểm mới."
+          },
+          "tags": [
+            "v22_health"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "part": 5,
+      "questions": [
+        {
+          "no": 9,
+          "type": "p5_word_form",
+          "difficulty": 2,
+          "stem": "The marketing team prepared a ____ report on last quarter's sales results.",
+          "options": [
+            {
+              "key": "A",
+              "text": "detail"
+            },
+            {
+              "key": "B",
+              "text": "detailed"
+            },
+            {
+              "key": "C",
+              "text": "detailing"
+            },
+            {
+              "key": "D",
+              "text": "details"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Giữa mạo từ 'a' và danh từ 'report' cần một tính từ → 'detailed' (chi tiết).",
+            "why_wrong": {
+              "A": "'detail' là danh từ/động từ, không bổ nghĩa cho 'report'.",
+              "C": "'detailing' (V-ing) không mang nghĩa 'chi tiết' ở vị trí này.",
+              "D": "'details' là danh từ số nhiều, không đứng sau 'a'."
+            },
+            "translation_vi": "Nhóm tiếp thị đã chuẩn bị một báo cáo chi tiết về kết quả bán hàng quý trước."
+          },
+          "tags": [
+            "g01_word_form",
+            "v02_marketing"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g06",
+      "part": 6,
+      "passages": [
+        {
+          "type": "memo",
+          "title": "Parking lot repairs",
+          "text": "To: All staff\nFrom: Facilities Department\nSubject: Parking lot repairs\n\nBeginning Monday, the east parking lot will be closed for repaving. The work is expected {{10}} about two weeks. During this time, employees may park in the visitor lot on Pine Street. {{11}} A shuttle will run between the visitor lot and the main entrance every fifteen minutes. {{12}}, please allow extra time when arriving in the morning. We apologize for the {{13}} and thank you for your patience.",
+          "vi": "Gửi toàn thể nhân viên. Từ thứ Hai, bãi đỗ xe phía đông sẽ đóng cửa để trải lại mặt đường. Công việc dự kiến kéo dài khoảng hai tuần. Trong thời gian này, nhân viên có thể đỗ ở bãi khách trên phố Pine. Chỗ đỗ ở đó theo nguyên tắc ai đến trước được trước. Xe đưa đón sẽ chạy giữa bãi khách và cổng chính mỗi 15 phút. Vì vậy, vui lòng dành thêm thời gian khi đến vào buổi sáng. Chúng tôi xin lỗi vì sự bất tiện và cảm ơn sự kiên nhẫn của mọi người."
+        }
+      ],
+      "questions": [
+        {
+          "no": 10,
+          "type": "p6_grammar",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "last"
+            },
+            {
+              "key": "B",
+              "text": "to last"
+            },
+            {
+              "key": "C",
+              "text": "lasting"
+            },
+            {
+              "key": "D",
+              "text": "lasted"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Cấu trúc 'be expected to + V' → 'is expected to last' (dự kiến kéo dài).",
+            "why_wrong": {
+              "A": "Thiếu 'to' sau 'expected'.",
+              "C": "Không dùng V-ing sau 'be expected'.",
+              "D": "Hai động từ chia thì liền nhau là sai ngữ pháp."
+            },
+            "translation_vi": "Công việc dự kiến kéo dài khoảng hai tuần."
+          },
+          "tags": [
+            "g16_gerund_infinitive"
+          ]
+        },
+        {
+          "no": 11,
+          "type": "p6_sentence_insertion",
+          "difficulty": 3,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The new lot will feature electric vehicle chargers."
+            },
+            {
+              "key": "B",
+              "text": "Spaces there are available on a first-come, first-served basis."
+            },
+            {
+              "key": "C",
+              "text": "The cafeteria will also be closed for renovation."
+            },
+            {
+              "key": "D",
+              "text": "Please submit your expense reports by Friday."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Câu trước nói về bãi khách trên phố Pine; câu B nói tiếp 'there' (ở đó) có chỗ đỗ theo thứ tự đến trước → mạch lạc.",
+            "why_wrong": {
+              "A": "Văn bản không nói đến bãi đỗ mới hay trạm sạc.",
+              "C": "Căn tin không liên quan đến việc sửa bãi xe.",
+              "D": "Báo cáo chi phí lạc chủ đề."
+            },
+            "translation_vi": "Chỗ đỗ ở đó theo nguyên tắc ai đến trước được trước."
+          },
+          "tags": [
+            "v03_office"
+          ]
+        },
+        {
+          "no": 12,
+          "type": "p6_connector",
+          "difficulty": 3,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "However"
+            },
+            {
+              "key": "B",
+              "text": "Therefore"
+            },
+            {
+              "key": "C",
+              "text": "Otherwise"
+            },
+            {
+              "key": "D",
+              "text": "Similarly"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Phải đỗ xa và đi xe đưa đón (nguyên nhân) → vì vậy cần đến sớm hơn (kết quả): 'Therefore'.",
+            "why_wrong": {
+              "A": "'However' chỉ sự đối lập, không hợp nghĩa.",
+              "C": "'Otherwise' (nếu không thì) không hợp ngữ cảnh.",
+              "D": "'Similarly' (tương tự) không có ý so sánh nào."
+            },
+            "translation_vi": "Vì vậy, vui lòng dành thêm thời gian khi đến vào buổi sáng."
+          },
+          "tags": [
+            "g19_transition_adverbs"
+          ]
+        },
+        {
+          "no": 13,
+          "type": "p6_vocabulary",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "inconvenience"
+            },
+            {
+              "key": "B",
+              "text": "agreement"
+            },
+            {
+              "key": "C",
+              "text": "improvement"
+            },
+            {
+              "key": "D",
+              "text": "attendance"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Cụm cố định khi xin lỗi: 'apologize for the inconvenience' (xin lỗi vì sự bất tiện).",
+            "why_wrong": {
+              "B": "'agreement' (thỏa thuận) không hợp với lời xin lỗi.",
+              "C": "Không ai xin lỗi vì 'sự cải thiện'.",
+              "D": "'attendance' (sự có mặt) không liên quan."
+            },
+            "translation_vi": "Chúng tôi xin lỗi vì sự bất tiện."
+          },
+          "tags": [
+            "v03_office"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g07",
+      "part": 7,
+      "passages": [
+        {
+          "type": "advertisement",
+          "title": "Harbor View Conference Center",
+          "text": "Harbor View Conference Center – Room Rentals\n\nRoom | Capacity | Half day | Full day\nBayside Room | 20 people | $250 | $400\nLighthouse Hall | 60 people | $600 | $950\nMarina Suite | 120 people | $1,100 | $1,800\n\nAll rentals include projectors and Wi-Fi. Catering is available for an additional fee. Bookings made at least 30 days in advance receive a 10% discount on the room rate.",
+          "vi": "Trung tâm Hội nghị Harbor View – Cho thuê phòng. Mọi gói thuê đều có máy chiếu và Wi-Fi. Có dịch vụ ăn uống với phụ phí. Đặt trước ít nhất 30 ngày được giảm 10% tiền phòng."
+        },
+        {
+          "type": "email",
+          "title": "Booking request",
+          "text": "To: events@harborviewcc.com\nFrom: Elena Torres <etorres@brightpathlogistics.com>\nDate: March 3\nSubject: Booking request\n\nHello,\n\nBrightpath Logistics would like to rent a room for a full-day sales workshop on April 15. We expect around 45 attendees, and we will need lunch for everyone. Could you send me your catering menu?\n\nAlso, since we are booking more than a month ahead, I assume the advance discount applies.\n\nBest regards,\nElena Torres",
+          "vi": "Brightpath Logistics muốn thuê một phòng cả ngày cho hội thảo bán hàng ngày 15/4. Dự kiến khoảng 45 người và cần bữa trưa cho tất cả. Xin gửi thực đơn. Vì đặt trước hơn một tháng nên tôi nghĩ được áp dụng giảm giá."
+        }
+      ],
+      "questions": [
+        {
+          "no": 14,
+          "type": "p7_main_idea_purpose",
+          "difficulty": 1,
+          "stem": "What is the purpose of the e-mail?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To cancel a reservation"
+            },
+            {
+              "key": "B",
+              "text": "To request a room booking"
+            },
+            {
+              "key": "C",
+              "text": "To complain about a service"
+            },
+            {
+              "key": "D",
+              "text": "To apply for a job"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Tiêu đề 'Booking request' và câu 'would like to rent a room' → yêu cầu đặt phòng.",
+            "why_wrong": {
+              "A": "Chưa có đặt chỗ nào để hủy.",
+              "C": "Không có lời phàn nàn.",
+              "D": "Không liên quan đến xin việc."
+            },
+            "translation_vi": "Mục đích của email là gì? – Yêu cầu đặt phòng."
+          },
+          "evidence": "Brightpath Logistics would like to rent a room"
+        },
+        {
+          "no": 15,
+          "type": "p7_detail",
+          "difficulty": 1,
+          "stem": "According to the advertisement, what is included in every rental?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Lunch"
+            },
+            {
+              "key": "B",
+              "text": "Parking"
+            },
+            {
+              "key": "C",
+              "text": "Projectors"
+            },
+            {
+              "key": "D",
+              "text": "Printed materials"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'All rentals include projectors and Wi-Fi' → máy chiếu có sẵn.",
+            "why_wrong": {
+              "A": "Ăn uống phải trả thêm phí.",
+              "B": "Không nhắc đến bãi đỗ xe.",
+              "D": "Không nhắc tài liệu in."
+            },
+            "translation_vi": "Theo quảng cáo, mọi gói thuê đều có gì? – Máy chiếu."
+          },
+          "evidence": "All rentals include projectors and Wi-Fi."
+        },
+        {
+          "no": 16,
+          "type": "p7_cross_reference",
+          "difficulty": 3,
+          "stem": "Which room will Ms. Torres most likely book?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Bayside Room"
+            },
+            {
+              "key": "B",
+              "text": "Lighthouse Hall"
+            },
+            {
+              "key": "C",
+              "text": "Marina Suite"
+            },
+            {
+              "key": "D",
+              "text": "The main lobby"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Email nói khoảng 45 người; bảng cho thấy Lighthouse Hall chứa 60 người – phòng nhỏ nhất đủ chỗ.",
+            "why_wrong": {
+              "A": "Bayside chỉ chứa 20 người.",
+              "C": "Marina chứa 120 người – quá lớn và đắt.",
+              "D": "Sảnh chính không có trong bảng cho thuê."
+            },
+            "translation_vi": "Bà Torres nhiều khả năng sẽ đặt phòng nào? – Lighthouse Hall."
+          },
+          "evidence": "We expect around 45 attendees / Lighthouse Hall | 60 people"
+        },
+        {
+          "no": 17,
+          "type": "p7_cross_reference",
+          "difficulty": 4,
+          "stem": "How much will Ms. Torres most likely pay for the room, not including catering?",
+          "options": [
+            {
+              "key": "A",
+              "text": "$950"
+            },
+            {
+              "key": "B",
+              "text": "$855"
+            },
+            {
+              "key": "C",
+              "text": "$600"
+            },
+            {
+              "key": "D",
+              "text": "$1,800"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Lighthouse Hall cả ngày giá $950; đặt trước hơn 30 ngày được giảm 10% → 950 × 0,9 = $855.",
+            "why_wrong": {
+              "A": "Giá gốc, chưa trừ 10% giảm giá.",
+              "C": "Giá nửa ngày, nhưng hội thảo kéo dài cả ngày.",
+              "D": "Giá cả ngày của Marina Suite."
+            },
+            "translation_vi": "Bà Torres nhiều khả năng sẽ trả bao nhiêu tiền phòng, chưa tính ăn uống? – $855."
+          },
+          "evidence": "full-day / $950 / 10% discount / booking more than a month ahead"
+        },
+        {
+          "no": 18,
+          "type": "p7_vocabulary_synonym",
+          "difficulty": 2,
+          "stem": "In the e-mail, the word \"expect\" in paragraph 1, line 2, is closest in meaning to",
+          "options": [
+            {
+              "key": "A",
+              "text": "anticipate"
+            },
+            {
+              "key": "B",
+              "text": "demand"
+            },
+            {
+              "key": "C",
+              "text": "wait"
+            },
+            {
+              "key": "D",
+              "text": "prefer"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'We expect around 45 attendees' = dự kiến có khoảng 45 người → 'anticipate'.",
+            "why_wrong": {
+              "B": "'demand' (yêu cầu) sai nghĩa.",
+              "C": "'wait' cần 'for' và mang nghĩa chờ đợi.",
+              "D": "'prefer' (thích hơn) sai nghĩa."
+            },
+            "translation_vi": "Từ 'expect' trong email gần nghĩa nhất với 'anticipate' (dự kiến)."
+          },
+          "evidence": "We expect around 45 attendees"
+        }
+      ]
+    }
+  ]
+}

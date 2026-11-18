@@ -1,0 +1,537 @@
+{
+  "id": "vocab-v09-banking",
+  "kind": "vocab",
+  "title": "Từ vựng V09 – Ngân hàng",
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "24 từ chủ đề ngân hàng, tự chọn theo tần suất công sở, tự soạn ví dụ.",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 0
+    }
+  },
+  "words": [
+    {
+      "id": "w0001",
+      "word": "account",
+      "pos": "n",
+      "ipa": "/əˈkaʊnt/",
+      "meaning_vi": "tài khoản",
+      "definition_en": "an arrangement with a bank to keep money there",
+      "examples": [
+        {
+          "en": "I opened a business account at the local branch.",
+          "vi": "Tôi mở tài khoản doanh nghiệp tại chi nhánh địa phương."
+        }
+      ],
+      "collocations": [
+        "open an account",
+        "bank account"
+      ],
+      "family": [],
+      "topic": "v09_banking",
+      "level": 1
+    },
+    {
+      "id": "w0002",
+      "word": "deposit",
+      "pos": "n",
+      "ipa": "/dɪˈpɑːzɪt/",
+      "meaning_vi": "tiền gửi",
+      "definition_en": "money put into a bank account",
+      "examples": [
+        {
+          "en": "She made a deposit of five hundred dollars.",
+          "vi": "Cô ấy gửi năm trăm đô vào tài khoản."
+        }
+      ],
+      "collocations": [
+        "make a deposit",
+        "security deposit"
+      ],
+      "family": [
+        "deposit (v)"
+      ],
+      "topic": "v09_banking",
+      "level": 2
+    },
+    {
+      "id": "w0003",
+      "word": "withdrawal",
+      "pos": "n",
+      "ipa": "/wɪðˈdrɔːəl/",
+      "meaning_vi": "việc rút tiền",
+      "definition_en": "the act of taking money out of an account",
+      "examples": [
+        {
+          "en": "There is a daily limit on cash withdrawals.",
+          "vi": "Có giới hạn rút tiền mặt mỗi ngày."
+        }
+      ],
+      "collocations": [
+        "cash withdrawal",
+        "make a withdrawal"
+      ],
+      "family": [
+        "withdraw (v)"
+      ],
+      "topic": "v09_banking",
+      "level": 3
+    },
+    {
+      "id": "w0004",
+      "word": "interest",
+      "pos": "n",
+      "ipa": "/ˈɪntrəst/",
+      "meaning_vi": "lãi suất, tiền lãi",
+      "definition_en": "money paid for borrowing or earned on savings",
+      "examples": [
+        {
+          "en": "The account pays interest every month.",
+          "vi": "Tài khoản trả lãi hằng tháng."
+        }
+      ],
+      "collocations": [
+        "interest rate",
+        "pay interest"
+      ],
+      "family": [],
+      "topic": "v09_banking",
+      "level": 2
+    },
+    {
+      "id": "w0005",
+      "word": "loan",
+      "pos": "n",
+      "ipa": "/loʊn/",
+      "meaning_vi": "khoản vay",
+      "definition_en": "money borrowed that must be paid back",
+      "examples": [
+        {
+          "en": "They took out a loan to buy new equipment.",
+          "vi": "Họ vay một khoản để mua thiết bị mới."
+        }
+      ],
+      "collocations": [
+        "take out a loan",
+        "repay a loan"
+      ],
+      "family": [],
+      "topic": "v09_banking",
+      "level": 2
+    },
+    {
+      "id": "w0006",
+      "word": "collateral",
+      "pos": "n",
+      "ipa": "/kəˈlætərəl/",
+      "meaning_vi": "tài sản thế chấp",
+      "definition_en": "property promised to a lender if a loan is not repaid",
+      "examples": [
+        {
+          "en": "The bank asked for collateral before approving the loan.",
+          "vi": "Ngân hàng yêu cầu tài sản thế chấp trước khi duyệt khoản vay."
+        }
+      ],
+      "collocations": [
+        "provide collateral",
+        "use as collateral"
+      ],
+      "family": [],
+      "topic": "v09_banking",
+      "level": 5
+    },
+    {
+      "id": "w0007",
+      "word": "overdraft",
+      "pos": "n",
+      "ipa": "/ˈoʊvərdræft/",
+      "meaning_vi": "thấu chi",
+      "definition_en": "an arrangement to spend more money than is in an account",
+      "examples": [
+        {
+          "en": "The company arranged an overdraft to cover the gap.",
+          "vi": "Công ty sắp xếp khoản thấu chi để bù thiếu hụt."
+        }
+      ],
+      "collocations": [
+        "overdraft limit",
+        "arrange an overdraft"
+      ],
+      "family": [],
+      "topic": "v09_banking",
+      "level": 4
+    },
+    {
+      "id": "w0008",
+      "word": "statement",
+      "pos": "n",
+      "ipa": "/ˈsteɪtmənt/",
+      "meaning_vi": "sao kê",
+      "definition_en": "a document showing transactions in an account",
+      "examples": [
+        {
+          "en": "Check the statement for any unexpected charges.",
+          "vi": "Kiểm tra sao kê xem có khoản phí bất thường không."
+        }
+      ],
+      "collocations": [
+        "bank statement",
+        "monthly statement"
+      ],
+      "family": [],
+      "topic": "v09_banking",
+      "level": 2
+    },
+    {
+      "id": "w0009",
+      "word": "wire",
+      "pos": "v",
+      "ipa": "/ˈwaɪər/",
+      "meaning_vi": "chuyển tiền điện báo",
+      "definition_en": "to send money electronically from one account to another",
+      "examples": [
+        {
+          "en": "The client will wire the payment tomorrow.",
+          "vi": "Khách sẽ chuyển tiền điện báo vào ngày mai."
+        }
+      ],
+      "collocations": [
+        "wire money",
+        "wire transfer"
+      ],
+      "family": [
+        "wire (n)"
+      ],
+      "topic": "v09_banking",
+      "level": 3
+    },
+    {
+      "id": "w0010",
+      "word": "ATM",
+      "pos": "n",
+      "ipa": "/ˌeɪ tiː ˈem/",
+      "meaning_vi": "máy rút tiền tự động",
+      "definition_en": "a machine used to take money out of a bank account",
+      "examples": [
+        {
+          "en": "The ATM outside the station accepts foreign cards.",
+          "vi": "Máy ATM ngoài ga nhận thẻ nước ngoài."
+        }
+      ],
+      "collocations": [
+        "use an ATM",
+        "ATM card"
+      ],
+      "family": [],
+      "topic": "v09_banking",
+      "level": 2
+    },
+    {
+      "id": "w0011",
+      "word": "branch",
+      "pos": "n",
+      "ipa": "/bræntʃ/",
+      "meaning_vi": "chi nhánh",
+      "definition_en": "a local office of a bank or company",
+      "examples": [
+        {
+          "en": "The nearest branch closes at four on Fridays.",
+          "vi": "Chi nhánh gần nhất đóng lúc bốn giờ thứ Sáu."
+        }
+      ],
+      "collocations": [
+        "bank branch",
+        "local branch"
+      ],
+      "family": [],
+      "topic": "v09_banking",
+      "level": 2
+    },
+    {
+      "id": "w0012",
+      "word": "teller",
+      "pos": "n",
+      "ipa": "/ˈtelər/",
+      "meaning_vi": "giao dịch viên",
+      "definition_en": "a bank employee who handles payments and withdrawals",
+      "examples": [
+        {
+          "en": "The teller counted the cash twice before handing it over.",
+          "vi": "Giao dịch viên đếm tiền hai lần trước khi đưa."
+        }
+      ],
+      "collocations": [
+        "bank teller",
+        "speak to a teller"
+      ],
+      "family": [],
+      "topic": "v09_banking",
+      "level": 3
+    },
+    {
+      "id": "w0013",
+      "word": "currency",
+      "pos": "n",
+      "ipa": "/ˈkɜːrənsi/",
+      "meaning_vi": "tiền tệ",
+      "definition_en": "the money used in a particular country",
+      "examples": [
+        {
+          "en": "The invoice must be paid in local currency.",
+          "vi": "Hóa đơn phải thanh toán bằng tiền địa phương."
+        }
+      ],
+      "collocations": [
+        "foreign currency",
+        "local currency"
+      ],
+      "family": [],
+      "topic": "v09_banking",
+      "level": 3
+    },
+    {
+      "id": "w0014",
+      "word": "exchange rate",
+      "pos": "n",
+      "ipa": "/ɪksˈtʃeɪndʒ reɪt/",
+      "meaning_vi": "tỷ giá hối đoái",
+      "definition_en": "the value of one currency compared with another",
+      "examples": [
+        {
+          "en": "The exchange rate changed sharply after the announcement.",
+          "vi": "Tỷ giá thay đổi mạnh sau thông báo."
+        }
+      ],
+      "collocations": [
+        "favorable exchange rate",
+        "check the exchange rate"
+      ],
+      "family": [],
+      "topic": "v09_banking",
+      "level": 3
+    },
+    {
+      "id": "w0015",
+      "word": "transaction",
+      "pos": "n",
+      "ipa": "/trænˈzækʃn/",
+      "meaning_vi": "giao dịch",
+      "definition_en": "an instance of buying, selling, or transferring money",
+      "examples": [
+        {
+          "en": "Each transaction appears on the mobile app immediately.",
+          "vi": "Mỗi giao dịch hiện trên ứng dụng ngay lập tức."
+        }
+      ],
+      "collocations": [
+        "online transaction",
+        "record a transaction"
+      ],
+      "family": [
+        "transact (v)"
+      ],
+      "topic": "v09_banking",
+      "level": 3
+    },
+    {
+      "id": "w0016",
+      "word": "savings",
+      "pos": "n",
+      "ipa": "/ˈseɪvɪŋz/",
+      "meaning_vi": "tiền tiết kiệm",
+      "definition_en": "money kept for future use",
+      "examples": [
+        {
+          "en": "She put half her salary into savings.",
+          "vi": "Cô ấy để một nửa lương vào tiết kiệm."
+        }
+      ],
+      "collocations": [
+        "savings account",
+        "use up savings"
+      ],
+      "family": [
+        "save (v)"
+      ],
+      "topic": "v09_banking",
+      "level": 2
+    },
+    {
+      "id": "w0017",
+      "word": "checking",
+      "pos": "n",
+      "ipa": "/ˈtʃekɪŋ/",
+      "meaning_vi": "tài khoản vãng lai",
+      "definition_en": "a bank account used for everyday payments",
+      "examples": [
+        {
+          "en": "The rent is paid from our checking account.",
+          "vi": "Tiền thuê nhà được trả từ tài khoản vãng lai."
+        }
+      ],
+      "collocations": [
+        "checking account",
+        "open checking"
+      ],
+      "family": [],
+      "topic": "v09_banking",
+      "level": 2
+    },
+    {
+      "id": "w0018",
+      "word": "beneficiary",
+      "pos": "n",
+      "ipa": "/ˌbenɪˈfɪʃieri/",
+      "meaning_vi": "người thụ hưởng",
+      "definition_en": "a person who receives money from a policy or transfer",
+      "examples": [
+        {
+          "en": "Please name a beneficiary for the insurance policy.",
+          "vi": "Vui lòng ghi tên người thụ hưởng cho hợp đồng bảo hiểm."
+        }
+      ],
+      "collocations": [
+        "named beneficiary",
+        "sole beneficiary"
+      ],
+      "family": [],
+      "topic": "v09_banking",
+      "level": 5
+    },
+    {
+      "id": "w0019",
+      "word": "principal",
+      "pos": "n",
+      "ipa": "/ˈprɪnsəpl/",
+      "meaning_vi": "tiền gốc",
+      "definition_en": "the original amount of a loan, not including interest",
+      "examples": [
+        {
+          "en": "Extra payments reduce the principal faster.",
+          "vi": "Thanh toán thêm giúp giảm tiền gốc nhanh hơn."
+        }
+      ],
+      "collocations": [
+        "repay the principal",
+        "principal amount"
+      ],
+      "family": [],
+      "topic": "v09_banking",
+      "level": 4
+    },
+    {
+      "id": "w0020",
+      "word": "installment",
+      "pos": "n",
+      "ipa": "/ɪnˈstɔːlmənt/",
+      "meaning_vi": "khoản trả góp",
+      "definition_en": "one of several regular payments for something",
+      "examples": [
+        {
+          "en": "They pay for the equipment in monthly installments.",
+          "vi": "Họ trả tiền thiết bị theo các khoản hằng tháng."
+        }
+      ],
+      "collocations": [
+        "monthly installment",
+        "pay in installments"
+      ],
+      "family": [],
+      "topic": "v09_banking",
+      "level": 4
+    },
+    {
+      "id": "w0021",
+      "word": "default",
+      "pos": "v",
+      "ipa": "/dɪˈfɔːlt/",
+      "meaning_vi": "vỡ nợ",
+      "definition_en": "to fail to repay a loan on time",
+      "examples": [
+        {
+          "en": "The borrower defaulted after losing his job.",
+          "vi": "Người vay vỡ nợ sau khi mất việc."
+        }
+      ],
+      "collocations": [
+        "default on a loan",
+        "risk of default"
+      ],
+      "family": [
+        "default (n)"
+      ],
+      "topic": "v09_banking",
+      "level": 5
+    },
+    {
+      "id": "w0022",
+      "word": "authorize",
+      "pos": "v",
+      "ipa": "/ˈɔːθəraɪz/",
+      "meaning_vi": "ủy quyền, phê duyệt",
+      "definition_en": "to give official permission for a payment or action",
+      "examples": [
+        {
+          "en": "Only the manager can authorize transfers above ten thousand dollars.",
+          "vi": "Chỉ quản lý mới có quyền duyệt chuyển khoản trên mười nghìn đô."
+        }
+      ],
+      "collocations": [
+        "authorize a payment",
+        "authorize access"
+      ],
+      "family": [
+        "authorization (n)"
+      ],
+      "topic": "v09_banking",
+      "level": 3
+    },
+    {
+      "id": "w0023",
+      "word": "PIN",
+      "pos": "n",
+      "ipa": "/pɪn/",
+      "meaning_vi": "mã PIN",
+      "definition_en": "a secret number used to use a bank card",
+      "examples": [
+        {
+          "en": "Never share your PIN with anyone.",
+          "vi": "Không bao giờ chia sẻ mã PIN với ai."
+        }
+      ],
+      "collocations": [
+        "enter a PIN",
+        "forget a PIN"
+      ],
+      "family": [],
+      "topic": "v09_banking",
+      "level": 2
+    },
+    {
+      "id": "w0024",
+      "word": "online banking",
+      "pos": "n",
+      "ipa": "/ˌɑːnlaɪn ˈbæŋkɪŋ/",
+      "meaning_vi": "ngân hàng trực tuyến",
+      "definition_en": "managing a bank account through the internet",
+      "examples": [
+        {
+          "en": "Online banking lets you pay bills after hours.",
+          "vi": "Ngân hàng trực tuyến cho phép thanh toán hóa đơn ngoài giờ."
+        }
+      ],
+      "collocations": [
+        "use online banking",
+        "online banking app"
+      ],
+      "family": [],
+      "topic": "v09_banking",
+      "level": 2
+    }
+  ]
+}

@@ -1,0 +1,1380 @@
+{
+  "id": "practice-p2-wh-where-01",
+  "kind": "practice",
+  "title": "Luyện Part 2 – Where",
+  "level": "medium",
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 20
+    }
+  },
+  "groups": [
+    {
+      "id": "g01",
+      "part": 2,
+      "audio": "audio/g01.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 1.",
+          "vi": "Câu 1."
+        },
+        {
+          "speaker": "W1",
+          "accent": "UK",
+          "text": "Where is the new office located?",
+          "vi": "Where is the new office located?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(A) Near the central station.",
+          "vi": "(A) Near the central station."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(B) At nine o'clock.",
+          "vi": "(B) At nine o'clock."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(C) About fifty people.",
+          "vi": "(C) About fifty people."
+        }
+      ],
+      "questions": [
+        {
+          "no": 1,
+          "type": "p2_wh_where",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Near the central station."
+            },
+            {
+              "key": "B",
+              "text": "At nine o'clock."
+            },
+            {
+              "key": "C",
+              "text": "About fifty people."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'Where' hỏi nơi chốn nên 'Near the central station' đúng.",
+            "why_wrong": {
+              "B": "Đây là câu trả lời cho 'When'.",
+              "C": "Đây là câu trả lời cho 'How many'."
+            },
+            "translation_vi": "Văn phòng mới ở đâu? – Gần ga trung tâm."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "part": 2,
+      "audio": "audio/g02.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 2.",
+          "vi": "Câu 2."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "Where did you leave the keys?",
+          "vi": "Where did you leave the keys?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(A) They are new.",
+          "vi": "(A) They are new."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(B) Yes, I did.",
+          "vi": "(B) Yes, I did."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(C) On the kitchen table.",
+          "vi": "(C) On the kitchen table."
+        }
+      ],
+      "questions": [
+        {
+          "no": 2,
+          "type": "p2_wh_where",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "They are new."
+            },
+            {
+              "key": "B",
+              "text": "Yes, I did."
+            },
+            {
+              "key": "C",
+              "text": "On the kitchen table."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'Where' hỏi nơi chốn nên 'On the kitchen table' đúng.",
+            "why_wrong": {
+              "A": "Nhận xét chìa khóa, không trả lời nơi chốn.",
+              "B": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Anh để chìa khóa ở đâu? – Trên bàn bếp."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "part": 2,
+      "audio": "audio/g03.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 3.",
+          "vi": "Câu 3."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "Where can I buy a train ticket?",
+          "vi": "Where can I buy a train ticket?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(A) At three o'clock.",
+          "vi": "(A) At three o'clock."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(B) From the machine by the gate.",
+          "vi": "(B) From the machine by the gate."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(C) Yes, two tickets.",
+          "vi": "(C) Yes, two tickets."
+        }
+      ],
+      "questions": [
+        {
+          "no": 3,
+          "type": "p2_wh_where",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "At three o'clock."
+            },
+            {
+              "key": "B",
+              "text": "From the machine by the gate."
+            },
+            {
+              "key": "C",
+              "text": "Yes, two tickets."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'Where' hỏi nơi chốn nên 'From the machine by the gate' đúng.",
+            "why_wrong": {
+              "A": "Đây là câu trả lời cho 'When'.",
+              "C": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Tôi có thể mua vé tàu ở đâu? – Ở máy bán vé cạnh cổng."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "part": 2,
+      "audio": "audio/g04.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 4.",
+          "vi": "Câu 4."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Where should we put the new shelves?",
+          "vi": "Where should we put the new shelves?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(A) Against the back wall.",
+          "vi": "(A) Against the back wall."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(B) On Friday morning.",
+          "vi": "(B) On Friday morning."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(C) About four boxes.",
+          "vi": "(C) About four boxes."
+        }
+      ],
+      "questions": [
+        {
+          "no": 4,
+          "type": "p2_wh_where",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Against the back wall."
+            },
+            {
+              "key": "B",
+              "text": "On Friday morning."
+            },
+            {
+              "key": "C",
+              "text": "About four boxes."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'Where' hỏi nơi chốn nên 'Against the back wall' đúng.",
+            "why_wrong": {
+              "B": "Đây là câu trả lời cho 'When'.",
+              "C": "Đây là câu trả lời cho 'How many'."
+            },
+            "translation_vi": "Chúng ta nên đặt kệ mới ở đâu? – Dựa vào tường phía sau."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "part": 2,
+      "audio": "audio/g05.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 5.",
+          "vi": "Câu 5."
+        },
+        {
+          "speaker": "W1",
+          "accent": "UK",
+          "text": "Where is the nearest post office?",
+          "vi": "Where is the nearest post office?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(A) It closes at six.",
+          "vi": "(A) It closes at six."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(B) Yes, it is near.",
+          "vi": "(B) Yes, it is near."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(C) Just over the bridge.",
+          "vi": "(C) Just over the bridge."
+        }
+      ],
+      "questions": [
+        {
+          "no": 5,
+          "type": "p2_wh_where",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "It closes at six."
+            },
+            {
+              "key": "B",
+              "text": "Yes, it is near."
+            },
+            {
+              "key": "C",
+              "text": "Just over the bridge."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'Where' hỏi nơi chốn nên 'Just over the bridge' đúng.",
+            "why_wrong": {
+              "A": "Đây là câu trả lời cho 'When'.",
+              "B": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Bưu điện gần nhất ở đâu? – Ngay bên kia cầu."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g06",
+      "part": 2,
+      "audio": "audio/g06.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 6.",
+          "vi": "Câu 6."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "Where did the meeting take place?",
+          "vi": "Where did the meeting take place?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(A) For two hours.",
+          "vi": "(A) For two hours."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(B) In the small conference room.",
+          "vi": "(B) In the small conference room."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(C) Yes, it did.",
+          "vi": "(C) Yes, it did."
+        }
+      ],
+      "questions": [
+        {
+          "no": 6,
+          "type": "p2_wh_where",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "For two hours."
+            },
+            {
+              "key": "B",
+              "text": "In the small conference room."
+            },
+            {
+              "key": "C",
+              "text": "Yes, it did."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'Where' hỏi nơi chốn nên 'In the small conference room' đúng.",
+            "why_wrong": {
+              "A": "Đây là câu trả lời cho 'How long'.",
+              "C": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Cuộc họp diễn ra ở đâu? – Phòng hội nghị nhỏ."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g07",
+      "part": 2,
+      "audio": "audio/g07.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 7.",
+          "vi": "Câu 7."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "Where are the safety instructions posted?",
+          "vi": "Where are the safety instructions posted?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(A) Beside the main exit.",
+          "vi": "(A) Beside the main exit."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(B) Every Monday.",
+          "vi": "(B) Every Monday."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(C) Yes, they are clear.",
+          "vi": "(C) Yes, they are clear."
+        }
+      ],
+      "questions": [
+        {
+          "no": 7,
+          "type": "p2_wh_where",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Beside the main exit."
+            },
+            {
+              "key": "B",
+              "text": "Every Monday."
+            },
+            {
+              "key": "C",
+              "text": "Yes, they are clear."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'Where' hỏi nơi chốn nên 'Beside the main exit' đúng.",
+            "why_wrong": {
+              "B": "Đây là câu trả lời cho 'When'.",
+              "C": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Hướng dẫn an toàn được dán ở đâu? – Cạnh lối ra chính."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g08",
+      "part": 2,
+      "audio": "audio/g08.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 8.",
+          "vi": "Câu 8."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Where should I send the signed forms?",
+          "vi": "Where should I send the signed forms?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(A) By registered mail.",
+          "vi": "(A) By registered mail."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(B) Yes, please send them.",
+          "vi": "(B) Yes, please send them."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(C) To the HR office on floor two.",
+          "vi": "(C) To the HR office on floor two."
+        }
+      ],
+      "questions": [
+        {
+          "no": 8,
+          "type": "p2_wh_where",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "By registered mail."
+            },
+            {
+              "key": "B",
+              "text": "Yes, please send them."
+            },
+            {
+              "key": "C",
+              "text": "To the HR office on floor two."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'Where' hỏi nơi chốn nên 'To the HR office' đúng.",
+            "why_wrong": {
+              "A": "Đây là câu trả lời cho 'How'.",
+              "B": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Tôi nên gửi mẫu đã ký đến đâu? – Phòng nhân sự tầng hai."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g09",
+      "part": 2,
+      "audio": "audio/g09.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 9.",
+          "vi": "Câu 9."
+        },
+        {
+          "speaker": "W1",
+          "accent": "UK",
+          "text": "Where did the shipment get held up?",
+          "vi": "Where did the shipment get held up?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(A) For three days.",
+          "vi": "(A) For three days."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(B) At the customs office.",
+          "vi": "(B) At the customs office."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(C) Yes, it was delayed.",
+          "vi": "(C) Yes, it was delayed."
+        }
+      ],
+      "questions": [
+        {
+          "no": 9,
+          "type": "p2_wh_where",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "For three days."
+            },
+            {
+              "key": "B",
+              "text": "At the customs office."
+            },
+            {
+              "key": "C",
+              "text": "Yes, it was delayed."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'Where' hỏi nơi chốn nên 'At the customs office' đúng.",
+            "why_wrong": {
+              "A": "Đây là câu trả lời cho 'How long'.",
+              "C": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Lô hàng bị giữ ở đâu? – Ở hải quan."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g10",
+      "part": 2,
+      "audio": "audio/g10.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 10.",
+          "vi": "Câu 10."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "Where can employees park during the repairs?",
+          "vi": "Where can employees park during the repairs?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(A) In the lot on Mill Road.",
+          "vi": "(A) In the lot on Mill Road."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(B) Until next week.",
+          "vi": "(B) Until next week."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(C) About thirty cars.",
+          "vi": "(C) About thirty cars."
+        }
+      ],
+      "questions": [
+        {
+          "no": 10,
+          "type": "p2_wh_where",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "In the lot on Mill Road."
+            },
+            {
+              "key": "B",
+              "text": "Until next week."
+            },
+            {
+              "key": "C",
+              "text": "About thirty cars."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'Where' hỏi nơi chốn nên 'In the lot on Mill Road' đúng.",
+            "why_wrong": {
+              "B": "Đây là câu trả lời cho 'When'.",
+              "C": "Đây là câu trả lời cho 'How many'."
+            },
+            "translation_vi": "Nhân viên đỗ xe ở đâu trong thời gian sửa chữa? – Bãi trên phố Mill."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g11",
+      "part": 2,
+      "audio": "audio/g11.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 11.",
+          "vi": "Câu 11."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "Where is the best place to hold the interview?",
+          "vi": "Where is the best place to hold the interview?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(A) At half past two.",
+          "vi": "(A) At half past two."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(B) Yes, that is fine.",
+          "vi": "(B) Yes, that is fine."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(C) The quiet room upstairs.",
+          "vi": "(C) The quiet room upstairs."
+        }
+      ],
+      "questions": [
+        {
+          "no": 11,
+          "type": "p2_wh_where",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "At half past two."
+            },
+            {
+              "key": "B",
+              "text": "Yes, that is fine."
+            },
+            {
+              "key": "C",
+              "text": "The quiet room upstairs."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'Where' hỏi nơi chốn nên 'The quiet room upstairs' đúng.",
+            "why_wrong": {
+              "A": "Đây là câu trả lời cho 'When'.",
+              "B": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Nơi tốt nhất để phỏng vấn là đâu? – Phòng yên tĩnh trên lầu."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g12",
+      "part": 2,
+      "audio": "audio/g12.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 12.",
+          "vi": "Câu 12."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Where did you find the missing file?",
+          "vi": "Where did you find the missing file?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(A) It was important.",
+          "vi": "(A) It was important."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(B) In the archive room.",
+          "vi": "(B) In the archive room."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(C) Yes, I found it.",
+          "vi": "(C) Yes, I found it."
+        }
+      ],
+      "questions": [
+        {
+          "no": 12,
+          "type": "p2_wh_where",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "It was important."
+            },
+            {
+              "key": "B",
+              "text": "In the archive room."
+            },
+            {
+              "key": "C",
+              "text": "Yes, I found it."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'Where' hỏi nơi chốn nên 'In the archive room' đúng.",
+            "why_wrong": {
+              "A": "Nhận xét tệp, không trả lời nơi chốn.",
+              "C": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Anh tìm thấy tệp bị mất ở đâu? – Trong phòng lưu trữ."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g13",
+      "part": 2,
+      "audio": "audio/g13.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 13.",
+          "vi": "Câu 13."
+        },
+        {
+          "speaker": "W1",
+          "accent": "UK",
+          "text": "Where should the extra chairs be stored?",
+          "vi": "Where should the extra chairs be stored?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(A) The caretaker knows a space behind the stage.",
+          "vi": "(A) The caretaker knows a space behind the stage."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(B) For the evening event.",
+          "vi": "(B) For the evening event."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(C) Yes, we need them.",
+          "vi": "(C) Yes, we need them."
+        }
+      ],
+      "questions": [
+        {
+          "no": 13,
+          "type": "p2_wh_where",
+          "difficulty": 4,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The caretaker knows a space behind the stage."
+            },
+            {
+              "key": "B",
+              "text": "For the evening event."
+            },
+            {
+              "key": "C",
+              "text": "Yes, we need them."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Đáp án chỉ người biết chỗ cất, là cách trả lời gián tiếp cho 'where'.",
+            "why_wrong": {
+              "B": "Đây là câu trả lời cho 'When'.",
+              "C": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Ghế thừa nên cất ở đâu? – Người trông coi biết chỗ sau sân khấu."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g14",
+      "part": 2,
+      "audio": "audio/g14.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 14.",
+          "vi": "Câu 14."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "Where should the extra chairs be stored?",
+          "vi": "Where should the extra chairs be stored?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(A) For the evening event.",
+          "vi": "(A) For the evening event."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(B) Yes, we need them.",
+          "vi": "(B) Yes, we need them."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(C) Behind the stage, I think.",
+          "vi": "(C) Behind the stage, I think."
+        }
+      ],
+      "questions": [
+        {
+          "no": 14,
+          "type": "p2_wh_where",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "For the evening event."
+            },
+            {
+              "key": "B",
+              "text": "Yes, we need them."
+            },
+            {
+              "key": "C",
+              "text": "Behind the stage, I think."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'Where' hỏi nơi chốn nên 'Behind the stage' đúng.",
+            "why_wrong": {
+              "A": "Đây là câu trả lời cho 'When'.",
+              "B": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Ghế thừa nên cất ở đâu? – Tôi nghĩ là sau sân khấu."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g15",
+      "part": 2,
+      "audio": "audio/g15.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 15.",
+          "vi": "Câu 15."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "Where is the company registered?",
+          "vi": "Where is the company registered?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(A) Since 2015.",
+          "vi": "(A) Since 2015."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(B) At the address shown on the contract.",
+          "vi": "(B) At the address shown on the contract."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(C) Yes, it is registered.",
+          "vi": "(C) Yes, it is registered."
+        }
+      ],
+      "questions": [
+        {
+          "no": 15,
+          "type": "p2_wh_where",
+          "difficulty": 4,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Since 2015."
+            },
+            {
+              "key": "B",
+              "text": "At the address shown on the contract."
+            },
+            {
+              "key": "C",
+              "text": "Yes, it is registered."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Địa chỉ trên hợp đồng là nơi đăng ký, đáp án gián tiếp đúng.",
+            "why_wrong": {
+              "A": "Đây là câu trả lời cho 'When'.",
+              "C": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Công ty đăng ký ở đâu? – Ở địa chỉ ghi trên hợp đồng."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g16",
+      "part": 2,
+      "audio": "audio/g16.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 16.",
+          "vi": "Câu 16."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Where did the water leak come from?",
+          "vi": "Where did the water leak come from?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(A) Under the kitchen sink.",
+          "vi": "(A) Under the kitchen sink."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(B) For two hours.",
+          "vi": "(B) For two hours."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(C) Yes, it leaked.",
+          "vi": "(C) Yes, it leaked."
+        }
+      ],
+      "questions": [
+        {
+          "no": 16,
+          "type": "p2_wh_where",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Under the kitchen sink."
+            },
+            {
+              "key": "B",
+              "text": "For two hours."
+            },
+            {
+              "key": "C",
+              "text": "Yes, it leaked."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'Where' hỏi nguồn rò rỉ nên 'Under the kitchen sink' đúng.",
+            "why_wrong": {
+              "B": "Đây là câu trả lời cho 'How long'.",
+              "C": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Nước rò từ đâu? – Dưới bồn rửa bếp."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g17",
+      "part": 2,
+      "audio": "audio/g17.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 17.",
+          "vi": "Câu 17."
+        },
+        {
+          "speaker": "W1",
+          "accent": "UK",
+          "text": "Where can I find last year's figures?",
+          "vi": "Where can I find last year's figures?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(A) They were accurate.",
+          "vi": "(A) They were accurate."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(B) Yes, last year.",
+          "vi": "(B) Yes, last year."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(C) Ask the analyst who prepared them.",
+          "vi": "(C) Ask the analyst who prepared them."
+        }
+      ],
+      "questions": [
+        {
+          "no": 17,
+          "type": "p2_wh_where",
+          "difficulty": 4,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "They were accurate."
+            },
+            {
+              "key": "B",
+              "text": "Yes, last year."
+            },
+            {
+              "key": "C",
+              "text": "Ask the analyst who prepared them."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Người lập số liệu là người biết chỗ lưu, đáp án gián tiếp đúng.",
+            "why_wrong": {
+              "A": "Nhận xét số liệu, không trả lời nơi chốn.",
+              "B": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Tôi tìm số liệu năm ngoái ở đâu? – Hỏi chuyên viên đã lập chúng."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g18",
+      "part": 2,
+      "audio": "audio/g18.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 18.",
+          "vi": "Câu 18."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "Where can I find last year's figures?",
+          "vi": "Where can I find last year's figures?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(A) They were accurate.",
+          "vi": "(A) They were accurate."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(B) In the shared drive folder.",
+          "vi": "(B) In the shared drive folder."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(C) Yes, last year.",
+          "vi": "(C) Yes, last year."
+        }
+      ],
+      "questions": [
+        {
+          "no": 18,
+          "type": "p2_wh_where",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "They were accurate."
+            },
+            {
+              "key": "B",
+              "text": "In the shared drive folder."
+            },
+            {
+              "key": "C",
+              "text": "Yes, last year."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'Where' hỏi nơi chốn nên 'In the shared drive folder' đúng.",
+            "why_wrong": {
+              "A": "Nhận xét số liệu, không trả lời nơi chốn.",
+              "C": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Tôi tìm số liệu năm ngoái ở đâu? – Trong thư mục ổ chung."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g19",
+      "part": 2,
+      "audio": "audio/g19.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 19.",
+          "vi": "Câu 19."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "Where is the training being held this time?",
+          "vi": "Where is the training being held this time?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(A) At the Riverside Annex.",
+          "vi": "(A) At the Riverside Annex."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(B) For the whole morning.",
+          "vi": "(B) For the whole morning."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(C) Yes, it is training.",
+          "vi": "(C) Yes, it is training."
+        }
+      ],
+      "questions": [
+        {
+          "no": 19,
+          "type": "p2_wh_where",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "At the Riverside Annex."
+            },
+            {
+              "key": "B",
+              "text": "For the whole morning."
+            },
+            {
+              "key": "C",
+              "text": "Yes, it is training."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'Where' hỏi địa điểm nên 'At the Riverside Annex' đúng.",
+            "why_wrong": {
+              "B": "Đây là câu trả lời cho 'How long'.",
+              "C": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Lần này đào tạo diễn ra ở đâu? – Ở Riverside Annex."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g20",
+      "part": 2,
+      "audio": "audio/g20.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 20.",
+          "vi": "Câu 20."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Where did you put the delivery note?",
+          "vi": "Where did you put the delivery note?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(A) It was delivered on time.",
+          "vi": "(A) It was delivered on time."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(B) Yes, I have it.",
+          "vi": "(B) Yes, I have it."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(C) I filed it with the invoices.",
+          "vi": "(C) I filed it with the invoices."
+        }
+      ],
+      "questions": [
+        {
+          "no": 20,
+          "type": "p2_wh_where",
+          "difficulty": 4,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "It was delivered on time."
+            },
+            {
+              "key": "B",
+              "text": "Yes, I have it."
+            },
+            {
+              "key": "C",
+              "text": "I filed it with the invoices."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'Where' được trả lời gián tiếp bằng 'with the invoices'.",
+            "why_wrong": {
+              "A": "Nói thời điểm giao, không trả lời nơi chốn.",
+              "B": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Anh để phiếu giao hàng ở đâu? – Tôi lưu nó cùng hóa đơn."
+          }
+        }
+      ]
+    }
+  ]
+}

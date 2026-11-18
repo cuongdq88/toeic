@@ -1,0 +1,57 @@
+{
+  "id": "lesson-g07-pronouns",
+  "kind": "lesson",
+  "title": "Đại từ nhân xưng, sở hữu, phản thân",
+  "topic": "g07_pronouns",
+  "parts": [
+    5
+  ],
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "Bài ngữ pháp g07 kèm gói luyện practice-p5-pronoun-01.",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 0
+    }
+  },
+  "sections": [
+    {
+      "heading": "Ba nhóm đại từ",
+      "body": "**Nhân xưng:** I, you, he, she, it, we, they (chủ ngữ); me, you, him, her, it, us, them (tân ngữ). **Sở hữu:** my, your, his, her, its, our, their + danh từ; mine, yours, his, hers, ours, theirs đứng một mình. **Phản thân:** myself, yourself, himself, herself, itself, ourselves, yourselves, themselves."
+    },
+    {
+      "heading": "Vị trí và chức năng",
+      "body": "| Vị trí | Dùng |\n|---|---|\n| Trước động từ | đại từ chủ ngữ |\n| Sau động từ / giới từ | đại từ tân ngữ |\n| Trước danh từ | tính từ sở hữu |\n| Sau 'be' hoặc đứng một mình | đại từ sở hữu |\n| Chủ ngữ và tân ngữ cùng người | đại từ phản thân |"
+    },
+    {
+      "heading": "Mẹo nhận diện trong đề TOEIC",
+      "body": "Nếu chỗ trống đứng ngay sau động từ như *asked ___*, cần tân ngữ. Nếu sau chỗ trống có danh từ, cần tính từ sở hữu. Nếu câu nhấn mạnh 'chính người đó làm', dùng đại từ phản thân. Với 'each other', cần hai chủ thể tác động qua lại."
+    },
+    {
+      "heading": "Bẫy thường gặp",
+      "body": "'Its' khác 'it's' (= it is). 'Their' đi với danh từ, 'theirs' đứng một mình. Đừng dùng phản thân khi không cần: *He sent the file to me*, không phải *to myself*. Sau giới từ chỉ nơi chốn thông thường vẫn dùng đại từ tân ngữ."
+    }
+  ],
+  "examples": [
+    {
+      "en": "The supervisor asked me to draft the memo.",
+      "vi": "Quản lý yêu cầu tôi soạn bản ghi nhớ.",
+      "note": "Sau động từ 'asked' cần tân ngữ 'me'."
+    },
+    {
+      "en": "The team prides itself on finishing early.",
+      "vi": "Nhóm tự hào vì hoàn thành sớm.",
+      "note": "'The team' số ít đi với 'itself'."
+    },
+    {
+      "en": "These seats are ours, and those are theirs.",
+      "vi": "Những ghế này là của chúng tôi, còn kia là của họ.",
+      "note": "Đại từ sở hữu đứng sau 'be'."
+    }
+  ],
+  "practice_pack": "practice-p5-pronoun-01"
+}

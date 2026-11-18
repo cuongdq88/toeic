@@ -1,0 +1,991 @@
+{
+  "id": "practice-p7-multi-02",
+  "kind": "practice",
+  "title": "Luyện Part 7 – Đa văn bản 02",
+  "level": "medium",
+  "version": 1,
+  "meta": {
+    "author": "claude",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "ai_check": {
+      "date": "2026-11-17",
+      "fixed": 0
+    }
+  },
+  "groups": [
+    {
+      "id": "g01",
+      "part": 7,
+      "passages": [
+        {
+          "type": "memo",
+          "title": "Travel expense rules",
+          "text": "MEMO\nTo: All Staff\nFrom: Finance Department\nDate: 1 July\n\nFrom 1 August, the following limits apply to business travel:\n• Hotels: up to $160 per night in major cities and $120 elsewhere\n• Meals: up to $55 per day\n• Taxis: only when public transport is not available\n\nClaims above these limits must be approved in advance by a department director. Receipts must be submitted within ten days of returning.",
+          "vi": "Bản ghi nhớ của phòng Tài chính, ngày 1/7. Từ 1/8 áp dụng các mức sau cho công tác: khách sạn tối đa 160 đô/đêm ở thành phố lớn và 120 đô ở nơi khác; ăn uống tối đa 55 đô/ngày; chỉ đi taxi khi không có phương tiện công cộng. Khoản vượt mức phải được giám đốc bộ phận duyệt trước. Hóa đơn phải nộp trong mười ngày sau khi về."
+        },
+        {
+          "type": "email",
+          "title": "Question about a hotel",
+          "text": "To: Finance Department\nFrom: Kofi Mensah\nDate: 3 August\nSubject: Hotel for the Lisbon trip\n\nHello,\n\nI am traveling to Lisbon for the packaging trade fair from 18 to 21 August. Because of the fair, every hotel near the exhibition center charges at least $190 per night. The cheaper hotels are an hour away by train.\n\nMy director, Ms. Arnaud, has said she is happy for me to stay near the center. Could you confirm what I need to do?\n\nThanks,\nKofi",
+          "vi": "Email của Kofi Mensah gửi phòng Tài chính, ngày 3/8. Tôi đi Lisbon dự hội chợ bao bì từ 18 đến 21/8. Vì hội chợ, mọi khách sạn gần trung tâm triển lãm đều có giá ít nhất 190 đô/đêm; khách sạn rẻ hơn thì cách một tiếng đi tàu. Giám đốc của tôi, bà Arnaud, đồng ý cho tôi ở gần trung tâm. Xin cho biết tôi cần làm gì."
+        }
+      ],
+      "questions": [
+        {
+          "no": 1,
+          "type": "p7_not_true",
+          "difficulty": 3,
+          "stem": "What is NOT true about the new rules?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Meal costs are limited"
+            },
+            {
+              "key": "B",
+              "text": "Hotel limits depend on the city"
+            },
+            {
+              "key": "C",
+              "text": "Taxis may always be used"
+            },
+            {
+              "key": "D",
+              "text": "Receipts have a deadline"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Taxi chỉ được dùng khi không có phương tiện công cộng → 'luôn được dùng' là sai.",
+            "why_wrong": {
+              "A": "Đúng: ăn uống tối đa $55/ngày.",
+              "B": "Đúng: thành phố lớn $160, nơi khác $120.",
+              "D": "Đúng: nộp trong mười ngày."
+            },
+            "translation_vi": "Điều gì KHÔNG đúng về quy định mới? – Luôn được đi taxi."
+          }
+        },
+        {
+          "no": 2,
+          "type": "p7_cross_reference",
+          "difficulty": 4,
+          "stem": "Why does Mr. Mensah need special approval?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Because the cost is higher than the limit"
+            },
+            {
+              "key": "B",
+              "text": "Because the trip is longer than a week"
+            },
+            {
+              "key": "C",
+              "text": "Because he wants to travel by taxi"
+            },
+            {
+              "key": "D",
+              "text": "Because the fair is in July"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Khách sạn tối thiểu $190 vượt mức $160 → cần giám đốc duyệt trước.",
+            "why_wrong": {
+              "B": "Chuyến đi 18–21/8, không quá một tuần.",
+              "C": "Ông không hỏi về taxi.",
+              "D": "Hội chợ diễn ra tháng 8."
+            },
+            "translation_vi": "Vì sao ông Mensah cần phê duyệt? – Vì chi phí vượt mức cho phép."
+          },
+          "evidence": "up to $160 per night / at least $190 per night / above these limits must be approved"
+        },
+        {
+          "no": 3,
+          "type": "p7_cross_reference",
+          "difficulty": 4,
+          "stem": "What will Mr. Mensah most likely have to do?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Book a hotel an hour away"
+            },
+            {
+              "key": "B",
+              "text": "Pay for the hotel himself"
+            },
+            {
+              "key": "C",
+              "text": "Submit receipts before the trip"
+            },
+            {
+              "key": "D",
+              "text": "Ask Ms. Arnaud to approve the cost in advance"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Quy định: vượt mức phải giám đốc duyệt trước; bà Arnaud là giám đốc của ông → cần bà duyệt trước.",
+            "why_wrong": {
+              "A": "Bà Arnaud đã đồng ý cho ở gần trung tâm.",
+              "B": "Không có yêu cầu tự trả.",
+              "C": "Hóa đơn nộp sau chuyến đi."
+            },
+            "translation_vi": "Ông Mensah nhiều khả năng cần làm gì? – Xin bà Arnaud duyệt trước."
+          },
+          "evidence": "approved in advance by a department director / My director, Ms. Arnaud"
+        },
+        {
+          "no": 4,
+          "type": "p7_vocabulary_synonym",
+          "difficulty": 3,
+          "stem": "In the memo, the phrase \"in advance\" is closest in meaning to",
+          "options": [
+            {
+              "key": "A",
+              "text": "carefully"
+            },
+            {
+              "key": "B",
+              "text": "beforehand"
+            },
+            {
+              "key": "C",
+              "text": "officially"
+            },
+            {
+              "key": "D",
+              "text": "partly"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'approved in advance' = duyệt trước → 'beforehand'.",
+            "why_wrong": {
+              "A": "'carefully' là cẩn thận.",
+              "C": "'officially' là chính thức.",
+              "D": "'partly' là một phần."
+            },
+            "translation_vi": "Cụm 'in advance' gần nghĩa nhất với 'beforehand'."
+          }
+        },
+        {
+          "no": 5,
+          "type": "p7_inference",
+          "difficulty": 3,
+          "stem": "What is suggested about hotels in Lisbon?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Hotels near the exhibition center raise prices during the fair"
+            },
+            {
+              "key": "B",
+              "text": "Mr. Mensah works in the finance department"
+            },
+            {
+              "key": "C",
+              "text": "The fair has been canceled"
+            },
+            {
+              "key": "D",
+              "text": "Ms. Arnaud will travel with him"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'Because of the fair, every hotel near the exhibition center charges at least $190' → giá khách sạn gần trung tâm tăng vì hội chợ.",
+            "why_wrong": {
+              "B": "Ông gửi email cho phòng tài chính, không làm ở đó.",
+              "C": "Hội chợ vẫn diễn ra 18–21/8.",
+              "D": "Không nói bà đi cùng."
+            },
+            "translation_vi": "Có thể suy ra gì? – Khách sạn gần trung tâm tăng giá trong dịp hội chợ."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "part": 7,
+      "passages": [
+        {
+          "type": "web_page",
+          "title": "Bluewater Tours",
+          "text": "Bluewater Tours – Coastal Day Trips\n\nCliff Walk (4 hours): $45 – includes guide and snacks\nIsland Kayak (6 hours): $85 – includes equipment and lunch; minimum age 14\nLighthouse & Village (5 hours): $60 – includes guide, lunch, and museum entry\n\nGroups of eight or more receive 10 percent off. All tours depart from Harbor Gate at 9 A.M.",
+          "vi": "Bluewater Tours – tour ven biển trong ngày. Đi bộ vách đá (4 giờ): 45 đô, gồm hướng dẫn viên và đồ ăn nhẹ. Chèo kayak ra đảo (6 giờ): 85 đô, gồm dụng cụ và bữa trưa; từ 14 tuổi. Hải đăng & làng cổ (5 giờ): 60 đô, gồm hướng dẫn viên, bữa trưa và vé bảo tàng. Nhóm từ tám người giảm 10%. Mọi tour khởi hành từ Harbor Gate lúc 9 giờ sáng."
+        },
+        {
+          "type": "email",
+          "title": "Team outing",
+          "text": "To: bookings@bluewatertours.com\nFrom: Irene Walsh\nDate: 5 June\nSubject: Group booking\n\nHello,\n\nI would like to book a day trip for my team of ten on 21 June. Several members have said they would like to see some local history, and we would prefer a tour that includes lunch so we don't have to organize it ourselves.\n\nPlease let me know the total cost.\n\nIrene Walsh",
+          "vi": "Email của Irene Walsh, ngày 5/6. Tôi muốn đặt tour trong ngày cho nhóm mười người vào 21/6. Nhiều thành viên muốn tìm hiểu lịch sử địa phương, và chúng tôi muốn tour có bữa trưa để khỏi tự lo. Vui lòng cho biết tổng chi phí."
+        }
+      ],
+      "questions": [
+        {
+          "no": 6,
+          "type": "p7_main_idea_purpose",
+          "difficulty": 1,
+          "stem": "What is the purpose of the e-mail?",
+          "options": [
+            {
+              "key": "A",
+              "text": "To complain about a tour"
+            },
+            {
+              "key": "B",
+              "text": "To apply for a guide position"
+            },
+            {
+              "key": "C",
+              "text": "To arrange a group activity"
+            },
+            {
+              "key": "D",
+              "text": "To cancel a reservation"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Bà Walsh muốn đặt chuyến đi trong ngày cho nhóm.",
+            "why_wrong": {
+              "A": "Không phàn nàn.",
+              "B": "Không ứng tuyển.",
+              "D": "Không hủy đặt chỗ."
+            },
+            "translation_vi": "Mục đích email? – Sắp xếp một hoạt động nhóm."
+          }
+        },
+        {
+          "no": 7,
+          "type": "p7_cross_reference",
+          "difficulty": 4,
+          "stem": "Which tour will Ms. Walsh's team most likely take?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Cliff Walk"
+            },
+            {
+              "key": "B",
+              "text": "Island Kayak"
+            },
+            {
+              "key": "C",
+              "text": "Harbor Gate"
+            },
+            {
+              "key": "D",
+              "text": "Lighthouse & Village"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Nhóm muốn tìm hiểu lịch sử địa phương và có bữa trưa → tour Lighthouse & Village (có bảo tàng và bữa trưa).",
+            "why_wrong": {
+              "A": "Cliff Walk không có bữa trưa.",
+              "B": "Kayak có bữa trưa nhưng không liên quan lịch sử.",
+              "C": "Harbor Gate là điểm khởi hành."
+            },
+            "translation_vi": "Bà Walsh nhiều khả năng chọn tour nào? – Lighthouse & Village."
+          },
+          "evidence": "local history / includes lunch / Lighthouse & Village ... museum entry"
+        },
+        {
+          "no": 8,
+          "type": "p7_cross_reference",
+          "difficulty": 4,
+          "stem": "How much will Ms. Walsh's group most likely pay?",
+          "options": [
+            {
+              "key": "A",
+              "text": "$600"
+            },
+            {
+              "key": "B",
+              "text": "$540"
+            },
+            {
+              "key": "C",
+              "text": "$450"
+            },
+            {
+              "key": "D",
+              "text": "$765"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Mười người × $60 = $600, nhóm từ tám người giảm 10% → $540.",
+            "why_wrong": {
+              "A": "$600 là giá chưa giảm.",
+              "C": "$450 là giá Cliff Walk cho mười người.",
+              "D": "Không khớp phép tính nào."
+            },
+            "translation_vi": "Tổng chi phí nhiều khả năng là bao nhiêu? – $540."
+          },
+          "evidence": "$60 / team of ten / 10 percent off for eight or more"
+        },
+        {
+          "no": 9,
+          "type": "p7_not_true",
+          "difficulty": 3,
+          "stem": "What is NOT true about Bluewater Tours?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The kayak trip has an age limit"
+            },
+            {
+              "key": "B",
+              "text": "The cliff walk includes snacks"
+            },
+            {
+              "key": "C",
+              "text": "Some tours start in the afternoon"
+            },
+            {
+              "key": "D",
+              "text": "Large groups receive a discount"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Mọi tour khởi hành 9 giờ sáng → 'có tour bắt đầu buổi chiều' là sai.",
+            "why_wrong": {
+              "A": "Đúng: tối thiểu 14 tuổi.",
+              "B": "Đúng: có đồ ăn nhẹ.",
+              "D": "Đúng: nhóm lớn giảm 10%."
+            },
+            "translation_vi": "Điều gì KHÔNG đúng về các tour? – Có tour bắt đầu buổi chiều."
+          }
+        },
+        {
+          "no": 10,
+          "type": "p7_vocabulary_synonym",
+          "difficulty": 3,
+          "stem": "In the e-mail, the word \"organize\" is closest in meaning to",
+          "options": [
+            {
+              "key": "A",
+              "text": "describe"
+            },
+            {
+              "key": "B",
+              "text": "decorate"
+            },
+            {
+              "key": "C",
+              "text": "hire"
+            },
+            {
+              "key": "D",
+              "text": "arrange"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "'so we don't have to organize it ourselves' = tự sắp xếp → 'arrange'.",
+            "why_wrong": {
+              "A": "'describe' là mô tả.",
+              "B": "'decorate' là trang trí.",
+              "C": "'hire' là thuê."
+            },
+            "translation_vi": "Từ 'organize' gần nghĩa nhất với 'arrange'."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "part": 7,
+      "passages": [
+        {
+          "type": "article",
+          "title": "Merger announced",
+          "text": "DUNMORE (14 January) – Office supply retailer Penwright has agreed to merge with its smaller rival, Inkhouse. The combined company will keep the Penwright name and will operate 85 stores across the country.\n\nInkhouse's twelve stores will be renamed by the end of April. Penwright chief executive Joan Taylor said no stores would close as a result of the merger and that Inkhouse staff would keep their positions. Customers with Inkhouse loyalty cards will be able to use their points at any Penwright store.",
+          "vi": "DUNMORE (14/1) – Nhà bán lẻ văn phòng phẩm Penwright đồng ý sáp nhập với đối thủ nhỏ hơn là Inkhouse. Công ty sau sáp nhập giữ tên Penwright và có 85 cửa hàng trên cả nước. Mười hai cửa hàng Inkhouse sẽ đổi tên trước cuối tháng 4. Giám đốc điều hành Joan Taylor cho biết không cửa hàng nào đóng cửa và nhân viên Inkhouse giữ nguyên vị trí. Khách có thẻ thành viên Inkhouse dùng được điểm ở mọi cửa hàng Penwright."
+        },
+        {
+          "type": "letter",
+          "title": "Letter to customers",
+          "text": "Dear Inkhouse customer,\n\nYou may have read that Inkhouse is joining Penwright. We want to assure you that your local store on Market Street will stay open and that you will see the same friendly faces behind the counter.\n\nFrom 1 May, your store will carry the Penwright name and offer a wider range of products, including printing services. Your Inkhouse card will continue to work until 31 December, after which you can exchange it free of charge for a Penwright card.\n\nWarm regards,\nAlan Brooks, Store Manager, Inkhouse Market Street",
+          "vi": "Thư gửi khách hàng Inkhouse. Có thể quý khách đã biết Inkhouse sắp sáp nhập với Penwright. Chúng tôi xin cam đoan cửa hàng trên phố Market vẫn mở và vẫn những gương mặt thân quen phục vụ quý khách. Từ 1/5, cửa hàng mang tên Penwright và có thêm nhiều sản phẩm, gồm cả dịch vụ in. Thẻ Inkhouse vẫn dùng được tới 31/12, sau đó đổi miễn phí sang thẻ Penwright. Alan Brooks, quản lý cửa hàng Inkhouse phố Market."
+        }
+      ],
+      "questions": [
+        {
+          "no": 11,
+          "type": "p7_not_true",
+          "difficulty": 3,
+          "stem": "What is NOT true about the merger?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The combined company will be called Inkhouse"
+            },
+            {
+              "key": "B",
+              "text": "Penwright is larger than Inkhouse"
+            },
+            {
+              "key": "C",
+              "text": "No stores will close"
+            },
+            {
+              "key": "D",
+              "text": "The merger was announced in January"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Công ty sau sáp nhập giữ tên Penwright → 'gọi là Inkhouse' là sai.",
+            "why_wrong": {
+              "B": "Đúng: Inkhouse là đối thủ nhỏ hơn.",
+              "C": "Đúng: không cửa hàng nào đóng.",
+              "D": "Đúng: tin ngày 14/1."
+            },
+            "translation_vi": "Điều gì KHÔNG đúng về vụ sáp nhập? – Công ty mới tên Inkhouse."
+          }
+        },
+        {
+          "no": 12,
+          "type": "p7_cross_reference",
+          "difficulty": 4,
+          "stem": "What is indicated about the Market Street store?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It will close in April"
+            },
+            {
+              "key": "B",
+              "text": "The staff will remain the same"
+            },
+            {
+              "key": "C",
+              "text": "It will stop printing services"
+            },
+            {
+              "key": "D",
+              "text": "It will have a new manager"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Bài báo nói nhân viên Inkhouse giữ vị trí; thư nói 'vẫn những gương mặt quen' → nhân viên giữ nguyên.",
+            "why_wrong": {
+              "A": "Không cửa hàng nào đóng.",
+              "C": "Cửa hàng sẽ thêm dịch vụ in.",
+              "D": "Ông Brooks vẫn là quản lý, không nhắc người mới."
+            },
+            "translation_vi": "Điều gì đúng về cửa hàng Market Street? – Nhân viên giữ nguyên."
+          },
+          "evidence": "Inkhouse staff would keep their positions / the same friendly faces"
+        },
+        {
+          "no": 13,
+          "type": "p7_cross_reference",
+          "difficulty": 4,
+          "stem": "What can Inkhouse customers do with their loyalty points?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Use them only at Market Street"
+            },
+            {
+              "key": "B",
+              "text": "Use them at any Penwright store"
+            },
+            {
+              "key": "C",
+              "text": "Exchange them before 1 May"
+            },
+            {
+              "key": "D",
+              "text": "Pay a fee to keep them"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Bài báo nói điểm tích lũy dùng được ở mọi cửa hàng Penwright; thư nói thẻ vẫn dùng tới 31/12.",
+            "why_wrong": {
+              "A": "Dùng ở mọi cửa hàng Penwright.",
+              "C": "Đổi thẻ sau 31/12, không phải trước 1/5.",
+              "D": "Đổi thẻ miễn phí."
+            },
+            "translation_vi": "Khách có thể làm gì với điểm Inkhouse? – Dùng ở mọi cửa hàng Penwright."
+          },
+          "evidence": "use their points at any Penwright store / card will continue to work"
+        },
+        {
+          "no": 14,
+          "type": "p7_vocabulary_synonym",
+          "difficulty": 3,
+          "stem": "In the letter, the word \"assure\" in paragraph 1 is closest in meaning to",
+          "options": [
+            {
+              "key": "A",
+              "text": "reassure"
+            },
+            {
+              "key": "B",
+              "text": "insure"
+            },
+            {
+              "key": "C",
+              "text": "request"
+            },
+            {
+              "key": "D",
+              "text": "remind"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'We want to assure you that...' = trấn an, cam đoan → 'reassure'.",
+            "why_wrong": {
+              "B": "'insure' là mua bảo hiểm.",
+              "C": "'request' là yêu cầu.",
+              "D": "'remind' là nhắc nhở."
+            },
+            "translation_vi": "Từ 'assure' gần nghĩa nhất với 'reassure'."
+          }
+        },
+        {
+          "no": 15,
+          "type": "p7_inference",
+          "difficulty": 4,
+          "stem": "What is suggested about the Market Street store?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Mr. Brooks will move to another city"
+            },
+            {
+              "key": "B",
+              "text": "Inkhouse cards will stop working in May"
+            },
+            {
+              "key": "C",
+              "text": "The Market Street store did not offer printing before"
+            },
+            {
+              "key": "D",
+              "text": "Penwright plans to close twelve stores"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Thư nói từ 1/5 cửa hàng sẽ có thêm sản phẩm 'bao gồm dịch vụ in' → trước đây chưa có.",
+            "why_wrong": {
+              "A": "Không nói ông chuyển đi.",
+              "B": "Thẻ dùng tới 31/12.",
+              "D": "Không cửa hàng nào đóng."
+            },
+            "translation_vi": "Có thể suy ra gì về cửa hàng Market Street? – Trước đây chưa có dịch vụ in."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "part": 7,
+      "passages": [
+        {
+          "type": "invoice",
+          "title": "Invoice",
+          "text": "PRINTRITE SERVICES – INVOICE no. 3391\nCustomer: Larkspur Dental, 8 Hill Road\nDate: 4 September\n\nBusiness cards (500) ........ $60\nAppointment reminder cards (1,000) ........ $95\nWindow sign, large ........ $140\nDelivery ........ $15\nTotal ........ $310",
+          "vi": "Hóa đơn số 3391 của Printrite Services gửi phòng khám nha Larkspur, ngày 4/9: danh thiếp (500) 60 đô; thẻ nhắc lịch hẹn (1.000) 95 đô; biển hiệu cửa sổ cỡ lớn 140 đô; phí giao 15 đô; tổng 310 đô."
+        },
+        {
+          "type": "email",
+          "title": "Invoice question",
+          "text": "To: accounts@printrite.com\nFrom: Hugo Lambert, Larkspur Dental\nDate: 6 September\nSubject: Invoice 3391\n\nHello,\n\nThank you for the quick delivery. However, we did not order a window sign this time; that was part of our order in June. Please send a corrected invoice.\n\nAlso, I picked up the cards from your shop myself on the way home, so I don't think the delivery charge should apply either.\n\nRegards,\nHugo Lambert",
+          "vi": "Email của Hugo Lambert (Larkspur Dental), ngày 6/9. Cảm ơn bên bạn đã giao nhanh. Tuy nhiên lần này chúng tôi không đặt biển hiệu cửa sổ; đó là đơn tháng 6. Xin gửi hóa đơn đã sửa. Ngoài ra tôi tự ghé cửa hàng lấy thẻ trên đường về, nên tôi nghĩ không tính phí giao."
+        },
+        {
+          "type": "email",
+          "title": "Reply",
+          "text": "To: Hugo Lambert\nFrom: Accounts, Printrite\nDate: 7 September\nSubject: RE: Invoice 3391\n\nDear Mr. Lambert,\n\nYou are quite right, and we apologize for the errors. The window sign was added by mistake, and our records confirm that the order was collected in person. A corrected invoice is attached.\n\nAs a thank-you for your patience, we have also applied a 10 percent discount to the business cards.\n\nBest regards,\nPrintrite Accounts",
+          "vi": "Phòng Kế toán Printrite trả lời, ngày 7/9. Ông hoàn toàn đúng, chúng tôi xin lỗi vì các sai sót. Biển hiệu bị thêm nhầm, và hồ sơ xác nhận đơn hàng được nhận trực tiếp. Hóa đơn đã sửa được đính kèm. Để cảm ơn sự kiên nhẫn của ông, chúng tôi giảm thêm 10% cho danh thiếp."
+        }
+      ],
+      "questions": [
+        {
+          "no": 16,
+          "type": "p7_not_true",
+          "difficulty": 3,
+          "stem": "What is NOT true according to the information?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The invoice was dated 4 September"
+            },
+            {
+              "key": "B",
+              "text": "The order included business cards"
+            },
+            {
+              "key": "C",
+              "text": "Printrite admitted its mistakes"
+            },
+            {
+              "key": "D",
+              "text": "Mr. Lambert ordered a window sign in September"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Ông Lambert nói biển hiệu là đơn tháng 6, không đặt lần này → sai.",
+            "why_wrong": {
+              "A": "Đúng: hóa đơn ngày 4/9.",
+              "B": "Đúng: có danh thiếp.",
+              "C": "Đúng: Printrite thừa nhận sai."
+            },
+            "translation_vi": "Điều gì KHÔNG đúng? – Ông Lambert đặt biển hiệu vào tháng 9."
+          }
+        },
+        {
+          "no": 17,
+          "type": "p7_cross_reference",
+          "difficulty": 4,
+          "stem": "What is most likely the total on the corrected invoice?",
+          "options": [
+            {
+              "key": "A",
+              "text": "$155"
+            },
+            {
+              "key": "B",
+              "text": "$310"
+            },
+            {
+              "key": "C",
+              "text": "$165"
+            },
+            {
+              "key": "D",
+              "text": "$149"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Bỏ biển hiệu ($140) và phí giao ($15): $60 + $95 = $155; giảm 10% danh thiếp ($6) → $149.",
+            "why_wrong": {
+              "A": "$155 chưa trừ giảm giá danh thiếp.",
+              "B": "$310 là hóa đơn ban đầu.",
+              "C": "$165 chỉ bỏ biển hiệu, chưa bỏ phí giao và giảm giá."
+            },
+            "translation_vi": "Hóa đơn đã sửa nhiều khả năng bao nhiêu? – $149."
+          },
+          "evidence": "$60 / $95 / window sign removed / delivery removed / 10 percent discount to the business cards"
+        },
+        {
+          "no": 18,
+          "type": "p7_cross_reference",
+          "difficulty": 3,
+          "stem": "Besides the window sign, what charge will most likely be removed?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The delivery charge"
+            },
+            {
+              "key": "B",
+              "text": "The cost of the business cards"
+            },
+            {
+              "key": "C",
+              "text": "The number of reminder cards"
+            },
+            {
+              "key": "D",
+              "text": "The customer's address"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Ông Lambert tự đến lấy hàng; Printrite xác nhận đơn được nhận trực tiếp → phí giao $15 bị bỏ.",
+            "why_wrong": {
+              "B": "Danh thiếp chỉ được giảm giá, vẫn tính phí.",
+              "C": "Số thẻ nhắc lịch không bị phản ánh.",
+              "D": "Địa chỉ không bị nhắc."
+            },
+            "translation_vi": "Ngoài biển hiệu, khoản nào bị bỏ khỏi hóa đơn? – Phí giao hàng."
+          },
+          "evidence": "I picked up the cards myself / collected in person / Delivery $15"
+        },
+        {
+          "no": 19,
+          "type": "p7_vocabulary_synonym",
+          "difficulty": 3,
+          "stem": "In the second e-mail, the word \"collected\" in paragraph 1 is closest in meaning to",
+          "options": [
+            {
+              "key": "A",
+              "text": "counted"
+            },
+            {
+              "key": "B",
+              "text": "picked up"
+            },
+            {
+              "key": "C",
+              "text": "printed"
+            },
+            {
+              "key": "D",
+              "text": "returned"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'collected in person' = tự đến nhận → 'picked up'.",
+            "why_wrong": {
+              "A": "'counted' là đếm.",
+              "C": "'printed' là in.",
+              "D": "'returned' là trả lại."
+            },
+            "translation_vi": "Từ 'collected' gần nghĩa nhất với 'picked up'."
+          }
+        },
+        {
+          "no": 20,
+          "type": "p7_inference",
+          "difficulty": 3,
+          "stem": "What is suggested about Larkspur Dental?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Mr. Lambert works at Printrite"
+            },
+            {
+              "key": "B",
+              "text": "The reminder cards were damaged"
+            },
+            {
+              "key": "C",
+              "text": "Larkspur Dental has ordered from Printrite before"
+            },
+            {
+              "key": "D",
+              "text": "The order was delivered late"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Ông nhắc đơn hàng tháng 6 trước đó → phòng khám từng đặt hàng ở Printrite.",
+            "why_wrong": {
+              "A": "Ông làm ở Larkspur Dental.",
+              "B": "Không nhắc hư hỏng.",
+              "D": "Ông cảm ơn vì giao nhanh."
+            },
+            "translation_vi": "Có thể suy ra gì về Larkspur Dental? – Đã từng đặt hàng ở Printrite."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "part": 7,
+      "passages": [
+        {
+          "type": "advertisement",
+          "title": "Small Business Expo",
+          "text": "SMALL BUSINESS EXPO – Carrow Hall, 9 May\n\nMeet suppliers, attend free talks, and network with local entrepreneurs.\n\nTickets: $20 in advance, $30 at the door. Members of the Carrow Chamber of Commerce attend free.\nExhibitor tables: $150 (includes two passes and a listing in the expo guide). Tables must be booked by 20 April.",
+          "vi": "Hội chợ Doanh nghiệp nhỏ – Carrow Hall, 9/5. Gặp nhà cung cấp, nghe nói chuyện miễn phí và kết nối với doanh nhân địa phương. Vé: 20 đô nếu mua trước, 30 đô tại cửa; hội viên Phòng Thương mại Carrow vào miễn phí. Bàn trưng bày: 150 đô (gồm hai vé vào cửa và tên trong sách hướng dẫn). Phải đặt bàn trước 20/4."
+        },
+        {
+          "type": "form",
+          "title": "Exhibitor registration",
+          "text": "EXHIBITOR REGISTRATION\nCompany: Fernhill Candles\nContact: Laura Dimitrova\nDate submitted: 18 April\nNumber of tables: 1\nElectricity needed: Yes\nPayment: $150 (paid by card)",
+          "vi": "Phiếu đăng ký trưng bày. Công ty: Fernhill Candles. Người liên hệ: Laura Dimitrova. Ngày nộp: 18/4. Số bàn: 1. Cần điện: Có. Thanh toán: 150 đô (thẻ)."
+        },
+        {
+          "type": "email",
+          "title": "Extra pass",
+          "text": "To: expo@carrowchamber.org\nFrom: Laura Dimitrova\nDate: 2 May\nSubject: Additional staff\n\nHello,\n\nWe are very excited about the expo. Three of us from Fernhill Candles will be working at our table. Could you tell me how my third colleague can get in? She is not a chamber member.\n\nAlso, we would like to give away small candle samples. Is that allowed?\n\nBest,\nLaura",
+          "vi": "Email của Laura Dimitrova, ngày 2/5. Chúng tôi rất háo hức chờ hội chợ. Ba người của Fernhill Candles sẽ đứng bàn. Đồng nghiệp thứ ba của tôi vào cửa bằng cách nào? Cô ấy không phải hội viên phòng thương mại. Ngoài ra, chúng tôi muốn phát tặng nến mẫu nhỏ, có được không?"
+        }
+      ],
+      "questions": [
+        {
+          "no": 21,
+          "type": "p7_not_true",
+          "difficulty": 3,
+          "stem": "What is NOT true about the expo?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The expo includes free talks"
+            },
+            {
+              "key": "B",
+              "text": "Chamber members do not pay"
+            },
+            {
+              "key": "C",
+              "text": "Exhibitors are listed in a guide"
+            },
+            {
+              "key": "D",
+              "text": "Tickets cost the same at the door"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Vé mua trước $20, tại cửa $30 → 'giá như nhau' là sai.",
+            "why_wrong": {
+              "A": "Đúng: có buổi nói chuyện miễn phí.",
+              "B": "Đúng: hội viên miễn phí.",
+              "C": "Đúng: có tên trong sách hướng dẫn."
+            },
+            "translation_vi": "Điều gì KHÔNG đúng về hội chợ? – Vé tại cửa cùng giá."
+          }
+        },
+        {
+          "no": 22,
+          "type": "p7_cross_reference",
+          "difficulty": 3,
+          "stem": "What is indicated about Ms. Dimitrova?",
+          "options": [
+            {
+              "key": "A",
+              "text": "She paid by bank transfer"
+            },
+            {
+              "key": "B",
+              "text": "She booked two tables"
+            },
+            {
+              "key": "C",
+              "text": "She registered before the deadline"
+            },
+            {
+              "key": "D",
+              "text": "She is a chamber member"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Hạn đặt bàn 20/4; bà đăng ký ngày 18/4 → trước hạn.",
+            "why_wrong": {
+              "A": "Bà trả bằng thẻ.",
+              "B": "Bà đặt một bàn.",
+              "D": "Không có thông tin bà là hội viên."
+            },
+            "translation_vi": "Điều gì đúng về bà Dimitrova? – Bà đăng ký trước hạn."
+          },
+          "evidence": "booked by 20 April / Date submitted: 18 April"
+        },
+        {
+          "no": 23,
+          "type": "p7_cross_reference",
+          "difficulty": 4,
+          "stem": "What will Ms. Dimitrova most likely need to do?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Book a second table"
+            },
+            {
+              "key": "B",
+              "text": "Buy a ticket for her third colleague"
+            },
+            {
+              "key": "C",
+              "text": "Join the chamber of commerce herself"
+            },
+            {
+              "key": "D",
+              "text": "Cancel her registration"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Một bàn có hai vé; người thứ ba không phải hội viên → cần mua vé (rẻ hơn nếu mua trước).",
+            "why_wrong": {
+              "A": "Không cần thêm bàn chỉ vì thêm người.",
+              "C": "Bản thân bà đã có vé kèm bàn.",
+              "D": "Bà vẫn tham dự."
+            },
+            "translation_vi": "Bà Dimitrova nhiều khả năng cần làm gì? – Mua vé cho đồng nghiệp thứ ba."
+          },
+          "evidence": "includes two passes / Three of us / not a chamber member"
+        },
+        {
+          "no": 24,
+          "type": "p7_not_true",
+          "difficulty": 4,
+          "stem": "What is NOT true about Fernhill Candles' registration?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Fernhill Candles does not need electricity"
+            },
+            {
+              "key": "B",
+              "text": "Fernhill Candles paid $150"
+            },
+            {
+              "key": "C",
+              "text": "Fernhill booked one table"
+            },
+            {
+              "key": "D",
+              "text": "Ms. Dimitrova is the contact person"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Mẫu đăng ký ghi cần điện ('Yes') → 'không cần điện' là sai.",
+            "why_wrong": {
+              "B": "Đúng: trả $150.",
+              "C": "Đúng: một bàn.",
+              "D": "Đúng: bà là người liên hệ."
+            },
+            "translation_vi": "Điều gì KHÔNG đúng về đăng ký của Fernhill? – Không cần điện."
+          }
+        },
+        {
+          "no": 25,
+          "type": "p7_vocabulary_synonym",
+          "difficulty": 3,
+          "stem": "In the e-mail, the phrase \"give away\" is closest in meaning to",
+          "options": [
+            {
+              "key": "A",
+              "text": "sell"
+            },
+            {
+              "key": "B",
+              "text": "hand out"
+            },
+            {
+              "key": "C",
+              "text": "put away"
+            },
+            {
+              "key": "D",
+              "text": "return"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'give away small candle samples' = phát miễn phí → 'hand out'.",
+            "why_wrong": {
+              "A": "'sell' là bán.",
+              "C": "'put away' là cất đi.",
+              "D": "'return' là trả lại."
+            },
+            "translation_vi": "Cụm 'give away' gần nghĩa nhất với 'hand out'."
+          }
+        }
+      ]
+    }
+  ]
+}

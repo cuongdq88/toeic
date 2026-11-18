@@ -1,0 +1,1376 @@
+{
+  "id": "practice-p3-main-topic-01",
+  "kind": "practice",
+  "title": "Luyện Part 3 – Chủ đề hội thoại 01",
+  "level": "medium",
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "7 hội thoại viết tay, mỗi đoạn 3 câu; đủ 4 giọng; không trùng tình huống/tên với gói khác.",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 0
+    }
+  },
+  "groups": [
+    {
+      "id": "g01",
+      "part": 3,
+      "audio": "audio/g01.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 1 through 3 refer to the following conversation.",
+          "vi": "Câu 1 đến 3 dựa vào đoạn hội thoại sau."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Hugo, the sales review is still set for Thursday afternoon, but three team members will be out at the client site.",
+          "vi": "Hugo, buổi rà soát bán hàng vẫn được ấn định chiều thứ Năm, nhưng ba thành viên sẽ đi gặp khách."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "Then we should move it. Is Friday morning clear for everyone?",
+          "vi": "Vậy ta nên dời. Sáng thứ Sáu có trống cho mọi người không?"
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Mostly, but the finance lead has a budget call until ten.",
+          "vi": "Gần như vậy, nhưng trưởng nhóm tài chính họp ngân sách đến mười giờ."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "Let's start at ten thirty and shorten the agenda to the key figures.",
+          "vi": "Vậy bắt đầu lúc mười giờ ba mươi và rút gọn chương trình còn các số liệu chính."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "I'll update the invitation and book the same room. I'll also move the shared deck to the new time.",
+          "vi": "Tôi sẽ cập nhật thư mời và đặt lại phòng như cũ. Tôi cũng sẽ dời bản trình chiếu dùng chung sang giờ mới."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "Thanks. Let me know if anyone cannot make it.",
+          "vi": "Cảm ơn. Hãy báo tôi nếu có ai không tham dự được."
+        }
+      ],
+      "questions": [
+        {
+          "no": 1,
+          "type": "p3_main_topic",
+          "difficulty": 2,
+          "stem": "What are the speakers mainly discussing?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A product launch"
+            },
+            {
+              "key": "B",
+              "text": "A hiring plan"
+            },
+            {
+              "key": "C",
+              "text": "A schedule change"
+            },
+            {
+              "key": "D",
+              "text": "A travel booking"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Họ bàn việc dời buổi rà soát bán hàng sang thứ Sáu.",
+            "why_wrong": {
+              "A": "Không nhắc ra mắt sản phẩm.",
+              "B": "Không bàn tuyển người.",
+              "D": "Không bàn đặt chuyến đi."
+            },
+            "translation_vi": "Họ bàn về việc thay đổi lịch họp."
+          }
+        },
+        {
+          "no": 2,
+          "type": "p3_speaker_place",
+          "difficulty": 2,
+          "stem": "Where does the conversation most likely take place?",
+          "options": [
+            {
+              "key": "A",
+              "text": "In an office"
+            },
+            {
+              "key": "B",
+              "text": "At a restaurant"
+            },
+            {
+              "key": "C",
+              "text": "At a train station"
+            },
+            {
+              "key": "D",
+              "text": "In a hotel"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Họ bàn lịch họp, phòng họp và các thành viên, đây là bối cảnh văn phòng.",
+            "why_wrong": {
+              "B": "Không có dấu hiệu nhà hàng.",
+              "C": "Không có dấu hiệu ga tàu.",
+              "D": "Không có dấu hiệu khách sạn."
+            },
+            "translation_vi": "Cuộc nói chuyện diễn ra ở văn phòng."
+          }
+        },
+        {
+          "no": 3,
+          "type": "p3_detail",
+          "difficulty": 3,
+          "stem": "Why does the meeting need to be moved?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The room is unavailable"
+            },
+            {
+              "key": "B",
+              "text": "Several staff will be away"
+            },
+            {
+              "key": "C",
+              "text": "The client canceled"
+            },
+            {
+              "key": "D",
+              "text": "The agenda is too long"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Ba thành viên sẽ đi gặp khách nên cần dời lịch.",
+            "why_wrong": {
+              "A": "Phòng vẫn đặt được.",
+              "C": "Không nói khách hủy.",
+              "D": "Rút gọn chương trình là giải pháp, không phải lý do."
+            },
+            "translation_vi": "Cuộc họp cần dời vì vài nhân viên sẽ đi vắng."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "part": 3,
+      "audio": "audio/g02.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 4 through 6 refer to the following conversation.",
+          "vi": "Câu 4 đến 6 dựa vào đoạn hội thoại sau."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Ivan, the software training is booked for Monday, but several new hires start on Tuesday.",
+          "vi": "Ivan, khóa đào tạo phần mềm đặt vào thứ Hai, nhưng vài nhân viên mới bắt đầu thứ Ba."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "It would be better to run it on Wednesday so everyone can attend.",
+          "vi": "Chạy vào thứ Tư thì tốt hơn để mọi người đều tham dự được."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "The trainer is only available on Tuesday and Thursday next week.",
+          "vi": "Giảng viên chỉ rảnh thứ Ba và thứ Năm tuần sau."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "Tuesday is also busy for the finance team, so Thursday works better.",
+          "vi": "Thứ Ba nhóm tài chính cũng bận, nên thứ Năm hợp hơn."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Then let's take Thursday morning and send the calendar invite today.",
+          "vi": "Vậy chọn sáng thứ Năm và gửi thư mời lịch ngay hôm nay."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "Perfect. I'll confirm with the trainer now.",
+          "vi": "Tuyệt. Tôi sẽ xác nhận với giảng viên ngay."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "And I'll post the updated time on the team board.",
+          "vi": "Và tôi sẽ dán giờ mới lên bảng của nhóm."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Great.",
+          "vi": "Tuyệt."
+        }
+      ],
+      "questions": [
+        {
+          "no": 4,
+          "type": "p3_problem_reason",
+          "difficulty": 3,
+          "stem": "Why is Monday a problem?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The trainer is ill"
+            },
+            {
+              "key": "B",
+              "text": "The projector is broken"
+            },
+            {
+              "key": "C",
+              "text": "The room is booked"
+            },
+            {
+              "key": "D",
+              "text": "New hires start on Tuesday"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Người nữ nói vài nhân viên mới bắt đầu thứ Ba nên thứ Hai không thuận tiện.",
+            "why_wrong": {
+              "A": "Không nói giảng viên ốm.",
+              "B": "Không nói máy chiếu hỏng.",
+              "C": "Không nói phòng bận."
+            },
+            "translation_vi": "Thứ Hai bất tiện vì nhân viên mới bắt đầu thứ Ba."
+          }
+        },
+        {
+          "no": 5,
+          "type": "p3_request_suggestion",
+          "difficulty": 3,
+          "stem": "What does the man suggest?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Holding it on Thursday morning"
+            },
+            {
+              "key": "B",
+              "text": "Canceling the training"
+            },
+            {
+              "key": "C",
+              "text": "Hiring a new trainer"
+            },
+            {
+              "key": "D",
+              "text": "Moving it to Monday"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Người nam đề nghị tổ chức vào sáng thứ Năm.",
+            "why_wrong": {
+              "B": "Không hủy khóa học.",
+              "C": "Không tuyển giảng viên mới.",
+              "D": "Thứ Hai là ngày hiện tại, không phải đề xuất."
+            },
+            "translation_vi": "Người nam đề nghị tổ chức vào sáng thứ Năm."
+          }
+        },
+        {
+          "no": 6,
+          "type": "p3_next_action",
+          "difficulty": 3,
+          "stem": "What will the woman do next?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Call the trainer"
+            },
+            {
+              "key": "B",
+              "text": "Cancel the training"
+            },
+            {
+              "key": "C",
+              "text": "Book a flight"
+            },
+            {
+              "key": "D",
+              "text": "Reserve the projector"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Người nữ nói sẽ đặt máy chiếu và in tài liệu.",
+            "why_wrong": {
+              "A": "Không gọi giảng viên.",
+              "B": "Không hủy khóa học.",
+              "C": "Không đặt vé máy bay."
+            },
+            "translation_vi": "Người nữ sẽ đặt máy chiếu."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "part": 3,
+      "audio": "audio/g03.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 7 through 9 refer to the following conversation with three speakers and graphic.",
+          "vi": "Câu 7 đến 9 dựa vào đoạn hội thoại ba người và bảng sau."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "Dana, Felix, the client wants the proposal in a single folder, but the file is too large to email.",
+          "vi": "Dana, Felix, khách muốn đề xuất gói trong một thư mục, mà tệp quá lớn không gửi email được."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "We can use the cloud drive. I'll put a clock on the link.",
+          "vi": "Ta có thể dùng ổ đĩa đám mây. Tôi sẽ đặt liên kết hết hạn trong một tuần."
+        },
+        {
+          "speaker": "M2",
+          "accent": "CA",
+          "text": "The client asked for a version they can print, so make it a PDF.",
+          "vi": "Khách yêu cầu bản in được nên hãy xuất thành PDF."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "Then the free plan is too small. We need the option that allows the largest single file.",
+          "vi": "Vậy gói miễn phí quá nhỏ. Ta cần phương án cho phép tệp đơn lớn nhất."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "I'll upload the PDF tonight and send the link to all three of us.",
+          "vi": "Tối nay tôi sẽ tải PDF lên và gửi liên kết cho cả ba."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "Perfect, thanks. Let's review it together in the morning.",
+          "vi": "Tuyệt, cảm ơn. Sáng mai ta cùng xem lại."
+        }
+      ],
+      "questions": [
+        {
+          "no": 7,
+          "type": "p3_inference",
+          "difficulty": 4,
+          "stem": "Why do the speakers need a paid storage plan?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The client prefers a printed copy"
+            },
+            {
+              "key": "B",
+              "text": "The file is too large for the free plan"
+            },
+            {
+              "key": "C",
+              "text": "The link must last a month"
+            },
+            {
+              "key": "D",
+              "text": "They need to share with many people"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Người nam nói gói miễn phí quá nhỏ và cần tệp đơn lớn nhất.",
+            "why_wrong": {
+              "A": "Bản in là lý do xuất PDF, không phải lý do trả phí.",
+              "C": "Không nói liên kết phải kéo dài một tháng.",
+              "D": "Họ chỉ chia sẻ cho ba người."
+            },
+            "translation_vi": "Vì tệp quá lớn so với gói miễn phí."
+          }
+        },
+        {
+          "no": 8,
+          "type": "p3_implied_meaning",
+          "difficulty": 4,
+          "stem": "What does Dana mean when she says, \"I'll put a clock on the link.\"?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The file will be deleted in a week"
+            },
+            {
+              "key": "B",
+              "text": "The client must print in a week"
+            },
+            {
+              "key": "C",
+              "text": "Access will be available for a limited period"
+            },
+            {
+              "key": "D",
+              "text": "The upload will finish in a week"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Cụm 'put a clock on the link' ngụ ý liên kết có thời hạn truy cập.",
+            "why_wrong": {
+              "A": "Không nói xóa tệp.",
+              "B": "Không bắt khách in.",
+              "D": "Không nói thời gian tải lên."
+            },
+            "translation_vi": "Cô ấy ngụ ý liên kết chỉ dùng được trong thời gian giới hạn."
+          }
+        },
+        {
+          "no": 9,
+          "type": "p3_graphic",
+          "difficulty": 4,
+          "stem": "Look at the graphic. What is the monthly cost of the plan the speakers will likely use?",
+          "options": [
+            {
+              "key": "A",
+              "text": "$0"
+            },
+            {
+              "key": "B",
+              "text": "$10"
+            },
+            {
+              "key": "C",
+              "text": "$25"
+            },
+            {
+              "key": "D",
+              "text": "$50"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Phương án cho phép tệp đơn lớn nhất là Premium, giá $25/tháng.",
+            "why_wrong": {
+              "A": "$0 là Free.",
+              "B": "$10 là Basic.",
+              "D": "$50 là Team."
+            },
+            "translation_vi": "Chi phí hằng tháng của gói phù hợp là 25 đô."
+          }
+        }
+      ],
+      "graphic": {
+        "kind": "table",
+        "title": "Cloud storage plans",
+        "columns": [
+          "Plan",
+          "Monthly cost",
+          "Largest file",
+          "Link expiry"
+        ],
+        "rows": [
+          [
+            "Free",
+            "$0",
+            "2 GB",
+            "1 day"
+          ],
+          [
+            "Basic",
+            "$10",
+            "10 GB",
+            "7 days"
+          ],
+          [
+            "Premium",
+            "$25",
+            "50 GB",
+            "30 days"
+          ],
+          [
+            "Team",
+            "$50",
+            "200 GB",
+            "No limit"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "g04",
+      "part": 3,
+      "audio": "audio/g04.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 10 through 12 refer to the following conversation.",
+          "vi": "Câu 10 đến 12 dựa vào đoạn hội thoại sau."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "Ravi, the client's invoice is thirty days past due, and the second reminder went unanswered.",
+          "vi": "Ravi, hóa đơn của khách đã quá hạn ba mươi ngày, và nhắc nhở lần hai không được trả lời."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "Their finance contact is on leave, so the payment is stuck in approval.",
+          "vi": "Người phụ trách tài chính của họ đang nghỉ nên khoản thanh toán bị kẹt ở khâu duyệt."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "Could we send a copy to the manager directly and request a new due date?",
+          "vi": "Ta có thể gửi bản sao cho quản lý và đề nghị hạn mới không?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "That's reasonable. I'll write to the manager and copy our accounts team.",
+          "vi": "Hợp lý đấy. Tôi sẽ viết cho quản lý và gửi kèm nhóm kế toán của ta."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "And I'll pause any new orders until the balance clears. I'll also flag the account in our system.",
+          "vi": "Và tôi sẽ tạm dừng đơn mới cho đến khi dư nợ được thanh toán. Tôi cũng sẽ gắn cờ tài khoản trong hệ thống."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "Good. Let's follow up again on Monday.",
+          "vi": "Tốt. Thứ Hai ta theo dõi lại."
+        }
+      ],
+      "questions": [
+        {
+          "no": 10,
+          "type": "p3_main_topic",
+          "difficulty": 2,
+          "stem": "What are the speakers mainly discussing?",
+          "options": [
+            {
+              "key": "A",
+              "text": "A new product"
+            },
+            {
+              "key": "B",
+              "text": "A late payment"
+            },
+            {
+              "key": "C",
+              "text": "A staff holiday"
+            },
+            {
+              "key": "D",
+              "text": "A broken invoice"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Họ bàn khoản thanh toán quá hạn của khách.",
+            "why_wrong": {
+              "A": "Không nhắc sản phẩm mới.",
+              "C": "Nghỉ phép chỉ là chi tiết.",
+              "D": "Hóa đơn không bị hỏng."
+            },
+            "translation_vi": "Họ bàn về một khoản thanh toán trễ."
+          }
+        },
+        {
+          "no": 11,
+          "type": "p3_speaker_place",
+          "difficulty": 2,
+          "stem": "Who most likely are the speakers?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Office colleagues"
+            },
+            {
+              "key": "B",
+              "text": "Bank tellers"
+            },
+            {
+              "key": "C",
+              "text": "Restaurant staff"
+            },
+            {
+              "key": "D",
+              "text": "Delivery drivers"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Họ bàn hóa đơn khách hàng, nhóm kế toán và duyệt thanh toán nên là đồng nghiệp văn phòng.",
+            "why_wrong": {
+              "B": "Không phải giao dịch viên ngân hàng.",
+              "C": "Không phải nhân viên nhà hàng.",
+              "D": "Không phải tài xế giao hàng."
+            },
+            "translation_vi": "Họ là đồng nghiệp văn phòng."
+          }
+        },
+        {
+          "no": 12,
+          "type": "p3_detail",
+          "difficulty": 3,
+          "stem": "Why has the payment not been made?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The invoice was lost"
+            },
+            {
+              "key": "B",
+              "text": "The client is bankrupt"
+            },
+            {
+              "key": "C",
+              "text": "The bank is closed"
+            },
+            {
+              "key": "D",
+              "text": "The finance contact is on leave"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Người phụ trách tài chính của khách nghỉ nên khoản thanh toán kẹt ở khâu duyệt.",
+            "why_wrong": {
+              "A": "Không nói mất hóa đơn.",
+              "B": "Không nói phá sản.",
+              "C": "Không nói ngân hàng đóng."
+            },
+            "translation_vi": "Khoản thanh toán bị kẹt vì người phụ trách nghỉ."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "part": 3,
+      "audio": "audio/g05.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 13 through 15 refer to the following conversation with three speakers.",
+          "vi": "Câu 13 đến 15 dựa vào đoạn hội thoại ba người sau."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "Tara, Eli, the board meeting lunch needs to feed twenty-five people, but our usual caterer is fully booked.",
+          "vi": "Tara, Eli, bữa trưa họp hội đồng cần phục vụ hai mươi lăm người, nhưng nhà cung cấp quen đã kín lịch."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "There's a new caterer downtown with good reviews. I can ask for a sample menu.",
+          "vi": "Có một nhà cung cấp mới ở trung tâm được đánh giá tốt. Tôi có thể xin thực đơn mẫu."
+        },
+        {
+          "speaker": "M2",
+          "accent": "CA",
+          "text": "I can compare their prices with two other caterers to make sure we stay within budget.",
+          "vi": "Tôi có thể so giá của họ với hai nhà cung cấp khác để chắc là trong ngân sách."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "We also need vegetarian options and a gluten-free choice.",
+          "vi": "Chúng ta cũng cần món chay và một món không chứa gluten."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "I'll note the dietary requests and ask for a tasting on Thursday.",
+          "vi": "Tôi sẽ ghi yêu cầu ăn kiêng và đề nghị nếm thử vào thứ Năm."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "Good. And please confirm the delivery time before Friday.",
+          "vi": "Tốt. Và hãy xác nhận giờ giao trước thứ Sáu."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "Done.",
+          "vi": "Xong."
+        }
+      ],
+      "questions": [
+        {
+          "no": 13,
+          "type": "p3_problem_reason",
+          "difficulty": 3,
+          "stem": "What is the problem?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The meeting is canceled"
+            },
+            {
+              "key": "B",
+              "text": "The budget is too small"
+            },
+            {
+              "key": "C",
+              "text": "The menu is too long"
+            },
+            {
+              "key": "D",
+              "text": "The usual caterer is fully booked"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Nhà cung cấp quen đã kín lịch nên phải tìm nơi khác.",
+            "why_wrong": {
+              "A": "Họp vẫn diễn ra.",
+              "B": "Không nói ngân sách nhỏ.",
+              "C": "Không nói thực đơn dài."
+            },
+            "translation_vi": "Nhà cung cấp quen đã kín lịch."
+          }
+        },
+        {
+          "no": 14,
+          "type": "p3_request_suggestion",
+          "difficulty": 3,
+          "stem": "What does Tara suggest?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Canceling the lunch"
+            },
+            {
+              "key": "B",
+              "text": "Preparing the food herself"
+            },
+            {
+              "key": "C",
+              "text": "Asking the new caterer for a sample menu"
+            },
+            {
+              "key": "D",
+              "text": "Booking the usual caterer anyway"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Tara đề nghị xin thực đơn mẫu từ nhà cung cấp mới.",
+            "why_wrong": {
+              "A": "Không hủy bữa trưa.",
+              "B": "Không tự nấu.",
+              "D": "Nhà cung cấp cũ đã kín lịch."
+            },
+            "translation_vi": "Tara đề nghị xin thực đơn mẫu."
+          }
+        },
+        {
+          "no": 15,
+          "type": "p3_next_action",
+          "difficulty": 3,
+          "stem": "What will Tara do next?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Confirm the delivery time"
+            },
+            {
+              "key": "B",
+              "text": "Note the dietary requests and ask for a tasting"
+            },
+            {
+              "key": "C",
+              "text": "Order the food immediately"
+            },
+            {
+              "key": "D",
+              "text": "Book a different venue"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Tara nói sẽ ghi yêu cầu ăn kiêng và đề nghị nếm thử thứ Năm.",
+            "why_wrong": {
+              "A": "Người nam yêu cầu xác nhận giờ giao.",
+              "C": "Chưa đặt món ngay.",
+              "D": "Không đổi địa điểm."
+            },
+            "translation_vi": "Tara sẽ ghi yêu cầu ăn kiêng và đề nghị nếm thử."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g06",
+      "part": 3,
+      "audio": "audio/g06.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 16 through 18 refer to the following conversation and graphic.",
+          "vi": "Câu 16 đến 18 dựa vào đoạn hội thoại và bảng sau."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "Karen, the office move is set for Friday, and we still need a van for the filing cabinets.",
+          "vi": "Karen, việc chuyển văn phòng vào thứ Sáu, chúng ta vẫn cần xe tải chở tủ hồ sơ."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "We have three cabinet sizes. The one holding legal folders is the widest and will not fit through the side door.",
+          "vi": "Ta có ba cỡ tủ. Cái đựng bìa khổ legal là rộng nhất và không qua được cửa hông."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "Then book the van that can carry the heaviest load, because we have desks on top of everything else.",
+          "vi": "Vậy đặt xe chở được tải nặng nhất, vì còn có bàn làm việc."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "I'll reserve it for eight in the morning and confirm the loading dock.",
+          "vi": "Tôi sẽ đặt xe lúc tám giờ sáng và xác nhận bến bốc xếp."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "And have the movers wrap the desks before loading them.",
+          "vi": "Và hãy nhờ nhóm chuyển bọc bàn làm việc trước khi chất lên."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "I'll remind them when I make the booking.",
+          "vi": "Tôi sẽ nhắc họ khi đặt xe."
+        }
+      ],
+      "questions": [
+        {
+          "no": 16,
+          "type": "p3_inference",
+          "difficulty": 4,
+          "stem": "Why is the widest cabinet a concern?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It will not fit through the side door"
+            },
+            {
+              "key": "B",
+              "text": "It is too heavy"
+            },
+            {
+              "key": "C",
+              "text": "It is too expensive"
+            },
+            {
+              "key": "D",
+              "text": "It belongs to a client"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Tủ rộng nhất không qua được cửa hông, đó là vấn đề cần xử lý.",
+            "why_wrong": {
+              "B": "Không nói nặng.",
+              "C": "Không nói đắt.",
+              "D": "Không nói của khách."
+            },
+            "translation_vi": "Tủ rộng nhất không qua được cửa hông."
+          }
+        },
+        {
+          "no": 17,
+          "type": "p3_implied_meaning",
+          "difficulty": 4,
+          "stem": "What does the man mean when he says, \"Then book the van that can carry the heaviest load, because we have desks on top of everything else.\"?",
+          "options": [
+            {
+              "key": "A",
+              "text": "They should sell the desks"
+            },
+            {
+              "key": "B",
+              "text": "The desks are too wide"
+            },
+            {
+              "key": "C",
+              "text": "They need a van that can carry a lot of weight"
+            },
+            {
+              "key": "D",
+              "text": "They only need a small van"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Cụm 'on top of everything else' ngụ ý ngoài tủ hồ sơ còn có bàn nên cần xe chở nặng.",
+            "why_wrong": {
+              "A": "Không bán bàn.",
+              "B": "Không nói bàn rộng.",
+              "D": "Ngược lại, cần xe lớn."
+            },
+            "translation_vi": "Anh ấy ngụ ý cần xe chở được nhiều đồ nặng."
+          }
+        },
+        {
+          "no": 18,
+          "type": "p3_graphic",
+          "difficulty": 4,
+          "stem": "Look at the graphic. What is the rental rate of the van the speakers will likely book?",
+          "options": [
+            {
+              "key": "A",
+              "text": "$80"
+            },
+            {
+              "key": "B",
+              "text": "$110"
+            },
+            {
+              "key": "C",
+              "text": "$150"
+            },
+            {
+              "key": "D",
+              "text": "$190"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Xe chở tải nặng nhất là Heavy Duty, giá $190.",
+            "why_wrong": {
+              "A": "$80 là Small.",
+              "B": "$110 là Medium.",
+              "C": "$150 là Large."
+            },
+            "translation_vi": "Giá thuê xe phù hợp là 190 đô."
+          }
+        }
+      ],
+      "graphic": {
+        "kind": "table",
+        "title": "Moving van options",
+        "columns": [
+          "Van",
+          "Rental rate",
+          "Max load",
+          "Length"
+        ],
+        "rows": [
+          [
+            "Small",
+            "$80",
+            "1 t",
+            "3 m"
+          ],
+          [
+            "Medium",
+            "$110",
+            "2 t",
+            "4 m"
+          ],
+          [
+            "Large",
+            "$150",
+            "3 t",
+            "5 m"
+          ],
+          [
+            "Heavy Duty",
+            "$190",
+            "5 t",
+            "6 m"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "g07",
+      "part": 3,
+      "audio": "audio/g07.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 19 through 21 refer to the following conversation and graphic.",
+          "vi": "Câu 19 đến 21 dựa vào đoạn hội thoại và bảng sau."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "Nadia, we need a car for the regional trip, and there will be five of us with luggage.",
+          "vi": "Nadia, chúng ta cần xe cho chuyến đi khu vực, có năm người và hành lý."
+        },
+        {
+          "speaker": "W1",
+          "accent": "UK",
+          "text": "Then we need the model with six seats and the most luggage space, not the compact one.",
+          "vi": "Vậy cần mẫu sáu chỗ và nhiều không gian hành lý nhất, không phải mẫu nhỏ."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "That one also uses more fuel, but the comfort is worth it for a long drive.",
+          "vi": "Mẫu đó cũng tốn nhiên liệu hơn, nhưng đi đường dài thì đáng để thoải mái."
+        },
+        {
+          "speaker": "W1",
+          "accent": "UK",
+          "text": "I'll book it for three days and pick it up at the airport branch. I'll also add the extra insurance just in case.",
+          "vi": "Tôi sẽ đặt ba ngày và nhận xe ở chi nhánh sân bay. Tôi cũng sẽ thêm bảo hiểm phụ phòng khi cần."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "Good call. Send me the confirmation.",
+          "vi": "Hợp lý đấy. Gửi xác nhận cho tôi."
+        }
+      ],
+      "questions": [
+        {
+          "no": 19,
+          "type": "p3_speaker_place",
+          "difficulty": 2,
+          "stem": "Where will the speakers pick up the car?",
+          "options": [
+            {
+              "key": "A",
+              "text": "At the airport branch"
+            },
+            {
+              "key": "B",
+              "text": "At the hotel"
+            },
+            {
+              "key": "C",
+              "text": "At the office garage"
+            },
+            {
+              "key": "D",
+              "text": "At the train station"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Người nữ nói sẽ nhận xe ở chi nhánh sân bay.",
+            "why_wrong": {
+              "B": "Không nhắc khách sạn.",
+              "C": "Không nhắc gara văn phòng.",
+              "D": "Không nhắc ga tàu."
+            },
+            "translation_vi": "Họ sẽ nhận xe ở chi nhánh sân bay."
+          }
+        },
+        {
+          "no": 20,
+          "type": "p3_inference",
+          "difficulty": 4,
+          "stem": "Why does the man accept the higher fuel cost?",
+          "options": [
+            {
+              "key": "A",
+              "text": "The trip is short"
+            },
+            {
+              "key": "B",
+              "text": "Comfort matters for a long drive"
+            },
+            {
+              "key": "C",
+              "text": "Fuel is free"
+            },
+            {
+              "key": "D",
+              "text": "They have only two passengers"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Anh ấy nói đi đường dài nên đáng để thoải mái hơn.",
+            "why_wrong": {
+              "A": "Chuyến đi dài, không ngắn.",
+              "C": "Không nói xăng miễn phí.",
+              "D": "Có năm người, không phải hai."
+            },
+            "translation_vi": "Vì sự thoải mái quan trọng cho chuyến đi dài."
+          }
+        },
+        {
+          "no": 21,
+          "type": "p3_graphic",
+          "difficulty": 4,
+          "stem": "Look at the graphic. What is the daily rate of the car the speakers will likely choose?",
+          "options": [
+            {
+              "key": "A",
+              "text": "$45"
+            },
+            {
+              "key": "B",
+              "text": "$80"
+            },
+            {
+              "key": "C",
+              "text": "$60"
+            },
+            {
+              "key": "D",
+              "text": "$95"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Mẫu sáu chỗ và nhiều hành lý nhất là SUV, giá $80/ngày.",
+            "why_wrong": {
+              "A": "$45 là Compact.",
+              "C": "$60 là Sedan.",
+              "D": "$95 là Van."
+            },
+            "translation_vi": "Giá thuê theo ngày của xe phù hợp là 80 đô."
+          }
+        }
+      ],
+      "graphic": {
+        "kind": "table",
+        "title": "Rental car options",
+        "columns": [
+          "Model",
+          "Daily rate",
+          "Seats",
+          "Luggage space"
+        ],
+        "rows": [
+          [
+            "Compact",
+            "$45",
+            "4",
+            "Small"
+          ],
+          [
+            "Sedan",
+            "$60",
+            "5",
+            "Medium"
+          ],
+          [
+            "SUV",
+            "$80",
+            "6",
+            "Large"
+          ],
+          [
+            "Van",
+            "$95",
+            "8",
+            "Very large"
+          ]
+        ]
+      }
+    },
+    {
+      "id": "g08",
+      "part": 3,
+      "audio": "audio/g08.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Questions 22 through 24 refer to the following conversation.",
+          "vi": "Câu 22 đến 24 dựa vào đoạn hội thoại sau."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Yorick, we need to plan the farewell party for Mrs. Chen, who retires next month.",
+          "vi": "Yorick, ta cần lên kế hoạch tiệc chia tay cho bà Chen, người sẽ nghỉ hưu tháng sau."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "Right. We should check if the main hall is free on the twenty-eighth.",
+          "vi": "Đúng. Ta nên kiểm tra hội trường chính có trống ngày hai mươi tám không."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "I called, and it's already booked for a training session.",
+          "vi": "Tôi đã gọi, và nó đã được đặt cho một buổi đào tạo."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "That's a problem. Could we use the garden terrace instead?",
+          "vi": "Vậy là vấn đề. Ta có thể dùng sân vườn thay thế không?"
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "That works if the weather is fine. Let's also ask the caterer for a small menu.",
+          "vi": "Được nếu thời tiết đẹp. Hãy cũng hỏi nhà cung cấp một thực đơn nhỏ."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "I'll contact the caterer and check the terrace availability.",
+          "vi": "Tôi sẽ liên hệ nhà cung cấp và kiểm tra sân vườn."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "And we should collect messages for a card.",
+          "vi": "Và ta nên thu thập lời nhắn cho tấm thiệp."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "I'll start a shared document for that.",
+          "vi": "Tôi sẽ mở một tài liệu dùng chung cho việc đó."
+        }
+      ],
+      "questions": [
+        {
+          "no": 22,
+          "type": "p3_main_topic",
+          "difficulty": 2,
+          "stem": "What are the speakers mainly discussing?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Hiring a caterer"
+            },
+            {
+              "key": "B",
+              "text": "Booking a training room"
+            },
+            {
+              "key": "C",
+              "text": "Planning a farewell party"
+            },
+            {
+              "key": "D",
+              "text": "Scheduling a retirement"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Họ bàn tổ chức tiệc chia tay cho bà Chen nghỉ hưu.",
+            "why_wrong": {
+              "A": "Đặt đồ ăn chỉ là một phần.",
+              "B": "Phòng đào tạo chỉ là chi tiết đặt trùng.",
+              "D": "Nghỉ hưu là lý do, không phải việc lên lịch."
+            },
+            "translation_vi": "Họ bàn tổ chức tiệc chia tay."
+          }
+        },
+        {
+          "no": 23,
+          "type": "p3_problem_reason",
+          "difficulty": 3,
+          "stem": "Why cannot they use the main hall?",
+          "options": [
+            {
+              "key": "A",
+              "text": "It is already booked"
+            },
+            {
+              "key": "B",
+              "text": "It is being painted"
+            },
+            {
+              "key": "C",
+              "text": "It is too small"
+            },
+            {
+              "key": "D",
+              "text": "It is too expensive"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Hội trường chính đã được đặt cho buổi đào tạo.",
+            "why_wrong": {
+              "B": "Không nói sơn.",
+              "C": "Không nói nhỏ.",
+              "D": "Không nói đắt."
+            },
+            "translation_vi": "Vì hội trường đã được đặt trước."
+          }
+        },
+        {
+          "no": 24,
+          "type": "p3_request_suggestion",
+          "difficulty": 3,
+          "stem": "What does the man suggest?",
+          "options": [
+            {
+              "key": "A",
+              "text": "Canceling the party"
+            },
+            {
+              "key": "B",
+              "text": "Moving to another date"
+            },
+            {
+              "key": "C",
+              "text": "Booking a restaurant"
+            },
+            {
+              "key": "D",
+              "text": "Using the garden terrace"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Người nam đề nghị dùng sân vườn thay thế.",
+            "why_wrong": {
+              "A": "Không hủy tiệc.",
+              "B": "Không dời ngày.",
+              "C": "Không đặt nhà hàng."
+            },
+            "translation_vi": "Người nam đề nghị dùng sân vườn."
+          }
+        }
+      ]
+    }
+  ]
+}

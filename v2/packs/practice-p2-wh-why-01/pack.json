@@ -1,0 +1,1380 @@
+{
+  "id": "practice-p2-wh-why-01",
+  "kind": "practice",
+  "title": "Luyện Part 2 – Why",
+  "level": "medium",
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 20
+    }
+  },
+  "groups": [
+    {
+      "id": "g01",
+      "part": 2,
+      "audio": "audio/g01.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 1.",
+          "vi": "Câu 1."
+        },
+        {
+          "speaker": "W1",
+          "accent": "UK",
+          "text": "Why did you call the supplier?",
+          "vi": "Why did you call the supplier?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(A) At ten o'clock.",
+          "vi": "(A) At ten o'clock."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(B) To change the delivery date.",
+          "vi": "(B) To change the delivery date."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(C) Yes, I did.",
+          "vi": "(C) Yes, I did."
+        }
+      ],
+      "questions": [
+        {
+          "no": 1,
+          "type": "p2_wh_why",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "At ten o'clock."
+            },
+            {
+              "key": "B",
+              "text": "To change the delivery date."
+            },
+            {
+              "key": "C",
+              "text": "Yes, I did."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'Why' hỏi lý do nên 'To change the delivery date' đúng.",
+            "why_wrong": {
+              "A": "Đây là câu trả lời cho 'When'.",
+              "C": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Vì sao anh gọi nhà cung cấp? – Để đổi ngày giao."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "part": 2,
+      "audio": "audio/g02.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 2.",
+          "vi": "Câu 2."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "Why is the office closed today?",
+          "vi": "Why is the office closed today?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(A) The building is being painted.",
+          "vi": "(A) The building is being painted."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(B) On the second floor.",
+          "vi": "(B) On the second floor."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(C) For one day.",
+          "vi": "(C) For one day."
+        }
+      ],
+      "questions": [
+        {
+          "no": 2,
+          "type": "p2_wh_why",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The building is being painted."
+            },
+            {
+              "key": "B",
+              "text": "On the second floor."
+            },
+            {
+              "key": "C",
+              "text": "For one day."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'Why' hỏi lý do nên 'The building is being painted' đúng.",
+            "why_wrong": {
+              "B": "Đây là câu trả lời cho 'Where'.",
+              "C": "Đây là câu trả lời cho 'How long'."
+            },
+            "translation_vi": "Vì sao văn phòng đóng hôm nay? – Tòa nhà đang được sơn."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "part": 2,
+      "audio": "audio/g03.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 3.",
+          "vi": "Câu 3."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "Why did the train stop?",
+          "vi": "Why did the train stop?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(A) At the next station.",
+          "vi": "(A) At the next station."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(B) Yes, it stopped.",
+          "vi": "(B) Yes, it stopped."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(C) There was a signal problem.",
+          "vi": "(C) There was a signal problem."
+        }
+      ],
+      "questions": [
+        {
+          "no": 3,
+          "type": "p2_wh_why",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "At the next station."
+            },
+            {
+              "key": "B",
+              "text": "Yes, it stopped."
+            },
+            {
+              "key": "C",
+              "text": "There was a signal problem."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'Why' hỏi lý do nên 'There was a signal problem' đúng.",
+            "why_wrong": {
+              "A": "Đây là câu trả lời cho 'Where'.",
+              "B": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Vì sao tàu dừng? – Có sự cố tín hiệu."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "part": 2,
+      "audio": "audio/g04.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 4.",
+          "vi": "Câu 4."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Why are you late?",
+          "vi": "Why are you late?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(A) By the front door.",
+          "vi": "(A) By the front door."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(B) The bus broke down.",
+          "vi": "(B) The bus broke down."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(C) For ten minutes.",
+          "vi": "(C) For ten minutes."
+        }
+      ],
+      "questions": [
+        {
+          "no": 4,
+          "type": "p2_wh_why",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "By the front door."
+            },
+            {
+              "key": "B",
+              "text": "The bus broke down."
+            },
+            {
+              "key": "C",
+              "text": "For ten minutes."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'Why' hỏi lý do nên 'The bus broke down' đúng.",
+            "why_wrong": {
+              "A": "Đây là câu trả lời cho 'Where'.",
+              "C": "Đây là câu trả lời cho 'How long'."
+            },
+            "translation_vi": "Vì sao anh đến muộn? – Xe buýt bị hỏng."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "part": 2,
+      "audio": "audio/g05.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 5.",
+          "vi": "Câu 5."
+        },
+        {
+          "speaker": "W1",
+          "accent": "UK",
+          "text": "Why did she leave the meeting early?",
+          "vi": "Why did she leave the meeting early?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(A) She had another appointment.",
+          "vi": "(A) She had another appointment."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(B) In room four.",
+          "vi": "(B) In room four."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(C) Yes, she left.",
+          "vi": "(C) Yes, she left."
+        }
+      ],
+      "questions": [
+        {
+          "no": 5,
+          "type": "p2_wh_why",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "She had another appointment."
+            },
+            {
+              "key": "B",
+              "text": "In room four."
+            },
+            {
+              "key": "C",
+              "text": "Yes, she left."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'Why' hỏi lý do nên 'She had another appointment' đúng.",
+            "why_wrong": {
+              "B": "Đây là câu trả lời cho 'Where'.",
+              "C": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Vì sao cô ấy rời cuộc họp sớm? – Cô ấy có cuộc hẹn khác."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g06",
+      "part": 2,
+      "audio": "audio/g06.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 6.",
+          "vi": "Câu 6."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "Why are sales lower this month?",
+          "vi": "Why are sales lower this month?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(A) Since Monday.",
+          "vi": "(A) Since Monday."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(B) At the main store.",
+          "vi": "(B) At the main store."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(C) A key product is out of stock.",
+          "vi": "(C) A key product is out of stock."
+        }
+      ],
+      "questions": [
+        {
+          "no": 6,
+          "type": "p2_wh_why",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Since Monday."
+            },
+            {
+              "key": "B",
+              "text": "At the main store."
+            },
+            {
+              "key": "C",
+              "text": "A key product is out of stock."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'Why' hỏi lý do nên 'A key product is out of stock' đúng.",
+            "why_wrong": {
+              "A": "Đây là câu trả lời cho 'When'.",
+              "B": "Đây là câu trả lời cho 'Where'."
+            },
+            "translation_vi": "Vì sao doanh số tháng này thấp hơn? – Một sản phẩm chủ lực hết hàng."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g07",
+      "part": 2,
+      "audio": "audio/g07.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 7.",
+          "vi": "Câu 7."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "Why did the manager reject the plan?",
+          "vi": "Why did the manager reject the plan?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(A) At the board meeting.",
+          "vi": "(A) At the board meeting."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(B) The costs were too high.",
+          "vi": "(B) The costs were too high."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(C) Yes, he did.",
+          "vi": "(C) Yes, he did."
+        }
+      ],
+      "questions": [
+        {
+          "no": 7,
+          "type": "p2_wh_why",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "At the board meeting."
+            },
+            {
+              "key": "B",
+              "text": "The costs were too high."
+            },
+            {
+              "key": "C",
+              "text": "Yes, he did."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'Why' hỏi lý do nên 'The costs were too high' đúng.",
+            "why_wrong": {
+              "A": "Đây là câu trả lời cho 'Where'.",
+              "C": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Vì sao quản lý từ chối kế hoạch? – Chi phí quá cao."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g08",
+      "part": 2,
+      "audio": "audio/g08.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 8.",
+          "vi": "Câu 8."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Why is the printer making noise?",
+          "vi": "Why is the printer making noise?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(A) A part needs to be replaced.",
+          "vi": "(A) A part needs to be replaced."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(B) On the third floor.",
+          "vi": "(B) On the third floor."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(C) For an hour.",
+          "vi": "(C) For an hour."
+        }
+      ],
+      "questions": [
+        {
+          "no": 8,
+          "type": "p2_wh_why",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "A part needs to be replaced."
+            },
+            {
+              "key": "B",
+              "text": "On the third floor."
+            },
+            {
+              "key": "C",
+              "text": "For an hour."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'Why' hỏi lý do nên 'A part needs to be replaced' đúng.",
+            "why_wrong": {
+              "B": "Đây là câu trả lời cho 'Where'.",
+              "C": "Đây là câu trả lời cho 'How long'."
+            },
+            "translation_vi": "Vì sao máy in kêu? – Một bộ phận cần thay."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g09",
+      "part": 2,
+      "audio": "audio/g09.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 9.",
+          "vi": "Câu 9."
+        },
+        {
+          "speaker": "W1",
+          "accent": "UK",
+          "text": "Why did the customer return the item?",
+          "vi": "Why did the customer return the item?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(A) At our store.",
+          "vi": "(A) At our store."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(B) Yes, they returned it.",
+          "vi": "(B) Yes, they returned it."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(C) It was the wrong size.",
+          "vi": "(C) It was the wrong size."
+        }
+      ],
+      "questions": [
+        {
+          "no": 9,
+          "type": "p2_wh_why",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "At our store."
+            },
+            {
+              "key": "B",
+              "text": "Yes, they returned it."
+            },
+            {
+              "key": "C",
+              "text": "It was the wrong size."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'Why' hỏi lý do nên 'It was the wrong size' đúng.",
+            "why_wrong": {
+              "A": "Đây là câu trả lời cho 'Where'.",
+              "B": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Vì sao khách trả hàng? – Sai kích cỡ."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g10",
+      "part": 2,
+      "audio": "audio/g10.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 10.",
+          "vi": "Câu 10."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "Why was the flight delayed?",
+          "vi": "Why was the flight delayed?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(A) At gate seven.",
+          "vi": "(A) At gate seven."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(B) The crew arrived late from another city.",
+          "vi": "(B) The crew arrived late from another city."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(C) For two hours.",
+          "vi": "(C) For two hours."
+        }
+      ],
+      "questions": [
+        {
+          "no": 10,
+          "type": "p2_wh_why",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "At gate seven."
+            },
+            {
+              "key": "B",
+              "text": "The crew arrived late from another city."
+            },
+            {
+              "key": "C",
+              "text": "For two hours."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'Why' hỏi lý do nên 'The crew arrived late' đúng.",
+            "why_wrong": {
+              "A": "Đây là câu trả lời cho 'Where'.",
+              "C": "Đây là câu trả lời cho 'How long'."
+            },
+            "translation_vi": "Vì sao chuyến bay trễ? – Phi hành đoàn từ thành phố khác về muộn."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g11",
+      "part": 2,
+      "audio": "audio/g11.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 11.",
+          "vi": "Câu 11."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "Why is the team working late?",
+          "vi": "Why is the team working late?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(A) The report is due tomorrow.",
+          "vi": "(A) The report is due tomorrow."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(B) In the large room.",
+          "vi": "(B) In the large room."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(C) Yes, they are.",
+          "vi": "(C) Yes, they are."
+        }
+      ],
+      "questions": [
+        {
+          "no": 11,
+          "type": "p2_wh_why",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The report is due tomorrow."
+            },
+            {
+              "key": "B",
+              "text": "In the large room."
+            },
+            {
+              "key": "C",
+              "text": "Yes, they are."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'Why' hỏi lý do nên 'The report is due tomorrow' đúng.",
+            "why_wrong": {
+              "B": "Đây là câu trả lời cho 'Where'.",
+              "C": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Vì sao nhóm làm muộn? – Báo cáo đến hạn ngày mai."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g12",
+      "part": 2,
+      "audio": "audio/g12.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 12.",
+          "vi": "Câu 12."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Why did the company change suppliers?",
+          "vi": "Why did the company change suppliers?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(A) Last month.",
+          "vi": "(A) Last month."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(B) By e-mail.",
+          "vi": "(B) By e-mail."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(C) The old supplier could not meet the new volume.",
+          "vi": "(C) The old supplier could not meet the new volume."
+        }
+      ],
+      "questions": [
+        {
+          "no": 12,
+          "type": "p2_wh_why",
+          "difficulty": 4,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "Last month."
+            },
+            {
+              "key": "B",
+              "text": "By e-mail."
+            },
+            {
+              "key": "C",
+              "text": "The old supplier could not meet the new volume."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Nhà cung cấp cũ không đáp ứng được sản lượng mới, nên đây là lý do đúng.",
+            "why_wrong": {
+              "A": "Đây là câu trả lời cho 'When'.",
+              "B": "Đây là câu trả lời cho 'How'."
+            },
+            "translation_vi": "Vì sao công ty đổi nhà cung cấp? – Bên cũ không đáp ứng sản lượng mới."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g13",
+      "part": 2,
+      "audio": "audio/g13.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 13.",
+          "vi": "Câu 13."
+        },
+        {
+          "speaker": "W1",
+          "accent": "UK",
+          "text": "Why did you choose this location?",
+          "vi": "Why did you choose this location?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(A) On the corner.",
+          "vi": "(A) On the corner."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(B) It is within walking distance of the station.",
+          "vi": "(B) It is within walking distance of the station."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(C) For five years.",
+          "vi": "(C) For five years."
+        }
+      ],
+      "questions": [
+        {
+          "no": 13,
+          "type": "p2_wh_why",
+          "difficulty": 4,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "On the corner."
+            },
+            {
+              "key": "B",
+              "text": "It is within walking distance of the station."
+            },
+            {
+              "key": "C",
+              "text": "For five years."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Vị trí đi bộ được từ ga là lý do chọn địa điểm, đáp án diễn đạt lại đúng.",
+            "why_wrong": {
+              "A": "Đây là câu trả lời cho 'Where'.",
+              "C": "Đây là câu trả lời cho 'How long'."
+            },
+            "translation_vi": "Vì sao anh chọn địa điểm này? – Có thể đi bộ từ ga."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g14",
+      "part": 2,
+      "audio": "audio/g14.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 14.",
+          "vi": "Câu 14."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "Why did the meeting get moved?",
+          "vi": "Why did the meeting get moved?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(A) The room was double-booked.",
+          "vi": "(A) The room was double-booked."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(B) At two o'clock.",
+          "vi": "(B) At two o'clock."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(C) Yes, it moved.",
+          "vi": "(C) Yes, it moved."
+        }
+      ],
+      "questions": [
+        {
+          "no": 14,
+          "type": "p2_wh_why",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The room was double-booked."
+            },
+            {
+              "key": "B",
+              "text": "At two o'clock."
+            },
+            {
+              "key": "C",
+              "text": "Yes, it moved."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'Why' hỏi lý do nên 'The room was double-booked' đúng.",
+            "why_wrong": {
+              "B": "Đây là câu trả lời cho 'When'.",
+              "C": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Vì sao cuộc họp bị dời? – Phòng bị đặt trùng."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g15",
+      "part": 2,
+      "audio": "audio/g15.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 15.",
+          "vi": "Câu 15."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "Why do we need extra staff?",
+          "vi": "Why do we need extra staff?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(A) In the warehouse.",
+          "vi": "(A) In the warehouse."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(B) About twenty.",
+          "vi": "(B) About twenty."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(C) The summer season is starting.",
+          "vi": "(C) The summer season is starting."
+        }
+      ],
+      "questions": [
+        {
+          "no": 15,
+          "type": "p2_wh_why",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "In the warehouse."
+            },
+            {
+              "key": "B",
+              "text": "About twenty."
+            },
+            {
+              "key": "C",
+              "text": "The summer season is starting."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'Why' hỏi lý do nên 'The summer season is starting' đúng.",
+            "why_wrong": {
+              "A": "Đây là câu trả lời cho 'Where'.",
+              "B": "Đây là câu trả lời cho 'How many'."
+            },
+            "translation_vi": "Vì sao cần thêm nhân viên? – Mùa hè đang bắt đầu."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g16",
+      "part": 2,
+      "audio": "audio/g16.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 16.",
+          "vi": "Câu 16."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Why didn't you apply for the grant?",
+          "vi": "Why didn't you apply for the grant?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(A) At the city office.",
+          "vi": "(A) At the city office."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(B) The application required two years of accounts.",
+          "vi": "(B) The application required two years of accounts."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(C) Yes, we tried.",
+          "vi": "(C) Yes, we tried."
+        }
+      ],
+      "questions": [
+        {
+          "no": 16,
+          "type": "p2_wh_why",
+          "difficulty": 4,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "At the city office."
+            },
+            {
+              "key": "B",
+              "text": "The application required two years of accounts."
+            },
+            {
+              "key": "C",
+              "text": "Yes, we tried."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Điều kiện yêu cầu hai năm sổ sách là lý do không nộp, đáp án gián tiếp đúng.",
+            "why_wrong": {
+              "A": "Đây là câu trả lời cho 'Where'.",
+              "C": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Vì sao anh không nộp đơn xin tài trợ? – Hồ sơ yêu cầu hai năm sổ sách."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g17",
+      "part": 2,
+      "audio": "audio/g17.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 17.",
+          "vi": "Câu 17."
+        },
+        {
+          "speaker": "W1",
+          "accent": "UK",
+          "text": "Why is the manager traveling to Tokyo?",
+          "vi": "Why is the manager traveling to Tokyo?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(A) To sign a partnership agreement.",
+          "vi": "(A) To sign a partnership agreement."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(B) Next Tuesday.",
+          "vi": "(B) Next Tuesday."
+        },
+        {
+          "speaker": "M1",
+          "accent": "AU",
+          "text": "(C) By plane.",
+          "vi": "(C) By plane."
+        }
+      ],
+      "questions": [
+        {
+          "no": 17,
+          "type": "p2_wh_why",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "To sign a partnership agreement."
+            },
+            {
+              "key": "B",
+              "text": "Next Tuesday."
+            },
+            {
+              "key": "C",
+              "text": "By plane."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'Why' hỏi mục đích nên 'To sign a partnership agreement' đúng.",
+            "why_wrong": {
+              "B": "Đây là câu trả lời cho 'When'.",
+              "C": "Đây là câu trả lời cho 'How'."
+            },
+            "translation_vi": "Vì sao quản lý đi Tokyo? – Để ký thỏa thuận hợp tác."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g18",
+      "part": 2,
+      "audio": "audio/g18.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 18.",
+          "vi": "Câu 18."
+        },
+        {
+          "speaker": "W1",
+          "accent": "AU",
+          "text": "Why was the invoice rejected?",
+          "vi": "Why was the invoice rejected?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(A) On page two.",
+          "vi": "(A) On page two."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(B) Yes, it was.",
+          "vi": "(B) Yes, it was."
+        },
+        {
+          "speaker": "M1",
+          "accent": "CA",
+          "text": "(C) It was sent to the wrong department.",
+          "vi": "(C) It was sent to the wrong department."
+        }
+      ],
+      "questions": [
+        {
+          "no": 18,
+          "type": "p2_wh_why",
+          "difficulty": 4,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "On page two."
+            },
+            {
+              "key": "B",
+              "text": "Yes, it was."
+            },
+            {
+              "key": "C",
+              "text": "It was sent to the wrong department."
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "Gửi nhầm bộ phận là lý do bị từ chối, đáp án đúng.",
+            "why_wrong": {
+              "A": "Đây là câu trả lời cho 'Where'.",
+              "B": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Vì sao hóa đơn bị từ chối? – Nó bị gửi nhầm bộ phận."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g19",
+      "part": 2,
+      "audio": "audio/g19.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 19.",
+          "vi": "Câu 19."
+        },
+        {
+          "speaker": "W1",
+          "accent": "CA",
+          "text": "Why did the staff complain?",
+          "vi": "Why did the staff complain?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(A) At lunchtime.",
+          "vi": "(A) At lunchtime."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(B) The new shift pattern was unclear.",
+          "vi": "(B) The new shift pattern was unclear."
+        },
+        {
+          "speaker": "M1",
+          "accent": "US",
+          "text": "(C) Yes, they did.",
+          "vi": "(C) Yes, they did."
+        }
+      ],
+      "questions": [
+        {
+          "no": 19,
+          "type": "p2_wh_why",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "At lunchtime."
+            },
+            {
+              "key": "B",
+              "text": "The new shift pattern was unclear."
+            },
+            {
+              "key": "C",
+              "text": "Yes, they did."
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'Why' hỏi lý do nên 'The new shift pattern was unclear' đúng.",
+            "why_wrong": {
+              "A": "Đây là câu trả lời cho 'When'.",
+              "C": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Vì sao nhân viên phàn nàn? – Mô hình ca mới không rõ ràng."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g20",
+      "part": 2,
+      "audio": "audio/g20.m4a",
+      "transcript": [
+        {
+          "speaker": "N",
+          "accent": "US",
+          "text": "Number 20.",
+          "vi": "Câu 20."
+        },
+        {
+          "speaker": "W1",
+          "accent": "US",
+          "text": "Why should we back up the files?",
+          "vi": "Why should we back up the files?"
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(A) The server could fail without warning.",
+          "vi": "(A) The server could fail without warning."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(B) On Friday.",
+          "vi": "(B) On Friday."
+        },
+        {
+          "speaker": "M1",
+          "accent": "UK",
+          "text": "(C) Yes, we should.",
+          "vi": "(C) Yes, we should."
+        }
+      ],
+      "questions": [
+        {
+          "no": 20,
+          "type": "p2_wh_why",
+          "difficulty": 2,
+          "stem": null,
+          "options": [
+            {
+              "key": "A",
+              "text": "The server could fail without warning."
+            },
+            {
+              "key": "B",
+              "text": "On Friday."
+            },
+            {
+              "key": "C",
+              "text": "Yes, we should."
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'Why' hỏi lý do nên 'The server could fail without warning' đúng.",
+            "why_wrong": {
+              "B": "Đây là câu trả lời cho 'When'.",
+              "C": "Trả lời Yes/No, sai loại câu hỏi."
+            },
+            "translation_vi": "Vì sao nên sao lưu tệp? – Máy chủ có thể hỏng không báo trước."
+          }
+        }
+      ]
+    }
+  ]
+}

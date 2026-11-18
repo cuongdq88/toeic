@@ -1,0 +1,671 @@
+{
+  "id": "practice-p5-gerund-infinitive-01",
+  "kind": "practice",
+  "title": "Luyện Part 5 – Danh động từ và to V 01",
+  "level": "medium",
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "15 câu danh động từ/to V, 4 câu mức 4.",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 0
+    }
+  },
+  "groups": [
+    {
+      "id": "g01",
+      "part": 5,
+      "questions": [
+        {
+          "no": 1,
+          "type": "p5_gerund_infinitive",
+          "difficulty": 2,
+          "stem": "She avoided ____ the client after the billing error.",
+          "options": [
+            {
+              "key": "A",
+              "text": "contacting"
+            },
+            {
+              "key": "B",
+              "text": "to contact"
+            },
+            {
+              "key": "C",
+              "text": "contact"
+            },
+            {
+              "key": "D",
+              "text": "contacted"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'Avoid' đi với V-ing.",
+            "why_wrong": {
+              "B": "'Avoid to contact' không đúng.",
+              "C": "'Avoid contact' sai dạng.",
+              "D": "'Contacted' là quá khứ."
+            },
+            "translation_vi": "Cô ấy tránh liên hệ khách sau lỗi thanh toán."
+          },
+          "tags": [
+            "g16_gerund_infinitive"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g02",
+      "part": 5,
+      "questions": [
+        {
+          "no": 2,
+          "type": "p5_gerund_infinitive",
+          "difficulty": 2,
+          "stem": "They hope ____ the new office by June.",
+          "options": [
+            {
+              "key": "A",
+              "text": "opening"
+            },
+            {
+              "key": "B",
+              "text": "to open"
+            },
+            {
+              "key": "C",
+              "text": "open"
+            },
+            {
+              "key": "D",
+              "text": "opened"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'Hope' đi với to + động từ nguyên mẫu.",
+            "why_wrong": {
+              "A": "'Hope opening' không đúng.",
+              "C": "Thiếu 'to'.",
+              "D": "'Opened' là quá khứ."
+            },
+            "translation_vi": "Họ hy vọng mở văn phòng mới trước tháng Sáu."
+          },
+          "tags": [
+            "g16_gerund_infinitive"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g03",
+      "part": 5,
+      "questions": [
+        {
+          "no": 3,
+          "type": "p5_gerund_infinitive",
+          "difficulty": 3,
+          "stem": "The manager suggested ____ the deadline by a week.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to extend"
+            },
+            {
+              "key": "B",
+              "text": "extend"
+            },
+            {
+              "key": "C",
+              "text": "extending"
+            },
+            {
+              "key": "D",
+              "text": "extended"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'Suggest' đi với V-ing khi không có tân ngữ gián tiếp.",
+            "why_wrong": {
+              "A": "'Suggest to extend' không đúng ở đây.",
+              "B": "'Suggest extend' sai dạng.",
+              "D": "'Extended' là quá khứ."
+            },
+            "translation_vi": "Quản lý đề nghị dời hạn thêm một tuần."
+          },
+          "tags": [
+            "g16_gerund_infinitive"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g04",
+      "part": 5,
+      "questions": [
+        {
+          "no": 4,
+          "type": "p5_gerund_infinitive",
+          "difficulty": 3,
+          "stem": "He is responsible for ____ the weekly sales report.",
+          "options": [
+            {
+              "key": "A",
+              "text": "prepare"
+            },
+            {
+              "key": "B",
+              "text": "to prepare"
+            },
+            {
+              "key": "C",
+              "text": "prepared"
+            },
+            {
+              "key": "D",
+              "text": "preparing"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Sau giới từ 'for' dùng V-ing.",
+            "why_wrong": {
+              "A": "'Prepare' thiếu V-ing.",
+              "B": "'To prepare' không dùng sau 'for'.",
+              "C": "'Prepared' là quá khứ."
+            },
+            "translation_vi": "Anh ấy chịu trách nhiệm chuẩn bị báo cáo bán hàng hằng tuần."
+          },
+          "tags": [
+            "g16_gerund_infinitive"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g05",
+      "part": 5,
+      "questions": [
+        {
+          "no": 5,
+          "type": "p5_gerund_infinitive",
+          "difficulty": 3,
+          "stem": "We look forward to ____ from you after the interview.",
+          "options": [
+            {
+              "key": "A",
+              "text": "receiving"
+            },
+            {
+              "key": "B",
+              "text": "receive"
+            },
+            {
+              "key": "C",
+              "text": "received"
+            },
+            {
+              "key": "D",
+              "text": "to receive"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "'Look forward to' + V-ing (mong chờ làm gì).",
+            "why_wrong": {
+              "B": "'Look forward to receive' sai.",
+              "C": "'Received' là quá khứ.",
+              "D": "'To receive' không dùng sau 'to' ở đây."
+            },
+            "translation_vi": "Chúng tôi mong nhận tin từ bạn sau buổi phỏng vấn."
+          },
+          "tags": [
+            "g16_gerund_infinitive"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g06",
+      "part": 5,
+      "questions": [
+        {
+          "no": 6,
+          "type": "p5_gerund_infinitive",
+          "difficulty": 3,
+          "stem": "She managed ____ the supplier before noon.",
+          "options": [
+            {
+              "key": "A",
+              "text": "reaching"
+            },
+            {
+              "key": "B",
+              "text": "to reach"
+            },
+            {
+              "key": "C",
+              "text": "reach"
+            },
+            {
+              "key": "D",
+              "text": "reached"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'Manage' đi với to + động từ nguyên mẫu.",
+            "why_wrong": {
+              "A": "'Manage reaching' không đúng.",
+              "C": "Thiếu 'to'.",
+              "D": "'Reached' là quá khứ."
+            },
+            "translation_vi": "Cô ấy xoay xở liên hệ được nhà cung cấp trước trưa."
+          },
+          "tags": [
+            "g16_gerund_infinitive"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g07",
+      "part": 5,
+      "questions": [
+        {
+          "no": 7,
+          "type": "p5_gerund_infinitive",
+          "difficulty": 2,
+          "stem": "The company refused ____ the price for the new client.",
+          "options": [
+            {
+              "key": "A",
+              "text": "lowering"
+            },
+            {
+              "key": "B",
+              "text": "lower"
+            },
+            {
+              "key": "C",
+              "text": "to lower"
+            },
+            {
+              "key": "D",
+              "text": "lowered"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'Refuse' đi với to + động từ nguyên mẫu.",
+            "why_wrong": {
+              "A": "'Refuse lowering' không đúng.",
+              "B": "Thiếu 'to'.",
+              "D": "'Lowered' là quá khứ."
+            },
+            "translation_vi": "Công ty từ chối giảm giá cho khách mới."
+          },
+          "tags": [
+            "g16_gerund_infinitive"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g08",
+      "part": 5,
+      "questions": [
+        {
+          "no": 8,
+          "type": "p5_gerund_infinitive",
+          "difficulty": 3,
+          "stem": "They are considering ____ a branch in Singapore.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to open"
+            },
+            {
+              "key": "B",
+              "text": "open"
+            },
+            {
+              "key": "C",
+              "text": "opened"
+            },
+            {
+              "key": "D",
+              "text": "opening"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "'Consider' đi với V-ing.",
+            "why_wrong": {
+              "A": "'Consider to open' không đúng.",
+              "B": "'Consider open' sai dạng.",
+              "C": "'Opened' là quá khứ."
+            },
+            "translation_vi": "Họ đang cân nhắc mở chi nhánh ở Singapore."
+          },
+          "tags": [
+            "g16_gerund_infinitive"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g09",
+      "part": 5,
+      "questions": [
+        {
+          "no": 9,
+          "type": "p5_gerund_infinitive",
+          "difficulty": 4,
+          "stem": "The heavy rain prevented us ____ leaving on time.",
+          "options": [
+            {
+              "key": "A",
+              "text": "from"
+            },
+            {
+              "key": "B",
+              "text": "to"
+            },
+            {
+              "key": "C",
+              "text": "for"
+            },
+            {
+              "key": "D",
+              "text": "of"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Cấu trúc 'prevent somebody from doing something'.",
+            "why_wrong": {
+              "B": "'Prevent to' không đúng.",
+              "C": "'Prevent for' không đúng.",
+              "D": "'Prevent of' không đúng."
+            },
+            "translation_vi": "Mưa lớn ngăn chúng tôi rời đi đúng giờ."
+          },
+          "tags": [
+            "g16_gerund_infinitive"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g10",
+      "part": 5,
+      "questions": [
+        {
+          "no": 10,
+          "type": "p5_gerund_infinitive",
+          "difficulty": 4,
+          "stem": "The policy allows staff ____ one day a week from home.",
+          "options": [
+            {
+              "key": "A",
+              "text": "working"
+            },
+            {
+              "key": "B",
+              "text": "to work"
+            },
+            {
+              "key": "C",
+              "text": "work"
+            },
+            {
+              "key": "D",
+              "text": "worked"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "'Allow somebody to do something' (cho phép ai làm gì).",
+            "why_wrong": {
+              "A": "'Allow working' không có tân ngữ người.",
+              "C": "Thiếu 'to'.",
+              "D": "'Worked' là quá khứ."
+            },
+            "translation_vi": "Chính sách cho phép nhân viên làm một ngày mỗi tuần từ nhà."
+          },
+          "tags": [
+            "g16_gerund_infinitive"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g11",
+      "part": 5,
+      "questions": [
+        {
+          "no": 11,
+          "type": "p5_gerund_infinitive",
+          "difficulty": 3,
+          "stem": "I suggest ____ the user guide before operating the scanner.",
+          "options": [
+            {
+              "key": "A",
+              "text": "to read"
+            },
+            {
+              "key": "B",
+              "text": "read"
+            },
+            {
+              "key": "C",
+              "text": "reading"
+            },
+            {
+              "key": "D",
+              "text": "reads"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'Recommend' đi với V-ing khi không nêu người nhận.",
+            "why_wrong": {
+              "A": "'Recommend to read' không đúng ở đây.",
+              "B": "'Recommend read' sai dạng.",
+              "D": "'Reads' sai ngôi."
+            },
+            "translation_vi": "Tôi gợi ý đọc hướng dẫn sử dụng trước khi vận hành máy quét."
+          },
+          "tags": [
+            "g16_gerund_infinitive"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g12",
+      "part": 5,
+      "questions": [
+        {
+          "no": 12,
+          "type": "p5_gerund_infinitive",
+          "difficulty": 4,
+          "stem": "There is no point in ____ about the weather now.",
+          "options": [
+            {
+              "key": "A",
+              "text": "complain"
+            },
+            {
+              "key": "B",
+              "text": "to complain"
+            },
+            {
+              "key": "C",
+              "text": "complained"
+            },
+            {
+              "key": "D",
+              "text": "complaining"
+            }
+          ],
+          "answer": "D",
+          "explanation": {
+            "why_correct": "Sau giới từ 'in' trong 'no point in' dùng V-ing.",
+            "why_wrong": {
+              "A": "'Complain' thiếu V-ing.",
+              "B": "'To complain' không dùng sau 'in'.",
+              "C": "'Complained' là quá khứ."
+            },
+            "translation_vi": "Bây giờ phàn nàn về thời tiết cũng vô ích."
+          },
+          "tags": [
+            "g16_gerund_infinitive"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g13",
+      "part": 5,
+      "questions": [
+        {
+          "no": 13,
+          "type": "p5_gerund_infinitive",
+          "difficulty": 3,
+          "stem": "She was criticized for ____ the meeting without notice.",
+          "options": [
+            {
+              "key": "A",
+              "text": "leaving"
+            },
+            {
+              "key": "B",
+              "text": "leave"
+            },
+            {
+              "key": "C",
+              "text": "to leave"
+            },
+            {
+              "key": "D",
+              "text": "left"
+            }
+          ],
+          "answer": "A",
+          "explanation": {
+            "why_correct": "Sau giới từ 'for' dùng V-ing.",
+            "why_wrong": {
+              "B": "'Leave' thiếu V-ing.",
+              "C": "'To leave' không dùng sau 'for'.",
+              "D": "'Left' là quá khứ."
+            },
+            "translation_vi": "Cô ấy bị chỉ trích vì rời cuộc họp không báo trước."
+          },
+          "tags": [
+            "g16_gerund_infinitive"
+          ],
+          "correct": "leaving",
+          "wrongs": [
+            "leave",
+            "to leave",
+            "left"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g14",
+      "part": 5,
+      "questions": [
+        {
+          "no": 14,
+          "type": "p5_gerund_infinitive",
+          "difficulty": 4,
+          "stem": "The interns were made ____ the safety video.",
+          "options": [
+            {
+              "key": "A",
+              "text": "watching"
+            },
+            {
+              "key": "B",
+              "text": "to watch"
+            },
+            {
+              "key": "C",
+              "text": "watch"
+            },
+            {
+              "key": "D",
+              "text": "watched"
+            }
+          ],
+          "answer": "B",
+          "explanation": {
+            "why_correct": "Bị động của 'make somebody do' là 'be made to do'.",
+            "why_wrong": {
+              "A": "'Watching' sai cấu trúc bị động.",
+              "C": "'Watch' thiếu 'to'.",
+              "D": "'Watched' là quá khứ."
+            },
+            "translation_vi": "Các thực tập sinh bị yêu cầu xem video an toàn."
+          },
+          "tags": [
+            "g16_gerund_infinitive"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g15",
+      "part": 5,
+      "questions": [
+        {
+          "no": 15,
+          "type": "p5_gerund_infinitive",
+          "difficulty": 4,
+          "stem": "The firm is committed to ____ its packaging waste.",
+          "options": [
+            {
+              "key": "A",
+              "text": "reduce"
+            },
+            {
+              "key": "B",
+              "text": "reduction"
+            },
+            {
+              "key": "C",
+              "text": "reducing"
+            },
+            {
+              "key": "D",
+              "text": "reduced"
+            }
+          ],
+          "answer": "C",
+          "explanation": {
+            "why_correct": "'Be committed to' + V-ing (cam kết làm gì).",
+            "why_wrong": {
+              "A": "'Committed to reduce' sai.",
+              "B": "'Reduction' là danh từ.",
+              "D": "'Reduced' là quá khứ."
+            },
+            "translation_vi": "Công ty cam kết giảm lượng rác bao bì."
+          },
+          "tags": [
+            "g16_gerund_infinitive"
+          ]
+        }
+      ]
+    }
+  ]
+}

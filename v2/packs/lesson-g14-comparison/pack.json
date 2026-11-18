@@ -1,0 +1,57 @@
+{
+  "id": "lesson-g14-comparison",
+  "kind": "lesson",
+  "title": "So sánh hơn, nhất, ngang bằng",
+  "topic": "g14_comparison",
+  "parts": [
+    5
+  ],
+  "version": 1,
+  "meta": {
+    "author": "commandcode",
+    "reviewer": null,
+    "status": "ai_checked",
+    "license": "original",
+    "notes": "Bài ngữ pháp g14 kèm gói luyện practice-p5-comparison-01.",
+    "ai_check": {
+      "date": "2026-11-12",
+      "fixed": 0
+    }
+  },
+  "sections": [
+    {
+      "heading": "Ba dạng chính",
+      "body": "**Ngang bằng:** as + tính/trạng từ + as. **Hơn:** tính từ ngắn + -er + than; more + tính từ dài + than. **Nhất:** the + tính từ ngắn + -est; the most + tính từ dài. Bất quy tắc: good → better → best; bad → worse → worst; far → farther/further → farthest/furthest."
+    },
+    {
+      "heading": "Bảng chọn nhanh",
+      "body": "| Cần diễn đạt | Cấu trúc |\n|---|---|\n| hai đối tượng | so sánh hơn |\n| từ ba đối tượng | so sánh nhất |\n| bằng nhau | as ... as |\n| kém hơn | less + adj + than |\n| tăng theo tỉ lệ | the more ... the more ... |\n| nhấn mạnh so sánh nhất | by far the most ... |"
+    },
+    {
+      "heading": "Mẹo nhận diện trong đề TOEIC",
+      "body": "Nếu trong câu có 'than', gần như chắc chắn cần so sánh hơn. Nếu có 'of the three' hoặc 'in the company', cần so sánh nhất. Sau 'much, far, slightly, considerably' phải là dạng so sánh hơn. Với hai đối tượng, dùng 'the + so sánh hơn'."
+    },
+    {
+      "heading": "Bẫy thường gặp",
+      "body": "Không dùng 'more' với tính từ ngắn đã thêm -er. Không dùng 'the' trước so sánh hơn trừ khi so sánh hai đối tượng. 'Fewer' cho danh từ đếm được, 'less' cho không đếm được. Đừng nhầm 'farther' (khoảng cách) với 'further' (thêm nữa)."
+    }
+  ],
+  "examples": [
+    {
+      "en": "The new office is larger than the old one.",
+      "vi": "Văn phòng mới lớn hơn văn phòng cũ.",
+      "note": "Có 'than' nên dùng so sánh hơn."
+    },
+    {
+      "en": "This is the most efficient model in our range.",
+      "vi": "Đây là mẫu hiệu quả nhất trong dòng sản phẩm.",
+      "note": "So sánh nhất với tính từ dài."
+    },
+    {
+      "en": "The more we practise, the more confident we become.",
+      "vi": "Chúng ta càng luyện tập, càng tự tin.",
+      "note": "Cấu trúc tỉ lệ kép."
+    }
+  ],
+  "practice_pack": "practice-p5-comparison-01"
+}
